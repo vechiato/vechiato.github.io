@@ -1,4 +1,64 @@
-baseURL = 'https://test.vechiato.cc/'
-languageCode = 'en-us'
-title = 'Marcus Vechiato'
-theme = 'tale'
+baseurl = "https://test.vechiato.cc"
+title = "marcus vechiato"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+#disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Marcus Vechiato"
+  #info = "Full Stack DevOps and Magician"
+  #info = "Personal Website"
+  description = "Marcus Vechiato's personal website"
+  keywords = "blog,personal"
+#  avatarurl = "images/avatar.jpg"
+  #gravatar = "email@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 1992
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/vechiato/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 2
+  url = "https://twitter.com/vechiato/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "/blog"
+#[[menu.main]]
+#  name = "About"
+#  weight = 2
+#  url = "about/"
