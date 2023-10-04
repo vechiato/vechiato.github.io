@@ -1,7 +1,7 @@
 ---
 author: "Your Name"
 title: "My First Post"
-date: "2022-05-17"
+date: "2023-10-03"
 ---
 
 This is my very first post on my Hugo website!
