@@ -1,7 +1,13 @@
+---
+author: "Marcus Vechiato"
+title: "Hugo Howto"
+date: "2023-10-04"
+publish: true 
+--- 
+
 source:  [https://www.makeuseof.com/hugo-start-create-simple-website/](https://www.makeuseof.com/hugo-start-create-simple-website/)
 related:  
 tags:  #hugo #personalwebsite
-publish: true 
 2022-05-22 
 
 [Hosting and deployment options](https://gohugo.io/hosting-and-deployment/)
