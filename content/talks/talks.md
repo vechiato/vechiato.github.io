@@ -1,6 +1,6 @@
 ---
 author: "Your Name"
-title: "My First Post"
+title: "talks"
 date: "2022-10-03"
 ---
 
@@ -11,3 +11,5 @@ It is very simple to install and configure.
 This is some content.
 # Another Subheading
 This is more content.
+
+[pdf](static/dummy.pdf)
