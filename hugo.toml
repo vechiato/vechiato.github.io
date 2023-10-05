@@ -13,11 +13,10 @@ style = "github-dark"
 
 [params]
   author = "Marcus Vechiato"
-  #info = "Full Stack DevOps and Magician"
   #info = "Personal Website"
   description = "Marcus Vechiato's personal website"
   keywords = "blog,personal"
-#  avatarurl = "images/avatar.jpg"
+  #avatarurl = "images/avatar.jpg"
   #gravatar = "email@example.com"
 
   faviconSVG = "/img/favicon.svg"
