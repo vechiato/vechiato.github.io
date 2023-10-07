@@ -7,7 +7,7 @@ publish: true
 
 | Date     | what  | photo |
 | -------- | ----  | ---   |
-| 10/09/23 | Lettuce/Rocket | ![image](/obsidian/seedling231009.png) |
+| 10/09/23 | Lettuce/Rocket | ![image](/obsidian/seedling230910.png) |
 | 05/09/23 | Lettuce/Rocket | ![image](/obsidian/seedling230923.jpeg) | 
 | 27/08/23 | Lettuce/Rocket | ![image](/obsidian/seedling230827.png) | 
 | 25/08/23 | Lettuce/Rocket | ![image](/obsidian/seedling230825.jpg) |
