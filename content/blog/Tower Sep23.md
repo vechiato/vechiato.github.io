@@ -1,7 +1,7 @@
 ---
 author: "Marcus Vechiato"
-title: "Tower 1"
-date: "2023-10-04"
+title: "Tower Sep23"
+date: "2023-10-14"
 publish: true
 --- 
 

@@ -1,7 +1,7 @@
 ---
 author: "Marcus Vechiato"
-title: "Green Krakty 1"
-date: "2023-10-07"
+title: "Green Krakty Oct23"
+date: "2023-10-14"
 publish: true
 --- 
 

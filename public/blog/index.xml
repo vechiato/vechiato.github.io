@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vechiato.cc</title>
-    <link>https://test.vechiato.cc/</link>
-    <description>Recent content on vechiato.cc</description>
+    <title>Blogs on vechiato.cc</title>
+    <link>https://test.vechiato.cc/blog/</link>
+    <description>Recent content in Blogs on vechiato.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://test.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://test.vechiato.cc/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Green Krakty Oct23</title>
       <link>https://test.vechiato.cc/blog/green-krakty-202310/</link>
@@ -44,18 +44,6 @@
 Establishing SRE Foundations
 Part I - Foundations Link to heading Chapter 1 - Introduction to SRE Link to heading Why SRE? Link to heading DevOps is an overarching philosophy for bringing product development and product operations together. SRE is a concrete opinionated implementation of the DevOps philosophy.
 Itil Link to heading Wikipedia defines ITIL as &amp;ldquo;A set pof detailed practices for IT service management that focus on aligning IT services with the needs of the business&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>talks</title>
-      <link>https://test.vechiato.cc/talks/talks/</link>
-      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://test.vechiato.cc/talks/talks/</guid>
-      <description>This is my very first post on my Hugo website! The Hugo theme being used for this site is called Tale. It is very simple to install and configure.
-Subheading Link to heading This is some content.
-Another Subheading Link to heading This is more content.
-pdf</description>
     </item>
     
   </channel>

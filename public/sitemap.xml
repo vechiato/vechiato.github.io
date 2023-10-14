@@ -2,13 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/myfirstpost/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+    <loc>https://test.vechiato.cc/blog/</loc>
+    <lastmod>2023-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://test.vechiato.cc/blog/green-krakty-202310/</loc>
+    <lastmod>2023-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://test.vechiato.cc/blog/tower-sep23/</loc>
+    <lastmod>2023-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://test.vechiato.cc/</loc>
+    <lastmod>2023-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://test.vechiato.cc/blog/seedling-aug23/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://test.vechiato.cc/blog/book-establishing-sre-foundations/</loc>
+    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://test.vechiato.cc/talks/talks/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://test.vechiato.cc/talks/</loc>
+    <lastmod>2022-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://test.vechiato.cc/authors/</loc>
+  </url><url>
+    <loc>https://test.vechiato.cc/categories/</loc>
+  </url><url>
+    <loc>https://test.vechiato.cc/series/</loc>
+  </url><url>
+    <loc>https://test.vechiato.cc/tags/</loc>
   </url>
 </urlset>
