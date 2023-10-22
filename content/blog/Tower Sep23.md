@@ -7,9 +7,10 @@ publish: true
 
 | Date     | PH   | PPM  | photo |
 | -------- | ---- | ---- | ---   |
+| 22/10/23 | 6.04 | 640  | ![image](/obsidian/tower231022.jpg)  |
 | 14/10/23 | 6.05 | 650  | ![image](/obsidian/tower231014.jpg)  |
-| 07/10/23 | 5.81 | 680  | ![image](/obsidian/tower231007.jpeg)|
-| 30/09/23 | 5.95 | 770  | ![image](/obsidian/tower230930.jpg) |
-| 22/09/23 | 9    | 770  | ![image](/obsidian/tower230922.jpg) | 
-| 17/09/23 | n/a  | n/a  | ![image](/obsidian/tower230917.png) |
-| 10/09/23 | n/a  | n/a  | ![image](/obsidian/tower230923.png) |
+| 07/10/23 | 5.81 | 680  | ![image](/obsidian/tower231007.jpeg) |
+| 30/09/23 | 5.95 | 770  | ![image](/obsidian/tower230930.jpg)  |
+| 22/09/23 | 9    | 770  | ![image](/obsidian/tower230922.jpg)  | 
+| 17/09/23 | n/a  | n/a  | ![image](/obsidian/tower230917.png)  |
+| 10/09/23 | n/a  | n/a  | ![image](/obsidian/tower230923.png)  |
