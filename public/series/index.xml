@@ -5,6 +5,7 @@
     <link>https://test.vechiato.cc/series/</link>
     <description>Recent content in Series on vechiato.cc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://test.vechiato.cc/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://test.vechiato.cc/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

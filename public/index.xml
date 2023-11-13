@@ -6,57 +6,56 @@
     <description>Recent content on vechiato.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://test.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://test.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Green Krakty Oct23</title>
-      <link>https://test.vechiato.cc/blog/green-krakty-202310/</link>
-      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://test.vechiato.cc/blog/green-krakty-202310/</guid>
-      <description> date what ph ppm photo obs 14/10/23 Rocket n/a n/a 07/10/23 Rocket 6.85 1250 </description>
+      <title>IKEA LIVBOJ wireless charger phone stand</title>
+      <link>https://test.vechiato.cc/blog/ikea-livboj-wireless-charger-phone-holder/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://test.vechiato.cc/blog/ikea-livboj-wireless-charger-phone-holder/</guid>
+      <description>From thingiverse https://www.thingiverse.com/thing:4186665</description>
     </item>
-    
     <item>
       <title>Tower Sep23</title>
       <link>https://test.vechiato.cc/blog/tower-sep23/</link>
-      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://test.vechiato.cc/blog/tower-sep23/</guid>
-      <description> Date PH PPM photo 14/10/23 6.05 650 07/10/23 5.81 680 30/09/23 5.95 770 22/09/23 9 770 17/09/23 n/a n/a 10/09/23 n/a n/a </description>
+      <description>Lettuce	ideal PH 5.5 – 6.5 PPM 560 – 840
+Date PH PPM photo 04/11/23 5.89 332-640 29/10/23 n/a 450 22/10/23 6.04 640 14/10/23 6.05 650 07/10/23 5.81 680 30/09/23 5.95 770 22/09/23 9 770 17/09/23 n/a n/a 10/09/23 n/a n/a </description>
     </item>
-    
+    <item>
+      <title>Green Krakty Oct23</title>
+      <link>https://test.vechiato.cc/blog/green-krakty-202310/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://test.vechiato.cc/blog/green-krakty-202310/</guid>
+      <description> date what ph ppm photo obs 29/10/23 Rocket n/a n/a 22/10/23 Rocket 6.4 930 14/10/23 Rocket n/a n/a 07/10/23 Rocket 6.85 1250 </description>
+    </item>
     <item>
       <title>Seedling Aug23</title>
       <link>https://test.vechiato.cc/blog/seedling-aug23/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://test.vechiato.cc/blog/seedling-aug23/</guid>
       <description> Date what photo 10/09/23 Lettuce/Rocket 05/09/23 Lettuce/Rocket 27/08/23 Lettuce/Rocket 25/08/23 Lettuce/Rocket 20/08/23 Lettuce/Rocket 17/08/23 Lettuce/Rocket 14/08/23 Lettuce/Rocket </description>
     </item>
-    
     <item>
       <title>Book - Establishing SRE Foundations</title>
       <link>https://test.vechiato.cc/blog/book-establishing-sre-foundations/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://test.vechiato.cc/blog/book-establishing-sre-foundations/</guid>
       <description>related: [image](/obsidian/SRE]] [[Vladyslav Ukis)
 Establishing SRE Foundations
 Part I - Foundations Link to heading Chapter 1 - Introduction to SRE Link to heading Why SRE? Link to heading DevOps is an overarching philosophy for bringing product development and product operations together. SRE is a concrete opinionated implementation of the DevOps philosophy.
 Itil Link to heading Wikipedia defines ITIL as &amp;ldquo;A set pof detailed practices for IT service management that focus on aligning IT services with the needs of the business&amp;rdquo;</description>
     </item>
-    
     <item>
       <title>talks</title>
       <link>https://test.vechiato.cc/talks/talks/</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://test.vechiato.cc/talks/talks/</guid>
       <description>This is my very first post on my Hugo website! The Hugo theme being used for this site is called Tale. It is very simple to install and configure.
 Subheading Link to heading This is some content.
 Another Subheading Link to heading This is more content.
 pdf</description>
     </item>
-    
   </channel>
 </rss>

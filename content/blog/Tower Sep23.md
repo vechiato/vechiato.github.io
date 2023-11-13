@@ -1,7 +1,7 @@
 ---
 author: "Marcus Vechiato"
 title: "Tower Sep23"
-date: "2023-11-04"
+date: "2023-11-11"
 publish: true
 --- 
 
@@ -9,6 +9,7 @@ Lettuce	ideal PH 5.5 – 6.5 PPM 560 – 840
 
 | Date     | PH   | PPM  | photo |
 | -------- | ---- | ---- | ---   |
+| 11/11/23 | 6.4  | 580  | ![image](/obsidian/tower231111.jpg) | 
 | 04/11/23 | 5.89 | 332-640 | ![image](/obsidian/tower231104.jpg) | 
 | 29/10/23 | n/a | 450  | ![image](/obsidian/tower231029.jpeg)  |
 | 22/10/23 | 6.04 | 640  | ![image](/obsidian/tower231022.jpg)  |
