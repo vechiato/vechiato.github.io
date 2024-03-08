@@ -9,6 +9,7 @@ publish: true
 
 In today's digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.
 
+![](https://falco.org/img/falco-schema.svg)
 **Understanding CNCF Falco**
 
 Falco, initially developed by Sysdig in 2016, was accepted as a CNCF Sandbox project in October 2018, graduated to CNCF Incubating status in October 2020, just graduated in February 2024. It leverages the power of eBPF (extended Berkeley Packet Filter) technology to monitor system calls and network activity, enabling it to detect and alert on suspicious behaviour within containerised environments.
