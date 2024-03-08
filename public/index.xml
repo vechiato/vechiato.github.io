@@ -15,19 +15,5 @@
       <guid>https://test.vechiato.cc/blog/cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
       <description>Falco Enhances Container Security with Real-time Threat Detection In today&amp;rsquo;s digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.</description>
     </item>
-    <item>
-      <title>ks</title>
-      <link>https://test.vechiato.cc/bla/</link>
-      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://test.vechiato.cc/bla/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
-    </item>
-    <item>
-      <title>talks</title>
-      <link>https://test.vechiato.cc/talks/talks/</link>
-      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://test.vechiato.cc/talks/talks/</guid>
-      <description>This is my very first post on my Hugo website! The Hugo theme being used for this site is called Tale. It is very simple to install and configure.&#xA;Subheading This is some content.&#xA;Another Subheading This is more content.&#xA;pdf</description>
-    </item>
   </channel>
 </rss>

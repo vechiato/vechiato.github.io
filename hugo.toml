@@ -1,6 +1,6 @@
 baseurl = "https://test.vechiato.cc"
 title = "vechiato.cc"
-theme = "ananke"
+theme = "tale"
 #theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
