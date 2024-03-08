@@ -13,10 +13,7 @@
       <link>https://test.vechiato.cc/talks/talks/</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://test.vechiato.cc/talks/talks/</guid>
-      <description>This is my very first post on my Hugo website! The Hugo theme being used for this site is called Tale. It is very simple to install and configure.
-Subheading Link to heading This is some content.
-Another Subheading Link to heading This is more content.
-pdf</description>
+      <description>This is my very first post on my Hugo website! The Hugo theme being used for this site is called Tale. It is very simple to install and configure.&#xA;Subheading This is some content.&#xA;Another Subheading This is more content.&#xA;pdf</description>
     </item>
   </channel>
 </rss>
