@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vechiato.cc</title>
-    <link>https://test.vechiato.cc/</link>
+    <link>/</link>
     <description>Recent content on vechiato.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://test.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CNCF Falco Graduation - Another step in your Shift-Left Journey</title>
-      <link>https://test.vechiato.cc/blog/cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
+      <link>/blog/cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://test.vechiato.cc/blog/cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
+      <guid>/blog/cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
       <description>Falco Enhances Container Security with Real-time Threat Detection In today&amp;rsquo;s digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.</description>
+    </item>
+    <item>
+      <title>GitOps Certification</title>
+      <link>/blog/certified-gitops-associate-cgoa/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/certified-gitops-associate-cgoa/</guid>
+      <description>Certified GitOps Associate (CGOA)&#xA;The CGOA certification was announced in 2023 can now be purchased as of February 21, 2024, but the ability to schedule a CGOA exam will not be available until the end of March 2024.&#xA;Experience Level: Beginner&#xA;Online Multiple-choice Exam Duration of Exam 90 Minutes Certification Valid for 3 Years Includes 12 Month Exam Eligibility One Retake PDF Certificate and Digital Badge Cost $ 250 Domains &amp;amp; Competencies GitOps Terminology 20%</description>
     </item>
   </channel>
 </rss>

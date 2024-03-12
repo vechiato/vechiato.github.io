@@ -1,15 +1,12 @@
-baseurl = "https://test.vechiato.cc"
+baseurl = "/"
 title = "vechiato.cc"
 theme = "tale"
-#theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
 googleAnalytics = "G-6BYRELN45K"
 
 paginate = 20
-
-#disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "github-dark"
