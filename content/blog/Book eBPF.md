@@ -13,5 +13,5 @@ From enhancing system performance to improving security, eBPF is revolutionizing
   
 Highly recommend diving into this topic if you haven’t already. The future of Linux and container observability is here, and it's eBPF!
 
-![image](/obsidian/Pasted image 20240621115455.png)
+![image](/obsidian/Pasted%20image%2020240621115455.png)
 
