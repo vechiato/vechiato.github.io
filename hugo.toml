@@ -4,7 +4,8 @@ theme = "tale"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-googleAnalytics = "G-6BYRELN45K"
+#googleAnalytics = "G-6BYRELN45K"
+googleAnalytics = "G-6BYRELN453"
 
 paginate = 20
 
