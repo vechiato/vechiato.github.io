@@ -1,0 +1,17 @@
+---
+author: "Marcus Vechiato"
+title: "Book eBPF: Programmatically Extend the Linux Kernel"
+date: "2024-05-12"
+publish: true
+--- 
+
+🚀 Just finished reading my autographed copy of “eBPF: Programmatically Extend the Linux Kernel" and I'm absolutely blown away by the possibilities it offers! If you're working with Linux, containers, observability or security, this book is a must-read.  
+  
+eBPF allows you to run sandboxed programs in the Linux kernel without changing kernel source code or loading kernel modules. The applications for network performance monitoring, security, and system observability are incredible.  
+  
+From enhancing system performance to improving security, eBPF is revolutionizing how we think about low-level programming and system diagnostics. Whether you're in the engineering, or just a tech enthusiast, the insights and tools offered by eBPF will expand your horizons and enable you to build more efficient and secure systems.  
+  
+Highly recommend diving into this topic if you haven’t already. The future of Linux and container observability is here, and it's eBPF!
+
+![image](/obsidian/Pasted image 20240621115455.png)
+
