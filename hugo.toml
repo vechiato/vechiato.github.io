@@ -1,68 +1,31 @@
-baseurl = "/"
-title = "https://blog.vechiato.cc"
-theme = 'tale'
-languagecode = "en"
-defaultcontentlanguage = "en"
+title = "blog.vechiato.cc"
+baseURL = "https://blog.vechiato.cc"
+languageCode = "en-us"
+theme = "ananke"
+resourceDir = "../resources"
 
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "G-6BYRELN45K"
+enableRobotsTXT = true
 
-paginate = 20
-
-[markup.highlight]
-style = "github-dark"
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [params]
-  author = "Marcus Vechiato"
-  #info = "Personal Website"
-  description = "Marcus Vechiato's personal website"
-  keywords = "blog,personal"
-  #avatarurl = "images/avatar.jpg"
-  #gravatar = "email@example.com"
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://linkedin.com/in/vechiato"
 
-  since = 1992
-
-  enableTwemoji = true
-
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
-
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
-
-# Social links
-[[params.social]]
-  name = "Linkedin"
-  icon = "fa fa-linkedin-square fa-2x"
-  weight = 1
-  url = "https://www.linkedin.com/in/vechiato/"
-[[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 2
-  url = "https://github.com/vechiato/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/vechiato/"
-
-# Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "/blog"
-#[[menu.main]]
-#  name = "About"
-#  weight = 2
-#  url = "about/"
