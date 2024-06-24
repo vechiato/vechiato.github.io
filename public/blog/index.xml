@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on https://blog.vechiato.cc</title>
-    <link>/blog/</link>
+    <link>//localhost:1313/blog/</link>
     <description>Recent content in Blogs on https://blog.vechiato.cc</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Platform Engineering on Kubernetes by Mauricio Salatino</title>
-      <link>/blog/20240609-book-platform-engineering-on-kubernetes/</link>
+      <link>//localhost:1313/blog/20240609-book-platform-engineering-on-kubernetes/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/blog/20240609-book-platform-engineering-on-kubernetes/</guid>
+      <guid>//localhost:1313/blog/20240609-book-platform-engineering-on-kubernetes/</guid>
       <description>Insights from &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino Platform Engineering on Kubernetes&#xA;Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&#xA;Summary Foreword The foreword by Jared Watts sets the stage by highlighting the importance of platform engineering in the modern cloud-native landscape.</description>
     </item>
     <item>
       <title>Book eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>/blog/20240512-book-ebpf/</link>
+      <link>//localhost:1313/blog/20240512-book-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>/blog/20240512-book-ebpf/</guid>
+      <guid>//localhost:1313/blog/20240512-book-ebpf/</guid>
       <description>🚀 Just finished reading my autographed copy of “eBPF: Programmatically Extend the Linux Kernel&amp;quot; and I&amp;rsquo;m absolutely blown away by the possibilities it offers! If you&amp;rsquo;re working with Linux, containers, observability or security, this book is a must-read.&#xA;eBPF allows you to run sandboxed programs in the Linux kernel without changing kernel source code or loading kernel modules. The applications for network performance monitoring, security, and system observability are incredible.</description>
     </item>
     <item>
       <title>CNCF Falco Graduation - Another step in your Shift-Left Journey</title>
-      <link>/blog/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
+      <link>//localhost:1313/blog/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/blog/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
+      <guid>//localhost:1313/blog/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
       <description>Falco Enhances Container Security with Real-time Threat Detection In today&amp;rsquo;s digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.</description>
     </item>
     <item>
       <title>GitOps Certification</title>
-      <link>/blog/20240305-certified-gitops-associate-cgoa/</link>
+      <link>//localhost:1313/blog/20240305-certified-gitops-associate-cgoa/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/blog/20240305-certified-gitops-associate-cgoa/</guid>
+      <guid>//localhost:1313/blog/20240305-certified-gitops-associate-cgoa/</guid>
       <description>Certified GitOps Associate (CGOA)&#xA;The CGOA certification was announced in 2023 can now be purchased as of February 21, 2024, but the ability to schedule a CGOA exam will not be available until the end of March 2024.&#xA;Experience Level: Beginner&#xA;Online Multiple-choice Exam Duration of Exam 90 Minutes Certification Valid for 3 Years Includes 12 Month Exam Eligibility One Retake PDF Certificate and Digital Badge Cost $ 250 Domains &amp;amp; Competencies GitOps Terminology 20%</description>
     </item>
     <item>
       <title>Insights from Adopting InnerSource</title>
-      <link>/blog/20240508-book-adopting-innersource/</link>
+      <link>//localhost:1313/blog/20240508-book-adopting-innersource/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/blog/20240508-book-adopting-innersource/</guid>
+      <guid>//localhost:1313/blog/20240508-book-adopting-innersource/</guid>
       <description>Insights from &amp;ldquo;Adopting InnerSource: Principles and Case Studies&amp;rdquo; by Danese Cooper &amp;amp; Klaas-Jan Stol Adopting InnerSource free&#xA;Introduction &amp;ldquo;Adopting InnerSource: Principles and Case Studies&amp;rdquo; by Danese Cooper and Klaas-Jan Stol explores how companies can leverage the principles of open-source software development within their own organisations. InnerSource adapts the collaborative, transparent, and community-driven practices of open-source to a corporate environment, fostering innovation and efficiency. This book presents various case studies from companies that have successfully adopted InnerSource, providing practical insights and lessons learned.</description>
     </item>
     <item>
       <title>Insights from The Innovator&#39;s Dilemma</title>
-      <link>/blog/20230211-book-innovators-dilemma/</link>
+      <link>//localhost:1313/blog/20230211-book-innovators-dilemma/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>/blog/20230211-book-innovators-dilemma/</guid>
+      <guid>//localhost:1313/blog/20230211-book-innovators-dilemma/</guid>
       <description>Insights from &amp;ldquo;The Innovator&amp;rsquo;s Dilemma&amp;rdquo; by Clayton M. Christensen The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail&#xA;Introduction &amp;ldquo;The Innovator&amp;rsquo;s Dilemma&amp;rdquo; by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.&#xA;Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fail?</description>
     </item>
     <item>
       <title>Insights from Establishing SRE Foundations</title>
-      <link>/blog/20230120-book-establishing-sre-foundations/</link>
+      <link>//localhost:1313/blog/20230120-book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/blog/20230120-book-establishing-sre-foundations/</guid>
+      <guid>//localhost:1313/blog/20230120-book-establishing-sre-foundations/</guid>
       <description>Insights from &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&#xA;Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.</description>
     </item>
     <item>
       <title>Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</title>
-      <link>/blog/20220611-book-team-topologies/</link>
+      <link>//localhost:1313/blog/20220611-book-team-topologies/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/blog/20220611-book-team-topologies/</guid>
+      <guid>//localhost:1313/blog/20220611-book-team-topologies/</guid>
       <description>Insights from &amp;ldquo;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;rdquo; by Matthew Skelton &amp;amp; Manuel Pais Team Topologies: Organizing Business and Technology Teams for Fast&#xA;Introduction &amp;ldquo;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;rdquo; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.</description>
     </item>
     <item>
       <title>Insights from Working Backwards: Insights, Stories, and Secrets from Inside Amazon</title>
-      <link>/blog/20211218-book-working-backwards/</link>
+      <link>//localhost:1313/blog/20211218-book-working-backwards/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/20211218-book-working-backwards/</guid>
+      <guid>//localhost:1313/blog/20211218-book-working-backwards/</guid>
       <description>Insights from &amp;ldquo;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;rdquo; by Colin Bryar &amp;amp; Bill Carr Introduction &amp;ldquo;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;rdquo; by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon&amp;rsquo;s success. The authors, both former Amazon executives, provide a detailed account of how the company&amp;rsquo;s culture and methodologies can be applied to achieve extraordinary results in any organisation.</description>
     </item>
     <item>
       <title>Insights from Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business</title>
-      <link>/blog/20211111-book-ego-free-leadership/</link>
+      <link>//localhost:1313/blog/20211111-book-ego-free-leadership/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/20211111-book-ego-free-leadership/</guid>
+      <guid>//localhost:1313/blog/20211111-book-ego-free-leadership/</guid>
       <description>Insights from &amp;ldquo;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&amp;rdquo; by Brandon Black &amp;amp; Shayne Hughes Introduction &amp;ldquo;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&amp;rdquo; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.</description>
     </item>
     <item>
       <title>Insights from Accelerate The Science of Lean Software and DevOps</title>
-      <link>/blog/20210528-book-accelerate/</link>
+      <link>//localhost:1313/blog/20210528-book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>/blog/20210528-book-accelerate/</guid>
+      <guid>//localhost:1313/blog/20210528-book-accelerate/</guid>
       <description>Insights from &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim Accelerate: Building and Scaling High Performing Technology Organizations&#xA;Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.</description>
     </item>
     <item>
       <title>Insights from The Manager&#39;s Path</title>
-      <link>/blog/20200214-book-managers-path/</link>
+      <link>//localhost:1313/blog/20200214-book-managers-path/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/blog/20200214-book-managers-path/</guid>
+      <guid>//localhost:1313/blog/20200214-book-managers-path/</guid>
       <description>Insights from &amp;ldquo;The Manager&amp;rsquo;s Path&amp;rdquo; by Camille Fournier The Manager&amp;rsquo;s Path: A Guide for Tech Leaders Navigating&#xA;Introduction &amp;ldquo;The Manager&amp;rsquo;s Path&amp;rdquo; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.</description>
     </item>
     <item>
       <title>The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</title>
-      <link>/blog/20130602-book-the-phoenix-project/</link>
+      <link>//localhost:1313/blog/20130602-book-the-phoenix-project/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>/blog/20130602-book-the-phoenix-project/</guid>
+      <guid>//localhost:1313/blog/20130602-book-the-phoenix-project/</guid>
       <description>Insights from &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success.</description>
     </item>
   </channel>
