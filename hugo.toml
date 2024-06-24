@@ -1,6 +1,6 @@
 baseurl = "/"
-title = "vechiato.cc"
-theme = 'hugo-coder'
+title = "https://blog.vechiato.cc"
+theme = 'tale'
 languagecode = "en"
 defaultcontentlanguage = "en"
 
