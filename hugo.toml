@@ -1,11 +1,10 @@
 baseurl = "/"
 title = "vechiato.cc"
-theme = "tale"
+theme = 'hugo-coder'
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-#googleAnalytics = "G-6BYRELN45K"
-googleAnalytics = "G-6BYRELN453"
+googleAnalytics = "G-6BYRELN45K"
 
 paginate = 20
 
