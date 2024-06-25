@@ -3,6 +3,9 @@ author: "Marcus Vechiato"
 title: "CNCF Falco Graduation - Another step in your Shift-Left Journey"
 date: "2024-03-07"
 publish: true
+tags:
+  - security
+  - ebpf
 --- 
 
 # Falco Enhances Container Security with Real-time Threat Detection
