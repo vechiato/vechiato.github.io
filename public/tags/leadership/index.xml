@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leadership on blog.vechiato.cc</title>
-    <link>http://localhost:1313/tags/leadership/</link>
+    <link>https://blog.vechiato.cc/tags/leadership/</link>
     <description>Recent content in Leadership on blog.vechiato.cc</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.vechiato.cc/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business</title>
-      <link>http://localhost:1313/blog/20211111-book-ego-free-leadership/</link>
+      <link>https://blog.vechiato.cc/blog/20211111-book-ego-free-leadership/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/20211111-book-ego-free-leadership/</guid>
+      <guid>https://blog.vechiato.cc/blog/20211111-book-ego-free-leadership/</guid>
       <description>Introduction &amp;ldquo;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&amp;rdquo; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.&#xA;Summary Prologue: Ending the Unconscious Habits That Hijack Your Business The prologue sets the stage by detailing the critical situation at Encore Capital in 2005.</description>
     </item>
     <item>
       <title>Insights from The Manager&#39;s Path</title>
-      <link>http://localhost:1313/blog/20200214-book-managers-path/</link>
+      <link>https://blog.vechiato.cc/blog/20200214-book-managers-path/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/20200214-book-managers-path/</guid>
+      <guid>https://blog.vechiato.cc/blog/20200214-book-managers-path/</guid>
       <description>The Manager&amp;rsquo;s Path: A Guide for Tech Leaders Navigating&#xA;Introduction &amp;ldquo;The Manager&amp;rsquo;s Path&amp;rdquo; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.&#xA;Summary Chapter 1: Management 101 Fournier starts by defining what a good manager looks like and what one should expect from their manager.</description>
     </item>
   </channel>

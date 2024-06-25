@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
     <title>Insights from Platform Engineering on Kubernetes by Mauricio Salatino | blog.vechiato.cc</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Platform Engineering on Kubernetes
+    <meta name="description" content="![[book_platform_engineering_kubernetes.jpg]]
+Platform Engineering on Kubernetes
 Introduction &ldquo;Platform Engineering on Kubernetes&rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
 Summary Foreword The foreword by Jared Watts sets the stage by highlighting the importance of platform engineering in the modern cloud-native landscape.">
     <meta name="generator" content="Hugo 0.127.0">
@@ -35,13 +36,14 @@ Summary Foreword The foreword by Jared Watts sets the stage by highlighting the 
     
 
     
-      <link rel="canonical" href="http://localhost:1313/blog/20240609-book-platform-engineering-on-kubernetes/">
+      <link rel="canonical" href="https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/">
     
 
-    <meta property="og:url" content="http://localhost:1313/blog/20240609-book-platform-engineering-on-kubernetes/">
+    <meta property="og:url" content="https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/">
   <meta property="og:site_name" content="blog.vechiato.cc">
   <meta property="og:title" content="Insights from Platform Engineering on Kubernetes by Mauricio Salatino">
-  <meta property="og:description" content="Platform Engineering on Kubernetes
+  <meta property="og:description" content="![[book_platform_engineering_kubernetes.jpg]]
+Platform Engineering on Kubernetes
 Introduction “Platform Engineering on Kubernetes” by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
 Summary Foreword The foreword by Jared Watts sets the stage by highlighting the importance of platform engineering in the modern cloud-native landscape.">
   <meta property="og:locale" content="en_us">
@@ -53,16 +55,18 @@ Summary Foreword The foreword by Jared Watts sets the stage by highlighting the 
     <meta property="article:tag" content="Platformengineering">
 
   <meta itemprop="name" content="Insights from Platform Engineering on Kubernetes by Mauricio Salatino">
-  <meta itemprop="description" content="Platform Engineering on Kubernetes
+  <meta itemprop="description" content="![[book_platform_engineering_kubernetes.jpg]]
+Platform Engineering on Kubernetes
 Introduction “Platform Engineering on Kubernetes” by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
 Summary Foreword The foreword by Jared Watts sets the stage by highlighting the importance of platform engineering in the modern cloud-native landscape.">
   <meta itemprop="datePublished" content="2024-06-09T00:00:00+00:00">
   <meta itemprop="dateModified" content="2024-06-09T00:00:00+00:00">
-  <meta itemprop="wordCount" content="785">
+  <meta itemprop="wordCount" content="786">
   <meta itemprop="keywords" content="K8s,Platformengineering">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Insights from Platform Engineering on Kubernetes by Mauricio Salatino">
-  <meta name="twitter:description" content="Platform Engineering on Kubernetes
+  <meta name="twitter:description" content="![[book_platform_engineering_kubernetes.jpg]]
+Platform Engineering on Kubernetes
 Introduction “Platform Engineering on Kubernetes” by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
 Summary Foreword The foreword by Jared Watts sets the stage by highlighting the importance of platform engineering in the modern cloud-native landscape.">
 
@@ -148,7 +152,7 @@ Summary Foreword The foreword by Jared Watts sets the stage by highlighting the 
   <div id="sharing" class="mt3 ananke-socials">
     
       
-      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/blog/20240609-book-platform-engineering-on-kubernetes/&amp;title=Insights%20from%20Platform%20Engineering%20on%20Kubernetes%20by%20Mauricio%20Salatino" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/&amp;title=Insights%20from%20Platform%20Engineering%20on%20Kubernetes%20by%20Mauricio%20Salatino" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
         
         <span class="icon"> <svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
@@ -174,7 +178,7 @@ Summary Foreword The foreword by Jared Watts sets the stage by highlighting the 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><img src="/obsidian/book_platform_engineering_kubernetes.jpg" alt="image"></p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>![[book_platform_engineering_kubernetes.jpg]]</p>
 <p><a href="https://www.amazon.co.uk/dp/1617299324">Platform Engineering on Kubernetes</a></p>
 <h2 id="introduction">Introduction</h2>
 <p>&ldquo;Platform Engineering on Kubernetes&rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.</p>
@@ -253,7 +257,7 @@ Summary Foreword The foreword by Jared Watts sets the stage by highlighting the 
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://blog.vechiato.cc/" >
     &copy;  blog.vechiato.cc 2024 
   </a>
     <div>

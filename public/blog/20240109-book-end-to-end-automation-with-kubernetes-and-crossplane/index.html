@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
     <title>Insights from End-to-End Automation with Kubernetes and Crossplane | blog.vechiato.cc</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
+    <meta name="description" content="![[end2end_automation_k8s_crossplane.jpg]]
+End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
 Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.">
     <meta name="generator" content="Hugo 0.127.0">
     
@@ -34,13 +35,14 @@ Introduction In the ever-evolving landscape of cloud-native infrastructure, Kube
     
 
     
-      <link rel="canonical" href="http://localhost:1313/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/">
+      <link rel="canonical" href="https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/">
     
 
-    <meta property="og:url" content="http://localhost:1313/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/">
+    <meta property="og:url" content="https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/">
   <meta property="og:site_name" content="blog.vechiato.cc">
   <meta property="og:title" content="Insights from End-to-End Automation with Kubernetes and Crossplane">
-  <meta property="og:description" content="End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
+  <meta property="og:description" content="![[end2end_automation_k8s_crossplane.jpg]]
+End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
 Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
@@ -52,15 +54,17 @@ Introduction In the ever-evolving landscape of cloud-native infrastructure, Kube
     <meta property="article:tag" content="Crossplane">
 
   <meta itemprop="name" content="Insights from End-to-End Automation with Kubernetes and Crossplane">
-  <meta itemprop="description" content="End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
+  <meta itemprop="description" content="![[end2end_automation_k8s_crossplane.jpg]]
+End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
 Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.">
   <meta itemprop="datePublished" content="2024-01-18T00:00:00+00:00">
   <meta itemprop="dateModified" content="2024-01-18T00:00:00+00:00">
-  <meta itemprop="wordCount" content="647">
+  <meta itemprop="wordCount" content="648">
   <meta itemprop="keywords" content="K8s,Platformengineering,Crossplane">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Insights from End-to-End Automation with Kubernetes and Crossplane">
-  <meta name="twitter:description" content="End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
+  <meta name="twitter:description" content="![[end2end_automation_k8s_crossplane.jpg]]
+End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
 Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.">
 
 	
@@ -145,7 +149,7 @@ Introduction In the ever-evolving landscape of cloud-native infrastructure, Kube
   <div id="sharing" class="mt3 ananke-socials">
     
       
-      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/&amp;title=Insights%20from%20End-to-End%20Automation%20with%20Kubernetes%20and%20Crossplane" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/&amp;title=Insights%20from%20End-to-End%20Automation%20with%20Kubernetes%20and%20Crossplane" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
         
         <span class="icon"> <svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
@@ -171,7 +175,7 @@ Introduction In the ever-evolving landscape of cloud-native infrastructure, Kube
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><img src="/obsidian/end2end_automation_k8s_crossplane.jpg" alt="image"></p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>![[end2end_automation_k8s_crossplane.jpg]]</p>
 <p><a href="https://www.amazon.co.uk/dp/B09ZJ1NZRB">End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation</a></p>
 <h2 id="introduction">Introduction</h2>
 <p>In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In &ldquo;End-to-End Automation with Kubernetes and Crossplane,&rdquo; Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.</p>
@@ -319,7 +323,7 @@ Introduction In the ever-evolving landscape of cloud-native infrastructure, Kube
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://blog.vechiato.cc/" >
     &copy;  blog.vechiato.cc 2024 
   </a>
     <div>
