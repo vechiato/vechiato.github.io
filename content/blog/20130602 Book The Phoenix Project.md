@@ -4,8 +4,6 @@ title: "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business
 date: "2013-06-02"
 publish: true
 --- 
-# Insights from "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr, and George Spafford
-
 ## Introduction
 
 "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.

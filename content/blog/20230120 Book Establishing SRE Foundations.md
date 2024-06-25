@@ -4,8 +4,6 @@ title: "Insights from Establishing SRE Foundations"
 date: "2023-01-20"
 publish: true
 --- 
-# Insights from "Establishing SRE Foundations: A Step-by-Step Guide" by Vladyslav Ukis
-
 [Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations](https://www.amazon.co.uk/dp/0137424604)
 ## Introduction
 

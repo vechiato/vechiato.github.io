@@ -4,8 +4,6 @@ title: "Insights from Ego Free Leadership: Ending the Unconscious Habits that Hi
 date: "2021-11-11"
 publish: true
 --- 
-# Insights from "Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business" by Brandon Black & Shayne Hughes
-
 ## Introduction
 
 "Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business" by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.

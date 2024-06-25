@@ -4,7 +4,6 @@ title: "Insights from Platform Engineering on Kubernetes by Mauricio Salatino"
 date: "2024-06-09"
 publish: true
 --- 
-# Insights from "Platform Engineering on Kubernetes" by Mauricio Salatino
 
 ![image](/obsidian/book_platform_engineering_kubernetes.jpg)
 [Platform Engineering on Kubernetes](https://www.amazon.co.uk/dp/1617299324)

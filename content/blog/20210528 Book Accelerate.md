@@ -1,13 +1,10 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Accelerate The Science of Lean Software and DevOps"
+title: "Insights from Accelerate: The Science of Lean Software and DevOps"
 date: "2021-05-28"
 publish: true
 --- 
-# Insights from "Accelerate: The Science of Lean Software and DevOps" by Nicole Forsgren, Jez Humble, and Gene Kim
-
 [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.amazon.co.uk/dp/B07BLYJ4HR)
-
 ## Introduction
 
 "Accelerate: The Science of Lean Software and DevOps" by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.

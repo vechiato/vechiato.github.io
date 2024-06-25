@@ -4,8 +4,6 @@ title: "Insights from The Innovator's Dilemma"
 date: "2023-02-11"
 publish: true
 --- 
-# Insights from "The Innovator's Dilemma" by Clayton M. Christensen
-
 [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail](https://www.amazon.co.uk/dp/1633691780)
 ## Introduction
 "The Innovator's Dilemma" by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.

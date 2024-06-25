@@ -4,8 +4,6 @@ title: "Insights from Team Topologies: Organizing Business and Technology Teams 
 date: "2022-06-11"
 publish: true
 --- 
-# Insights from "Team Topologies: Organizing Business and Technology Teams for Fast Flow" by Matthew Skelton & Manuel Pais
-
 [Team Topologies: Organizing Business and Technology Teams for Fast](https://www.amazon.co.uk/dp/B07W1667D7)
 ## Introduction
 

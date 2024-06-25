@@ -4,8 +4,6 @@ title: "Insights from Working Backwards: Insights, Stories, and Secrets from Ins
 date: "2021-12-18"
 publish: true
 --- 
-# Insights from "Working Backwards: Insights, Stories, and Secrets from Inside Amazon" by Colin Bryar & Bill Carr
-
 ## Introduction
 
 "Working Backwards: Insights, Stories, and Secrets from Inside Amazon" by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon's success. The authors, both former Amazon executives, provide a detailed account of how the company's culture and methodologies can be applied to achieve extraordinary results in any organisation.
