@@ -3,6 +3,8 @@ author: "Marcus Vechiato"
 title: "Insights from The Manager's Path"
 date: "2020-02-14"
 publish: true
+tags:
+  - leadership
 --- 
 [The Manager's Path: A Guide for Tech Leaders Navigating](https://www.amazon.co.uk/dp/1491973897)
 ## Introduction
