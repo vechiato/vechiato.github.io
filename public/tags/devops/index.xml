@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops on blog.vechiato.cc</title>
+    <link>http://localhost:1313/tags/devops/</link>
+    <description>Recent content in Devops on blog.vechiato.cc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
+      <link>http://localhost:1313/blog/20210528-book-accelerate/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20210528-book-accelerate/</guid>
+      <description>Accelerate: Building and Scaling High Performing Technology Organizations&#xA;Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&#xA;Summary Forewords The book begins with insightful forewords by Martin Fowler and Courtney Kissler, emphasising the significance of the research and methodologies presented in &amp;ldquo;Accelerate.</description>
+    </item>
+    <item>
+      <title>The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</title>
+      <link>http://localhost:1313/blog/20130602-book-the-phoenix-project/</link>
+      <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20130602-book-the-phoenix-project/</guid>
+      <description>Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.&#xA;Summary Prologue The book begins with Parts Unlimited, a company facing a series of crises that threaten its survival.</description>
+    </item>
+  </channel>
+</rss>

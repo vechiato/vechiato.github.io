@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Insights from End-to-End Automation with Kubernetes and Crossplane | blog.vechiato.cc</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
+Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.">
+    <meta name="generator" content="Hugo 0.127.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+      <meta name="author" content = "Marcus Vechiato">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/">
+    
+
+    <meta property="og:url" content="http://localhost:1313/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/">
+  <meta property="og:site_name" content="blog.vechiato.cc">
+  <meta property="og:title" content="Insights from End-to-End Automation with Kubernetes and Crossplane">
+  <meta property="og:description" content="End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
+Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2024-01-18T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-01-18T00:00:00+00:00">
+    <meta property="article:tag" content="K8s">
+    <meta property="article:tag" content="Platformengineering">
+    <meta property="article:tag" content="Crossplane">
+
+  <meta itemprop="name" content="Insights from End-to-End Automation with Kubernetes and Crossplane">
+  <meta itemprop="description" content="End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
+Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.">
+  <meta itemprop="datePublished" content="2024-01-18T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2024-01-18T00:00:00+00:00">
+  <meta itemprop="wordCount" content="647">
+  <meta itemprop="keywords" content="K8s,Platformengineering,Crossplane">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Insights from End-to-End Automation with Kubernetes and Crossplane">
+  <meta name="twitter:description" content="End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
+Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.">
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        blog.vechiato.cc
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blogs page">
+              Blogs
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+    
+    <a href="https://linkedin.com/in/vechiato" target="_blank" rel="noopener" class="linkedin ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="LinkedIn link" aria-label="follow on LinkedIn——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Blogs
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/&amp;title=Insights%20from%20End-to-End%20Automation%20with%20Kubernetes%20and%20Crossplane" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Insights from End-to-End Automation with Kubernetes and Crossplane</h1>
+      
+      <p class="tracked">
+        By <strong>Marcus Vechiato</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2024-01-18T00:00:00Z">January 18, 2024</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><img src="/obsidian/end2end_automation_k8s_crossplane.jpg" alt="image"></p>
+<p><a href="https://www.amazon.co.uk/dp/B09ZJ1NZRB">End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation</a></p>
+<h2 id="introduction">Introduction</h2>
+<p>In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In &ldquo;End-to-End Automation with Kubernetes and Crossplane,&rdquo; Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.</p>
+<h2 id="overview">Overview</h2>
+<p>This book is an essential read for cloud architects, platform engineers, infrastructure operators, and Kubernetes enthusiasts. Arun Ramakani expertly navigates the intricate world of infrastructure automation, providing readers with a comprehensive understanding of Crossplane and its integration with Kubernetes.</p>
+<h2 id="key-concepts">Key Concepts</h2>
+<ol>
+<li>
+<p><strong>Understanding Kubernetes-Based Infrastructure Automation:</strong></p>
+<ul>
+<li>The book starts by contextualizing Kubernetes-based infrastructure automation, highlighting its advantages and the disruptive potential it holds for IT operations.</li>
+</ul>
+</li>
+<li>
+<p><strong>Crossplane Fundamentals:</strong></p>
+<ul>
+<li>Readers are introduced to the core concepts of Crossplane, including Custom Resource Definitions (CRDs) and custom controllers. These building blocks are crucial for extending Kubernetes to manage external infrastructure resources effectively.</li>
+</ul>
+</li>
+<li>
+<p><strong>Practical Examples and Hands-On Modules:</strong></p>
+<ul>
+<li>Arun provides practical examples and hands-on modules using popular configuration management tools such as Helm, Kustomize, CNAB, Argo, Keptn, and Open Policy Agent. These examples are designed to be directly applicable in real-world scenarios, making it easier for practitioners to implement what they learn.</li>
+</ul>
+</li>
+</ol>
+<h2 id="detailed-chapter-breakdown">Detailed Chapter Breakdown</h2>
+<h3 id="part-1-the-kubernetes-disruption">Part 1: The Kubernetes Disruption</h3>
+<ul>
+<li><strong>Chapter 1: Introducing the New Operating Model</strong>
+<ul>
+<li>This chapter delves into the journey of Kubernetes, its disruptive impact on IT operations, and the characteristics that make it a game-changer.</li>
+</ul>
+</li>
+<li><strong>Chapter 2: Examining the State of Infrastructure Automation</strong>
+<ul>
+<li>Arun explores the evolution of infrastructure automation, highlighting the limitations of Infrastructure as Code (IaC) and introducing Crossplane as the solution to these challenges.</li>
+</ul>
+</li>
+</ul>
+<h3 id="part-2-building-a-modern-infrastructure-platform">Part 2: Building a Modern Infrastructure Platform</h3>
+<ul>
+<li><strong>Chapter 3: Automating Infrastructure with Crossplane</strong>
+<ul>
+<li>Readers learn how to set up Crossplane, understand its architecture, and use it for infrastructure automation.</li>
+</ul>
+</li>
+<li><strong>Chapter 4: Composing Infrastructure with Crossplane</strong>
+<ul>
+<li>This chapter focuses on composing new infrastructure abstractions using Crossplane, enabling the creation of custom Kubernetes-based cloud APIs.</li>
+</ul>
+</li>
+<li><strong>Chapter 5: Exploring Infrastructure Platform Patterns</strong>
+<ul>
+<li>Arun discusses key patterns required for successfully running an infrastructure platform product within an organization.</li>
+</ul>
+</li>
+<li><strong>Chapter 6: More Crossplane Patterns</strong>
+<ul>
+<li>Additional patterns are explored, providing readers with a comprehensive toolkit for their day-to-day work.</li>
+</ul>
+</li>
+<li><strong>Chapter 7: Extending and Scaling Crossplane</strong>
+<ul>
+<li>The book delves into the scalability and extensibility of Crossplane, covering multi-tenant ecosystems and building new providers.</li>
+</ul>
+</li>
+</ul>
+<h3 id="part-3-configuration-management-tools-and-recipes">Part 3: Configuration Management Tools and Recipes</h3>
+<ul>
+<li><strong>Chapter 8: Knowing the Trade-Offs</strong>
+<ul>
+<li>Arun discusses the trade-offs associated with different configuration management tools and how to choose the right one.</li>
+</ul>
+</li>
+<li><strong>Chapter 9: Using Helm, Kustomize, and KubeVela</strong>
+<ul>
+<li>Practical guidance on deploying applications using these popular tools.</li>
+</ul>
+</li>
+<li><strong>Chapter 10: Onboarding Applications with Crossplane</strong>
+<ul>
+<li>This chapter covers the automation of application onboarding, including setting up source code repositories and continuous integration workflows.</li>
+</ul>
+</li>
+<li><strong>Chapter 11: Driving the Platform Adoption</strong>
+<ul>
+<li>The final chapter addresses the challenges of platform adoption and provides insights into building a successful infrastructure platform.</li>
+</ul>
+</li>
+</ul>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<ul>
+<li>
+<p><strong>Unified Automation:</strong></p>
+<ul>
+<li>The book emphasizes the importance of unified automation, integrating both infrastructure and application automation under a single control plane.</li>
+</ul>
+</li>
+<li>
+<p><strong>Hands-On Guidance:</strong></p>
+<ul>
+<li>Practical examples and hands-on modules make complex concepts accessible and actionable.</li>
+</ul>
+</li>
+<li>
+<p><strong>Modern Infrastructure Engineering:</strong></p>
+<ul>
+<li>Readers gain a deep understanding of modern infrastructure engineering principles, preparing them for the challenges of today&rsquo;s cloud-native environments.</li>
+</ul>
+</li>
+</ul>
+<h2 id="conclusion">Conclusion</h2>
+<p>&ldquo;End-to-End Automation with Kubernetes and Crossplane&rdquo; by Arun Ramakani is a must-read for anyone involved in cloud-native infrastructure. It offers a detailed, hands-on guide to building a modern infrastructure automation platform, leveraging the power of Kubernetes and Crossplane. Whether you&rsquo;re a cloud architect, platform engineer, or Kubernetes enthusiast, this book provides the knowledge and tools you need to excel in the rapidly evolving world of cloud-native infrastructure.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/k8s/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">K8s</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/platformengineering/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Platformengineering</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/crossplane/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Crossplane</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
+    &copy;  blog.vechiato.cc 2024 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+    
+    <a href="https://linkedin.com/in/vechiato" target="_blank" rel="noopener" class="linkedin ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="LinkedIn link" aria-label="follow on LinkedIn——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

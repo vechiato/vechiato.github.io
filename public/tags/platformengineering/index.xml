@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Platformengineering on blog.vechiato.cc</title>
+    <link>http://localhost:1313/tags/platformengineering/</link>
+    <description>Recent content in Platformengineering on blog.vechiato.cc</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/platformengineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Platform Engineering on Kubernetes by Mauricio Salatino</title>
+      <link>http://localhost:1313/blog/20240609-book-platform-engineering-on-kubernetes/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20240609-book-platform-engineering-on-kubernetes/</guid>
+      <description>Platform Engineering on Kubernetes&#xA;Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&#xA;Summary Foreword The foreword by Jared Watts sets the stage by highlighting the importance of platform engineering in the modern cloud-native landscape.</description>
+    </item>
+    <item>
+      <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
+      <link>http://localhost:1313/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
+      <description>End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation&#xA;Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.</description>
+    </item>
+  </channel>
+</rss>
