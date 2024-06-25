@@ -3,6 +3,10 @@ author: Marcus Vechiato
 title: Insights from End-to-End Automation with Kubernetes and Crossplane
 date: 2024-01-18
 publish: true
+tags:
+  - k8s
+  - platformengineering
+  - crossplane
 ---
 
 ![image](/obsidian/end2end_automation_k8s_crossplane.jpg)
