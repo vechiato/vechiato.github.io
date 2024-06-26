@@ -17,13 +17,6 @@ tags:
 
 ## Summary
 ![image](/obsidian/mindmap_platform_engineering_k8s.png)
-### Foreword
-
-The foreword by Jared Watts sets the stage by highlighting the importance of platform engineering in the modern cloud-native landscape. He emphasises the need for practical solutions to manage the complexity of integrating various cloud-native tools and technologies.
-
-### Preface
-
-Mauricio Salatino shares his journey and the motivations behind writing this book. He reflects on his experiences in the cloud-native communities and the lessons learned from contributing to several open-source projects.
 
 ### Chapter 1: The Rise of Platforms on Top of Kubernetes
 
