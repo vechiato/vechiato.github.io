@@ -16,6 +16,13 @@
       <description>![[book_platform_engineering_kubernetes.jpg]]&#xA;Platform Engineering on Kubernetes&#xA;Platform Engineering on Kubernetes Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&#xA;Summary ![[mindmap_platform_engineering_k8s.png]]&#xA;Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.</description>
     </item>
     <item>
+      <title>Insights from The Principles of Product Development Flow: Second Generation Lean Product Development by Donald G Reinertsen</title>
+      <link>https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</guid>
+      <description>The Principles of Product Development Flow: Second Generation Lean Product Development ![[product_development_flow.jpg]]&#xA;The Principles of Product Development Flow, 2016 Introduction In today&amp;rsquo;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;ldquo;The Principles of Product Development Flow&amp;rdquo; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency.</description>
+    </item>
+    <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel by Liz Rice</title>
       <link>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
