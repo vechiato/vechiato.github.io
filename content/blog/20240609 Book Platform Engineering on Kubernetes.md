@@ -70,5 +70,5 @@ Reading "Platform Engineering on Kubernetes" has provided valuable insights into
 
 "Platform Engineering on Kubernetes" by Mauricio Salatino is an essential resource for anyone involved in building and maintaining platforms on Kubernetes. The book offers a comprehensive guide to the tools, practices, and strategies needed to succeed in platform engineering. By following the principles outlined in this book, organisations can enhance their software delivery capabilities and achieve greater efficiency and resilience in the cloud-native era.
 
-
+![](https://www.youtube.com/watch?v=Wp8huqq_qgI)
 

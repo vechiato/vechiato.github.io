@@ -51,6 +51,13 @@
       <description>![[end2end_automation_k8s_crossplane.jpg]]&#xA;End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation&#xA;Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.</description>
     </item>
     <item>
+      <title>Insights from The Staff Engineer&#39;s Path by Tanya Reilly</title>
+      <link>https://blog.vechiato.cc/blog/20230811-book-the-staff-engineers-path/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20230811-book-the-staff-engineers-path/</guid>
+      <description>The Staff Engineer&amp;rsquo;s Path: A Guide For Individual Contributors Navigating Growth and Change&#xA;![[the_staff_enginners_path.jpg]]&#xA;Introduction: In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. &amp;ldquo;The Staff Engineer&amp;rsquo;s Path: A Guide for Individual Contributors Navigating Growth and Change&amp;rdquo; by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management.</description>
+    </item>
+    <item>
       <title>Insights from The Innovator&#39;s Dilemma</title>
       <link>https://blog.vechiato.cc/blog/20230211-book-innovators-dilemma/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
