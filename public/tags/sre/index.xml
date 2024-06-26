@@ -15,5 +15,12 @@
       <guid>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</guid>
       <description>![[sre_foundations.jpg]]&#xA;Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&#xA;Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&#xA;Summary ![[mindmap_establishing_sre.png]]&#xA;Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.</description>
     </item>
+    <item>
+      <title>Insights from Seeking SRE by David Blank-edelman</title>
+      <link>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</guid>
+      <description>![[seeking_sre.jpg]]&#xA;Seeking SRE: Conversations about running production systems at scale&#xA;Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&amp;rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.</description>
+    </item>
   </channel>
 </rss>

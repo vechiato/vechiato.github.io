@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Insights from Seeking SRE by David Blank-edelman | blog.vechiato.cc</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="![[seeking_sre.jpg]]
+Seeking SRE: Conversations about running production systems at scale
+Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.">
+    <meta name="generator" content="Hugo 0.127.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+      <meta name="author" content = "Marcus Vechiato">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="https://blog.vechiato.cc/blog/20200622-book-seeking-sre/">
+    
+
+    <meta property="og:url" content="https://blog.vechiato.cc/blog/20200622-book-seeking-sre/">
+  <meta property="og:site_name" content="blog.vechiato.cc">
+  <meta property="og:title" content="Insights from Seeking SRE by David Blank-edelman">
+  <meta property="og:description" content="![[seeking_sre.jpg]]
+Seeking SRE: Conversations about running production systems at scale
+Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. “Seeking SRE: Conversations About Running Production Systems at Scale” by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2020-06-22T00:00:00+00:00">
+    <meta property="article:modified_time" content="2020-06-22T00:00:00+00:00">
+    <meta property="article:tag" content="SRE">
+    <meta property="article:tag" content="Book">
+
+  <meta itemprop="name" content="Insights from Seeking SRE by David Blank-edelman">
+  <meta itemprop="description" content="![[seeking_sre.jpg]]
+Seeking SRE: Conversations about running production systems at scale
+Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. “Seeking SRE: Conversations About Running Production Systems at Scale” by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.">
+  <meta itemprop="datePublished" content="2020-06-22T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2020-06-22T00:00:00+00:00">
+  <meta itemprop="wordCount" content="688">
+  <meta itemprop="keywords" content="SRE,Book">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Insights from Seeking SRE by David Blank-edelman">
+  <meta name="twitter:description" content="![[seeking_sre.jpg]]
+Seeking SRE: Conversations about running production systems at scale
+Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. “Seeking SRE: Conversations About Running Production Systems at Scale” by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.">
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        blog.vechiato.cc
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blogs page">
+              Blogs
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+    
+    <a href="https://linkedin.com/in/vechiato" target="_blank" rel="noopener" class="linkedin ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="LinkedIn link" aria-label="follow on LinkedIn——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Blogs
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://blog.vechiato.cc/blog/20200622-book-seeking-sre/&amp;title=Insights%20from%20Seeking%20SRE%20by%20David%20Blank-edelman" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Insights from Seeking SRE by David Blank-edelman</h1>
+      
+      <p class="tracked">
+        By <strong>Marcus Vechiato</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-06-22T00:00:00Z">June 22, 2020</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>![[seeking_sre.jpg]]</p>
+<p><a href="https://www.amazon.co.uk/dp/1491978864">Seeking SRE: Conversations about running production systems at scale</a></p>
+<h2 id="introduction">Introduction</h2>
+<p>Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.</p>
+<h2 id="summary">Summary</h2>
+<p>![[mindmap_seeking_sre.png]]</p>
+<h3 id="part-i-sre-implementation">Part I: SRE Implementation</h3>
+<h4 id="chapter-1-context-versus-control-in-sre">Chapter 1: Context Versus Control in SRE</h4>
+<p>The opening chapter addresses the balance between providing context and exerting control within SRE practices. It explores how teams can maintain reliability while empowering engineers to make informed decisions. This balance is crucial for fostering an environment where reliability and innovation can coexist.</p>
+<h4 id="chapter-2-interviewing-site-reliability-engineers">Chapter 2: Interviewing Site Reliability Engineers</h4>
+<p>This chapter offers a detailed guide on how to effectively interview candidates for SRE positions. It emphasizes the importance of assessing both technical skills and cultural fit, providing practical tips for evaluating a candidate&rsquo;s problem-solving abilities and their approach to reliability.</p>
+<h4 id="chapter-3-so-you-want-to-build-an-sre-team">Chapter 3: So, You Want to Build an SRE Team?</h4>
+<p>Building an SRE team requires careful planning and strategy. The author discusses the steps involved in creating a successful SRE team, from defining the team&rsquo;s mission and scope to recruiting the right talent and establishing best practices.</p>
+<h3 id="part-ii-near-edge-sre">Part II: Near Edge SRE</h3>
+<h4 id="chapter-14-in-the-beginning-there-was-chaos">Chapter 14: In the Beginning, There Was Chaos</h4>
+<p>Chaos engineering is introduced as a method for improving system resilience by proactively testing how systems respond to unexpected conditions. The chapter explains the principles of chaos engineering and provides examples of how it can be implemented to identify weaknesses before they lead to failures.</p>
+<h4 id="chapter-15-the-intersection-of-reliability-and-privacy">Chapter 15: The Intersection of Reliability and Privacy</h4>
+<p>This chapter delves into the challenges of balancing reliability with privacy concerns. It explores strategies for ensuring that systems are both reliable and compliant with privacy regulations, emphasizing the importance of integrating privacy considerations into SRE practices from the outset.</p>
+<h4 id="chapter-16-database-reliability-engineering">Chapter 16: Database Reliability Engineering</h4>
+<p>Database reliability is critical for the overall reliability of a system. The chapter discusses best practices for managing database reliability, including techniques for backup, recovery, and performance optimization. It highlights the unique challenges associated with database reliability and offers practical solutions for addressing them.</p>
+<h3 id="part-iii-sre-best-practices-and-technologies">Part III: SRE Best Practices and Technologies</h3>
+<h4 id="chapter-19-do-docs-better-integrating-documentation-into-the-engineering-workflow">Chapter 19: Do Docs Better: Integrating Documentation into the Engineering Workflow</h4>
+<p>Good documentation is essential for effective SRE practices. This chapter provides guidance on integrating documentation into the engineering workflow, ensuring that it remains up-to-date and useful. It discusses tools and techniques for making documentation a natural part of the development process.</p>
+<h4 id="chapter-20-active-teaching-and-learning">Chapter 20: Active Teaching and Learning</h4>
+<p>Continuous learning is vital for SRE teams to keep up with evolving technologies and practices. The author explores various methods for fostering a culture of active learning within SRE teams, including mentorship, training programs, and collaborative learning opportunities.</p>
+<h4 id="chapter-21-the-art-and-science-of-the-service-level-objective">Chapter 21: The Art and Science of the Service-Level Objective</h4>
+<p>Service-Level Objectives (SLOs) are a key component of SRE. This chapter explains how to define, measure, and manage SLOs to ensure that they accurately reflect user expectations and business priorities. It provides practical advice on setting achievable SLOs and using them to drive reliability improvements.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<ol>
+<li><strong>Balancing Context and Control:</strong> Effective SRE practices require a balance between providing engineers with the context they need and maintaining control over critical decisions.</li>
+<li><strong>Chaos Engineering:</strong> Proactively testing system resilience through chaos engineering can help identify and mitigate potential failures before they occur.</li>
+<li><strong>Continuous Learning:</strong> Fostering a culture of continuous learning is essential for keeping SRE teams effective and up-to-date with the latest practices and technologies.</li>
+</ol>
+<h2 id="conclusion">Conclusion</h2>
+<p>&ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&rdquo; by David N. Blank-Edelman is a must-read for anyone involved in the field of Site Reliability Engineering. The book&rsquo;s comprehensive coverage of SRE practices, combined with insights from industry experts, provides readers with the knowledge and tools needed to build and maintain reliable production systems. Whether you&rsquo;re an experienced SRE or just starting your journey, this book offers valuable guidance and inspiration for improving system reliability.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/sre/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">SRE</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/book/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Book</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/blog/20200214-book-managers-path/">Insights from The Manager&#39;s Path by Camile Fournier</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20130602-book-the-phoenix-project/">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://blog.vechiato.cc/" >
+    &copy;  blog.vechiato.cc 2024 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+    
+    <a href="https://linkedin.com/in/vechiato" target="_blank" rel="noopener" class="linkedin ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="LinkedIn link" aria-label="follow on LinkedIn——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

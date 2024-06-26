@@ -86,6 +86,13 @@
       <description>![[book_accelerate.jpg]]&#xA;Accelerate: Building and Scaling High Performing Technology Organizations&#xA;Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&#xA;Summary Forewords The book begins with insightful forewords by Martin Fowler and Courtney Kissler, emphasising the significance of the research and methodologies presented in &amp;ldquo;Accelerate.</description>
     </item>
     <item>
+      <title>Insights from Seeking SRE by David Blank-edelman</title>
+      <link>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</guid>
+      <description>![[seeking_sre.jpg]]&#xA;Seeking SRE: Conversations about running production systems at scale&#xA;Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&amp;rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.</description>
+    </item>
+    <item>
       <title>Insights from The Manager&#39;s Path by Camile Fournier</title>
       <link>https://blog.vechiato.cc/blog/20200214-book-managers-path/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
