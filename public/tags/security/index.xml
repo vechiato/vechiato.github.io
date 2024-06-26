@@ -13,7 +13,7 @@
       <link>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</guid>
-      <description>![[book_learning_ebpf.jpg]]&#xA;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security&#xA;Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.</description>
+      <description>![[book_learning_ebpf.jpg]]&#xA;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security&#xA;Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.</description>
     </item>
     <item>
       <title>CNCF Falco Graduation - Another step in your Shift-Left Journey</title>

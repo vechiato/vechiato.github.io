@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SRE on blog.vechiato.cc</title>
+    <title>Sre on blog.vechiato.cc</title>
     <link>https://blog.vechiato.cc/tags/sre/</link>
-    <description>Recent content in SRE on blog.vechiato.cc</description>
+    <description>Recent content in Sre on blog.vechiato.cc</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.vechiato.cc/tags/sre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel by Liz Rice</title>
+      <link>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</guid>
+      <description>![[book_learning_ebpf.jpg]]&#xA;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security&#xA;Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.</description>
+    </item>
     <item>
       <title>Insights from Establishing SRE Foundations by Vladislav Ukis</title>
       <link>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</guid>
-      <description>![[sre_foundations.jpg]]&#xA;Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&#xA;Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&#xA;Summary ![[mindmap_establishing_sre.png]]&#xA;Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.</description>
+      <description>![[sre_foundations.jpg]]&#xA;Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&#xA;Establishing SRE Foundations Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&#xA;Summary ![[mindmap_establishing_sre.png]]&#xA;Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.</description>
     </item>
     <item>
       <title>Insights from Seeking SRE by David Blank-edelman</title>
       <link>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</guid>
-      <description>![[seeking_sre.jpg]]&#xA;Seeking SRE: Conversations about running production systems at scale&#xA;Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&amp;rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.</description>
+      <description>![[seeking_sre.jpg]]&#xA;Seeking SRE: Conversations about running production systems at scale&#xA;Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&amp;rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.</description>
     </item>
   </channel>
 </rss>

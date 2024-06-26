@@ -12,6 +12,8 @@ tags:
 
 ![image](/obsidian/the_staff_enginners_path.jpg)
 
+# The Staff Engineer's Path
+
 ## Introduction
 
 In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. "The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change" by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management. This book is an essential guide for engineers looking to elevate their impact and influence within their organizations.

@@ -8,11 +8,14 @@ tags:
   - ebpf
   - security
   - book
+  - sre
 --- 
 
 ![image](/obsidian/book_learning_ebpf.jpg)
 
 [Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security](https://www.amazon.co.uk/dp/1098135121)
+
+# Learning eBPF
 
 ## Introduction
 
