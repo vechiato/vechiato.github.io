@@ -16,7 +16,7 @@ tags:
 "Platform Engineering on Kubernetes" by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
 
 ## Summary
-
+![image](/obsidian/mindmap_platform_engineering_k8s.png)
 ### Foreword
 
 The foreword by Jared Watts sets the stage by highlighting the importance of platform engineering in the modern cloud-native landscape. He emphasises the need for practical solutions to manage the complexity of integrating various cloud-native tools and technologies.
