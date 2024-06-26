@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from The Innovator's Dilemma"
+title: "Insights from The Innovator's Dilemma by Clayton M. Christensen"
 date: "2023-02-11"
 publish: true
 tags:

@@ -16,7 +16,7 @@
       <description>![[book_platform_engineering_kubernetes.jpg]]&#xA;Platform Engineering on Kubernetes&#xA;Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&#xA;Summary ![[mindmap_platform_engineering_k8s.png]]&#xA;Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.</description>
     </item>
     <item>
-      <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
+      <title>Insights from End-to-End Automation with Kubernetes and Crossplane by Arun Ramakani</title>
       <link>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>

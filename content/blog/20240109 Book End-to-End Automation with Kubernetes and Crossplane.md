@@ -1,6 +1,6 @@
 ---
 author: Marcus Vechiato
-title: Insights from End-to-End Automation with Kubernetes and Crossplane
+title: Insights from End-to-End Automation with Kubernetes and Crossplane by Arun Ramakani
 date: 2024-01-18
 publish: true
 tags:

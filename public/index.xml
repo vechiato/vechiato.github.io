@@ -44,7 +44,7 @@
       <description>Adopting InnerSource free download&#xA;Introduction &amp;ldquo;Adopting InnerSource: Principles and Case Studies&amp;rdquo; by Danese Cooper and Klaas-Jan Stol explores how companies can leverage the principles of open-source software development within their own organisations. InnerSource adapts the collaborative, transparent, and community-driven practices of open-source to a corporate environment, fostering innovation and efficiency. This book presents various case studies from companies that have successfully adopted InnerSource, providing practical insights and lessons learned.&#xA;Summary Chapter 1: The InnerSource Approach to Innovation and Software Development The first chapter introduces InnerSource as a strategy that enables developers to contribute across team boundaries, promoting transparency and collaboration.</description>
     </item>
     <item>
-      <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
+      <title>Insights from End-to-End Automation with Kubernetes and Crossplane by Arun Ramakani</title>
       <link>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
@@ -58,18 +58,18 @@
       <description>The Staff Engineer&amp;rsquo;s Path: A Guide For Individual Contributors Navigating Growth and Change&#xA;![[the_staff_enginners_path.jpg]]&#xA;Introduction In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. &amp;ldquo;The Staff Engineer&amp;rsquo;s Path: A Guide for Individual Contributors Navigating Growth and Change&amp;rdquo; by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management.</description>
     </item>
     <item>
-      <title>Insights from The Innovator&#39;s Dilemma</title>
+      <title>Insights from The Innovator&#39;s Dilemma by Clayton M. Christensen</title>
       <link>https://blog.vechiato.cc/blog/20230211-book-innovators-dilemma/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20230211-book-innovators-dilemma/</guid>
       <description>The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail&#xA;Introduction &amp;ldquo;The Innovator&amp;rsquo;s Dilemma&amp;rdquo; by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.&#xA;Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fail?</description>
     </item>
     <item>
-      <title>Insights from Establishing SRE Foundations</title>
+      <title>Insights from Establishing SRE Foundations by Vladislav Ukis</title>
       <link>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</guid>
-      <description>Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&#xA;Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&#xA;Summary ![[mindmap_establishing_sre.png]]&#xA;Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.</description>
+      <description>![[sre_foundations.jpg]]&#xA;Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&#xA;Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&#xA;Summary ![[mindmap_establishing_sre.png]]&#xA;Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.</description>
     </item>
     <item>
       <title>Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</title>
