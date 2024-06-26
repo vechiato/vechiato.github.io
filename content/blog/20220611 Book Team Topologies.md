@@ -12,7 +12,7 @@ tags:
 "Team Topologies: Organizing Business and Technology Teams for Fast Flow" by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.
 
 ## Summary
-
+![image](/obsidian/mindmap_team_topologies.png)
 ### Part I: Teams as the Means of Delivery
 
 #### Chapter 1: The Problem with Org Charts
