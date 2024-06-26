@@ -3,6 +3,9 @@ author: "Marcus Vechiato"
 title: "GitOps Certification"
 date: "2024-03-05"
 publish: true
+tags: 
+  - gitops
+  - devops
 --- 
 
 [Certified GitOps Associate (CGOA)](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/)

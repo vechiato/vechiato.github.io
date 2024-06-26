@@ -51,6 +51,13 @@
       <description>![[end2end_automation_k8s_crossplane.jpg]]&#xA;End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation&#xA;Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.</description>
     </item>
     <item>
+      <title>Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making by J.R. Storment &amp; Mike Fuller</title>
+      <link>https://blog.vechiato.cc/blog/20230919-book-cloud-finops/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20230919-book-cloud-finops/</guid>
+      <description>![[cloud_finops.jpg]]&#xA;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making, 2023 Introduction In the modern era of cloud computing, managing cloud spend efficiently has become crucial for businesses. &amp;ldquo;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making&amp;rdquo; by J.R. Storment and Mike Fuller delves into the practices and principles of FinOps, a methodology that combines financial management with DevOps to drive accountability and efficiency in cloud spending. This book is an essential read for engineering and finance teams, executives, and FinOps practitioners aiming to optimise their cloud investments.</description>
+    </item>
+    <item>
       <title>Insights from The Staff Engineer&#39;s Path by Tanya Reilly</title>
       <link>https://blog.vechiato.cc/blog/20230811-book-the-staff-engineers-path/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
@@ -65,6 +72,13 @@
       <description>The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail&#xA;The Innovators Dilemma Introduction &amp;ldquo;The Innovator&amp;rsquo;s Dilemma&amp;rdquo; by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.&#xA;Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fail?</description>
     </item>
     <item>
+      <title>Insight from Blink: The Power of Thinking Without Thinking by Malcolm Gladwell</title>
+      <link>https://blog.vechiato.cc/blog/20210124-book-blink/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20210124-book-blink/</guid>
+      <description>![[blink.jpg]]&#xA;Blink, 2007 Introduction In a world where decisions are often made in the blink of an eye, understanding the power of these snap judgments is crucial. Malcolm Gladwell&amp;rsquo;s &amp;ldquo;Blink: The Power of Thinking Without Thinking&amp;rdquo; delves into the science and psychology behind these rapid decisions, revealing how they can be both incredibly accurate and dangerously flawed. This book is a fascinating exploration of the unconscious mind and its role in our everyday choices.</description>
+    </item>
+    <item>
       <title>Insights from Establishing SRE Foundations by Vladislav Ukis</title>
       <link>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
@@ -76,7 +90,7 @@
       <link>https://blog.vechiato.cc/blog/20220611-book-team-topologies/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20220611-book-team-topologies/</guid>
-      <description>Team Topologies: Organizing Business and Technology Teams for Fast&#xA;![[team_topologies_book.jpg]]&#xA;Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;rdquo; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.&#xA;Summary ![[mindmap_team_topologies.png]]&#xA;Part I: Teams as the Means of Delivery Chapter 1: The Problem with Org Charts The authors critique traditional organisational charts, arguing that they often fail to reflect the real communication patterns within a company.</description>
+      <description>Team Topologies: Organizing Business and Technology Teams for Fast&#xA;![[team_topologies_book.jpg]]&#xA;Team Topologies, 2019 Introduction &amp;ldquo;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;rdquo; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.&#xA;Summary ![[mindmap_team_topologies.png]]</description>
     </item>
     <item>
       <title>Insights from Working Backwards: Insights, Stories, and Secrets from Inside Amazon</title>
@@ -91,6 +105,13 @@
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20211111-book-ego-free-leadership/</guid>
       <description>Ego Free Leadership Introduction &amp;ldquo;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&amp;rdquo; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.</description>
+    </item>
+    <item>
+      <title>Insights from No rules rules: Netflix and the culture of reinvention by Reed Hastings &amp; Erin Meyer</title>
+      <link>https://blog.vechiato.cc/blog/20210807-book-no-rules-rules/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20210807-book-no-rules-rules/</guid>
+      <description>![[no_rules_rules.jpg]]&#xA;No Rules Rules, 2020 Introduction In &amp;ldquo;No Rules Rules: Netflix and the Culture of Reinvention,&amp;rdquo; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.&#xA;Summary Part I: First Steps to a Culture of Freedom and Responsibility Chapter 1: A Great Workplace Is Stunning Colleagues This chapter introduces the foundational principle of building up talent density.</description>
     </item>
     <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>

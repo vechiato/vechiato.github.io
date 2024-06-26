@@ -11,7 +11,7 @@ tags:
 
 ![image](/obsidian/team_topologies_book.jpg)
 
-# Team Topologies
+# Team Topologies, 2019
 
 ## Introduction
 

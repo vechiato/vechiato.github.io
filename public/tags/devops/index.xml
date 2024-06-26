@@ -6,8 +6,15 @@
     <description>Recent content in Devops on blog.vechiato.cc</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.vechiato.cc/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitOps Certification</title>
+      <link>https://blog.vechiato.cc/blog/20240305-certified-gitops-associate-cgoa/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20240305-certified-gitops-associate-cgoa/</guid>
+      <description>Certified GitOps Associate (CGOA)&#xA;The CGOA certification was announced in 2023 can now be purchased as of February 21, 2024, but the ability to schedule a CGOA exam will not be available until the end of March 2024.&#xA;Experience Level: Beginner&#xA;Online Multiple-choice Exam Duration of Exam 90 Minutes Certification Valid for 3 Years Includes 12 Month Exam Eligibility One Retake PDF Certificate and Digital Badge Cost $ 250 Domains &amp;amp; Competencies GitOps Terminology 20%</description>
+    </item>
     <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
       <link>https://blog.vechiato.cc/blog/20210528-book-accelerate/</link>
