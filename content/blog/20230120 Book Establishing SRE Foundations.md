@@ -12,7 +12,7 @@ tags:
 "Establishing SRE Foundations: A Step-by-Step Guide" by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.
 
 ## Summary
-
+![image](/obsidian/mindmap_establishing_sre.png)
 ### Chapter 1: Introduction to SRE
 
 The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development. Ukis discusses the evolution of SRE, comparing it with other IT management frameworks such as ITIL, COBIT, and DevOps. The chapter sets the stage by explaining why SRE is crucial for aligning development and operations towards a common goal of reliability.

@@ -3,13 +3,15 @@ author: "Marcus Vechiato"
 title: "Insights from The Staff Engineer's Path by Tanya Reilly"
 date: "2023-08-11"
 publish: true
+tags:
+  - leadership
 --- 
 
 [The Staff Engineer's Path: A Guide For Individual Contributors Navigating Growth and Change](https://www.amazon.co.uk/dp/1098118731)
 
 ![image](/obsidian/the_staff_enginners_path.jpg)
 
-## Introduction:
+## Introduction
 
 In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. "The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change" by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management. This book is an essential guide for engineers looking to elevate their impact and influence within their organizations.
 
@@ -59,9 +61,9 @@ The final chapter focuses on personal and professional growth. Reilly provides g
 
 ## Key Takeaways
 
-- **Big-Picture Thinking:** Staff engineers must understand the broader context of their work and make decisions that benefit the entire organization.
-- **Execution Excellence:** Managing time effectively and leading complex projects are essential skills for senior technical leaders.
-- **Influence and Mentorship:** Staff engineers are role models who can drive cultural change and mentor others, extending their impact beyond their immediate teams.
+1. **Big-Picture Thinking:** Staff engineers must understand the broader context of their work and make decisions that benefit the entire organization.
+2. **Execution Excellence:** Managing time effectively and leading complex projects are essential skills for senior technical leaders.
+3. **Influence and Mentorship:** Staff engineers are role models who can drive cultural change and mentor others, extending their impact beyond their immediate teams.
 
 ## Conclusion
 
