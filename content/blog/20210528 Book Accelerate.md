@@ -6,6 +6,7 @@ publish: true
 tags: 
   - devops
   - dora
+  - book
 --- 
 ![image](/obsidian/book_accelerate.jpg)
 

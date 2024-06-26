@@ -5,6 +5,7 @@ date: "2023-01-20"
 publish: true
 tags:
   - SRE
+  - book
 --- 
 [Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations](https://www.amazon.co.uk/dp/0137424604)
 ## Introduction

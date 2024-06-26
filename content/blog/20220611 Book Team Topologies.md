@@ -5,6 +5,7 @@ date: "2022-06-11"
 publish: true
 tags:
   - teamtopologies
+  - book
 --- 
 [Team Topologies: Organizing Business and Technology Teams for Fast](https://www.amazon.co.uk/dp/B07W1667D7)
 

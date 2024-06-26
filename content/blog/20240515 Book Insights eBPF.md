@@ -7,6 +7,7 @@ tags:
   - observability
   - ebpf
   - security
+  - book
 --- 
 
 ![image](/obsidian/book_learning_ebpf.jpg)

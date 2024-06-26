@@ -3,6 +3,8 @@ author: "Marcus Vechiato"
 title: "Insights from Working Backwards: Insights, Stories, and Secrets from Inside Amazon"
 date: "2021-12-18"
 publish: true
+tags:
+  - book
 --- 
 ## Introduction
 

@@ -7,6 +7,7 @@ tags:
   - k8s
   - platformengineering
   - crossplane
+  - book
 ---
 
 ![image](/obsidian/end2end_automation_k8s_crossplane.jpg)

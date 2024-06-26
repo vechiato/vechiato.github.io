@@ -1,16 +1,21 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from The Manager's Path"
+title: "Insights from The Manager's Path by Camile Fournier"
 date: "2020-02-14"
 publish: true
 tags:
   - leadership
+  - book
 --- 
+
+![image](/obsidian/the managers path.jpg)
+
 [The Manager's Path: A Guide for Tech Leaders Navigating](https://www.amazon.co.uk/dp/1491973897)
+
 ## Introduction
 "The Manager's Path" by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.
 ## Summary
-
+![image](/obsidian/mindmap_managers_path.png)
 ### Chapter 1: Management 101
 Fournier starts by defining what a good manager looks like and what one should expect from their manager. She emphasises the importance of one-on-one meetings, regular feedback, and career growth opportunities. The chapter also discusses the significance of being managed well and taking ownership of one's career development.
 

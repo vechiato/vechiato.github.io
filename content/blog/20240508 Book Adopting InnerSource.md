@@ -3,6 +3,8 @@ author: "Marcus Vechiato"
 title: "Insights from Adopting InnerSource"
 date: "2024-01-19"
 publish: true
+tags:
+  - book
 --- 
 
 [Adopting InnerSource free download](https://innersourcecommons.org/documents/books/AdoptingInnerSource.pdf)

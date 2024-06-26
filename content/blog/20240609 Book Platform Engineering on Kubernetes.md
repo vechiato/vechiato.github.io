@@ -6,6 +6,7 @@ publish: true
 tags: 
   - k8s
   - platformengineering
+  - book
 --- 
 
 ![image](/obsidian/book_platform_engineering_kubernetes.jpg)

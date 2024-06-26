@@ -5,6 +5,7 @@ date: "2023-08-11"
 publish: true
 tags:
   - leadership
+  - book
 --- 
 
 [The Staff Engineer's Path: A Guide For Individual Contributors Navigating Growth and Change](https://www.amazon.co.uk/dp/1098118731)

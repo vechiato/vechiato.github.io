@@ -5,6 +5,7 @@ date: "2021-11-11"
 publish: true
 tags: 
   - leadership
+  - book
 --- 
 ## Introduction
 

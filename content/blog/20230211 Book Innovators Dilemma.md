@@ -3,6 +3,8 @@ author: "Marcus Vechiato"
 title: "Insights from The Innovator's Dilemma"
 date: "2023-02-11"
 publish: true
+tags:
+  - book
 --- 
 [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail](https://www.amazon.co.uk/dp/1633691780)
 ## Introduction

@@ -5,6 +5,7 @@ date: "2013-06-02"
 publish: true
 tags: 
   - devops
+  - book
 --- 
 ## Introduction
 
