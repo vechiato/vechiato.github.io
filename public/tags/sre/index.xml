@@ -16,11 +16,9 @@
       <description>
         
           
-            ![[caos_eng.jpg]]
-2020 by Casey Rosenthal, Nora Jones
+            2020 by Casey Rosenthal, Nora Jones
 Chaos Engineering Introduction: Birth of Chaos The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
-Summary ![[mindmap_chaos_eng.png]]
-Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.
+Summary Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.
           
           
         
@@ -36,7 +34,7 @@ Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter d
       <description>
         
           
-            ![[book_learning_ebpf.jpg]] 2023 by Liz Rice
+            2023 by Liz Rice
 Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security
 Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.
           
@@ -54,11 +52,9 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
       <description>
         
           
-            ![[sre_foundations.jpg]]
-Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations
+            Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations
 Establishing SRE Foundations Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.
-Summary ![[mindmap_establishing_sre.png]]
-Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.
+Summary Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.
           
           
         
@@ -74,7 +70,7 @@ Chapter 1: Introduction to SRE The first chapter introduces the concept of Site 
       <description>
         
           
-            ![[observability_engineering.png]] 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
+            2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
 Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).
           
           
@@ -91,9 +87,9 @@ Observability Engineering Introduction In the rapidly evolving landscape of soft
       <description>
         
           
-            ![[database_reliability.jpg]] 2017 by Laine Campbell &amp;amp; Charity Majors
+            2017 by Laine Campbell &amp;amp; Charity Majors
 Database Reliability Engineering Introduction &amp;ldquo;Database Reliability Engineering&amp;rdquo; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.
-Summary ![[mindmap_dbre.png]]
+Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introducing Database Reliability Engineering This chapter sets the stage by defining the role of a Database Reliability Engineer and the need for reliability engineering in database management.
           
           
         
@@ -109,7 +105,7 @@ Summary ![[mindmap_dbre.png]]
       <description>
         
           
-            ![[seeking_sre.jpg]] 2018 by David Blank–edelman
+            2018 by David Blank–edelman
 Seeking SRE: Conversations about running production systems at scale
 Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&amp;rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.
           
