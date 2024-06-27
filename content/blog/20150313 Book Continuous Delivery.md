@@ -3,6 +3,7 @@ author: "Marcus Vechiato"
 title: "Insights from Continuous Delivery"
 date: "2015-03-13"
 publish: true
+thumbnail: continuous_delivery.jpg
 tags: 
   - devops
   - book
