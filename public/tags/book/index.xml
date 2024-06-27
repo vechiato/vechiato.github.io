@@ -13,7 +13,7 @@
       <link>https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/</guid>
-      <description>![[caos_eng.jpg]] 2020 by Casey Rosenthal, Nora Jones&#xA;Chaos Engineering Introduction: Birth of Chaos The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.&#xA;Summary ![[mindmap_chaos_eng.png]]&#xA;Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.</description>
+      <description>![[caos_eng.jpg]]&#xA;2020 by Casey Rosenthal, Nora Jones&#xA;Chaos Engineering Introduction: Birth of Chaos The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.&#xA;Summary ![[mindmap_chaos_eng.png]]&#xA;Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.</description>
     </item>
     <item>
       <title>Insights from Platform Engineering on Kubernetes</title>
