@@ -4,8 +4,7 @@
     <title>Categories on blog.vechiato.cc</title>
     <link>https://blog.vechiato.cc/categories/</link>
     <description>Recent content in Categories on blog.vechiato.cc</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://blog.vechiato.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://blog.vechiato.cc/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

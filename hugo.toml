@@ -1,12 +1,13 @@
 title = "blog.vechiato.cc"
 baseURL = "https://blog.vechiato.cc"
 languageCode = "en-us"
-theme = "ananke"
+#theme = "ananke"
+theme = "clarity"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 8 
 googleAnalytics = "G-6BYRELN45K"
 enableRobotsTXT = true
 
@@ -17,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Marcus Vechiato"
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
@@ -28,4 +29,16 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://linkedin.com/in/vechiato"
+
+#[menu]
+#  [[menu.main]]
+#    identifier = "home"
+#    name = "Home"
+#    url = "/"
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "tags"
+#    name = "Tags"
+#    url = "/tags/"
+#    weight = 2
 

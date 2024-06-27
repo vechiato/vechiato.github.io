@@ -4,65 +4,151 @@
     <title>Devops on blog.vechiato.cc</title>
     <link>https://blog.vechiato.cc/tags/devops/</link>
     <description>Recent content in Devops on blog.vechiato.cc</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from The Principles of Product Development Flow: Second Generation Lean Product Development</title>
       <link>https://blog.vechiato.cc/blog/20240602-book-the-principles-of-product-development-flow/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/blog/20240602-book-the-principles-of-product-development-flow/</guid>
-      <description>![[product_development_flow.jpg]] 2016 by Donald G. Reinertsen&#xA;The Principles of Product Development Flow Introduction In today&amp;rsquo;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;ldquo;The Principles of Product Development Flow&amp;rdquo; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency.&#xA;Summary ![[mindmap_flow.png]]&#xA;Part 1: The Principles of Flow Chapter 1: What Is the Problem?</description>
+      <description>
+        
+          
+            ![[product_development_flow.jpg]] 2016 by Donald G. Reinertsen
+The Principles of Product Development Flow Introduction In today&amp;rsquo;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;ldquo;The Principles of Product Development Flow&amp;rdquo; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency.
+Summary ![[mindmap_flow.png]]
+Part 1: The Principles of Flow Chapter 1: What Is the Problem?
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>GitOps Certification</title>
       <link>https://blog.vechiato.cc/blog/20240305-certified-gitops-associate-cgoa/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/blog/20240305-certified-gitops-associate-cgoa/</guid>
-      <description>Certified GitOps Associate (CGOA)&#xA;The CGOA certification was announced in 2023 can now be purchased as of February 21, 2024, but the ability to schedule a CGOA exam will not be available until the end of March 2024.&#xA;Experience Level: Beginner&#xA;Online Multiple-choice Exam Duration of Exam 90 Minutes Certification Valid for 3 Years Includes 12 Month Exam Eligibility One Retake PDF Certificate and Digital Badge Cost $ 250 Domains &amp;amp; Competencies GitOps Terminology 20%</description>
+      <description>
+        
+          
+            Certified GitOps Associate (CGOA)
+The CGOA certification was announced in 2023 can now be purchased as of February 21, 2024, but the ability to schedule a CGOA exam will not be available until the end of March 2024.
+Experience Level: Beginner
+Online Multiple-choice Exam Duration of Exam 90 Minutes Certification Valid for 3 Years Includes 12 Month Exam Eligibility One Retake PDF Certificate and Digital Badge Cost $ 250 Domains &amp;amp; Competencies GitOps Terminology 20%
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Insights from The DevOps Handbook</title>
       <link>https://blog.vechiato.cc/blog/20231217-book-the-devops-handbook/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/blog/20231217-book-the-devops-handbook/</guid>
-      <description>![[devops_handbook.jpg]] 2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren&#xA;The DevOps Handbook Introduction In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;ldquo;The DevOps Handbook: Second Edition&amp;rdquo; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices.</description>
+      <description>
+        
+          
+            ![[devops_handbook.jpg]] 2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
+The DevOps Handbook Introduction In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;ldquo;The DevOps Handbook: Second Edition&amp;rdquo; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices.
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Insights from Observability Engineering: Achieving Production Excellence</title>
       <link>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</guid>
-      <description>![[observability_engineering.png]] 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&#xA;Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).</description>
+      <description>
+        
+          
+            ![[observability_engineering.png]] 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
+Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
       <link>https://blog.vechiato.cc/blog/20210528-book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/blog/20210528-book-accelerate/</guid>
-      <description>![[book_accelerate.jpg]] 2018 by Nicole Forsgren, Jez Humble and Gene Kim&#xA;Accelerate: Building and Scaling High Performing Technology Organizations&#xA;Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.</description>
+      <description>
+        
+          
+            ![[book_accelerate.jpg]] 2018 by Nicole Forsgren, Jez Humble and Gene Kim
+Accelerate: Building and Scaling High Performing Technology Organizations
+Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Insights from Domain-Driven Design Distilled</title>
       <link>https://blog.vechiato.cc/blog/20190129-book-domain-driven-design-distilled/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/blog/20190129-book-domain-driven-design-distilled/</guid>
-      <description>![[domain_drive_desing.jpg]] 2016 by Vaughn Vernon&#xA;Domain-Driven Design Distilled Introduction In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&amp;rsquo;s &amp;ldquo;Domain-Driven Design Distilled&amp;rdquo; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&#xA;Summary !</description>
+      <description>
+        
+          
+            ![[domain_drive_desing.jpg]] 2016 by Vaughn Vernon
+Domain-Driven Design Distilled Introduction In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&amp;rsquo;s &amp;ldquo;Domain-Driven Design Distilled&amp;rdquo; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.
+Summary !
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Insights from Continuous Delivery</title>
       <link>https://blog.vechiato.cc/blog/20150313-book-continuous-delivery/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/blog/20150313-book-continuous-delivery/</guid>
-      <description>![[continuous_delivery.jpg]] 2010 by David Farley and Jez Humble&#xA;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation&#xA;Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;ldquo;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;rdquo; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively.</description>
+      <description>
+        
+          
+            ![[continuous_delivery.jpg]] 2010 by David Farley and Jez Humble
+Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;ldquo;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;rdquo; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively.
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</title>
       <link>https://blog.vechiato.cc/blog/20130602-book-the-phoenix-project/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/blog/20130602-book-the-phoenix-project/</guid>
-      <description>![[phoenix_project.jpg]] 2013 by Gene Kim, Kevin Behr, and George Spafford&#xA;The Phoenix Project Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.</description>
+      <description>
+        
+          
+            ![[phoenix_project.jpg]] 2013 by Gene Kim, Kevin Behr, and George Spafford
+The Phoenix Project Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>

@@ -2,6 +2,7 @@
 author: "Marcus Vechiato"
 title: "Insights from Ask Your Developer"
 date: "2021-04-11"
+thumbnail: ask_your_developer.jpg
 publish: true
 tags:
   - book

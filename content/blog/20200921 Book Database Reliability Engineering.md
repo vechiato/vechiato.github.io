@@ -3,6 +3,7 @@ author: "Marcus Vechiato"
 title: "Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems"
 date: "2020-09-21"
 publish: true
+thumbnail: database_reliability.jpg
 tags:
   - sre
   - book

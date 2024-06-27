@@ -2,6 +2,7 @@
 author: "Marcus Vechiato"
 title: "Insights from Observability Engineering: Achieving Production Excellence"
 date: "2022-12-02"
+thumbnail: observability_engineering.png
 publish: true
 tags: 
   - observability

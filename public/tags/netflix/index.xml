@@ -4,16 +4,25 @@
     <title>Netflix on blog.vechiato.cc</title>
     <link>https://blog.vechiato.cc/tags/netflix/</link>
     <description>Recent content in Netflix on blog.vechiato.cc</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from No rules rules: Netflix and the culture of reinvention</title>
       <link>https://blog.vechiato.cc/blog/20210807-book-no-rules-rules/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/blog/20210807-book-no-rules-rules/</guid>
-      <description>![[no_rules_rules.jpg]] 2020 by Reed Hastings and Erin Meyer&#xA;No Rules Rules Introduction In &amp;ldquo;No Rules Rules: Netflix and the Culture of Reinvention,&amp;rdquo; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.</description>
+      <description>
+        
+          
+            ![[no_rules_rules.jpg]] 2020 by Reed Hastings and Erin Meyer
+No Rules Rules Introduction In &amp;ldquo;No Rules Rules: Netflix and the Culture of Reinvention,&amp;rdquo; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>

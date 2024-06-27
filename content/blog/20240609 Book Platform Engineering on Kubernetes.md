@@ -3,9 +3,10 @@ author: "Marcus Vechiato"
 title: "Insights from Platform Engineering on Kubernetes"
 date: "2024-06-09"
 publish: true
+thumbnail: book_platform_engineering_kubernetes.jpg
 tags: 
   - k8s
-  - platformengineering
+  - platform engineering
   - book
 --- 
 

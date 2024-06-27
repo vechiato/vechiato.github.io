@@ -4,16 +4,26 @@
     <title>Teamtopologies on blog.vechiato.cc</title>
     <link>https://blog.vechiato.cc/tags/teamtopologies/</link>
     <description>Recent content in Teamtopologies on blog.vechiato.cc</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/teamtopologies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/teamtopologies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</title>
       <link>https://blog.vechiato.cc/blog/20220611-book-team-topologies/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/blog/20220611-book-team-topologies/</guid>
-      <description>![[team_topologies_book.jpg]] 2019 by Matthew Skelton and Manuel Pais&#xA;Team Topologies: Organizing Business and Technology Teams for Fast&#xA;Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;rdquo; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.</description>
+      <description>
+        
+          
+            ![[team_topologies_book.jpg]] 2019 by Matthew Skelton and Manuel Pais
+Team Topologies: Organizing Business and Technology Teams for Fast
+Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;rdquo; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>

@@ -3,14 +3,15 @@ author: "Marcus Vechiato"
 title: "Insights from The Staff Engineer's Path"
 date: "2023-08-11"
 publish: true
+thumbnail: the_staff_enginners_path.jpg
 tags:
   - leadership
   - book
 --- 
+![image](/obsidian/the_staff_enginners_path.jpg)
+2022 by Tanya Reilly
 
 [The Staff Engineer's Path: A Guide For Individual Contributors Navigating Growth and Change](https://www.amazon.co.uk/dp/1098118731)
-
-![image](/obsidian/the_staff_enginners_path.jpg)
 
 # The Staff Engineer's Path
 
