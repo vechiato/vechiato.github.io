@@ -2,7 +2,7 @@
 author: "Marcus Vechiato"
 title: "Insights from Chaos Engineering: System Resiliency in Practice"
 date: "2024-06-26"
-thumbnail: ![image](/obsidian/caos_eng.jpg)
+thumbnail: "/obsidian/caos_eng.jpg"
 publish: true
 tags: 
   - chaos engineering
