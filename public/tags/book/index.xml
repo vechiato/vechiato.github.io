@@ -81,6 +81,23 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
     </item>
     
     <item>
+      <title>Insights from Kubernetes Up and Running, 3rd Edition</title>
+      <link>https://blog.vechiato.cc/blog/20240222-book-kubernetes-up-and-running/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/20240222-book-kubernetes-up-and-running/</guid>
+      <description>
+        
+          
+            2022 by Brendan Burns, Joe Beda, Kelsey Hightower &amp;amp; Lachlan Evenson
+Kubernetes: Up and Running Summary &amp;ldquo;Kubernetes: Up and Running&amp;rdquo; by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It&amp;rsquo;s an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Insights from Adopting InnerSource</title>
       <link>https://blog.vechiato.cc/blog/20240508-book-adopting-innersource/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
