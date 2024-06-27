@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operating Systems on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/operating-systems/</link>
+    <description>Recent content in Operating Systems on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Systems Performance: Enterprise and the Cloud, Second Edition</title>
+      <link>https://blog.vechiato.cc/blog/20210702-book-systems-performance/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/20210702-book-systems-performance/</guid>
+      <description>
+        
+          
+            2020 by Brendan Gregg
+Systems Performance Introduction &amp;ldquo;Systems Performance: Enterprise and the Cloud&amp;rdquo; by Brendan Gregg is a comprehensive guide to understanding and improving the performance of computer systems. The book covers a wide range of topics, from the fundamentals of systems performance to advanced techniques for optimizing various system components. It provides practical methodologies and tools for performance analysis, making it an essential resource for system administrators, developers, and performance engineers.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
