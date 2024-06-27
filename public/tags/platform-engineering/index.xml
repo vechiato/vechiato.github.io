@@ -16,10 +16,11 @@
       <description>
         
           
-            2022 by Mauricio Salatino
+            ![[book_platform_engineering_kubernetes.jpg]] 2022 by Mauricio Salatino
 Platform Engineering on Kubernetes
 Platform Engineering on Kubernetes Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
-Summary Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.
+Summary ![[mindmap_platform_engineering_k8s.png]]
+Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.
           
           
         

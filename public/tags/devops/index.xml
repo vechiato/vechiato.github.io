@@ -16,9 +16,10 @@
       <description>
         
           
-            2016 by Donald G. Reinertsen
+            ![[product_development_flow.jpg]] 2016 by Donald G. Reinertsen
 The Principles of Product Development Flow Introduction In today&amp;rsquo;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;ldquo;The Principles of Product Development Flow&amp;rdquo; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency.
-Summary Part 1: The Principles of Flow Chapter 1: What Is the Problem?
+Summary ![[mindmap_flow.png]]
+Part 1: The Principles of Flow Chapter 1: What Is the Problem?
           
           
         
@@ -53,7 +54,7 @@ Online Multiple-choice Exam Duration of Exam 90 Minutes Certification Valid for 
       <description>
         
           
-            2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
+            ![[devops_handbook.jpg]] 2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
 The DevOps Handbook Introduction In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;ldquo;The DevOps Handbook: Second Edition&amp;rdquo; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices.
           
           
@@ -70,7 +71,7 @@ The DevOps Handbook Introduction In the rapidly evolving landscape of software d
       <description>
         
           
-            2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
+            ![[observability_engineering.png]] 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
 Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).
           
           
@@ -87,7 +88,7 @@ Observability Engineering Introduction In the rapidly evolving landscape of soft
       <description>
         
           
-            2018 by Nicole Forsgren, Jez Humble and Gene Kim
+            ![[book_accelerate.jpg]] 2018 by Nicole Forsgren, Jez Humble and Gene Kim
 Accelerate: Building and Scaling High Performing Technology Organizations
 Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.
           
@@ -105,9 +106,9 @@ Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and 
       <description>
         
           
-            2016 by Vaughn Vernon
+            ![[domain_drive_desing.jpg]] 2016 by Vaughn Vernon
 Domain-Driven Design Distilled Introduction In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&amp;rsquo;s &amp;ldquo;Domain-Driven Design Distilled&amp;rdquo; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.
-Summary Chapter 1: DDD for Me Will DDD Hurt?
+Summary !
           
           
         
@@ -123,7 +124,7 @@ Summary Chapter 1: DDD for Me Will DDD Hurt?
       <description>
         
           
-            2010 by David Farley and Jez Humble
+            ![[continuous_delivery.jpg]] 2010 by David Farley and Jez Humble
 Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;ldquo;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;rdquo; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively.
           
@@ -141,7 +142,7 @@ Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionis
       <description>
         
           
-            2013 by Gene Kim, Kevin Behr, and George Spafford
+            ![[phoenix_project.jpg]] 2013 by Gene Kim, Kevin Behr, and George Spafford
 The Phoenix Project Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.
           
           
