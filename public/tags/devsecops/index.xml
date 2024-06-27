@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devsecops on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/devsecops/</link>
+    <description>Recent content in Devsecops on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/devsecops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from DevSecOps</title>
+      <link>https://blog.vechiato.cc/blog/20201109-book-devsecops/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/20201109-book-devsecops/</guid>
+      <description>
+        
+          
+            2020 by Glenn Wilson
+DevSecOps Introduction In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&amp;rsquo;s DevSecOps offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.
+Summary Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
