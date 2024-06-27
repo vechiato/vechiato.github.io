@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = "Marcus Vechiato"
-  favicon = "/static/favicon.ico"
+  #favicon = "/static/favicon.ico"
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
