@@ -16,9 +16,11 @@
       <description>
         
           
-            2020 by Casey Rosenthal, Nora Jones
+            ![[caos_eng.jpg]]
+2020 by Casey Rosenthal, Nora Jones
 Chaos Engineering Introduction: Birth of Chaos The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
-Summary Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.
+Summary ![[mindmap_chaos_eng.png]]
+Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.
           
           
         
@@ -34,10 +36,11 @@ Summary Part I: Setting the Stage Chapter 1: Encountering Complex Systems This c
       <description>
         
           
-            2022 by Mauricio Salatino
+            ![[book_platform_engineering_kubernetes.jpg]] 2022 by Mauricio Salatino
 Platform Engineering on Kubernetes
 Platform Engineering on Kubernetes Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
-Summary Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.
+Summary ![[mindmap_platform_engineering_k8s.png]]
+Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.
           
           
         
@@ -53,9 +56,10 @@ Summary Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter intro
       <description>
         
           
-            2016 by Donald G. Reinertsen
+            ![[product_development_flow.jpg]] 2016 by Donald G. Reinertsen
 The Principles of Product Development Flow Introduction In today&amp;rsquo;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;ldquo;The Principles of Product Development Flow&amp;rdquo; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency.
-Summary Part 1: The Principles of Flow Chapter 1: What Is the Problem?
+Summary ![[mindmap_flow.png]]
+Part 1: The Principles of Flow Chapter 1: What Is the Problem?
           
           
         
@@ -71,7 +75,7 @@ Summary Part 1: The Principles of Flow Chapter 1: What Is the Problem?
       <description>
         
           
-            2023 by Liz Rice
+            ![[book_learning_ebpf.jpg]] 2023 by Liz Rice
 Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security
 Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.
           
@@ -107,7 +111,7 @@ Summary Chapter 1: The InnerSource Approach to Innovation and Software Developme
       <description>
         
           
-            2022 by Arun Ramakani
+            ![[end2end_automation_k8s_crossplane.jpg]] 2022 by Arun Ramakani
 End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
 Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.
           
@@ -125,7 +129,7 @@ Introduction In the ever-evolving landscape of cloud-native infrastructure, Kube
       <description>
         
           
-            2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
+            ![[devops_handbook.jpg]] 2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
 The DevOps Handbook Introduction In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;ldquo;The DevOps Handbook: Second Edition&amp;rdquo; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices.
           
           
@@ -142,7 +146,7 @@ The DevOps Handbook Introduction In the rapidly evolving landscape of software d
       <description>
         
           
-            2023 by J.R. Storment and Mike Fuller
+            ![[cloud_finops.jpg]] 2023 by J.R. Storment and Mike Fuller
 Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making Introduction In the modern era of cloud computing, managing cloud spend efficiently has become crucial for businesses. &amp;ldquo;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making&amp;rdquo; by J.R. Storment and Mike Fuller delves into the practices and principles of FinOps, a methodology that combines financial management with DevOps to drive accountability and efficiency in cloud spending.
           
           
@@ -159,7 +163,7 @@ Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making Introduction 
       <description>
         
           
-            2022 by Tanya Reilly
+            ![[the_staff_enginners_path.jpg]] 2022 by Tanya Reilly
 The Staff Engineer&amp;rsquo;s Path: A Guide For Individual Contributors Navigating Growth and Change
 The Staff Engineer&amp;rsquo;s Path Introduction In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. &amp;ldquo;The Staff Engineer&amp;rsquo;s Path: A Guide for Individual Contributors Navigating Growth and Change&amp;rdquo; by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management.
           
@@ -177,7 +181,7 @@ The Staff Engineer&amp;rsquo;s Path Introduction In the world of technology, car
       <description>
         
           
-            2016 by Clayton M. Christensen The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail
+            ![[innovators_dilemma.jpg]] 2016 by Clayton M. Christensen The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail
 The Innovators Dilemma Introduction &amp;ldquo;The Innovator&amp;rsquo;s Dilemma&amp;rdquo; by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.
 Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fail?
           
@@ -195,7 +199,7 @@ Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fa
       <description>
         
           
-            2007 by Malcolm Gladwell
+            ![[blink.jpg]] 2007 by Malcolm Gladwell
 Blink Introduction In a world where decisions are often made in the blink of an eye, understanding the power of these snap judgments is crucial. Malcolm Gladwell&amp;rsquo;s &amp;ldquo;Blink: The Power of Thinking Without Thinking&amp;rdquo; delves into the science and psychology behind these rapid decisions, revealing how they can be both incredibly accurate and dangerously flawed. This book is a fascinating exploration of the unconscious mind and its role in our everyday choices.
           
           
@@ -212,9 +216,11 @@ Blink Introduction In a world where decisions are often made in the blink of an 
       <description>
         
           
-            Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations
+            ![[sre_foundations.jpg]]
+Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations
 Establishing SRE Foundations Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.
-Summary Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.
+Summary ![[mindmap_establishing_sre.png]]
+Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.
           
           
         
@@ -230,7 +236,7 @@ Summary Chapter 1: Introduction to SRE The first chapter introduces the concept 
       <description>
         
           
-            2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
+            ![[observability_engineering.png]] 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
 Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).
           
           
@@ -247,7 +253,7 @@ Observability Engineering Introduction In the rapidly evolving landscape of soft
       <description>
         
           
-            2019 by Matthew Skelton and Manuel Pais
+            ![[team_topologies_book.jpg]] 2019 by Matthew Skelton and Manuel Pais
 Team Topologies: Organizing Business and Technology Teams for Fast
 Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;rdquo; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.
           
@@ -265,7 +271,7 @@ Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and
       <description>
         
           
-            2021 by Colin Bryar &amp;amp; Bill Carr
+            ![[working_backwards.jpg]] 2021 by Colin Bryar &amp;amp; Bill Carr
 Working Backwards Introduction &amp;ldquo;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;rdquo; by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon&amp;rsquo;s success. The authors, both former Amazon executives, provide a detailed account of how the company&amp;rsquo;s culture and methodologies can be applied to achieve extraordinary results in any organisation.
 Summary Part One: Being Amazonian Chapter 1: Building Blocks: Leadership Principles and Mechanisms This chapter introduces Amazon&amp;rsquo;s 14 Leadership Principles, which are central to the company&amp;rsquo;s culture and decision-making processes.
           
@@ -299,7 +305,7 @@ Summary Part One: Being Amazonian Chapter 1: Building Blocks: Leadership Princip
       <description>
         
           
-            2020 by Reed Hastings and Erin Meyer
+            ![[no_rules_rules.jpg]] 2020 by Reed Hastings and Erin Meyer
 No Rules Rules Introduction In &amp;ldquo;No Rules Rules: Netflix and the Culture of Reinvention,&amp;rdquo; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.
           
           
@@ -316,7 +322,7 @@ No Rules Rules Introduction In &amp;ldquo;No Rules Rules: Netflix and the Cultur
       <description>
         
           
-            2018 by Nicole Forsgren, Jez Humble and Gene Kim
+            ![[book_accelerate.jpg]] 2018 by Nicole Forsgren, Jez Humble and Gene Kim
 Accelerate: Building and Scaling High Performing Technology Organizations
 Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.
           
@@ -334,9 +340,10 @@ Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and 
       <description>
         
           
-            2021 by Jeff Lawson
+            ![[ask_your_developer.jpg]] 2021 by Jeff Lawson
 Ask Your Developer Introduction In the digital age, businesses need to adapt quickly to remain competitive. &amp;ldquo;Ask Your Developer&amp;rdquo; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&amp;rsquo; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.
-Summary Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.
+Summary ![[mindmap_ask_your_dev.png]]
+Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.
           
           
         
@@ -352,9 +359,9 @@ Summary Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.
       <description>
         
           
-            2017 by Laine Campbell &amp;amp; Charity Majors
+            ![[database_reliability.jpg]] 2017 by Laine Campbell &amp;amp; Charity Majors
 Database Reliability Engineering Introduction &amp;ldquo;Database Reliability Engineering&amp;rdquo; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.
-Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introducing Database Reliability Engineering This chapter sets the stage by defining the role of a Database Reliability Engineer and the need for reliability engineering in database management.
+Summary ![[mindmap_dbre.png]]
           
           
         
@@ -370,7 +377,7 @@ Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introduc
       <description>
         
           
-            2018 by David Blank–edelman
+            ![[seeking_sre.jpg]] 2018 by David Blank–edelman
 Seeking SRE: Conversations about running production systems at scale
 Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&amp;rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.
           
@@ -388,7 +395,7 @@ Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundame
       <description>
         
           
-            ![image](/obsidian/the managers path.jpg) 2017 by Camile Fournier
+            ![[the managers path.jpg]] 2017 by Camile Fournier
 The Manager&amp;rsquo;s Path: A Guide for Tech Leaders Navigating
 The Manager&amp;rsquo;s Path Introduction &amp;ldquo;The Manager&amp;rsquo;s Path&amp;rdquo; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.
           
@@ -406,9 +413,9 @@ The Manager&amp;rsquo;s Path Introduction &amp;ldquo;The Manager&amp;rsquo;s Pat
       <description>
         
           
-            2016 by Vaughn Vernon
+            ![[domain_drive_desing.jpg]] 2016 by Vaughn Vernon
 Domain-Driven Design Distilled Introduction In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&amp;rsquo;s &amp;ldquo;Domain-Driven Design Distilled&amp;rdquo; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.
-Summary Chapter 1: DDD for Me Will DDD Hurt?
+Summary !
           
           
         
@@ -424,7 +431,7 @@ Summary Chapter 1: DDD for Me Will DDD Hurt?
       <description>
         
           
-            2010 by David Farley and Jez Humble
+            ![[continuous_delivery.jpg]] 2010 by David Farley and Jez Humble
 Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;ldquo;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;rdquo; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively.
           
@@ -442,7 +449,7 @@ Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionis
       <description>
         
           
-            2013 by Gene Kim, Kevin Behr, and George Spafford
+            ![[phoenix_project.jpg]] 2013 by Gene Kim, Kevin Behr, and George Spafford
 The Phoenix Project Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.
           
           

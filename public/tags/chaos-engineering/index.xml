@@ -16,9 +16,11 @@
       <description>
         
           
-            2020 by Casey Rosenthal, Nora Jones
+            ![[caos_eng.jpg]]
+2020 by Casey Rosenthal, Nora Jones
 Chaos Engineering Introduction: Birth of Chaos The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
-Summary Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.
+Summary ![[mindmap_chaos_eng.png]]
+Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.
           
           
         
