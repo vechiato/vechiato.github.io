@@ -142,6 +142,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://blog.vechiato.cc/blog/seedling-aug23/</loc>
+    <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://blog.vechiato.cc/blog/20230811-book-the-staff-engineers-path/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
