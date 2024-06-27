@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Insights from Chaos Engineering: System Resiliency in Practice | blog.vechiato.cc</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="![[caos_eng.jpg]] 2020 by Casey Rosenthal, Nora Jones
+Chaos Engineering Introduction: Birth of Chaos The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
+Summary ![[mindmap_chaos_eng.png]]
+Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.">
+    <meta name="generator" content="Hugo 0.127.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+      <meta name="author" content = "Marcus Vechiato">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/">
+    
+
+    <meta property="og:url" content="https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/">
+  <meta property="og:site_name" content="blog.vechiato.cc">
+  <meta property="og:title" content="Insights from Chaos Engineering: System Resiliency in Practice">
+  <meta property="og:description" content="![[caos_eng.jpg]] 2020 by Casey Rosenthal, Nora Jones
+Chaos Engineering Introduction: Birth of Chaos The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
+Summary ![[mindmap_chaos_eng.png]]
+Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2024-06-26T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-06-26T00:00:00+00:00">
+    <meta property="article:tag" content="Chaos Engineering">
+    <meta property="article:tag" content="Sre">
+    <meta property="article:tag" content="Book">
+
+  <meta itemprop="name" content="Insights from Chaos Engineering: System Resiliency in Practice">
+  <meta itemprop="description" content="![[caos_eng.jpg]] 2020 by Casey Rosenthal, Nora Jones
+Chaos Engineering Introduction: Birth of Chaos The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
+Summary ![[mindmap_chaos_eng.png]]
+Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.">
+  <meta itemprop="datePublished" content="2024-06-26T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2024-06-26T00:00:00+00:00">
+  <meta itemprop="wordCount" content="1004">
+  <meta itemprop="keywords" content="Chaos Engineering,Sre,Book">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Insights from Chaos Engineering: System Resiliency in Practice">
+  <meta name="twitter:description" content="![[caos_eng.jpg]] 2020 by Casey Rosenthal, Nora Jones
+Chaos Engineering Introduction: Birth of Chaos The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
+Summary ![[mindmap_chaos_eng.png]]
+Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.">
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        blog.vechiato.cc
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blogs page">
+              Blogs
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+    
+    <a href="https://linkedin.com/in/vechiato" target="_blank" rel="noopener" class="linkedin ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="LinkedIn link" aria-label="follow on LinkedIn——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Blogs
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/&amp;title=Insights%20from%20Chaos%20Engineering:%20System%20Resiliency%20in%20Practice" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Insights from Chaos Engineering: System Resiliency in Practice</h1>
+      
+      <p class="tracked">
+        By <strong>Marcus Vechiato</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2024-06-26T00:00:00Z">June 26, 2024</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>![[caos_eng.jpg]]
+2020 by Casey Rosenthal, Nora Jones</p>
+<h1 id="chaos-engineering">Chaos Engineering</h1>
+<h2 id="introduction-birth-of-chaos">Introduction: Birth of Chaos</h2>
+<p>The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.</p>
+<h2 id="summary">Summary</h2>
+<p>![[mindmap_chaos_eng.png]]</p>
+<h3 id="part-i-setting-the-stage">Part I: Setting the Stage</h3>
+<h4 id="chapter-1-encountering-complex-systems">Chapter 1: Encountering Complex Systems</h4>
+<p>This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures. The authors argue for proactive failure testing to build robust systems.</p>
+<h4 id="chapter-2-navigating-complex-systems">Chapter 2: Navigating Complex Systems</h4>
+<p>Here, the authors introduce the Dynamic Safety Model and Economic Pillars of Complexity, providing frameworks to understand and manage complex systems effectively.</p>
+<h4 id="chapter-3-overview-of-principles">Chapter 3: Overview of Principles</h4>
+<p>This chapter defines Chaos Engineering and its core principles. It differentiates between experimentation and testing, and introduces concepts such as building hypotheses around steady-state behavior and varying real-world events.</p>
+<h3 id="part-ii-principles-in-action">Part II: Principles in Action</h3>
+<h4 id="chapter-4-slacks-disasterpiece-theater">Chapter 4: Slack’s Disasterpiece Theater</h4>
+<p>This chapter provides a case study from Slack, detailing their approach to Chaos Engineering. The authors describe the goals, anti-goals, and processes involved in their disaster recovery exercises, emphasizing the importance of preparation and continuous improvement.</p>
+<h4 id="chapter-5-google-dirt-disaster-recovery-testing">Chapter 5: Google DiRT: Disaster Recovery Testing</h4>
+<p>Google’s Disaster Recovery Testing (DiRT) program is explored in this chapter. The authors outline the rules of engagement, the scope of tests, and the importance of thorough and regular testing to ensure system resilience.</p>
+<h4 id="chapter-6-microsoft-variation-and-prioritization-of-experiments">Chapter 6: Microsoft Variation and Prioritization of Experiments</h4>
+<p>This chapter discusses how Microsoft prioritizes and varies its chaos experiments to uncover unexpected failure modes. The importance of exploring dependencies and scaling experiments is emphasized.</p>
+<h4 id="chapter-7-linkedin-being-mindful-of-members">Chapter 7: LinkedIn Being Mindful of Members</h4>
+<p>LinkedIn’s approach to Chaos Engineering focuses on minimizing user impact while conducting large-scale experiments. The chapter details their use of granular targeting and automated experimentation to maintain system integrity.</p>
+<h4 id="chapter-8-capital-one-adoption-and-evolution-of-chaos-engineering">Chapter 8: Capital One Adoption and Evolution of Chaos Engineering</h4>
+<p>This case study explores how Capital One integrated Chaos Engineering into their CI/CD pipeline. The chapter covers blind resiliency testing, team structure, and the importance of internal evangelism for successful adoption.</p>
+<h3 id="part-iii-human-factors">Part III: Human Factors</h3>
+<h4 id="chapter-9-creating-foresight">Chapter 9: Creating Foresight</h4>
+<p>The authors discuss the steps of the Chaos Engineering cycle, from designing experiments to partnering internally with different teams. They emphasize the importance of understanding operating procedures and hypothesizing potential failure points.</p>
+<h4 id="chapter-10-humanistic-chaos">Chapter 10: Humanistic Chaos</h4>
+<p>This chapter explores the role of human factors in Chaos Engineering. The authors argue for a socio-technical approach, recognizing that organizations are systems of systems where human behavior and organizational culture play critical roles.</p>
+<h4 id="chapter-11-people-in-the-loop">Chapter 11: People in the Loop</h4>
+<p>The chapter discusses the balance between automated systems and human intervention in Chaos Engineering. It highlights the need for functional allocation, where machines handle repetitive tasks and humans manage complex decision-making.</p>
+<h4 id="chapter-12-the-experiment-selection-problem-and-a-solution">Chapter 12: The Experiment Selection Problem (and a Solution)</h4>
+<p>The authors address the challenge of selecting which experiments to run. They propose methods for random search and observability-driven intuition engineering to optimize experiment selection.</p>
+<h3 id="part-iv-business-factors">Part IV: Business Factors</h3>
+<h4 id="chapter-13-roi-of-chaos-engineering">Chapter 13: ROI of Chaos Engineering</h4>
+<p>This chapter explores the return on investment (ROI) of implementing Chaos Engineering. The authors use models like the Kirkpatrick Model to evaluate the impact of Chaos Engineering on organizational learning and performance.</p>
+<h4 id="chapter-14-open-minds-open-science-and-open-chaos">Chapter 14: Open Minds, Open Science, and Open Chaos</h4>
+<p>The importance of an open, collaborative mindset is discussed, with emphasis on open science and open-source contributions to advance Chaos Engineering practices. The chapter highlights the benefits of sharing experiment findings and tools.</p>
+<h4 id="chapter-15-chaos-maturity-model">Chapter 15: Chaos Maturity Model</h4>
+<p>The Chaos Maturity Model (CMM) is introduced to help organizations assess their maturity in Chaos Engineering practices. The chapter outlines stages of adoption, from initial buy-in to sophisticated, automated experiments.</p>
+<h3 id="part-v-evolution">Part V: Evolution</h3>
+<h4 id="chapter-16-continuous-verification">Chapter 16: Continuous Verification</h4>
+<p>This chapter discusses continuous verification (CV) systems, with a focus on Netflix’s ChAP (Chaos Automation Platform). The authors explain how CV can be integrated into regular operations to ensure ongoing system resilience.</p>
+<h4 id="chapter-17-lets-get-cyber-physical">Chapter 17: Let’s Get Cyber-Physical</h4>
+<p>The authors explore Chaos Engineering beyond traditional software systems, applying principles to cyber-physical systems. They discuss the intersection of functional safety and Chaos Engineering in these complex environments.</p>
+<h4 id="chapter-18-hop-meets-chaos-engineering">Chapter 18: HOP Meets Chaos Engineering</h4>
+<p>This chapter integrates Human and Organizational Performance (HOP) principles with Chaos Engineering. The authors highlight the need for understanding human error and context in building resilient systems.</p>
+<h4 id="chapter-19-chaos-engineering-on-a-database">Chapter 19: Chaos Engineering on a Database</h4>
+<p>The chapter provides a real-world example of applying Chaos Engineering to databases. Techniques like fault injection and automated experimentation are discussed to ensure database robustness and stability.</p>
+<h4 id="chapter-20-the-case-for-security-chaos-engineering">Chapter 20: The Case for Security Chaos Engineering</h4>
+<p>The authors make a case for integrating Chaos Engineering with security practices. They introduce the concept of Security Chaos Engineering and discuss tools and methods for enhancing security through continuous testing and feedback loops.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<ol>
+<li><strong>Proactive Failure Testing</strong>: Chaos Engineering shifts the paradigm from reactive to proactive failure management, encouraging regular testing of systems under failure conditions to improve resiliency.</li>
+<li><strong>Cultural Change</strong>: Successful Chaos Engineering requires a cultural shift where failures are seen as learning opportunities rather than incidents that assign blame.</li>
+<li><strong>Automated Experimentation</strong>: Implementing automated systems for fault injection and failure detection can significantly enhance the effectiveness of Chaos Engineering practices.</li>
+<li><strong>Real-World Applications</strong>: The book provides concrete examples and case studies demonstrating the practical benefits and applications of Chaos Engineering across various industries.</li>
+</ol>
+<h2 id="personal-reflections">Personal Reflections</h2>
+<p>Reading <em>Chaos Engineering: System Resiliency in Practice</em> has been an eye-opener regarding the proactive approaches necessary for maintaining robust and resilient systems in today’s fast-evolving technological landscape. The emphasis on cultural change and learning from failures resonates deeply with modern DevOps practices, highlighting the importance of continuous improvement and resilience.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p><em>Chaos Engineering: System Resiliency in Practice</em> by Casey Rosenthal and Nora Jones is an essential read for software engineers and DevOps practitioners looking to enhance system reliability and resilience. By adopting the principles and practices outlined in the book, organizations can better prepare for and mitigate the impacts of unexpected failures, ultimately leading to more stable and reliable systems.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/chaos-engineering/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Chaos Engineering</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/sre/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Sre</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/book/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Book</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/blog/20240515-book-insights-ebpf/">Insights from Learning eBPF: Programmatically Extend the Linux Kernel</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20221202-book-observability-engineering-2022/">Insights from Observability Engineering: Achieving Production Excellence</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20200622-book-seeking-sre/">Insights from Seeking SRE</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20240609-book-platform-engineering-on-kubernetes/">Insights from Platform Engineering on Kubernetes</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20240602-book-the-principles-of-product-development-flow/">Insights from The Principles of Product Development Flow: Second Generation Lean Product Development</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20240508-book-adopting-innersource/">Insights from Adopting InnerSource</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/">Insights from End-to-End Automation with Kubernetes and Crossplane</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20231217-book-the-devops-handbook/">Insights from The DevOps Handbook</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20230919-book-cloud-finops/">Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20230811-book-the-staff-engineers-path/">Insights from The Staff Engineer&#39;s Path</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20230211-book-innovators-dilemma/">Insights from The Innovator&#39;s Dilemma</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20210124-book-blink/">Insight from Blink: The Power of Thinking Without Thinking</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20230120-book-establishing-sre-foundations/">Insights from Establishing SRE Foundations</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20220611-book-team-topologies/">Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20211218-book-working-backwards/">Insights from Working Backwards: Insights, Stories, and Secrets from Inside Amazon</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://blog.vechiato.cc/" >
+    &copy;  blog.vechiato.cc 2024 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+    
+    <a href="https://linkedin.com/in/vechiato" target="_blank" rel="noopener" class="linkedin ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="LinkedIn link" aria-label="follow on LinkedIn——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

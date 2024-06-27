@@ -6,8 +6,15 @@
     <description>Recent content on blog.vechiato.cc</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Chaos Engineering: System Resiliency in Practice</title>
+      <link>https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/</guid>
+      <description>![[caos_eng.jpg]] 2020 by Casey Rosenthal, Nora Jones&#xA;Chaos Engineering Introduction: Birth of Chaos The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.&#xA;Summary ![[mindmap_chaos_eng.png]]&#xA;Part I: Setting the Stage Chapter 1: Encountering Complex Systems This chapter discusses the inherent complexity of modern software systems and the need for a new approach to handle unexpected failures.</description>
+    </item>
     <item>
       <title>Insights from Platform Engineering on Kubernetes</title>
       <link>https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/</link>
@@ -140,6 +147,13 @@
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20210528-book-accelerate/</guid>
       <description>![[book_accelerate.jpg]] 2018 by Nicole Forsgren, Jez Humble and Gene Kim&#xA;Accelerate: Building and Scaling High Performing Technology Organizations&#xA;Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.</description>
+    </item>
+    <item>
+      <title>Insights from Ask Your Developer</title>
+      <link>https://blog.vechiato.cc/blog/20210411-book-ask-your-developer/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20210411-book-ask-your-developer/</guid>
+      <description>![[ask_your_developer.jpg]] 2021 by Jeff Lawson&#xA;Ask Your Developer Introduction In the digital age, businesses need to adapt quickly to remain competitive. &amp;ldquo;Ask Your Developer&amp;rdquo; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&amp;rsquo; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.&#xA;Summary ![[mindmap_ask_your_dev.png]]&#xA;Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.</description>
     </item>
     <item>
       <title>Insights from Seeking SRE</title>
