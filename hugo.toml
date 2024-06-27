@@ -1,12 +1,11 @@
-title = "blog.vechiato.cc"
+title = "Marcus Vechiato"
 baseURL = "https://blog.vechiato.cc"
 languageCode = "en-us"
-#theme = "ananke"
 theme = "clarity"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
+#SectionPagesMenu = "main"
 Paginate = 8 
 googleAnalytics = "G-6BYRELN45K"
 enableRobotsTXT = true
