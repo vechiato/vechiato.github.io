@@ -142,6 +142,13 @@
       <description>![[ask_your_developer.jpg]] 2021 by Jeff Lawson&#xA;Ask Your Developer Introduction In the digital age, businesses need to adapt quickly to remain competitive. &amp;ldquo;Ask Your Developer&amp;rdquo; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&amp;rsquo; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.&#xA;Summary ![[mindmap_ask_your_dev.png]]&#xA;Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.</description>
     </item>
     <item>
+      <title>Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems</title>
+      <link>https://blog.vechiato.cc/blog/20200921-book-database-reliability-engineering/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20200921-book-database-reliability-engineering/</guid>
+      <description>![[database_reliability.jpg]] 2017 by Laine Campbell &amp;amp; Charity Majors&#xA;Database Reliability Engineering Introduction &amp;ldquo;Database Reliability Engineering&amp;rdquo; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.&#xA;Summary ![[mindmap_dbre.png]]</description>
+    </item>
+    <item>
       <title>Insights from Seeking SRE</title>
       <link>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>

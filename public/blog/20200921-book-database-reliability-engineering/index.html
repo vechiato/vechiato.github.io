@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems | blog.vechiato.cc</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="![[database_reliability.jpg]] 2017 by Laine Campbell &amp; Charity Majors
+Database Reliability Engineering Introduction &ldquo;Database Reliability Engineering&rdquo; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.
+Summary ![[mindmap_dbre.png]]">
+    <meta name="generator" content="Hugo 0.127.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+      <meta name="author" content = "Marcus Vechiato">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="https://blog.vechiato.cc/blog/20200921-book-database-reliability-engineering/">
+    
+
+    <meta property="og:url" content="https://blog.vechiato.cc/blog/20200921-book-database-reliability-engineering/">
+  <meta property="og:site_name" content="blog.vechiato.cc">
+  <meta property="og:title" content="Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems">
+  <meta property="og:description" content="![[database_reliability.jpg]] 2017 by Laine Campbell &amp; Charity Majors
+Database Reliability Engineering Introduction “Database Reliability Engineering” by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.
+Summary ![[mindmap_dbre.png]]">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2020-09-21T00:00:00+00:00">
+    <meta property="article:modified_time" content="2020-09-21T00:00:00+00:00">
+    <meta property="article:tag" content="Sre">
+    <meta property="article:tag" content="Book">
+    <meta property="article:tag" content="Dbre">
+
+  <meta itemprop="name" content="Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems">
+  <meta itemprop="description" content="![[database_reliability.jpg]] 2017 by Laine Campbell &amp; Charity Majors
+Database Reliability Engineering Introduction “Database Reliability Engineering” by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.
+Summary ![[mindmap_dbre.png]]">
+  <meta itemprop="datePublished" content="2020-09-21T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2020-09-21T00:00:00+00:00">
+  <meta itemprop="wordCount" content="792">
+  <meta itemprop="keywords" content="Sre,Book,Dbre">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems">
+  <meta name="twitter:description" content="![[database_reliability.jpg]] 2017 by Laine Campbell &amp; Charity Majors
+Database Reliability Engineering Introduction “Database Reliability Engineering” by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.
+Summary ![[mindmap_dbre.png]]">
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        blog.vechiato.cc
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blogs page">
+              Blogs
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+    
+    <a href="https://linkedin.com/in/vechiato" target="_blank" rel="noopener" class="linkedin ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="LinkedIn link" aria-label="follow on LinkedIn——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Blogs
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+      
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://blog.vechiato.cc/blog/20200921-book-database-reliability-engineering/&amp;title=Insights%20from%20Database%20Reliability%20Engineering:%20Designing%20and%20Operating%20Resilient%20Database%20Systems" class="ananke-social-link linkedin no-underline" aria-label="share on LinkedIn">
+        
+        <span class="icon"> <svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+        
+      </a>
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems</h1>
+      
+      <p class="tracked">
+        By <strong>Marcus Vechiato</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2020-09-21T00:00:00Z">September 21, 2020</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>![[database_reliability.jpg]]
+2017 by Laine Campbell &amp; Charity Majors</p>
+<h1 id="database-reliability-engineering">Database Reliability Engineering</h1>
+<h2 id="introduction">Introduction</h2>
+<p>&ldquo;Database Reliability Engineering&rdquo; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.</p>
+<h2 id="summary">Summary</h2>
+<p>![[mindmap_dbre.png]]</p>
+<h3 id="part-1-introducing-database-reliability-engineering">Part 1: Introducing Database Reliability Engineering</h3>
+<h4 id="chapter-1-introducing-database-reliability-engineering">Chapter 1: Introducing Database Reliability Engineering</h4>
+<p>This chapter sets the stage by defining the role of a Database Reliability Engineer and the need for reliability engineering in database management. It discusses the transition from traditional database administration to a more integrated and automated approach that aligns with DevOps principles.</p>
+<h4 id="chapter-2-service-level-management">Chapter 2: Service-Level Management</h4>
+<p>Service-level objectives (SLOs) and indicators (SLIs) are crucial for managing the performance and reliability of databases. This chapter explains how to define, monitor, and report on various service-level metrics such as latency, availability, throughput, and durability.</p>
+<h4 id="chapter-3-risk-management">Chapter 3: Risk Management</h4>
+<p>Risk management is about identifying and mitigating potential issues that could affect database reliability. The chapter covers risk considerations, bootstrapping processes, service risk evaluation, architectural inventory, and prioritization strategies.</p>
+<h3 id="part-2-operational-visibility">Part 2: Operational Visibility</h3>
+<h4 id="chapter-4-operational-visibility">Chapter 4: Operational Visibility</h4>
+<p>Operational visibility involves monitoring and understanding the performance and health of database systems. This chapter introduces frameworks for telemetry, metrics, logs, and events, and discusses the importance of distributed tracing and internal database visibility.</p>
+<h4 id="chapter-5-infrastructure-engineering">Chapter 5: Infrastructure Engineering</h4>
+<p>The chapter delves into the various aspects of infrastructure engineering, including the use of physical servers, virtualization, containers, and Database as a Service (DBaaS). It discusses the benefits and challenges of each approach and their implications for database reliability.</p>
+<h3 id="part-3-infrastructure-management">Part 3: Infrastructure Management</h3>
+<h4 id="chapter-6-infrastructure-management">Chapter 6: Infrastructure Management</h4>
+<p>Effective infrastructure management requires robust configuration management, version control, orchestration, and compliance testing. This chapter outlines best practices for maintaining and enforcing infrastructure configurations and integrating them into development environments.</p>
+<h4 id="chapter-7-backup-and-recovery">Chapter 7: Backup and Recovery</h4>
+<p>Backup and recovery are critical components of database reliability. This chapter explains different backup strategies, recovery scenarios, and the essential building blocks of a robust recovery strategy, including detection, tiered storage, varied tools, and thorough testing.</p>
+<h3 id="part-4-advanced-topics">Part 4: Advanced Topics</h3>
+<h4 id="chapter-8-release-management">Chapter 8: Release Management</h4>
+<p>Managing releases in a database environment involves creating safety nets to reduce risks and facilitate smooth deployments. This chapter discusses strategies for release management and how to balance innovation with reliability.</p>
+<h4 id="chapter-9-security">Chapter 9: Security</h4>
+<p>Data security is paramount for protecting sensitive information and ensuring compliance. This chapter covers strategies for planning and managing database security in evolving infrastructures.</p>
+<h4 id="chapter-10-data-storage-indexing-and-replication">Chapter 10: Data Storage, Indexing, and Replication</h4>
+<p>The chapter explores various data storage techniques, indexing methods, and replication topologies. It compares relational databases with other data storage models like sorted strings and log-structured merge trees.</p>
+<h4 id="chapter-11-datastore-field-guide">Chapter 11: Datastore Field Guide</h4>
+<p>A comprehensive guide to evaluating and operating different datastores, this chapter highlights the conceptual and internal attributes essential for application developers and architects.</p>
+<h4 id="chapter-12-architectural-patterns-for-distributed-databases">Chapter 12: Architectural Patterns for Distributed Databases</h4>
+<p>This chapter examines common architectural patterns used in distributed databases and the pipelines involved. It provides insights into the components and complexities of a database ecosystem.</p>
+<h4 id="chapter-13-building-a-culture-of-database-reliability-engineering">Chapter 13: Building a Culture of Database Reliability Engineering</h4>
+<p>The final chapter discusses how to foster a culture of reliability within an organization. It emphasizes the transformation of the DBRE role from administrator to engineer and the importance of collaboration and continuous improvement.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<ol>
+<li><strong>Transition to DBRE</strong>: Emphasizes the evolution from traditional DBA roles to Database Reliability Engineers who integrate engineering principles.</li>
+<li><strong>Service-Level Management</strong>: Highlights the importance of defining and monitoring SLOs and SLIs.</li>
+<li><strong>Risk Management</strong>: Covers strategies for identifying and mitigating risks in database environments.</li>
+<li><strong>Operational Visibility</strong>: Stresses the need for comprehensive monitoring and visibility into database operations.</li>
+<li><strong>Infrastructure Engineering</strong>: Discusses various infrastructure options and their implications for database reliability.</li>
+<li><strong>Backup and Recovery</strong>: Details the essential components of effective backup and recovery strategies.</li>
+<li><strong>Security</strong>: Focuses on planning and managing database security.</li>
+<li><strong>Data Storage and Replication</strong>: Explores different storage models and replication techniques.</li>
+<li><strong>Building Reliability Culture</strong>: Encourages fostering a culture of reliability and continuous improvement in organizations.</li>
+</ol>
+<h2 id="personal-reflections">Personal Reflections</h2>
+<p>Reading &ldquo;Database Reliability Engineering&rdquo; has been enlightening, particularly in understanding the shift towards more integrated and automated database management practices. The emphasis on collaboration, automation, and a proactive approach to reliability resonates deeply with the current trends in software engineering and DevOps.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>&ldquo;Database Reliability Engineering&rdquo; by Laine Campbell and Charity Majors is an essential read for anyone involved in database management or DevOps. It provides a solid framework for building and maintaining resilient database systems and offers valuable insights into the evolving role of database professionals. By adopting the principles and practices outlined in the book, organizations can achieve greater reliability and efficiency in their database operations.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/sre/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Sre</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/book/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Book</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/dbre/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Dbre</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/blog/20200622-book-seeking-sre/">Insights from Seeking SRE</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20200214-book-managers-path/">Insights from The Manager&#39;s Path</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20190129-book-domain-driven-design-distilled/">Insights from Domain-Driven Design Distilled</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20150313-book-continuous-delivery/">Insights from Continuous Delivery</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/blog/20130602-book-the-phoenix-project/">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://blog.vechiato.cc/" >
+    &copy;  blog.vechiato.cc 2024 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+    
+    <a href="https://linkedin.com/in/vechiato" target="_blank" rel="noopener" class="linkedin ananke-social-link link-transition stackoverflow link dib z-999 pt3 pt0-l mr1" title="LinkedIn link" aria-label="follow on LinkedIn——Opens in a new window">
+      
+        <span class="icon"><svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span>
+      
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
+</svg>
+</span></a>
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>
