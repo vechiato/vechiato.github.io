@@ -9,21 +9,21 @@
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.vechiato.cc/tags/sre/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel by Liz Rice</title>
+      <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
       <link>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</guid>
       <description>![[book_learning_ebpf.jpg]]&#xA;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security&#xA;Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.</description>
     </item>
     <item>
-      <title>Insights from Establishing SRE Foundations by Vladislav Ukis</title>
+      <title>Insights from Establishing SRE Foundations</title>
       <link>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</guid>
       <description>![[sre_foundations.jpg]]&#xA;Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&#xA;Establishing SRE Foundations Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&#xA;Summary ![[mindmap_establishing_sre.png]]&#xA;Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.</description>
     </item>
     <item>
-      <title>Insights from Seeking SRE by David Blank-edelman</title>
+      <title>Insights from Seeking SRE</title>
       <link>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</guid>

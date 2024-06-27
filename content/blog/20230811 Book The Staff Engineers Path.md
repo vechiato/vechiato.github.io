@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from The Staff Engineer's Path by Tanya Reilly"
+title: "Insights from The Staff Engineer's Path"
 date: "2023-08-11"
 publish: true
 tags:

@@ -9,21 +9,21 @@
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Insights from Platform Engineering on Kubernetes by Mauricio Salatino</title>
+      <title>Insights from Platform Engineering on Kubernetes</title>
       <link>https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/</guid>
-      <description>![[book_platform_engineering_kubernetes.jpg]]&#xA;Platform Engineering on Kubernetes&#xA;Platform Engineering on Kubernetes Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&#xA;Summary ![[mindmap_platform_engineering_k8s.png]]&#xA;Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.</description>
+      <description>![[book_platform_engineering_kubernetes.jpg]]&#xA;Platform Engineering on Kubernetes&#xA;Platform Engineering on Kubernetes, 2022 Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&#xA;Summary ![[mindmap_platform_engineering_k8s.png]]&#xA;Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.</description>
     </item>
     <item>
-      <title>Insights from The Principles of Product Development Flow: Second Generation Lean Product Development by Donald G Reinertsen</title>
+      <title>Insights from The Principles of Product Development Flow: Second Generation Lean Product Development</title>
       <link>https://blog.vechiato.cc/blog/20240602-book-the-principles-of-product-development-flow/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20240602-book-the-principles-of-product-development-flow/</guid>
-      <description>The Principles of Product Development Flow: Second Generation Lean Product Development ![[product_development_flow.jpg]]&#xA;The Principles of Product Development Flow, 2016 Introduction In today&amp;rsquo;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;ldquo;The Principles of Product Development Flow&amp;rdquo; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency.</description>
+      <description>![[product_development_flow.jpg]]&#xA;The Principles of Product Development Flow, 2016 Introduction In today&amp;rsquo;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;ldquo;The Principles of Product Development Flow&amp;rdquo; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency.&#xA;Summary ![[mindmap_flow.png]]&#xA;Part 1: The Principles of Flow Chapter 1: What Is the Problem?</description>
     </item>
     <item>
-      <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel by Liz Rice</title>
+      <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
       <link>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</guid>
@@ -51,42 +51,42 @@
       <description>Adopting InnerSource free download&#xA;Introduction &amp;ldquo;Adopting InnerSource: Principles and Case Studies&amp;rdquo; by Danese Cooper and Klaas-Jan Stol explores how companies can leverage the principles of open-source software development within their own organisations. InnerSource adapts the collaborative, transparent, and community-driven practices of open-source to a corporate environment, fostering innovation and efficiency. This book presents various case studies from companies that have successfully adopted InnerSource, providing practical insights and lessons learned.&#xA;Summary Chapter 1: The InnerSource Approach to Innovation and Software Development The first chapter introduces InnerSource as a strategy that enables developers to contribute across team boundaries, promoting transparency and collaboration.</description>
     </item>
     <item>
-      <title>Insights from End-to-End Automation with Kubernetes and Crossplane by Arun Ramakani</title>
+      <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
       <link>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
       <description>![[end2end_automation_k8s_crossplane.jpg]]&#xA;End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation&#xA;Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.</description>
     </item>
     <item>
-      <title>Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making by J.R. Storment &amp; Mike Fuller</title>
+      <title>Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making</title>
       <link>https://blog.vechiato.cc/blog/20230919-book-cloud-finops/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20230919-book-cloud-finops/</guid>
       <description>![[cloud_finops.jpg]]&#xA;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making, 2023 Introduction In the modern era of cloud computing, managing cloud spend efficiently has become crucial for businesses. &amp;ldquo;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making&amp;rdquo; by J.R. Storment and Mike Fuller delves into the practices and principles of FinOps, a methodology that combines financial management with DevOps to drive accountability and efficiency in cloud spending. This book is an essential read for engineering and finance teams, executives, and FinOps practitioners aiming to optimise their cloud investments.</description>
     </item>
     <item>
-      <title>Insights from The Staff Engineer&#39;s Path by Tanya Reilly</title>
+      <title>Insights from The Staff Engineer&#39;s Path</title>
       <link>https://blog.vechiato.cc/blog/20230811-book-the-staff-engineers-path/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20230811-book-the-staff-engineers-path/</guid>
       <description>The Staff Engineer&amp;rsquo;s Path: A Guide For Individual Contributors Navigating Growth and Change&#xA;![[the_staff_enginners_path.jpg]]&#xA;The Staff Engineer&amp;rsquo;s Path Introduction In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. &amp;ldquo;The Staff Engineer&amp;rsquo;s Path: A Guide for Individual Contributors Navigating Growth and Change&amp;rdquo; by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management.</description>
     </item>
     <item>
-      <title>Insights from The Innovator&#39;s Dilemma by Clayton M. Christensen</title>
+      <title>Insights from The Innovator&#39;s Dilemma</title>
       <link>https://blog.vechiato.cc/blog/20230211-book-innovators-dilemma/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20230211-book-innovators-dilemma/</guid>
       <description>The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail&#xA;The Innovators Dilemma Introduction &amp;ldquo;The Innovator&amp;rsquo;s Dilemma&amp;rdquo; by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.&#xA;Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fail?</description>
     </item>
     <item>
-      <title>Insight from Blink: The Power of Thinking Without Thinking by Malcolm Gladwell</title>
+      <title>Insight from Blink: The Power of Thinking Without Thinking</title>
       <link>https://blog.vechiato.cc/blog/20210124-book-blink/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20210124-book-blink/</guid>
       <description>![[blink.jpg]]&#xA;Blink, 2007 Introduction In a world where decisions are often made in the blink of an eye, understanding the power of these snap judgments is crucial. Malcolm Gladwell&amp;rsquo;s &amp;ldquo;Blink: The Power of Thinking Without Thinking&amp;rdquo; delves into the science and psychology behind these rapid decisions, revealing how they can be both incredibly accurate and dangerously flawed. This book is a fascinating exploration of the unconscious mind and its role in our everyday choices.</description>
     </item>
     <item>
-      <title>Insights from Establishing SRE Foundations by Vladislav Ukis</title>
+      <title>Insights from Establishing SRE Foundations</title>
       <link>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</guid>
@@ -114,7 +114,7 @@
       <description>Ego Free Leadership Introduction &amp;ldquo;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&amp;rdquo; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.</description>
     </item>
     <item>
-      <title>Insights from No rules rules: Netflix and the culture of reinvention by Reed Hastings &amp; Erin Meyer</title>
+      <title>Insights from No rules rules: Netflix and the culture of reinvention</title>
       <link>https://blog.vechiato.cc/blog/20210807-book-no-rules-rules/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20210807-book-no-rules-rules/</guid>
@@ -128,21 +128,28 @@
       <description>![[book_accelerate.jpg]]&#xA;Accelerate: Building and Scaling High Performing Technology Organizations&#xA;Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&#xA;Summary Forewords The book begins with insightful forewords by Martin Fowler and Courtney Kissler, emphasising the significance of the research and methodologies presented in &amp;ldquo;Accelerate.</description>
     </item>
     <item>
-      <title>Insights from Seeking SRE by David Blank-edelman</title>
+      <title>Insights from Seeking SRE</title>
       <link>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</guid>
       <description>![[seeking_sre.jpg]]&#xA;Seeking SRE: Conversations about running production systems at scale&#xA;Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&amp;rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.</description>
     </item>
     <item>
-      <title>Insights from The Manager&#39;s Path by Camile Fournier</title>
+      <title>Insights from The Manager&#39;s Path</title>
       <link>https://blog.vechiato.cc/blog/20200214-book-managers-path/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20200214-book-managers-path/</guid>
       <description>![[the managers path.jpg]]&#xA;The Manager&amp;rsquo;s Path: A Guide for Tech Leaders Navigating&#xA;The Manager&amp;rsquo;s Path Introduction &amp;ldquo;The Manager&amp;rsquo;s Path&amp;rdquo; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.</description>
     </item>
     <item>
-      <title>Insights from Continuous Delivery by Jez Humble and David Farley</title>
+      <title>Insights from Domain-Driven Design Distilled</title>
+      <link>https://blog.vechiato.cc/blog/20190129-book-domain-driven-design-distilled/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20190129-book-domain-driven-design-distilled/</guid>
+      <description>![[domain_drive_desing.jpg]] 2016 by Vaughn Vernon&#xA;Domain-Driven Design Distilled Introduction In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&amp;rsquo;s &amp;ldquo;Domain-Driven Design Distilled&amp;rdquo; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&#xA;Summary !</description>
+    </item>
+    <item>
+      <title>Insights from Continuous Delivery</title>
       <link>https://blog.vechiato.cc/blog/20150313-book-continuous-delivery/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20150313-book-continuous-delivery/</guid>

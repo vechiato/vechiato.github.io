@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Establishing SRE Foundations by Vladislav Ukis"
+title: "Insights from Establishing SRE Foundations"
 date: "2023-01-20"
 publish: true
 tags:

@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Continuous Delivery by Jez Humble and David Farley"
+title: "Insights from Continuous Delivery"
 date: "2015-03-13"
 publish: true
 tags: 

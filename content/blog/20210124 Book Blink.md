@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insight from Blink: The Power of Thinking Without Thinking by Malcolm Gladwell"
+title: "Insight from Blink: The Power of Thinking Without Thinking"
 date: "2023-02-03"
 publish: true
 tags:

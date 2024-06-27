@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Seeking SRE by David Blank-edelman"
+title: "Insights from Seeking SRE"
 date: "2020-06-22"
 publish: true
 tags:

@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from The Manager's Path by Camile Fournier"
+title: "Insights from The Manager's Path"
 date: "2020-02-14"
 publish: true
 tags:

@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making by J.R. Storment & Mike Fuller"
+title: "Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making"
 date: "2023-09-19"
 publish: true
 tags: 

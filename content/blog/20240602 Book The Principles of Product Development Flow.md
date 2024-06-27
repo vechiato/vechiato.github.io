@@ -1,14 +1,12 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from The Principles of Product Development Flow: Second Generation Lean Product Development by Donald G Reinertsen"
+title: "Insights from The Principles of Product Development Flow: Second Generation Lean Product Development"
 date: "2024-06-02"
 publish: true
 tags: 
   - devops
   - book
 --- 
-# The Principles of Product Development Flow: Second Generation Lean Product Development
-
 ![image](/obsidian/product_development_flow.jpg)
 
 # The Principles of Product Development Flow, 2016

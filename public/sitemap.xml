@@ -187,6 +187,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://blog.vechiato.cc/blog/20190129-book-domain-driven-design-distilled/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://blog.vechiato.cc/blog/20150313-book-continuous-delivery/</loc>
     <lastmod>2015-03-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>

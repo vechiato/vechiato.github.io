@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Learning eBPF: Programmatically Extend the Linux Kernel by Liz Rice"
+title: "Insights from Learning eBPF: Programmatically Extend the Linux Kernel"
 date: "2024-05-12"
 publish: true
 tags:

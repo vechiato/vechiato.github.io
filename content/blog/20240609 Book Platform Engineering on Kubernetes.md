@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Platform Engineering on Kubernetes by Mauricio Salatino"
+title: "Insights from Platform Engineering on Kubernetes"
 date: "2024-06-09"
 publish: true
 tags: 
@@ -13,7 +13,7 @@ tags:
 
 [Platform Engineering on Kubernetes](https://www.amazon.co.uk/dp/1617299324)
 
-# Platform Engineering on Kubernetes 
+# Platform Engineering on Kubernetes, 2022 
 
 ## Introduction
 

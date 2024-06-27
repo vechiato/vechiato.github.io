@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from No rules rules: Netflix and the culture of reinvention by Reed Hastings & Erin Meyer"
+title: "Insights from No rules rules: Netflix and the culture of reinvention"
 date: "2021-08-07"
 publish: true
 tags: 
