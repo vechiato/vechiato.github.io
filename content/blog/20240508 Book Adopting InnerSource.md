@@ -2,10 +2,14 @@
 author: "Marcus Vechiato"
 title: "Insights from Adopting InnerSource"
 date: "2024-01-19"
+thumbnail: "/obsidian/adopting_innersource.jpg"
 publish: true
 tags:
   - book
 --- 
+![image](/obsidian/adopting_innersource.jpg)
+
+2018 by Danese Cooper & Klaas-Jan Stol
 
 [Adopting InnerSource free download](https://innersourcecommons.org/documents/books/AdoptingInnerSource.pdf)
 ## Introduction

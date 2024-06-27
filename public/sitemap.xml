@@ -112,11 +112,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/tags/platformengineering/</loc>
-    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://blog.vechiato.cc/blog/20231217-book-the-devops-handbook/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>

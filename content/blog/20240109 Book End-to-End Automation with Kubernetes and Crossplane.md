@@ -6,7 +6,7 @@ thumbnail: "/obsidian/end2end_automation_k8s_crossplane.jpg"
 publish: true
 tags:
   - k8s
-  - platformengineering
+  - platform engineering
   - crossplane
   - book
 ---
