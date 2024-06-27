@@ -23,6 +23,13 @@
       <description>![[sre_foundations.jpg]]&#xA;Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&#xA;Establishing SRE Foundations Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&#xA;Summary ![[mindmap_establishing_sre.png]]&#xA;Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.</description>
     </item>
     <item>
+      <title>Insights from Observability Engineering: Achieving Production Excellence</title>
+      <link>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</guid>
+      <description>![[observability_engineering.png]] 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&#xA;Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).</description>
+    </item>
+    <item>
       <title>Insights from Seeking SRE</title>
       <link>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>

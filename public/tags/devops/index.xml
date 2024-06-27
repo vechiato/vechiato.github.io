@@ -23,6 +23,20 @@
       <description>Certified GitOps Associate (CGOA)&#xA;The CGOA certification was announced in 2023 can now be purchased as of February 21, 2024, but the ability to schedule a CGOA exam will not be available until the end of March 2024.&#xA;Experience Level: Beginner&#xA;Online Multiple-choice Exam Duration of Exam 90 Minutes Certification Valid for 3 Years Includes 12 Month Exam Eligibility One Retake PDF Certificate and Digital Badge Cost $ 250 Domains &amp;amp; Competencies GitOps Terminology 20%</description>
     </item>
     <item>
+      <title>Insights from The DevOps Handbook</title>
+      <link>https://blog.vechiato.cc/blog/20231217-book-the-devops-handbook/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20231217-book-the-devops-handbook/</guid>
+      <description>![[devops_handbook.jpg]] 2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren&#xA;The DevOps Handbook Introduction In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;ldquo;The DevOps Handbook: Second Edition&amp;rdquo; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices.</description>
+    </item>
+    <item>
+      <title>Insights from Observability Engineering: Achieving Production Excellence</title>
+      <link>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</guid>
+      <description>![[observability_engineering.png]] 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&#xA;Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).</description>
+    </item>
+    <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
       <link>https://blog.vechiato.cc/blog/20210528-book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
@@ -48,7 +62,7 @@
       <link>https://blog.vechiato.cc/blog/20130602-book-the-phoenix-project/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/blog/20130602-book-the-phoenix-project/</guid>
-      <description>Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.&#xA;Summary Prologue The book begins with Parts Unlimited, a company facing a series of crises that threaten its survival.</description>
+      <description>![[phoenix_project.jpg]] 2013 by Gene Kim, Kevin Behr, and George Spafford&#xA;The Phoenix Project Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.</description>
     </item>
   </channel>
 </rss>

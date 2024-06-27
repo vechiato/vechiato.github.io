@@ -102,6 +102,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://blog.vechiato.cc/blog/20231217-book-the-devops-handbook/</loc>
+    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://blog.vechiato.cc/tags/finops/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -134,6 +139,11 @@
   </url><url>
     <loc>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</loc>
+    <lastmod>2022-12-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
