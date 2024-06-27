@@ -11,6 +11,7 @@ tags:
 ---
 
 ![image](/obsidian/end2end_automation_k8s_crossplane.jpg)
+2022 by Arun Ramakani
 
 [End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation](https://www.amazon.co.uk/dp/B09ZJ1NZRB)
 ## Introduction

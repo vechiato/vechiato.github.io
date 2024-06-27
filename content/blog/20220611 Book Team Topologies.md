@@ -7,11 +7,12 @@ tags:
   - teamtopologies
   - book
 --- 
+![image](/obsidian/team_topologies_book.jpg)
+2019 by Matthew Skelton and Manuel Pais
+
 [Team Topologies: Organizing Business and Technology Teams for Fast](https://www.amazon.co.uk/dp/B07W1667D7)
 
-![image](/obsidian/team_topologies_book.jpg)
-
-# Team Topologies, 2019
+# Team Topologies
 
 ## Introduction
 

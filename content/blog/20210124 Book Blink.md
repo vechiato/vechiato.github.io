@@ -8,8 +8,9 @@ tags:
 --- 
 
 ![image](/obsidian/blink.jpg)
+2007 by Malcolm Gladwell
 
-# Blink, 2007
+# Blink
 
 ## Introduction
 

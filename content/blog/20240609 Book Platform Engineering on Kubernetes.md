@@ -10,10 +10,11 @@ tags:
 --- 
 
 ![image](/obsidian/book_platform_engineering_kubernetes.jpg)
+2022 by Mauricio Salatino
 
 [Platform Engineering on Kubernetes](https://www.amazon.co.uk/dp/1617299324)
 
-# Platform Engineering on Kubernetes, 2022 
+# Platform Engineering on Kubernetes 
 
 ## Introduction
 

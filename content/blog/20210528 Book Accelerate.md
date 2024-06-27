@@ -9,6 +9,7 @@ tags:
   - book
 --- 
 ![image](/obsidian/book_accelerate.jpg)
+2018 by Nicole Forsgren, Jez Humble and Gene Kim
 
 [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.amazon.co.uk/dp/B07BLYJ4HR)
 

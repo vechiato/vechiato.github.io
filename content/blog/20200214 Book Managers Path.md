@@ -9,6 +9,7 @@ tags:
 --- 
 
 ![image](/obsidian/the managers path.jpg)
+2017 by Camile Fournier
 
 [The Manager's Path: A Guide for Tech Leaders Navigating](https://www.amazon.co.uk/dp/1491973897)
 

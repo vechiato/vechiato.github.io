@@ -12,6 +12,7 @@ tags:
 --- 
 
 ![image](/obsidian/book_learning_ebpf.jpg)
+2023 by Liz Rice
 
 [Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security](https://www.amazon.co.uk/dp/1098135121)
 

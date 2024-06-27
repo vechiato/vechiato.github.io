@@ -8,6 +8,7 @@ tags:
   - book
 --- 
 ![image](/obsidian/seeking_sre.jpg)
+2018 by David Blank–edelman
 
 [Seeking SRE: Conversations about running production systems at scale](https://www.amazon.co.uk/dp/1491978864)
 

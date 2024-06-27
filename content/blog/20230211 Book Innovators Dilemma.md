@@ -6,6 +6,8 @@ publish: true
 tags:
   - book
 --- 
+![image](/obsidian/innovators_dilemma.jpg)
+2016 by Clayton M. Christensen
 [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail](https://www.amazon.co.uk/dp/1633691780)
 
 # The Innovators Dilemma

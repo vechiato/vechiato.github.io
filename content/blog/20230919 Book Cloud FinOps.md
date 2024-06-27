@@ -9,8 +9,9 @@ tags:
 --- 
 
 ![image](/obsidian/cloud_finops.jpg)
+2023 by J.R. Storment and Mike Fuller
 
-# Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making, 2023
+# Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making
 
 ## Introduction
 

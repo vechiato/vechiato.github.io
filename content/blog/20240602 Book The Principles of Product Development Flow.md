@@ -8,8 +8,9 @@ tags:
   - book
 --- 
 ![image](/obsidian/product_development_flow.jpg)
+2016 by Donald G. Reinertsen
 
-# The Principles of Product Development Flow, 2016
+# The Principles of Product Development Flow
 
 ## Introduction
 

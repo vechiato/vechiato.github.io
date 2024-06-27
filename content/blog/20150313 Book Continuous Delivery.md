@@ -9,6 +9,7 @@ tags:
 --- 
 
 ![image](/obsidian/continuous_delivery.jpg)
+2010 by David Farley and Jez Humble
 
 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.co.uk/dp/0321601912)
 
