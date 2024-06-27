@@ -5,7 +5,7 @@ date: "2022-06-11"
 publish: true
 thumbnail: "/obsidian/team_topologies_book.jpg"
 tags:
-  - teamtopologies
+  - team topologies
   - book
 --- 
 ![image](/obsidian/team_topologies_book.jpg)
