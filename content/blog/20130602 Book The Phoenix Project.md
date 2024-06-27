@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win"
+title: "Insights from The Phoenix Project"
 thumbnail: "/obsidian/phoenix_project.jpg"
 date: "2013-06-02"
 publish: true

@@ -274,6 +274,24 @@ Observability Engineering Introduction In the rapidly evolving landscape of soft
     </item>
     
     <item>
+      <title>Insights from Fluent Python, second edition</title>
+      <link>https://blog.vechiato.cc/blog/20221101-book-fluent-python/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/20221101-book-fluent-python/</guid>
+      <description>
+        
+          
+            2022 by Luciano Ramalho
+Fluent Python Introduction Welcome to our deep dive into &amp;ldquo;Fluent Python&amp;rdquo; by Luciano Ramalho. In this post, we&amp;rsquo;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&amp;rsquo;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.
+Fluent Python by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</title>
       <link>https://blog.vechiato.cc/blog/20220611-book-team-topologies/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
@@ -469,7 +487,7 @@ Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionis
     </item>
     
     <item>
-      <title>The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</title>
+      <title>Insights from The Phoenix Project</title>
       <link>https://blog.vechiato.cc/blog/20130602-book-the-phoenix-project/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
       
