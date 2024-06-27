@@ -3,7 +3,7 @@ author: "Marcus Vechiato"
 title: "Insights from The Staff Engineer's Path"
 date: "2023-08-11"
 publish: true
-thumbnail: the_staff_enginners_path.jpg
+thumbnail: "/obsidian/the_staff_enginners_path.jpg"
 tags:
   - leadership
   - book

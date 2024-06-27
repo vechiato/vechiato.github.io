@@ -3,7 +3,7 @@ author: "Marcus Vechiato"
 title: "Insights from Accelerate: The Science of Lean Software and DevOps"
 date: "2021-05-28"
 publish: true
-thumbnail: book_accelerate.jpg
+thumbnail: "/obsidian/book_accelerate.jpg"
 tags: 
   - devops
   - dora

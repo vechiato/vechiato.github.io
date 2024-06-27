@@ -2,7 +2,7 @@
 author: "Marcus Vechiato"
 title: "Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making"
 date: "2023-09-19"
-thumbnail: cloud_finops.jpg
+thumbnail: "/obsidian/cloud_finops.jpg"
 publish: true
 tags: 
   - book

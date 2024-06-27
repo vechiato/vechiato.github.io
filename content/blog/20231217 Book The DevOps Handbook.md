@@ -2,7 +2,7 @@
 author: "Marcus Vechiato"
 title: "Insights from The DevOps Handbook"
 date: "2023-12-17"
-thumbnail: devops_handbook.jpg
+thumbnail: "/obsidian/devops_handbook.jpg"
 publish: true
 tags: 
   - devops

@@ -2,7 +2,7 @@
 author: "Marcus Vechiato"
 title: "Insights from Establishing SRE Foundations"
 date: "2023-01-20"
-thumbnail: sre_foundations.jpg
+thumbnail: "/obsidian/sre_foundations.jpg"
 publish: true
 tags:
   - SRE

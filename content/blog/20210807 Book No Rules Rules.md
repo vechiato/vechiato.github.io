@@ -2,7 +2,7 @@
 author: "Marcus Vechiato"
 title: "Insights from No rules rules: Netflix and the culture of reinvention"
 date: "2021-08-07"
-thumbnail: no_rules_rules.jpg
+thumbnail: "/obsidian/no_rules_rules.jpg"
 publish: true
 tags: 
   - leadership

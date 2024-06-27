@@ -3,7 +3,7 @@ author: "Marcus Vechiato"
 title: "Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow"
 date: "2022-06-11"
 publish: true
-thumbnail: team_topologies_book.jpg
+thumbnail: "/obsidian/team_topologies_book.jpg"
 tags:
   - teamtopologies
   - book

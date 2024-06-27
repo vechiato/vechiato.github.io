@@ -2,7 +2,7 @@
 author: "Marcus Vechiato"
 title: "Insights from Working Backwards: Insights, Stories, and Secrets from Inside Amazon"
 date: "2021-12-18"
-thumbnail: working_backwards.jpg
+thumbnail: "/obsidian/working_backwards.jpg"
 publish: true
 tags:
   - book

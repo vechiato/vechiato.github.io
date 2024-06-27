@@ -2,7 +2,7 @@
 author: "Marcus Vechiato"
 title: "Insight from Blink: The Power of Thinking Without Thinking"
 date: "2023-02-03"
-thumbnail: blink.jpg
+thumbnail: "/obsidian/blink.jpg"
 publish: true
 tags:
   - book

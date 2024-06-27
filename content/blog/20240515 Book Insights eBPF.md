@@ -3,7 +3,7 @@ author: "Marcus Vechiato"
 title: "Insights from Learning eBPF: Programmatically Extend the Linux Kernel"
 date: "2024-05-12"
 publish: true
-thumbnail: book_learning_ebpf.jpg
+thumbnail: "/obsidian/book_learning_ebpf.jpg"
 tags:
   - observability
   - ebpf

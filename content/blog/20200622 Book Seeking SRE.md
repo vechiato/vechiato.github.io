@@ -3,7 +3,7 @@ author: "Marcus Vechiato"
 title: "Insights from Seeking SRE"
 date: "2020-06-22"
 publish: true
-thumbnail: seeking_sre.jpg
+thumbnail: "/obsidian/seeking_sre.jpg"
 tags:
   - sre
   - book
