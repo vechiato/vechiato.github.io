@@ -1,7 +1,8 @@
 ---
 author: "Marcus Vechiato"
-title: "Tower Sep23"
+title: "Tower Sep-Nov2023"
 date: "2023-11-11"
+thumbnail: "/obsidian/tower231111.jpg"
 publish: true
 tags:
   - hydroponics
