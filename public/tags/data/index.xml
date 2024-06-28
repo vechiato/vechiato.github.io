@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/data/</link>
+    <description>Recent content in Data on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Designing Data-Intensive Applications</title>
+      <link>https://blog.vechiato.cc/blog/20191118-book-designing-data-intensive-applications/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/20191118-book-designing-data-intensive-applications/</guid>
+      <description>
+        
+          
+            2017 by Martin Kleppmann
+Designing Data-Intensive Applications Introduction &amp;ldquo;Designing Data-Intensive Applications&amp;rdquo; by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

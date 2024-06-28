@@ -6,7 +6,25 @@
     <description>Recent content in Python on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Flask Web Development, Second Edition</title>
+      <link>https://blog.vechiato.cc/blog/20240430-book-python-flask/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/20240430-book-python-flask/</guid>
+      <description>
+        
+          
+            2018 by Miguel Grinberg
+Flask Web Development: A Comprehensive Guide Introduction &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg is an essential guide for developers looking to create robust web applications using the Flask framework. The book is structured to take the reader from the basics of Flask through to the creation of a full-featured application, covering all the necessary components along the way.
+Summary Part I: Introduction to Flask Chapter 1: Installation This chapter covers creating the application directory, setting up virtual environments, and installing Flask using pip.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Insights from Fluent Python, second edition</title>
       <link>https://blog.vechiato.cc/blog/20221101-book-fluent-python/</link>
