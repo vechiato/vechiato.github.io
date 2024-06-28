@@ -1,6 +1,7 @@
 ---
 author: "Marcus Vechiato"
-title: "Seedling Aug23"
+title: "Seedling Aug-Sep23"
+thumbnail: "/obsidian/seedling230910.png"
 date: "2023-09-10"
 publish: true
 tags: 
