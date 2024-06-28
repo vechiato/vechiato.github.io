@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Debt on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/technical-debt/</link>
+    <description>Recent content in Technical Debt on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jun 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommended Books on Managing Technical Debt</title>
+      <link>https://blog.vechiato.cc/blog/20240628-technical-debt-books/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/20240628-technical-debt-books/</guid>
+      <description>
+        
+          
+            Recommended Books on Managing Technical Debt Here is a compiled list of books that focus on managing technical debt, including aspects of infrastructure and security:
+The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+Authors: Gene Kim, Kevin Behr, George Spafford - 2013 - IT Revolution Press Key Chapters: Parts 3 and 4 Overview: These sections of the book focus on the protagonist’s journey to identify and mitigate technical debt within the IT department, emphasising the impact of technical debt on operations and the importance of addressing it to achieve organizational goals.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
