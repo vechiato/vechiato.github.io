@@ -17,7 +17,7 @@ Managing technical debt is crucial for maintaining the efficiency, security, and
    - **Authors:** Gene Kim, Kevin Behr, George Spafford - 2013 - IT Revolution Press
    - **Key Chapters:** Parts 3 and 4
    - **Overview:** These sections of the book focus on the protagonist’s journey to identify and mitigate technical debt within the IT department, emphasising the impact of technical debt on operations and the importance of addressing it to achieve organizational goals. This novel provides insights into IT operations, infrastructure, and security, emphasising the importance of managing technical debt through DevOps practices.
-   - ** Insights and notes: ** [insights](20130602-book-the-phoenix-project/) 
+   - ** Insights and notes: ** [insights](../20130602-book-the-phoenix-project/) 
    - **Available at:** [Amazon UK](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 
 2. **The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations**
