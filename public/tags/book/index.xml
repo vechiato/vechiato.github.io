@@ -6,7 +6,23 @@
     <description>Recent content in Book on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommended Books on Managing Technical Debt</title>
+      <link>https://blog.vechiato.cc/blog/20240628-technical-debt-books/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/20240628-technical-debt-books/</guid>
+      <description>
+        
+          
+            Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&amp;rsquo;s important to recognize that technical debt encompasses not only software but also infrastructure, security, and organizational processes. Addressing technical debt holistically ensures that an organization can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&amp;rsquo;ve compiled a list of books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Insights from Chaos Engineering: System Resiliency in Practice</title>
       <link>https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/</link>
@@ -532,24 +548,6 @@ Summary Chapter 1: DDD for Me Will DDD Hurt?
             2010 by David Farley and Jez Humble
 Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;ldquo;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;rdquo; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively.
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Recommended Books on Managing Technical Debt</title>
-      <link>https://blog.vechiato.cc/blog/20240628-technical-debt-books/</link>
-      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.vechiato.cc/blog/20240628-technical-debt-books/</guid>
-      <description>
-        
-          
-            Recommended Books on Managing Technical Debt Here is a compiled list of books that focus on managing technical debt, including aspects of infrastructure and security:
-The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
-Authors: Gene Kim, Kevin Behr, George Spafford - 2013 - IT Revolution Press Key Chapters: Parts 3 and 4 Overview: These sections of the book focus on the protagonist’s journey to identify and mitigate technical debt within the IT department, emphasising the impact of technical debt on operations and the importance of addressing it to achieve organizational goals.
           
           
         

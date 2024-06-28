@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.vechiato.cc/blog/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.vechiato.cc/tags/book/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/devops/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/blog/20240628-technical-debt-books/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/security/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/technical-debt/</loc>
+    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -22,17 +52,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://blog.vechiato.cc/tags/sre/</loc>
-    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -52,11 +72,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/tags/devops/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://blog.vechiato.cc/blog/20240602-book-the-principles-of-product-development-flow/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -73,11 +88,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.vechiato.cc/tags/observability/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/security/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -314,16 +324,6 @@
   </url><url>
     <loc>https://blog.vechiato.cc/blog/20150313-book-continuous-delivery/</loc>
     <lastmod>2015-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/blog/20240628-technical-debt-books/</loc>
-    <lastmod>2013-06-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/technical-debt/</loc>
-    <lastmod>2013-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
