@@ -109,7 +109,7 @@ Flask Web Development Overview I picked up &ldquo;Flask Web Development&rdquo; b
 </span>
     <span class="post_date">
       Apr 30, 2020</span>
-    <span class="post_time"> · 3 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/python/' title="python" class="post_tag button button_translucent">python
+    <span class="post_time"> · 5 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/python/' title="python" class="post_tag button button_translucent">python
         </a><a href='https://blog.vechiato.cc/tags/flask/' title="flask" class="post_tag button button_translucent">flask
         </a><a href='https://blog.vechiato.cc/tags/book/' title="book" class="post_tag button button_translucent">book
         </a>
@@ -178,41 +178,91 @@ Grinberg, M. (2018). <em>Flask Web Development</em>. O&rsquo;Reilly Media.</p>
 <h1 id="flask-web-development">Flask Web Development</h1>
 <h2 id="overview">Overview</h2>
 <p>I picked up &ldquo;Flask Web Development&rdquo; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.</p>
-<!-- raw HTML omitted -->
-<pre><code>#### Chapter 2: Basic Application Structure
-This chapter dives into the core components of a Flask application, such as routes, view functions, and templates. The use of Jinja2 for templating is introduced, emphasizing how Flask allows for dynamic content rendering. It also covers serving static files and organizing application code.
+<h2 id="summary">Summary</h2>
+<p><figure>
+  <picture>
 
-### Part II: Essential Flask
-#### Chapter 3: Web Forms
-The focus here is on handling web forms using Flask-WTF. The chapter covers creating form classes, rendering forms in templates, and processing form data. It also touches on form validation and error handling, demonstrating how to manage user input effectively.
+    
+      
+        
+        
+        
+        
+        
+        
+    <img
+      loading="lazy"
+      decoding="async"
+      alt="image"
+      
+        class="image_figure image_internal image_unprocessed"
+        src="/obsidian/mindmap_flask_web.png"
+      
+      
+    />
 
-#### Chapter 4: Databases
-This chapter introduces database integration with Flask-SQLAlchemy, covering database setup, models, and migrations. It provides a comprehensive guide to performing CRUD operations and managing database relationships, making it easier to handle data persistence in Flask applications.
-
-### Part III: Advanced Flask
-#### Chapter 5: User Authentication
-User authentication is crucial for many web applications. This chapter explains how to implement user registration, login, and logout functionality using Flask-Login. It also covers password hashing and user session management, ensuring secure authentication processes.
-
-#### Chapter 6: User Roles
-Building on the previous chapter, this one discusses implementing role-based access control. It shows how to define user roles and permissions, and how to enforce these permissions in view functions, enhancing the security and manageability of the application.
-
-### Part IV: Flasky - A Social Blogging Application
-#### Chapter 7: Blog Posts
-This chapter focuses on creating a blogging engine with support for rich text using Markdown and Flask-PageDown. It covers creating and displaying blog posts, as well as implementing pagination for long lists of posts.
-
-#### Chapter 8: Followers
-The book demonstrates how to build a system for users to follow each other, using many-to-many relationships in the database. It includes displaying followed users' posts on the home page and handling follower relationships.
-
-### Part V: Additional Topics
-#### Chapter 9: User Comments
-Comments are a key feature for any blogging platform. This chapter covers the implementation of a commenting system, including comment submission, display, and moderation. It uses similar techniques to those covered in the blog post chapter, ensuring consistency in the application.
-
-#### Chapter 10: RESTful APIs
-This chapter introduces creating RESTful APIs with Flask, covering topics like defining API endpoints, using Flask-HTTPAuth for token-based authentication, and handling JSON data. It emphasizes the importance of APIs for modern web applications and demonstrates how to build them effectively in Flask.
-</code></pre>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+    </picture>
+</figure>
+</p>
+<h3 id="part-i-introduction-to-flask">Part I: Introduction to Flask</h3>
+<h4 id="chapter-1-hello-world">Chapter 1: Hello, World!</h4>
+<p>The book starts with setting up a basic Flask application, walking through the creation of a simple &ldquo;Hello, World!&rdquo; app. Key points include setting up a virtual environment, installing Flask, and running a development server. This chapter highlights the minimalistic and easy-to-understand nature of Flask, making it accessible even for beginners.</p>
+<h4 id="chapter-2-basic-application-structure">Chapter 2: Basic Application Structure</h4>
+<p>This chapter dives into the core components of a Flask application, such as routes, view functions, and templates. The use of Jinja2 for templating is introduced, emphasizing how Flask allows for dynamic content rendering. It also covers serving static files and organizing application code.</p>
+<h3 id="part-ii-essential-flask">Part II: Essential Flask</h3>
+<h4 id="chapter-3-web-forms">Chapter 3: Web Forms</h4>
+<p>The focus here is on handling web forms using Flask-WTF. The chapter covers creating form classes, rendering forms in templates, and processing form data. It also touches on form validation and error handling, demonstrating how to manage user input effectively.</p>
+<h4 id="chapter-4-databases">Chapter 4: Databases</h4>
+<p>This chapter introduces database integration with Flask-SQLAlchemy, covering database setup, models, and migrations. It provides a comprehensive guide to performing CRUD operations and managing database relationships, making it easier to handle data persistence in Flask applications.</p>
+<h3 id="part-iii-advanced-flask">Part III: Advanced Flask</h3>
+<h4 id="chapter-5-user-authentication">Chapter 5: User Authentication</h4>
+<p>User authentication is crucial for many web applications. This chapter explains how to implement user registration, login, and logout functionality using Flask-Login. It also covers password hashing and user session management, ensuring secure authentication processes.</p>
+<h4 id="chapter-6-user-roles">Chapter 6: User Roles</h4>
+<p>Building on the previous chapter, this one discusses implementing role-based access control. It shows how to define user roles and permissions, and how to enforce these permissions in view functions, enhancing the security and manageability of the application.</p>
+<h3 id="part-iv-flasky---a-social-blogging-application">Part IV: Flasky - A Social Blogging Application</h3>
+<h4 id="chapter-7-blog-posts">Chapter 7: Blog Posts</h4>
+<p>This chapter focuses on creating a blogging engine with support for rich text using Markdown and Flask-PageDown. It covers creating and displaying blog posts, as well as implementing pagination for long lists of posts.</p>
+<h4 id="chapter-8-followers">Chapter 8: Followers</h4>
+<p>The book demonstrates how to build a system for users to follow each other, using many-to-many relationships in the database. It includes displaying followed users&rsquo; posts on the home page and handling follower relationships.</p>
+<h3 id="part-v-additional-topics">Part V: Additional Topics</h3>
+<h4 id="chapter-9-user-comments">Chapter 9: User Comments</h4>
+<p>Comments are a key feature for any blogging platform. This chapter covers the implementation of a commenting system, including comment submission, display, and moderation. It uses similar techniques to those covered in the blog post chapter, ensuring consistency in the application.</p>
+<h4 id="chapter-10-restful-apis">Chapter 10: RESTful APIs</h4>
+<p>This chapter introduces creating RESTful APIs with Flask, covering topics like defining API endpoints, using Flask-HTTPAuth for token-based authentication, and handling JSON data. It emphasizes the importance of APIs for modern web applications and demonstrates how to build them effectively in Flask.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<h3 id="key-takeaway-1">Key Takeaway 1:</h3>
+<ul>
+<li><strong>Explanation</strong>: Flask’s simplicity and flexibility make it an excellent choice for both beginners and experienced developers. The framework’s minimalistic design allows developers to have full control over their application structure and components.</li>
+<li><strong>Personal Reflection</strong>: This point resonated with me as it highlighted why Flask is often chosen for projects that require custom solutions and a high degree of control.</li>
+<li><strong>Quote</strong>: “Flask stands out from other frameworks because it lets developers take the driver’s seat and have full creative control of their applications.” – Miguel Grinberg</li>
+</ul>
+<h3 id="key-takeaway-2">Key Takeaway 2:</h3>
+<ul>
+<li><strong>Explanation</strong>: Proper application structure and organization are crucial for maintainability and scalability. Using blueprints and application factories can help manage larger applications more effectively.</li>
+<li><strong>Personal Reflection</strong>: Understanding how to structure a Flask application properly has been invaluable, particularly for projects that may grow over time.</li>
+<li><strong>Quote</strong>: “The key to writing applications that are easy to maintain is to write clean and well-structured code.” – Miguel Grinberg</li>
+</ul>
+<h3 id="key-takeaway-3">Key Takeaway 3:</h3>
+<ul>
+<li><strong>Explanation</strong>: Integrating databases with Flask using SQLAlchemy provides a powerful way to manage data. The ORM capabilities simplify database interactions and migrations.</li>
+<li><strong>Personal Reflection</strong>: Learning about SQLAlchemy and its integration with Flask has expanded my ability to handle complex data models and relationships in web applications.</li>
+<li><strong>Quote</strong>: “Flask-SQLAlchemy makes it simple to add database support to your Flask applications.” – Miguel Grinberg</li>
+</ul>
+<h3 id="key-takeaway-4">Key Takeaway 4:</h3>
+<ul>
+<li><strong>Explanation</strong>: User authentication and authorization are fundamental for securing web applications. Flask-Login and role-based access control are essential tools for managing user access.</li>
+<li><strong>Personal Reflection</strong>: Implementing secure authentication mechanisms has always been a priority, and this book provided clear guidance on best practices.</li>
+<li><strong>Quote</strong>: “User authentication is crucial for most web applications, and Flask-Login makes it easy to add this functionality.” – Miguel Grinberg</li>
+</ul>
+<h3 id="key-takeaway-5">Key Takeaway 5:</h3>
+<ul>
+<li><strong>Explanation</strong>: Building RESTful APIs with Flask extends the application’s functionality and enables integration with other services. Proper API design and security are emphasized.</li>
+<li><strong>Personal Reflection</strong>: APIs are a critical component of modern web development, and understanding how to create robust APIs with Flask has been particularly useful.</li>
+</ul>
+<h2 id="personal-reflections">Personal Reflections</h2>
+<p>Reading &ldquo;Flask Web Development&rdquo; has significantly impacted my approach to building web applications. The hands-on examples and practical guidance have deepened my understanding of Flask and its ecosystem. The book has also reinforced the importance of writing clean, maintainable code and structuring applications for scalability. I have gained new insights into managing user authentication, database interactions, and creating APIs, which I plan to apply in my future projects.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>&ldquo;Flask Web Development&rdquo; by Miguel Grinberg is an essential resource for anyone looking to master web development with Flask. Its clear explanations, practical examples, and focus on best practices make it a valuable guide for both beginners and experienced developers. I highly recommend this book to anyone interested in building robust and scalable web applications with Flask. The insights and techniques covered in this book have been instrumental in enhancing my skills and understanding of web development.</p>
 
     </div>
 <div class="post_comments">
