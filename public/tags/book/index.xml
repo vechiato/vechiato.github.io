@@ -80,10 +80,10 @@ Summary Part 1: The Principles of Flow Chapter 1: What Is the Problem?
     
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>https://blog.vechiato.cc/blog/book-insights-ebpf/</link>
+      <link>https://blog.vechiato.cc/blog/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-insights-ebpf/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-learning-ebpf/</guid>
       <description>
         
           
@@ -97,11 +97,27 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
     </item>
     
     <item>
-      <title>Insights from Flask Web Development, Second Edition</title>
-      <link>https://blog.vechiato.cc/blog/book-python-flask/</link>
+      <title>2Insights from Flask Web Development, Second Edition</title>
+      <link>https://blog.vechiato.cc/blog/flask-test/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-python-flask/</guid>
+      <guid>https://blog.vechiato.cc/blog/flask-test/</guid>
+      <description>
+        
+          
+            Flask Web Development Overview I picked up &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Insights from Flask Web Development, Second Edition</title>
+      <link>https://blog.vechiato.cc/blog/book-flask-web-development/</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/book-flask-web-development/</guid>
       <description>
         
           

@@ -7,6 +7,7 @@ publish: true
 tags: 
   - python
   - book
+  - flask
 --- 
 ![image](/obsidian/flask.jpg)
 
