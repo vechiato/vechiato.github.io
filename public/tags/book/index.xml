@@ -97,17 +97,16 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
     </item>
     
     <item>
-      <title>Insights from Flask Web Development, Second Edition</title>
-      <link>https://blog.vechiato.cc/blog/book-flask-web-development/</link>
+      <title>Insights2 from Flask Web Development, Second Edition</title>
+      <link>https://blog.vechiato.cc/blog/book-flask2/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-flask-web-development/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-flask2/</guid>
       <description>
         
           
-            2018 by Miguel Grinberg
-Flask Web Development: A Comprehensive Guide Introduction &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg is an essential guide for developers looking to create robust web applications using the Flask framework. The book is structured to take the reader from the basics of Flask through to the creation of a full-featured application, covering all the necessary components along the way.
-Summary Part I: Introduction to Flask Chapter 1: Installation This chapter covers creating the application directory, setting up virtual environments, and installing Flask using pip.
+            Grinberg, M. (2018). Flask Web Development. O&amp;rsquo;Reilly Media.
+Flask Web Development Overview I picked up &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.
           
           
         
@@ -484,16 +483,17 @@ Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundame
     </item>
     
     <item>
-      <title>Insights2 from Flask Web Development, Second Edition</title>
-      <link>https://blog.vechiato.cc/blog/book-flask2/</link>
+      <title>Insights from Flask Web Development, Second Edition</title>
+      <link>https://blog.vechiato.cc/blog/book-flask-web-development/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-flask2/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-flask-web-development/</guid>
       <description>
         
           
-            Grinberg, M. (2018). Flask Web Development. O&amp;rsquo;Reilly Media.
-Flask Web Development Overview I picked up &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.
+            2018 by Miguel Grinberg
+Flask Web Development: A Comprehensive Guide Introduction &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg is an essential guide for developers looking to create robust web applications using the Flask framework. The book is structured to take the reader from the basics of Flask through to the creation of a full-featured application, covering all the necessary components along the way.
+Summary Part I: Introduction to Flask Chapter 1: Installation This chapter covers creating the application directory, setting up virtual environments, and installing Flask using pip.
           
           
         

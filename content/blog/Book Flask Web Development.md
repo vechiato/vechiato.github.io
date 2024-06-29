@@ -2,7 +2,7 @@
 author: "Marcus Vechiato"
 title: "Insights from Flask Web Development, Second Edition"
 thumbnail: "/obsidian/flask.jpg"
-date: "2024-04-30"
+date: "2020-04-30"
 publish: true
 tags: 
   - python

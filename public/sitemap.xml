@@ -97,7 +97,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/book-flask-web-development/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-flask2/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -302,7 +302,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/book-flask2/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-flask-web-development/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
