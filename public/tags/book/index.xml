@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recommended Books on Managing Technical Debt</title>
-      <link>https://blog.vechiato.cc/blog/20240628-technical-debt-books/</link>
+      <link>https://blog.vechiato.cc/blog/technical-debt-books/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240628-technical-debt-books/</guid>
+      <guid>https://blog.vechiato.cc/blog/technical-debt-books/</guid>
       <description>
         
           
@@ -178,6 +178,23 @@ Introduction In the ever-evolving landscape of cloud-native infrastructure, Kube
           
             2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
 The DevOps Handbook Introduction In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;ldquo;The DevOps Handbook: Second Edition&amp;rdquo; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Insights from Building a Effective Kafka</title>
+      <link>https://blog.vechiato.cc/blog/book-effective-kafka/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/book-effective-kafka/</guid>
+      <description>
+        
+          
+            2021 by Emil Koutanov
+teste teste
           
           
         
