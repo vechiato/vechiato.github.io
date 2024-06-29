@@ -1,8 +1,8 @@
 ---
 author: "Marcus Vechiato"
-title: "2Insights from Flask Web Development, Second Edition"
+title: "Insights2 from Flask Web Development, Second Edition"
 thumbnail: "/obsidian/flask.jpg"
-date: "2024-04-30"
+date: "2020-04-30"
 publish: true
 tags: 
   - python
@@ -10,6 +10,8 @@ tags:
   - book
 --- 
 ![image](/obsidian/flask.jpg)
+Grinberg, M. (2018). *Flask Web Development*. O'Reilly Media.
+
 # Flask Web Development
 
 ## Overview
@@ -77,16 +79,9 @@ This chapter introduces creating RESTful APIs with Flask, covering topics like d
 ### Key Takeaway 5:
 - **Explanation**: Building RESTful APIs with Flask extends the application’s functionality and enables integration with other services. Proper API design and security are emphasized.
 - **Personal Reflection**: APIs are a critical component of modern web development, and understanding how to create robust APIs with Flask has been particularly useful.
-- **Quote**: “RESTful APIs allow your application to interact with other services and clients, expanding its capabilities and reach.” – Miguel Grinberg
 
 ## Personal Reflections
 Reading "Flask Web Development" has significantly impacted my approach to building web applications. The hands-on examples and practical guidance have deepened my understanding of Flask and its ecosystem. The book has also reinforced the importance of writing clean, maintainable code and structuring applications for scalability. I have gained new insights into managing user authentication, database interactions, and creating APIs, which I plan to apply in my future projects.
 
 ## Conclusion
 "Flask Web Development" by Miguel Grinberg is an essential resource for anyone looking to master web development with Flask. Its clear explanations, practical examples, and focus on best practices make it a valuable guide for both beginners and experienced developers. I highly recommend this book to anyone interested in building robust and scalable web applications with Flask. The insights and techniques covered in this book have been instrumental in enhancing my skills and understanding of web development.
-
----
-
-## References
-
-Grinberg, M. (2018). *Flask Web Development*. O'Reilly Media.
