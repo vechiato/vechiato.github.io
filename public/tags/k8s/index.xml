@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Platform Engineering on Kubernetes</title>
-      <link>https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/</link>
+      <link>https://blog.vechiato.cc/blog/book-platform-engineering-on-kubernetes/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-platform-engineering-on-kubernetes/</guid>
       <description>
         
           
@@ -28,10 +28,10 @@ Summary Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter intro
     
     <item>
       <title>Insights from Kubernetes Up and Running, 3rd Edition</title>
-      <link>https://blog.vechiato.cc/blog/20240222-book-kubernetes-up-and-running/</link>
+      <link>https://blog.vechiato.cc/blog/book-kubernetes-up-and-running/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240222-book-kubernetes-up-and-running/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-kubernetes-up-and-running/</guid>
       <description>
         
           
@@ -45,10 +45,10 @@ Kubernetes: Up and Running Summary &amp;ldquo;Kubernetes: Up and Running&amp;rdq
     
     <item>
       <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
-      <link>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
+      <link>https://blog.vechiato.cc/blog/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
       <description>
         
           

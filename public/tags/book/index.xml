@@ -25,10 +25,10 @@
     
     <item>
       <title>Insights from Chaos Engineering: System Resiliency in Practice</title>
-      <link>https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/</link>
+      <link>https://blog.vechiato.cc/blog/book-chaos-engineering/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-chaos-engineering/</guid>
       <description>
         
           
@@ -43,10 +43,10 @@ Summary Part I: Setting the Stage Chapter 1: Encountering Complex Systems This c
     
     <item>
       <title>Insights from Platform Engineering on Kubernetes</title>
-      <link>https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/</link>
+      <link>https://blog.vechiato.cc/blog/book-platform-engineering-on-kubernetes/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-platform-engineering-on-kubernetes/</guid>
       <description>
         
           
@@ -62,10 +62,10 @@ Summary Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter intro
     
     <item>
       <title>Insights from The Principles of Product Development Flow: Second Generation Lean Product Development</title>
-      <link>https://blog.vechiato.cc/blog/20240602-book-the-principles-of-product-development-flow/</link>
+      <link>https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240602-book-the-principles-of-product-development-flow/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</guid>
       <description>
         
           
@@ -80,10 +80,10 @@ Summary Part 1: The Principles of Flow Chapter 1: What Is the Problem?
     
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</link>
+      <link>https://blog.vechiato.cc/blog/book-insights-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-insights-ebpf/</guid>
       <description>
         
           
@@ -98,10 +98,10 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
     
     <item>
       <title>Insights from Flask Web Development, Second Edition</title>
-      <link>https://blog.vechiato.cc/blog/20240430-book-python-flask/</link>
+      <link>https://blog.vechiato.cc/blog/book-python-flask/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240430-book-python-flask/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-python-flask/</guid>
       <description>
         
           
@@ -116,10 +116,10 @@ Summary Part I: Introduction to Flask Chapter 1: Installation This chapter cover
     
     <item>
       <title>Insights from Kubernetes Up and Running, 3rd Edition</title>
-      <link>https://blog.vechiato.cc/blog/20240222-book-kubernetes-up-and-running/</link>
+      <link>https://blog.vechiato.cc/blog/book-kubernetes-up-and-running/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240222-book-kubernetes-up-and-running/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-kubernetes-up-and-running/</guid>
       <description>
         
           
@@ -133,10 +133,10 @@ Kubernetes: Up and Running Summary &amp;ldquo;Kubernetes: Up and Running&amp;rdq
     
     <item>
       <title>Insights from Adopting InnerSource</title>
-      <link>https://blog.vechiato.cc/blog/20240508-book-adopting-innersource/</link>
+      <link>https://blog.vechiato.cc/blog/book-adopting-innersource/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240508-book-adopting-innersource/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-adopting-innersource/</guid>
       <description>
         
           
@@ -151,10 +151,10 @@ Introduction &amp;ldquo;Adopting InnerSource: Principles and Case Studies&amp;rd
     
     <item>
       <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
-      <link>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
+      <link>https://blog.vechiato.cc/blog/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
       <description>
         
           
@@ -169,10 +169,10 @@ Introduction In the ever-evolving landscape of cloud-native infrastructure, Kube
     
     <item>
       <title>Insights from The DevOps Handbook</title>
-      <link>https://blog.vechiato.cc/blog/20231217-book-the-devops-handbook/</link>
+      <link>https://blog.vechiato.cc/blog/book-the-devops-handbook/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20231217-book-the-devops-handbook/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-the-devops-handbook/</guid>
       <description>
         
           
@@ -186,10 +186,10 @@ The DevOps Handbook Introduction In the rapidly evolving landscape of software d
     
     <item>
       <title>Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making</title>
-      <link>https://blog.vechiato.cc/blog/20230919-book-cloud-finops/</link>
+      <link>https://blog.vechiato.cc/blog/book-cloud-finops/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20230919-book-cloud-finops/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-cloud-finops/</guid>
       <description>
         
           
@@ -203,10 +203,10 @@ Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making Introduction 
     
     <item>
       <title>Insights from The Staff Engineer&#39;s Path</title>
-      <link>https://blog.vechiato.cc/blog/20230811-book-the-staff-engineers-path/</link>
+      <link>https://blog.vechiato.cc/blog/book-the-staff-engineers-path/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20230811-book-the-staff-engineers-path/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-the-staff-engineers-path/</guid>
       <description>
         
           
@@ -221,10 +221,10 @@ The Staff Engineer&amp;rsquo;s Path Introduction In the world of technology, car
     
     <item>
       <title>Insights from The Innovator&#39;s Dilemma</title>
-      <link>https://blog.vechiato.cc/blog/20230211-book-innovators-dilemma/</link>
+      <link>https://blog.vechiato.cc/blog/book-innovators-dilemma/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20230211-book-innovators-dilemma/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-innovators-dilemma/</guid>
       <description>
         
           
@@ -239,10 +239,10 @@ Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fa
     
     <item>
       <title>Insight from Blink: The Power of Thinking Without Thinking</title>
-      <link>https://blog.vechiato.cc/blog/20210124-book-blink/</link>
+      <link>https://blog.vechiato.cc/blog/book-blink/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20210124-book-blink/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-blink/</guid>
       <description>
         
           
@@ -256,10 +256,10 @@ Blink Introduction In a world where decisions are often made in the blink of an 
     
     <item>
       <title>Insights from Establishing SRE Foundations</title>
-      <link>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</link>
+      <link>https://blog.vechiato.cc/blog/book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-establishing-sre-foundations/</guid>
       <description>
         
           
@@ -274,10 +274,10 @@ Summary Chapter 1: Introduction to SRE The first chapter introduces the concept 
     
     <item>
       <title>Insights from Observability Engineering: Achieving Production Excellence</title>
-      <link>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</link>
+      <link>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</guid>
       <description>
         
           
@@ -291,10 +291,10 @@ Observability Engineering Introduction In the rapidly evolving landscape of soft
     
     <item>
       <title>Insights from Fluent Python, second edition</title>
-      <link>https://blog.vechiato.cc/blog/20221101-book-fluent-python/</link>
+      <link>https://blog.vechiato.cc/blog/book-fluent-python/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20221101-book-fluent-python/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-fluent-python/</guid>
       <description>
         
           
@@ -309,10 +309,10 @@ Fluent Python by Luciano Ramalho is a comprehensive guide that delves into the d
     
     <item>
       <title>Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</title>
-      <link>https://blog.vechiato.cc/blog/20220611-book-team-topologies/</link>
+      <link>https://blog.vechiato.cc/blog/book-team-topologies/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20220611-book-team-topologies/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-team-topologies/</guid>
       <description>
         
           
@@ -327,10 +327,10 @@ Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and
     
     <item>
       <title>Insights from Working Backwards: Insights, Stories, and Secrets from Inside Amazon</title>
-      <link>https://blog.vechiato.cc/blog/20211218-book-working-backwards/</link>
+      <link>https://blog.vechiato.cc/blog/book-working-backwards/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20211218-book-working-backwards/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-working-backwards/</guid>
       <description>
         
           
@@ -345,10 +345,10 @@ Summary Part One: Being Amazonian Chapter 1: Building Blocks: Leadership Princip
     
     <item>
       <title>Insights from Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business</title>
-      <link>https://blog.vechiato.cc/blog/20211111-book-ego-free-leadership/</link>
+      <link>https://blog.vechiato.cc/blog/book-ego-free-leadership/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20211111-book-ego-free-leadership/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-ego-free-leadership/</guid>
       <description>
         
           
@@ -361,10 +361,10 @@ Summary Part One: Being Amazonian Chapter 1: Building Blocks: Leadership Princip
     
     <item>
       <title>Insights from No rules rules: Netflix and the culture of reinvention</title>
-      <link>https://blog.vechiato.cc/blog/20210807-book-no-rules-rules/</link>
+      <link>https://blog.vechiato.cc/blog/book-no-rules-rules/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20210807-book-no-rules-rules/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-no-rules-rules/</guid>
       <description>
         
           
@@ -378,10 +378,10 @@ No Rules Rules Introduction In &amp;ldquo;No Rules Rules: Netflix and the Cultur
     
     <item>
       <title>Insights from Systems Performance: Enterprise and the Cloud, Second Edition</title>
-      <link>https://blog.vechiato.cc/blog/20210702-book-systems-performance/</link>
+      <link>https://blog.vechiato.cc/blog/book-systems-performance/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20210702-book-systems-performance/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-systems-performance/</guid>
       <description>
         
           
@@ -395,10 +395,10 @@ Systems Performance Introduction &amp;ldquo;Systems Performance: Enterprise and 
     
     <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
-      <link>https://blog.vechiato.cc/blog/20210528-book-accelerate/</link>
+      <link>https://blog.vechiato.cc/blog/book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20210528-book-accelerate/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-accelerate/</guid>
       <description>
         
           
@@ -413,10 +413,10 @@ Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and 
     
     <item>
       <title>Insights from Ask Your Developer</title>
-      <link>https://blog.vechiato.cc/blog/20210411-book-ask-your-developer/</link>
+      <link>https://blog.vechiato.cc/blog/book-ask-your-developer/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20210411-book-ask-your-developer/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-ask-your-developer/</guid>
       <description>
         
           
@@ -431,10 +431,10 @@ Summary Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.
     
     <item>
       <title>Insights from DevSecOps</title>
-      <link>https://blog.vechiato.cc/blog/20201109-book-devsecops/</link>
+      <link>https://blog.vechiato.cc/blog/book-devsecops/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20201109-book-devsecops/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-devsecops/</guid>
       <description>
         
           
@@ -449,10 +449,10 @@ Summary Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begi
     
     <item>
       <title>Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems</title>
-      <link>https://blog.vechiato.cc/blog/20200921-book-database-reliability-engineering/</link>
+      <link>https://blog.vechiato.cc/blog/book-database-reliability-engineering/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20200921-book-database-reliability-engineering/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-database-reliability-engineering/</guid>
       <description>
         
           
@@ -467,10 +467,10 @@ Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introduc
     
     <item>
       <title>Insights from Seeking SRE</title>
-      <link>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</link>
+      <link>https://blog.vechiato.cc/blog/book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-seeking-sre/</guid>
       <description>
         
           
@@ -485,10 +485,10 @@ Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundame
     
     <item>
       <title>Insights from The Manager&#39;s Path</title>
-      <link>https://blog.vechiato.cc/blog/20200214-book-managers-path/</link>
+      <link>https://blog.vechiato.cc/blog/book-managers-path/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20200214-book-managers-path/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-managers-path/</guid>
       <description>
         
           
@@ -520,10 +520,10 @@ Designing Data-Intensive Applications Introduction &amp;ldquo;Designing Data-Int
     
     <item>
       <title>Insights from Domain-Driven Design Distilled</title>
-      <link>https://blog.vechiato.cc/blog/20190129-book-domain-driven-design-distilled/</link>
+      <link>https://blog.vechiato.cc/blog/book-domain-driven-design-distilled/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20190129-book-domain-driven-design-distilled/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-domain-driven-design-distilled/</guid>
       <description>
         
           
@@ -538,10 +538,10 @@ Summary Chapter 1: DDD for Me Will DDD Hurt?
     
     <item>
       <title>Insights from Continuous Delivery</title>
-      <link>https://blog.vechiato.cc/blog/20150313-book-continuous-delivery/</link>
+      <link>https://blog.vechiato.cc/blog/book-continuous-delivery/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20150313-book-continuous-delivery/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-continuous-delivery/</guid>
       <description>
         
           
@@ -556,10 +556,10 @@ Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionis
     
     <item>
       <title>Insights from The Phoenix Project</title>
-      <link>https://blog.vechiato.cc/blog/20130602-book-the-phoenix-project/</link>
+      <link>https://blog.vechiato.cc/blog/book-the-phoenix-project/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20130602-book-the-phoenix-project/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-the-phoenix-project/</guid>
       <description>
         
           

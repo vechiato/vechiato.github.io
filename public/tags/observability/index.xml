@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/observability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</link>
+      <link>https://blog.vechiato.cc/blog/book-insights-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-insights-ebpf/</guid>
       <description>
         
           
@@ -27,10 +27,10 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
     
     <item>
       <title>Insights from Observability Engineering: Achieving Production Excellence</title>
-      <link>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</link>
+      <link>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</guid>
       <description>
         
           

@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/sre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Chaos Engineering: System Resiliency in Practice</title>
-      <link>https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/</link>
+      <link>https://blog.vechiato.cc/blog/book-chaos-engineering/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-chaos-engineering/</guid>
       <description>
         
           
@@ -27,10 +27,10 @@ Summary Part I: Setting the Stage Chapter 1: Encountering Complex Systems This c
     
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</link>
+      <link>https://blog.vechiato.cc/blog/book-insights-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-insights-ebpf/</guid>
       <description>
         
           
@@ -62,10 +62,10 @@ I am pleased to have engaged with so many knowledgeable professionals and enthus
     
     <item>
       <title>Insights from Establishing SRE Foundations</title>
-      <link>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</link>
+      <link>https://blog.vechiato.cc/blog/book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-establishing-sre-foundations/</guid>
       <description>
         
           
@@ -80,10 +80,10 @@ Summary Chapter 1: Introduction to SRE The first chapter introduces the concept 
     
     <item>
       <title>Insights from Observability Engineering: Achieving Production Excellence</title>
-      <link>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</link>
+      <link>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</guid>
       <description>
         
           
@@ -97,10 +97,10 @@ Observability Engineering Introduction In the rapidly evolving landscape of soft
     
     <item>
       <title>Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems</title>
-      <link>https://blog.vechiato.cc/blog/20200921-book-database-reliability-engineering/</link>
+      <link>https://blog.vechiato.cc/blog/book-database-reliability-engineering/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20200921-book-database-reliability-engineering/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-database-reliability-engineering/</guid>
       <description>
         
           
@@ -115,10 +115,10 @@ Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introduc
     
     <item>
       <title>Insights from Seeking SRE</title>
-      <link>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</link>
+      <link>https://blog.vechiato.cc/blog/book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-seeking-sre/</guid>
       <description>
         
           

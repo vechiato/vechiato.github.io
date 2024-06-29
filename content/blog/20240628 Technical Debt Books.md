@@ -17,14 +17,14 @@ Managing technical debt is crucial for maintaining the efficiency, security, and
    - **Authors:** Gene Kim, Kevin Behr, George Spafford - 2013 - IT Revolution Press
    - **Key Chapters:** Parts 3 and 4
    - **Overview:** These sections of the book focus on the protagonist’s journey to identify and mitigate technical debt within the IT department, emphasising the impact of technical debt on operations and the importance of addressing it to achieve organizational goals. This novel provides insights into IT operations, infrastructure, and security, emphasising the importance of managing technical debt through DevOps practices.
-   - **Insights and notes:** [Insights from The Phoenix Project](../20130602-book-the-phoenix-project/) 
+   - **Insights and notes:** [Insights from The Phoenix Project](../book-the-phoenix-project/) 
    - **Available at:** [Amazon UK](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 
 2. **The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations**
    ![image](/obsidian/devops_handbook.jpg)
    - **Authors:** Gene Kim, Jez Humble, Patrick Debois, John Willis - 2016 - IT Revolution Press
    - **Overview:** This book offers a comprehensive guide to implementing DevOps practices to manage technical debt in both software and infrastructure, focusing on improving agility, reliability, and security.
-   - **Insights and notes:** [Insights from The DevOps Handbook](../20231217-book-the-devops-handbook/)
+   - **Insights and notes:** [Insights from The DevOps Handbook](../book-the-devops-handbook/)
    - **Available at:** [Amazon UK](https://www.amazon.co.uk/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 
 4. **Managing Technical Debt: Reducing Friction in Software Development**
@@ -53,7 +53,7 @@ Managing technical debt is crucial for maintaining the efficiency, security, and
    - **Authors:** Nicole Forsgren, Jez Humble, Gene Kim - 2018 - IT Revolution Press
    - **Key Chapters:** Chapters 5, 7, and 9
    - **Overview:** This book presents scientific research on DevOps and its impact on software delivery performance, offering insights into managing technical debt as part of improving overall IT performance. These chapters highlight the role of technical debt in software performance and delivery.
-   - **Insights and notes:** [Insights from Accelerate: The Science of Lean Software and DevOps](../20210528-book-accelerate/)
+   - **Insights and notes:** [Insights from Accelerate: The Science of Lean Software and DevOps](../book-accelerate/)
    - **Available at:** [Amazon UK](https://www.amazon.co.uk/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 
 9. **Building Microservices: Designing Fine-Grained Systems**

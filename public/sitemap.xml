@@ -47,7 +47,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20240626-book-chaos-engineering/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-chaos-engineering/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -57,7 +57,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20240609-book-platform-engineering-on-kubernetes/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-platform-engineering-on-kubernetes/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -72,7 +72,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20240602-book-the-principles-of-product-development-flow/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</loc>
     <lastmod>2024-06-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -82,7 +82,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20240515-book-insights-ebpf/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-insights-ebpf/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -92,7 +92,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20240430-book-python-flask/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-python-flask/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -117,12 +117,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20240222-book-kubernetes-up-and-running/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-kubernetes-up-and-running/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20240508-book-adopting-innersource/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-adopting-innersource/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -132,12 +132,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20240109-book-end-to-end-automation-with-kubernetes-and-crossplane/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-end-to-end-automation-with-kubernetes-and-crossplane/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20231217-book-the-devops-handbook/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-the-devops-handbook/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -157,7 +157,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20230919-book-cloud-finops/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-cloud-finops/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -167,7 +167,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20230811-book-the-staff-engineers-path/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-the-staff-engineers-path/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -187,32 +187,32 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20230211-book-innovators-dilemma/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-innovators-dilemma/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20210124-book-blink/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-blink/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20230120-book-establishing-sre-foundations/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-establishing-sre-foundations/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20221202-book-observability-engineering-2022/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20221101-book-fluent-python/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-fluent-python/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20220611-book-team-topologies/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-team-topologies/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -222,17 +222,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20211218-book-working-backwards/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-working-backwards/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20211111-book-ego-free-leadership/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-ego-free-leadership/</loc>
     <lastmod>2021-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20210807-book-no-rules-rules/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-no-rules-rules/</loc>
     <lastmod>2021-08-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -242,7 +242,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20210702-book-systems-performance/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-systems-performance/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -262,12 +262,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20210528-book-accelerate/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-accelerate/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20210411-book-ask-your-developer/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-ask-your-developer/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -277,7 +277,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20201109-book-devsecops/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-devsecops/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -287,17 +287,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20200921-book-database-reliability-engineering/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-database-reliability-engineering/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20200622-book-seeking-sre/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-seeking-sre/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20200214-book-managers-path/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-managers-path/</loc>
     <lastmod>2020-02-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -317,17 +317,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20190129-book-domain-driven-design-distilled/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-domain-driven-design-distilled/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20150313-book-continuous-delivery/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-continuous-delivery/</loc>
     <lastmod>2015-03-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/20130602-book-the-phoenix-project/</loc>
+    <loc>https://blog.vechiato.cc/blog/book-the-phoenix-project/</loc>
     <lastmod>2013-06-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
