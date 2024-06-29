@@ -4,10 +4,12 @@
   lang="en"
   data-figures=""
   
+    class="page"
+  
   
   >
   <head>
-<title>Systems Design | Marcus Vechiato</title>
+<title>Insights from Designing Data-Intensive Applications | Marcus Vechiato</title>
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -19,25 +21,27 @@
 
 
 
+  
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="" />
+<meta name="description" content="2017 by Martin Kleppmann
+Designing Data-Intensive Applications Introduction &ldquo;Designing Data-Intensive Applications&rdquo; by Martin Kleppmann is a …" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="">
-<meta name="twitter:title" content="Systems Design" />
-<meta name="twitter:image" content="https://blog.vechiato.cc/"/>
-<meta property="og:url" content="https://blog.vechiato.cc/tags/systems-design/" />
-<meta property="og:title" content="Systems Design" />
-<meta property="og:description" content="" />
-<meta property="og:image" content="https://blog.vechiato.cc/" />
+<meta name="twitter:title" content="Insights from Designing Data-Intensive Applications" />
+<meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/data_intensive_apps.jpg"/>
+<meta property="og:url" content="https://blog.vechiato.cc/blog/book-designing-data-intensive-applications/" />
+<meta property="og:title" content="Insights from Designing Data-Intensive Applications" />
+<meta property="og:description" content="2017 by Martin Kleppmann
+Designing Data-Intensive Applications Introduction &ldquo;Designing Data-Intensive Applications&rdquo; by Martin Kleppmann is a …" />
+<meta property="og:image" content="https://blog.vechiato.cc/obsidian/data_intensive_apps.jpg" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="https://blog.vechiato.cc/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://blog.vechiato.cc/favicon-32x32.png">
 <link rel="manifest" href="https://blog.vechiato.cc/site.webmanifest">
 
-<link rel="canonical" href="https://blog.vechiato.cc/tags/systems-design/">
-<link rel="alternate" type="application/rss+xml" href="https://blog.vechiato.cc/tags/systems-design/index.xml" title="Marcus Vechiato" />
+<link rel="canonical" href="https://blog.vechiato.cc/blog/book-designing-data-intensive-applications/">
 
 
 
@@ -93,19 +97,10 @@
 </header>
 
     <main>
-
-
-
+  
 <div class="grid-inverse wrap content">
-  <div>
-    <ul class="posts" id="posts">
-        <li class="post_item">
-  <div class="excerpt">
-    <div class="excerpt_header">
-      <h3 class="post_link">
-        <a href="https://blog.vechiato.cc/blog/book-designing-data-intensive-applications/" title="Insights from Designing Data-Intensive Applications">Insights from Designing Data-Intensive Applications</a>
-      </h3>
-      
+  <article class="post_content">
+    <h1 class="post_title">Insights from Designing Data-Intensive Applications</h1>
   <div class="post_meta">
     <span><svg class="icon">
   <title>calendar</title>
@@ -154,9 +149,7 @@
   </span>
   </div>
 
-    </div>
-    <div class="excerpt_footer partition">
-      <div class="excerpt_thumbnail"><figure>
+    <div class="post_body"><p><figure>
   <picture>
 
     
@@ -170,9 +163,9 @@
     <img
       loading="lazy"
       decoding="async"
-      alt="Insights from Designing Data-Intensive Applications"
+      alt="image"
       
-        class="image_figure image_thumbnail image_internal image_unprocessed"
+        class="image_figure image_internal image_unprocessed"
         src="/obsidian/data_intensive_apps.jpg"
       
       
@@ -181,24 +174,86 @@
     </picture>
 </figure>
 
-      </div>
-      
-        <div class="pale">
-          
-            <p>2017 by Martin Kleppmann
-Designing Data-Intensive Applications Introduction “Designing Data-Intensive Applications” by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the …</p>
-          
-          <br>
-          <a href="https://blog.vechiato.cc/blog/book-designing-data-intensive-applications/" title="Read More" class="excerpt_more button">Read More</a>
-        </div>
-      </div>
-    </div>
-  </li>
+2017 by Martin Kleppmann</p>
+<h1 id="designing-data-intensive-applications">Designing Data-Intensive Applications</h1>
+<h2 id="introduction">Introduction</h2>
+<p>&ldquo;Designing Data-Intensive Applications&rdquo; by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.</p>
+<h2 id="summary">Summary</h2>
+<p><figure>
+  <picture>
 
-      <li>
-      </li>
-    </ul>
-  </div>
+    
+      
+        
+        
+        
+        
+        
+        
+    <img
+      loading="lazy"
+      decoding="async"
+      alt="image"
+      
+        class="image_figure image_internal image_unprocessed"
+        src="/obsidian/mindmap_data_intensive_apps.png"
+      
+      
+    />
+
+    </picture>
+</figure>
+</p>
+<h3 id="part-i-foundations-of-data-systems">Part I: Foundations of Data Systems</h3>
+<h4 id="chapter-1-reliable-scalable-and-maintainable-applications">Chapter 1: Reliable, Scalable, and Maintainable Applications</h4>
+<p>This chapter introduces the key concepts of reliability, scalability, and maintainability. Kleppmann discusses how to achieve these goals and the importance of understanding hardware faults, software errors, and human errors. He also covers the basics of load and performance metrics.</p>
+<h4 id="chapter-2-data-models-and-query-languages">Chapter 2: Data Models and Query Languages</h4>
+<p>Kleppmann explores different data models, including relational and document models, and various query languages. He discusses the evolution of NoSQL databases and the trade-offs between different models, such as the relational vs. document database debate.</p>
+<h4 id="chapter-3-storage-and-retrieval">Chapter 3: Storage and Retrieval</h4>
+<p>This chapter covers the data structures that power databases, including hash indexes, SSTables, LSM-trees, and B-trees. Kleppmann explains the differences between these structures and their implications for performance.</p>
+<h4 id="chapter-4-encoding-and-evolution">Chapter 4: Encoding and Evolution</h4>
+<p>Kleppmann discusses data encoding formats and schema evolution. He covers language-specific formats, JSON, XML, Thrift, Protocol Buffers, and Avro, and explains the importance of dataflow through databases and services.</p>
+<h3 id="part-ii-distributed-data">Part II: Distributed Data</h3>
+<h4 id="chapter-5-replication">Chapter 5: Replication</h4>
+<p>This chapter covers replication strategies, including leader-follower replication, multi-leader replication, and leaderless replication. Kleppmann explains the challenges of replication, such as consistency and handling node outages.</p>
+<h4 id="chapter-6-partitioning">Chapter 6: Partitioning</h4>
+<p>Kleppmann discusses partitioning strategies for scaling databases, including partitioning by key range and hash. He explains the challenges of partitioning secondary indexes and the importance of rebalancing partitions.</p>
+<h4 id="chapter-7-transactions">Chapter 7: Transactions</h4>
+<p>This chapter explores the concept of transactions, including ACID properties and isolation levels. Kleppmann covers single-object and multi-object operations, as well as the challenges of achieving serializability in distributed systems.</p>
+<h4 id="chapter-8-the-trouble-with-distributed-systems">Chapter 8: The Trouble with Distributed Systems</h4>
+<p>Kleppmann discusses the inherent challenges of distributed systems, including network faults, clock synchronization, and consensus algorithms. He explains the importance of understanding these issues for building reliable distributed systems.</p>
+<h4 id="chapter-9-consistency-and-consensus">Chapter 9: Consistency and Consensus</h4>
+<p>This chapter covers consistency models and consensus algorithms, including linearizability, total order broadcast, and distributed transactions. Kleppmann explains the trade-offs involved in achieving consistency in distributed systems.</p>
+<h3 id="part-iii-derived-data">Part III: Derived Data</h3>
+<h4 id="chapter-10-batch-processing">Chapter 10: Batch Processing</h4>
+<p>Kleppmann introduces batch processing systems like Hadoop and explains the MapReduce paradigm. He discusses the benefits and challenges of batch processing for large-scale data processing tasks.</p>
+<h4 id="chapter-11-stream-processing">Chapter 11: Stream Processing</h4>
+<p>This chapter covers stream processing frameworks, including Apache Kafka and Apache Flink. Kleppmann explains the principles of stream processing, including event time, state management, and fault tolerance.</p>
+<h4 id="chapter-12-the-future-of-data-systems">Chapter 12: The Future of Data Systems</h4>
+<p>Kleppmann concludes with a discussion on the future of data systems, including the integration of batch and stream processing, dataflow architectures, and the importance of maintaining data correctness and integrity.</p>
+<h2 id="key-takeaways">Key Takeaways</h2>
+<ol>
+<li><strong>Comprehensive Understanding of Data Systems</strong>: Kleppmann provides a thorough introduction to the principles and architectures behind data-intensive applications.</li>
+<li><strong>Scalability and Reliability</strong>: The book emphasizes the importance of designing systems that can scale and remain reliable under increasing load.</li>
+<li><strong>Practical Insights</strong>: Kleppmann offers practical advice on choosing the right tools and strategies for different data processing and storage needs.</li>
+<li><strong>Future-Proofing Systems</strong>: The book discusses how to design systems that are maintainable and adaptable to future changes and requirements.</li>
+</ol>
+<h2 id="personal-reflections">Personal Reflections</h2>
+<p>Reading <em>Designing Data-Intensive Applications</em> has been an enlightening journey into the world of data systems. Kleppmann&rsquo;s clear explanations and practical examples have greatly enhanced my understanding of the complexities involved in building reliable, scalable, and maintainable applications. The emphasis on fundamental principles and trade-offs is particularly valuable for making informed design decisions.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p><em>Designing Data-Intensive Applications</em> by Martin Kleppmann is an essential resource for anyone involved in building data-intensive systems. Its comprehensive coverage of data processing and storage principles, combined with practical insights and examples, makes it a valuable guide for software engineers, architects, and technical managers. By following the guidance in this book, readers can design robust and scalable data systems that meet the demands of modern applications.</p>
+
+    </div>
+<div class="post_comments">
+  
+  
+  
+</div>
+
+
+
+
+  </article>
 <aside class="sidebar">
   <section class="sidebar_inner">
     <br>
@@ -483,9 +538,8 @@ Designing Data-Intensive Applications Introduction “Designing Data-Intensive A
   </section>
 </aside>
 
+  
 </div>
-
-
     </main><svg width="0" height="0" class="hidden">
   <symbol viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" id="facebook">
     <path d="M437 0H75C33.648 0 0 33.648 0 75v362c0 41.352 33.648 75 75 75h151V331h-60v-90h60v-61c0-49.629 40.371-90 90-90h91v90h-91v61h91l-15 90h-76v181h121c41.352 0 75-33.648 75-75V75c0-41.352-33.648-75-75-75zm0 0"></path>
