@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Insights2 from Flask Web Development, Second Edition</title>
-      <link>https://blog.vechiato.cc/blog/book-flask2/</link>
+      <title>Insights from Flask Web Development, Second Edition</title>
+      <link>https://blog.vechiato.cc/blog/book-flask-web-development/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-flask2/</guid>
+      <guid>https://blog.vechiato.cc/blog/book-flask-web-development/</guid>
       <description>
         
           
@@ -36,24 +36,6 @@ Flask Web Development Overview I picked up &amp;ldquo;Flask Web Development&amp;
             2022 by Luciano Ramalho
 Fluent Python Introduction Welcome to our deep dive into &amp;ldquo;Fluent Python&amp;rdquo; by Luciano Ramalho. In this post, we&amp;rsquo;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&amp;rsquo;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.
 Fluent Python by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Insights from Flask Web Development, Second Edition</title>
-      <link>https://blog.vechiato.cc/blog/book-flask-web-development/</link>
-      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.vechiato.cc/blog/book-flask-web-development/</guid>
-      <description>
-        
-          
-            2018 by Miguel Grinberg
-Flask Web Development: A Comprehensive Guide Introduction &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg is an essential guide for developers looking to create robust web applications using the Flask framework. The book is structured to take the reader from the basics of Flask through to the creation of a full-featured application, covering all the necessary components along the way.
-Summary Part I: Introduction to Flask Chapter 1: Installation This chapter covers creating the application directory, setting up virtual environments, and installing Flask using pip.
           
           
         
