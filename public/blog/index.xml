@@ -6,7 +6,24 @@
     <description>Recent content in Blogs on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Crossplane: The Cloud Native Control Plane</title>
+      <link>https://blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/</guid>
+      <description>
+        
+          
+            2024 by Viktor Farcic
+Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&amp;rsquo;ve always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &amp;ldquo;Crossplane: The Cloud Native Control Plane&amp;rdquo; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Recommended Books on Managing Technical Debt</title>
       <link>https://blog.vechiato.cc/blog/technical-debt-books/</link>
