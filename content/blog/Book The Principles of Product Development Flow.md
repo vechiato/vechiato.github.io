@@ -1,7 +1,7 @@
 ---
 author: "Marcus Vechiato"
 title: "Insights from The Principles of Product Development Flow: Second Generation Lean Product Development"
-date: "2024-06-02"
+date: "2024-07-09"
 thumbnail: "/obsidian/product_development_flow.jpg"
 publish: true
 tags: 

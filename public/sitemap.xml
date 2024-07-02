@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.vechiato.cc/blog/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/</loc>
+    <lastmod>2024-07-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -23,11 +28,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.vechiato.cc/tags/k8s/</loc>
-    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -79,16 +79,6 @@
   </url><url>
     <loc>https://blog.vechiato.cc/blog/book-platform-engineering-on-kubernetes/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/product-development/</loc>
-    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

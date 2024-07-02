@@ -6,7 +6,7 @@
     <description>Recent content in Blogs on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Crossplane: The Cloud Native Control Plane</title>
       <link>https://blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/</link>
@@ -70,23 +70,6 @@ Chaos Engineering: System Resiliency in Practice Overview I remember multiple oc
 Platform Engineering on Kubernetes
 Platform Engineering on Kubernetes Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
 Summary Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Insights from The Principles of Product Development Flow: Second Generation Lean Product Development</title>
-      <link>https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</link>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</guid>
-      <description>
-        
-          
-            2016 by Donald G. Reinertsen
-The Principles of Product Development Flow Overview In today&amp;rsquo;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;ldquo;The Principles of Product Development Flow&amp;rdquo; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency. This book is a game-changer for anyone involved in product development.
           
           
         
