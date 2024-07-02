@@ -8,6 +8,7 @@ tags:
   - k8s 
   - crossplane
   - book
+  - platform engineering
 --- 
 ![image](/obsidian/book_crossplane.png)
 2024 by Viktor Farcic 

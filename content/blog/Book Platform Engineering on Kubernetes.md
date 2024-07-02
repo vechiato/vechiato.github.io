@@ -8,6 +8,7 @@ tags:
   - k8s
   - platform engineering
   - book
+  - crossplane
 --- 
 
 ![image](/obsidian/book_platform_engineering_kubernetes.jpg)
