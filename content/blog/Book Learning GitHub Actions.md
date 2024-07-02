@@ -3,6 +3,7 @@ author: "Marcus Vechiato"
 title: "Insights from Learning GitHub Actions"
 date: "2024-02-28"
 publish: true
+thumbnail: "/obsidian/learning_github_actions.jpg"
 tags: 
   - git
   - cicd
