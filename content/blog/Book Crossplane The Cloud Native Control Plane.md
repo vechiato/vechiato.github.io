@@ -28,7 +28,7 @@ In this chapter, Farcic introduces the potential of Crossplane to create custom 
 
 ##### A Glimpse Into the Future
 
-This chapter gives readers a preview of what they can expect to achieve by the end of the book. Farcic describes various capabilities that Crossplane can provide, such as creating and managing Kubernetes clusters, databases, and applications through simple declarative manifests. The chapter emphasizes the ease and efficiency of using Crossplane to manage complex infrastructure.
+This chapter gives a preview of what they can expect to achieve by the end of the book. Farcic describes various capabilities that Crossplane can provide, such as creating and managing Kubernetes clusters, databases, and applications through simple declarative manifests and emphasises the ease and efficiency of using Crossplane to manage complex infrastructure.
 
 #### Chapter 2: Providers and Managed Resources
 
@@ -74,7 +74,6 @@ This chapter delves into Composition Functions, which extend the functionality o
 
 - **Explanation**: Farcic’s book emphasizes a hands-on approach, encouraging readers to learn by doing. This method helps solidify concepts and ensures that readers can apply what they learn in real-world scenarios.
 - **Personal Reflection**: This approach resonates with me as it aligns with how I prefer to learn new technologies. By actively engaging with the material, I was able to better understand and retain the information.
-- **Quote**: “I learn by doing. I learn by having my hands on the keyboard at all times.” – Viktor Farcic
 
 #### Key Takeaway 3: Extensible and Modular Design
 
