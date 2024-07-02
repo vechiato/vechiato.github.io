@@ -12,8 +12,6 @@ tags:
 ![image](/obsidian/learning_github_actions.jpg)
 2023 by Brent Laster
 
-**Insights from "Learning GitHub Actions" by Brent Laster**
-
 # Learning GitHub Actions: Automation and Integration of CI/CD with GitHub
 
 ## Overview
