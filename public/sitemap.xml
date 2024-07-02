@@ -122,6 +122,21 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://blog.vechiato.cc/tags/cicd/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/git/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/blog/book-learning-github-actions/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://blog.vechiato.cc/blog/book-kubernetes-up-and-running/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
