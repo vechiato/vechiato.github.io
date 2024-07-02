@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Recommended Books on Managing Technical Debt"
+title: "Seven Books on Managing Technical Debt"
 thumbnail: "/obsidian/technical_debt_in_practice.jpg"
 date: "2024-06-28"
 publish: true

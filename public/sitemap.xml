@@ -47,12 +47,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/technical-debt-books/</loc>
+    <loc>https://blog.vechiato.cc/tags/security/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/tags/security/</loc>
+    <loc>https://blog.vechiato.cc/blog/7-books-managing-technical-debt/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

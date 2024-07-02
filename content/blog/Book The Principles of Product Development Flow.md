@@ -7,6 +7,7 @@ publish: true
 tags: 
   - book
   - product development
+  - lean
 --- 
 ![image](/obsidian/product_development_flow.jpg)
 2016 by Donald G. Reinertsen
