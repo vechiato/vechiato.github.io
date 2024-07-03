@@ -1,14 +1,13 @@
 ---
 author: "Marcus Vechiato"
 title: "Insights from The Five Dysfunctions of a Team"
-date: "2022-01-26"
+date: "2018-01-26"
 publish: true
 thumbnail: "/obsidian/five_dysfunctions.jpg"
 tags: 
   - leadership
   - book
 --- 
-
 ![image](/obsidian/five_dysfunctions.jpg)
 by Patric Lencioni
 
@@ -32,16 +31,16 @@ Lencioni introduces the concept of team dysfunctions and sets the stage for the 
 #### Luck
 The fable begins with the story of DecisionTech, a Silicon Valley company facing significant challenges. Kathryn Petersen, the newly appointed CEO, is tasked with turning the company around. The narrative style makes it engaging and relatable, allowing readers to see the dysfunctions in action.
 
-### Part One: Underachievement
+#### Part One: Underachievement
 Kathryn observes the team’s lack of cohesion and struggles to understand the root causes. The initial phase focuses on diagnosing the team’s issues and setting the groundwork for improvement.
 
-### Part Two: Lighting the Fire
+#### Part Two: Lighting the Fire
 Kathryn starts addressing the team's issues by fostering trust among the members. This part emphasises the importance of vulnerability and open communication to build a solid foundation of trust.
 
-### Part Three: Heavy Lifting
+#### Part Three: Heavy Lifting
 With trust established, the team moves on to tackling conflict and commitment. Kathryn encourages healthy conflict to surface different opinions and achieve genuine commitment to decisions.
 
-### Part Four: Traction
+#### Part Four: Traction
 The final part focuses on accountability and results. The team learns to hold each other accountable and maintain a collective focus on results, leading to significant improvements in performance and cohesion.
 
 ### The Model
@@ -57,7 +56,7 @@ Lencioni offers actionable advice and strategies for overcoming each dysfunction
 ## Key Takeaways
 ### Key Takeaway 1: Trust is the Foundation
 - Explanation: Building trust requires vulnerability and openness among team members. It involves sharing personal histories, admitting mistakes, and being willing to ask for help.
-- Personal Reflection: This takeaway resonated with me deeply, as I realized that my reluctance to show vulnerability was hindering my team's ability to connect and collaborate. Embracing vulnerability can transform team dynamics.
+- Personal Reflection: This takeaway resonated with me deeply, as I realised that  reluctance to show vulnerability can hinder teams ability to connect and collaborate. Embracing vulnerability can transform team dynamics.
 - Quote: “Great teams do not hold back with one another. They admit their mistakes, their weaknesses, and their concerns without fear of reprisal.” – Patrick Lencioni (p. 44)
 
 ### Key Takeaway 2: Embrace Constructive Conflict
@@ -67,17 +66,17 @@ Lencioni offers actionable advice and strategies for overcoming each dysfunction
 
 ### Key Takeaway 3: Commitment Through Clarity
 - Explanation: Commitment follows healthy conflict when team members have aired their opinions and understood the collective decision. Clear communication and alignment are crucial.
-- Personal Reflection: I've noticed a significant improvement in my team's commitment levels after ensuring that everyone feels heard and understands the final decision.
+- Personal Reflection: You will will notice a significant improvement in teams commitment levels after ensuring that everyone feels heard and understands the final decision.
 - Quote: “When people don't unload their opinions and feel like they've been listened to, they won't really get on board.” – Patrick Lencioni (p. 207)
 
 ### Key Takeaway 4: Accountability is Essential
 - Explanation: Team members must hold each other accountable to maintain high standards and ensure alignment with team goals.
-- Personal Reflection: Introducing a culture of accountability in my team has led to higher performance and a greater sense of responsibility among members.
+- Personal Reflection: Introducing a culture of accountability in teams will lead to higher performance and a greater sense of responsibility among members.
 - Quote: “The enemy of accountability is ambiguity.” – Patrick Lencioni (p. 213)
 
 ### Key Takeaway 5: Focus on Collective Results
 - Explanation: Teams must prioritize collective goals over individual agendas to achieve true success.
-- Personal Reflection: Shifting the focus to collective results has improved our team's overall performance and cohesion. It has helped us move away from siloed efforts and towards a unified direction.
+- Personal Reflection: Shifting the focus to collective results will improve teams overall performance and cohesion. It has helped to move away from siloed efforts and towards a unified direction.
 - Quote: “To avoid distractions, the team must remain focused on its collective results.” – Patrick Lencioni (p. 220)
 
 ## Personal Reflections

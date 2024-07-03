@@ -1,7 +1,7 @@
 ---
 author: "Marcus Vechiato"
 title: "Insights from Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business"
-date: "2021-11-11"
+date: "2021-11-12"
 thumnail: "/obsidian/ego_free_leadership.jpg"
 publish: true
 tags: 
