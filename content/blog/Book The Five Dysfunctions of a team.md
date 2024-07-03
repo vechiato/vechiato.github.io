@@ -10,13 +10,6 @@ tags:
 --- 
 ![image](/obsidian/five_dysfunctions.jpg)
 by Patric Lencioni
-
-Sure, I'll add page numbers to the quotes and ensure the blog post reflects the detailed structure of the book accurately.
-
----
-
-**Insights from "The Five Dysfunctions of a Team" by Patrick Lencioni**
-
 # The Five Dysfunctions of a Team
 
 ## Overview
