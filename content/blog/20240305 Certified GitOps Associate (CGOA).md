@@ -6,6 +6,7 @@ publish: true
 tags: 
   - gitops
   - devops
+  - certification
 --- 
 
 [Certified GitOps Associate (CGOA)](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/)
@@ -16,11 +17,11 @@ The CGOA certification was announced in 2023 can now be purchased as of February
 
 - Online
 - Multiple-choice Exam
-![](https://training.linuxfoundation.org/wp-content/mu-plugins/lf-owls-pdp/assets/images/pdp-fundamentals/include-2.png) Duration of Exam 90 Minutes
-![](https://training.linuxfoundation.org/wp-content/mu-plugins/lf-owls-pdp/assets/images/pdp-fundamentals/include-3.png) Certification Valid for 3 Years
-![](https://training.linuxfoundation.org/wp-content/mu-plugins/lf-owls-pdp/assets/images/pdp-fundamentals/include-4.png) Includes 12 Month Exam Eligibility
-![](https://training.linuxfoundation.org/wp-content/mu-plugins/lf-owls-pdp/assets/images/pdp-fundamentals/include-5.png) One Retake
-![](https://training.linuxfoundation.org/wp-content/mu-plugins/lf-owls-pdp/assets/images/pdp-fundamentals/include-6.png) PDF Certificate and Digital Badge
+- ![](https://training.linuxfoundation.org/wp-content/mu-plugins/lf-owls-pdp/assets/images/pdp-fundamentals/include-2.png) Duration of Exam 90 Minutes
+- ![](https://training.linuxfoundation.org/wp-content/mu-plugins/lf-owls-pdp/assets/images/pdp-fundamentals/include-3.png) Certification Valid for 3 Years
+- ![](https://training.linuxfoundation.org/wp-content/mu-plugins/lf-owls-pdp/assets/images/pdp-fundamentals/include-4.png) Includes 12 Month Exam Eligibility
+- ![](https://training.linuxfoundation.org/wp-content/mu-plugins/lf-owls-pdp/assets/images/pdp-fundamentals/include-5.png) One Retake
+- ![](https://training.linuxfoundation.org/wp-content/mu-plugins/lf-owls-pdp/assets/images/pdp-fundamentals/include-6.png) PDF Certificate and Digital Badge
 
 ## Cost $ 250
 
@@ -66,5 +67,5 @@ The CGOA certification was announced in 2023 can now be purchased as of February
 - Reconciliation Engines (ArgoCD, Flux, and alternatives)  
 - Interoperability with Notifications, Observability, and Continuous Integration Tools
 
-You still can do [LFS169 Introduction to GitOps - free](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/) still was introduced in 2023.
+You still can do [LFS169 Introduction to GitOps - free](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/) It was introduced in 2023.
 
