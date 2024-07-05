@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helm on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/helm/</link>
+    <description>Recent content in Helm on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/helm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Learning Helm: Managing Apps on Kubernetes</title>
+      <link>https://blog.vechiato.cc/blog/book-learning-helm/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/book-learning-helm/</guid>
+      <description>
+        
+          
+            2021 by Matt Butcher, Matt Farina &amp;amp; Josh Dolitsky
+Learning Helm: Managing Apps on Kubernetes Overview I remember the first time I dived into Kubernetes; it felt like stepping into a new world. There were so many moving parts, and I quickly realised the need for effective tools to manage it all. This is where &amp;ldquo;Learning Helm&amp;rdquo; by Matt Butcher, Matt Farina, and Josh Dolitsky comes in. The book serves as a comprehensive guide to using Helm, the package manager for Kubernetes.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
