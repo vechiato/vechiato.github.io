@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Unveiling the Watermelon Effect: Are Your Metrics Hiding the Truth?</title>
+      <link>https://blog.vechiato.cc/blog/article-unveiling-the-watermelon-effect/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/article-unveiling-the-watermelon-effect/</guid>
+      <description>
+        
+          
+            Are Your Metrics Hiding the Truth? Image by YuliiaKa on Freepik
+The watermelon effect in IT refers to situations where metrics appear green (positive) on the outside but are red (negative) on the inside. This can lead to a false sense of security and overlook underlying issues. Addressing this requires a combination of transparent metrics, honest culture, and actionable insights.
+Understanding the Watermelon Effect The watermelon effect occurs when surface-level indicators show success while deeper issues remain hidden.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Insights from Crossplane: The Cloud Native Control Plane</title>
       <link>https://blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
