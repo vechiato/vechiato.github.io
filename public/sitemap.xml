@@ -362,21 +362,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/blog/are-rainy-days-ahead-for-cloud-computing/</loc>
-    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/cloud/</loc>
-    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/hybrid/</loc>
-    <lastmod>2020-07-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://blog.vechiato.cc/blog/book-seeking-sre/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
