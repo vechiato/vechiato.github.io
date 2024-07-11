@@ -4,12 +4,11 @@ title: "Are Rainy Days Ahead for Cloud Computing?"
 date: "2020-07-11"
 thumbnail: "/obsidian/cloud-computing-concept.png"
 publish: true
-draft: true
+draft: false
 tags: 
   - cloud
   - hybrid
 --- 
-Article Are Rainy Days Ahead for Cloud Computing?
 🌧️ Are Rainy Days Ahead for Cloud Computing? 🌧️
 ![image](/obsidian/cloud-computing-concept.png)
 I found it fascinating to see mainstream media like the BBC discussing companies moving away from cloud services.

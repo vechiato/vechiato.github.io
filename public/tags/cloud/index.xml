@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/cloud/</link>
+    <description>Recent content in Cloud on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are Rainy Days Ahead for Cloud Computing?</title>
+      <link>https://blog.vechiato.cc/blog/are-rainy-days-ahead-for-cloud-computing/</link>
+      <pubDate>Sat, 11 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/are-rainy-days-ahead-for-cloud-computing/</guid>
+      <description>
+        
+          
+            🌧️ Are Rainy Days Ahead for Cloud Computing? 🌧️ I found it fascinating to see mainstream media like the BBC discussing companies moving away from cloud services.
+This well-known discussion from tech media several months ago has now reached mainstream coverage. The BBC article on 37signals moving away from the cloud to save costs highlights the complexity of the decision. While I&amp;rsquo;m not against cloud computing, it&amp;rsquo;s important to see how businesses are evaluating what works best for them.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
