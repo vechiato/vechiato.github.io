@@ -10,7 +10,7 @@ tags:
   - lean
 --- 
 ![image](/obsidian/product_development_flow.jpg)
-2016 by Donald G. Reinertsen
+2009 by Donald G. Reinertsen
 
 # The Principles of Product Development Flow
 
@@ -56,7 +56,7 @@ The final chapter explores the balance between centralization and decentralizati
 ### Key Takeaway 2: Manage Queues Effectively
 - Explanation: Queues are a significant source of inefficiency. Managing queues reduces cycle time and increases predictability in the development process.
 - Personal Reflection: Recognising and managing queues helped us identify bottlenecks and implement solutions that drastically cut down our lead times.
-- Quote: “Queues are the single most important cause of poor product development performance.” (Chapter 3, Page 42) – Donald G. Reinertsen
+- Quote: “Queues are the single most important cause of poor product development performance.” (Chapter 3, Page 42)
 
 ### Key Takeaway 3: Embrace Small Batch Sizes
 - Explanation: Smaller batches lead to faster feedback and reduced cycle times. This principle helps in making the development process more responsive and flexible.
@@ -66,12 +66,12 @@ The final chapter explores the balance between centralization and decentralizati
 ### Key Takeaway 4: Apply WIP Constraints
 - Explanation: Work-In-Progress (WIP) constraints help control queues and cycle times, making the development process more efficient.
 - Personal Reflection: Applying WIP constraints in our projects helped streamline our workflow and reduce the overall project duration.
-- Quote: “WIP constraints are a powerful way to gain control over cycle time in the presence of variability.” (Chapter 6, Page 102) – Donald G. Reinertsen
+- Quote: “WIP constraints are a powerful way to gain control over cycle time in the presence of variability.” (Chapter 6, Page 102) 
 
 ### Key Takeaway 5: Use Fast Feedback
 - Explanation: Fast feedback loops are essential for adapting to changes and improving the development process. They provide valuable insights that guide better decision-making.
-- Personal Reflection: Establishing fast feedback mechanisms in our process allowed us to quickly respond to issues and improve the quality of our products.
-- Quote: “The speed of feedback is at least two orders of magnitude more important to product developers than manufacturers.” (Chapter 8, Page 140) – Donald G. Reinertsen
+- Personal Reflection: Establishing fast feedback mechanisms in our process allowed us to quickly respond to issues and improve the quality of our products,.
+- Quote: “The speed of feedback is at least two orders of magnitude more important to product developers than manufacturers.” (Chapter 8, Page 140) 
 
 ## Personal Reflections
 Reading "The Principles of Product Development Flow" was a revelation. It provided a structured approach to tackling the inefficiencies in our product development process. The emphasis on economic principles and practical examples made it easier to implement the concepts. The book has profoundly impacted how we approach development, leading to more informed decision-making, better resource allocation, and ultimately, more successful product launches.
