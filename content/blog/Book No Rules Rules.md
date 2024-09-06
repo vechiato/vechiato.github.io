@@ -10,7 +10,7 @@ tags:
   - netflix
 --- 
 
-![[no_rules_rules.jpg]]
+![image](/obsidian/no_rules_rules.jpg)
 2020 by Reed Hastings and Erin Meyer
 
 # No Rules Rules

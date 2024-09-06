@@ -16,10 +16,29 @@
       <description>
         
           
-            ![[DevSecOps.jpg]] 2020 by Glenn Wilson
-DevSecOps Introduction In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&amp;rsquo;s DevSecOps offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.
-Summary ![[mindmap_devsecops.png]]
-Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/DevSecOps.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/pi
           
           
         

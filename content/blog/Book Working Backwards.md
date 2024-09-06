@@ -8,7 +8,7 @@ tags:
   - book
   - leadership
 --- 
-![[working_backwards.jpg]]
+![image](/obsidian/working_backwards.jpg)
 2021 by Colin Bryar & Bill Carr
 
 # Working Backwards

@@ -8,7 +8,7 @@ tags:
   - leadership
   - book
 --- 
-![[five_dysfunctions.jpg]]
+![image](/obsidian/five_dysfunctions.jpg)
 by Patric Lencioni
 # The Five Dysfunctions of a Team
 

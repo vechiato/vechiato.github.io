@@ -7,7 +7,7 @@ publish: true
 tags:
   - book
 --- 
-![[adopting_innersource.jpg]]
+![image](/obsidian/adopting_innersource.jpg)
 
 2018 by Danese Cooper & Klaas-Jan Stol
 

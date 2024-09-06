@@ -9,7 +9,7 @@ tags:
   - product development
   - lean
 --- 
-![[product_development_flow.jpg]]
+![image](/obsidian/product_development_flow.jpg)
 2009 by Donald G. Reinertsen
 
 # The Principles of Product Development Flow
@@ -18,7 +18,7 @@ tags:
 In today's fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. "The Principles of Product Development Flow" by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency. This book is a game-changer for anyone involved in product development. It goes beyond high-level theory and delves into practical, real-life examples, providing a comprehensive approach to achieving efficient and effective product development processes. If you're looking to transform your product development practices, this book is a must-read.
 
 ## Summary
-![[mindmap_product_development_flow.png]]
+![image](/obsidian/mindmap_product_development_flow.png)
 #### Chapter 1: The Principles of Flow
 In this chapter, Reinertsen sets the stage by challenging the dominant paradigm of managing product development. He argues that the traditional phase-gate processes are fundamentally flawed and introduces the concept of flow-based product development. The emphasis is on small batch transfers, rapid feedback, and limited work-in-process inventory (WIP). One of the most impactful sections discusses how underground overlap of design and specification activities can lead to better outcomes, even if it goes against formal procedures.
 

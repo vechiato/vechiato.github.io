@@ -8,7 +8,7 @@ tags:
   - book
 --- 
 
- ![[outlive.jpg]]
+ ![image](/obsidian/outlive.jpg)
  2023 by Peter Attia 
  
  # Outlive: The Science and Art of Longevity
@@ -17,7 +17,7 @@ tags:
 I’ve always been fascinated by the concept of longevity and what it means to live not just a long life, but a healthy and fulfilling one. When I came across "Outlive: The Science and Art of Longevity" by Peter Attia, I knew it was a must-read. The book delves into the science of prolonging life and improving its quality through proactive health measures. Attia, with his rich background in medicine and personal experiences, offers a comprehensive guide to understanding and implementing strategies for better health and longevity.
 
 ## Summary
-### ![[mindmap_outlive.png]]Part I: The Foundations
+### ![image](/obsidian/mindmap_outlive.png)Part I: The Foundations
 #### Chapter 1: The Long Game: From Fast Death to Slow Death
 In this chapter, Attia introduces the concept of "fast death" versus "slow death," emphasising the shift from acute illnesses to chronic diseases as the primary causes of death. He recounts his experiences as a surgical resident and the realisation that many medical interventions come too late to make a significant impact. The chapter sets the stage for a new approach to medicine, focusing on prevention rather than cure.
 

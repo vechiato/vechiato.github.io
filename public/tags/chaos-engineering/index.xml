@@ -16,9 +16,29 @@
       <description>
         
           
-            ![[caos_eng.jpg]]
-2020 by Casey Rosenthal, Nora Jones
-Chaos Engineering: System Resiliency in Practice Overview I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/caos_eng.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/pi
           
           
         

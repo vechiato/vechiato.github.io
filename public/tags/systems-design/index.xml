@@ -16,8 +16,29 @@
       <description>
         
           
-            ![[data_intensive_apps.jpg]] 2017 by Martin Kleppmann
-Designing Data-Intensive Applications Introduction &amp;ldquo;Designing Data-Intensive Applications&amp;rdquo; by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/data_intensive_apps.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/pi
           
           
         

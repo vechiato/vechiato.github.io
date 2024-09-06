@@ -10,7 +10,7 @@ tags:
   - devops
   - book
 --- 
-![[learning_github_actions.jpg]]
+![image](/obsidian/learning_github_actions.jpg)
 2023 by Brent Laster
 
 # Learning GitHub Actions: Automation and Integration of CI/CD with GitHub
@@ -19,7 +19,7 @@ tags:
 
 This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.
 ## Summary
-![[mindmap_learning_github_actions.png]]
+![image](/obsidian/mindmap_learning_github_actions.png)
 ### Part I: Foundations
 
 #### Chapter 1: The Basics
