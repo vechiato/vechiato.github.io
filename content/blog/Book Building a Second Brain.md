@@ -9,7 +9,7 @@ tags:
   - time management
   - notes management
 --- 
-![image](/obsidian/second_brain.jpg)
+![[second_brain.jpg]]
 2022 by Tiago Forte
 
 # Insights from Building a Second Brain by Tiago Forte

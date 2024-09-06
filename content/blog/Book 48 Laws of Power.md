@@ -7,7 +7,7 @@ publish: true
 tags: 
   - book
 --- 
-![image](/obsidian/48_laws_of_power.jpg)
+![[48_laws_of_power.jpg]]
 2000 by Robert Greene
 ## The 48 Laws of Power
 
@@ -15,7 +15,7 @@ tags:
 
 I remember the first time I encountered the concept of power dynamics in a workplace. A seemingly harmless comment from a colleague turned into a lesson in hierarchy and influence. This personal experience nudged me towards exploring how power operates in various facets of life. It led me to *The 48 Laws of Power* by Robert Greene, a book that delves deep into the mechanics of power, manipulation, and strategy. Greene's work is a comprehensive guide on understanding and navigating power structures, making it a must-read for anyone looking to thrive in competitive environments. I chose this book because it offers practical and historical insights into power, helping readers recognize and apply these principles in their own lives.
 ### Summary
-![image](/obsidian/mindmap_48_power_laws.png)
+![[mindmap_48_power_laws.png]]
 #### Law 1: Never Outshine the Master
 
 This law sets the tone for the entire book by highlighting the importance of keeping superiors feeling secure and respected. Greene illustrates this with the story of Nicolas Fouquet, who threw an extravagant party to impress King Louis XIV, only to be arrested for outshining the king. The key takeaway here is to always make those above you feel superior and avoid the mistake of drawing attention away from them.

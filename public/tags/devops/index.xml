@@ -60,29 +60,11 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/learning_github_actions.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[learning_github_actions.jpg]]
+2023 by Brent Laster&lt;/p&gt;
+&lt;h1 id=&#34;learning-github-actions-automation-and-integration-of-cicd-with-github&#34;&gt;Learning GitHub Actions: Automation and Integration of CI/CD with GitHub&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.&lt;/p&gt;
           
           
         
@@ -98,29 +80,11 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/devops_handbook.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[devops_handbook.jpg]]
+2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren&lt;/p&gt;
+&lt;h1 id=&#34;the-devops-handbook&#34;&gt;The DevOps Handbook&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;ldquo;The DevOps Handbook: Second Edition&amp;rdquo; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices. This book provides valuable insights into the principles, methodologies, and case studies that illustrate the transformative power of DevOps in modern enterprises.&lt;/p&gt;
           
           
         
@@ -136,29 +100,9 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mv_sre_meetup_thumb.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[mv_sre_meetup_thumb.png]]
+I recently had the wonderful opportunity to present at the London SRE Meetup, and I&amp;rsquo;m excited to share the experience with you all. The presentation, titled &amp;ldquo;Working Together: SRE and Platform Engineering,&amp;rdquo; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.&lt;/p&gt;
+&lt;p&gt;I am pleased to have engaged with so many knowledgeable professionals and enthusiasts who are passionate about improving systems and operations. The discussions and interactions were enlightening, and I hope they were as beneficial for attendees as they were for me.&lt;/p&gt;
           
           
         
@@ -174,29 +118,11 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/observability_engineering.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[observability_engineering.png]]
+2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&lt;/p&gt;
+&lt;h1 id=&#34;observability-engineering&#34;&gt;Observability Engineering&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
           
           
         
@@ -212,29 +138,12 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/fluent_python.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[fluent_python.jpg]]
+2022 by Luciano Ramalho&lt;/p&gt;
+&lt;h1 id=&#34;fluent-python&#34;&gt;Fluent Python&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Welcome to our deep dive into &amp;ldquo;Fluent Python&amp;rdquo; by Luciano Ramalho. In this post, we&amp;rsquo;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&amp;rsquo;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fluent Python&lt;/em&gt; by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.&lt;/p&gt;
           
           
         
@@ -250,29 +159,12 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_accelerate.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[book_accelerate.jpg]]
+2018 by Nicole Forsgren, Jez Humble and Gene Kim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B07BLYJ4HR&#34;&gt;Accelerate: Building and Scaling High Performing Technology Organizations&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;accelerate&#34;&gt;Accelerate&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;
           
           
         
@@ -288,29 +180,16 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/DevSecOps.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[DevSecOps.jpg]]
+2020 by Glenn Wilson&lt;/p&gt;
+&lt;h1 id=&#34;devsecops&#34;&gt;DevSecOps&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&amp;rsquo;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;![[mindmap_devsecops.png]]&lt;/p&gt;
+&lt;h3 id=&#34;part-i-foundations-of-devsecops&#34;&gt;Part I: Foundations of DevSecOps&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-devops-explained&#34;&gt;Chapter 1: DevOps Explained&lt;/h4&gt;
+&lt;p&gt;Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models. Key concepts include the three ways (left-to-right process flow, right-to-left feedback, and continuous improvement) and the five ideals (locality and simplicity, focus, flow and joy, improvement of daily work, psychological safety, and customer focus).&lt;/p&gt;
           
           
         
@@ -326,29 +205,11 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/domain_drive_desing.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[domain_drive_desing.jpg]]
+2016 by Vaughn Vernon&lt;/p&gt;
+&lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;Domain-Driven Design Distilled&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&amp;rsquo;s &amp;ldquo;Domain-Driven Design Distilled&amp;rdquo; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&lt;/p&gt;
           
           
         
@@ -364,29 +225,12 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/continuous_delivery.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[continuous_delivery.jpg]]
+2010 by David Farley and Jez Humble&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/0321601912&#34;&gt;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;continuous-delivery-2011&#34;&gt;Continuous Delivery, 2011&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;ldquo;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;rdquo; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively. This book is part of the Addison-Wesley Signature Series and offers detailed insights into achieving efficient, low-risk software deployments.&lt;/p&gt;
           
           
         
@@ -402,29 +246,11 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/phoenix_project.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[phoenix_project.jpg]]
+2013 by Gene Kim, Kevin Behr, and George Spafford&lt;/p&gt;
+&lt;h1 id=&#34;the-phoenix-project&#34;&gt;The Phoenix Project&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.&lt;/p&gt;
           
           
         

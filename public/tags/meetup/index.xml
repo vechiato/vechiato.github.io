@@ -16,29 +16,9 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mv_sre_meetup_thumb.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/pi
+            &lt;p&gt;![[mv_sre_meetup_thumb.png]]
+I recently had the wonderful opportunity to present at the London SRE Meetup, and I&amp;rsquo;m excited to share the experience with you all. The presentation, titled &amp;ldquo;Working Together: SRE and Platform Engineering,&amp;rdquo; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.&lt;/p&gt;
+&lt;p&gt;I am pleased to have engaged with so many knowledgeable professionals and enthusiasts who are passionate about improving systems and operations. The discussions and interactions were enlightening, and I hope they were as beneficial for attendees as they were for me.&lt;/p&gt;
           
           
         

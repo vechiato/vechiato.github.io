@@ -8,7 +8,7 @@ tags:
   - leadership
   - book
 --- 
-![image](/obsidian/leading_effective_engineering.jpg)
+![[leading_effective_engineering.jpg]]
 2024 by Addy Osmani
 # Leading Effective Engineering Teams
 
@@ -18,7 +18,7 @@ tags:
 
 "In the end, don’t lose sight of what makes a good leader: they achieve organisational goals. But what makes a great leader? They do it in a way that inspires and motivates the team." — Gergely Orosz 
 ## Summary
-![image](/obsidian/mindmap_leading_effecting_engineering_teams.png)
+![[mindmap_leading_effecting_engineering_teams.png]]
 ### Chapter 1: What Makes a Software Engineering Team Effective? 
 Osmani begins by distinguishing between groups and teams, emphasising that effective teams are bound by shared responsibilities and goals. He shares his experiences at Google, highlighting the importance of collaboration, trust, and shared vision. A key takeaway is that effective teams are not just about technical skills but also about fostering a culture where members feel psychologically safe and valued.
 

@@ -10,7 +10,7 @@ tags:
   - meetup
   - devops
 --- 
-![image](/obsidian/mv_sre_meetup_thumb.png)
+![[mv_sre_meetup_thumb.png]]
 I recently had the wonderful opportunity to present at the London SRE Meetup, and I'm excited to share the experience with you all. The presentation, titled "Working Together: SRE and Platform Engineering," focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.
 
 I am pleased to have engaged with so many knowledgeable professionals and enthusiasts who are passionate about improving systems and operations. The discussions and interactions were enlightening, and I hope they were as beneficial for attendees as they were for me.

@@ -9,7 +9,7 @@ tags:
 --- 
 # Are Your Metrics Hiding the Truth?
 
-![image](/obsidian/green-striped-ripe-watermelon.jpg)
+![[green-striped-ripe-watermelon.jpg]]
 Image by YuliiaKa on Freepik
 
 
@@ -17,7 +17,7 @@ The watermelon effect in IT refers to situations where metrics appear green (pos
 
 ## Understanding the Watermelon Effect
 
-![image](/obsidian/watermelon-effect.png)
+![[watermelon-effect.png]]
 The watermelon effect occurs when surface-level indicators show success while deeper issues remain hidden. This can be due to focusing on vanity metrics that look good but do not provide meaningful insights into actual performance.
 
 ## Strategies to Avoid the Watermelon Effect
