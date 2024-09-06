@@ -8,7 +8,7 @@ tags:
   - book
 --- 
 
-![image](/obsidian/blink.jpg)
+![[blink.jpg]]
 2007 by Malcolm Gladwell
 
 # Blink

@@ -8,7 +8,7 @@ tags:
   - leadership
   - book
 --- 
- ![image](/obsidian/ego_free_leadership.jpg)
+ ![[ego_free_leadership.jpg]]
 2017 by Brandon Black & Shayne Hughes
 # Ego Free Leadership
 

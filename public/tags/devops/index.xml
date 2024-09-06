@@ -51,9 +51,10 @@ Online Multiple-choice Exam Duration of Exam 90 Minutes Certification Valid for 
       <description>
         
           
-            2023 by Brent Laster
+            ![[learning_github_actions.jpg]] 2023 by Brent Laster
 Learning GitHub Actions: Automation and Integration of CI/CD with GitHub Overview This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.
-Summary Part I: Foundations Chapter 1: The Basics In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance.
+Summary ![[mindmap_learning_github_actions.png]]
+Part I: Foundations Chapter 1: The Basics In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance.
           
           
         
@@ -69,7 +70,7 @@ Summary Part I: Foundations Chapter 1: The Basics In this introductory chapter, 
       <description>
         
           
-            2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
+            ![[devops_handbook.jpg]] 2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
 The DevOps Handbook Introduction In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;ldquo;The DevOps Handbook: Second Edition&amp;rdquo; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices.
           
           
@@ -86,7 +87,7 @@ The DevOps Handbook Introduction In the rapidly evolving landscape of software d
       <description>
         
           
-            I recently had the wonderful opportunity to present at the London SRE Meetup, and I&amp;rsquo;m excited to share the experience with you all. The presentation, titled &amp;ldquo;Working Together: SRE and Platform Engineering,&amp;rdquo; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.
+            ![[mv_sre_meetup_thumb.png]] I recently had the wonderful opportunity to present at the London SRE Meetup, and I&amp;rsquo;m excited to share the experience with you all. The presentation, titled &amp;ldquo;Working Together: SRE and Platform Engineering,&amp;rdquo; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.
 I am pleased to have engaged with so many knowledgeable professionals and enthusiasts who are passionate about improving systems and operations.
           
           
@@ -103,7 +104,7 @@ I am pleased to have engaged with so many knowledgeable professionals and enthus
       <description>
         
           
-            2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
+            ![[observability_engineering.png]] 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
 Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).
           
           
@@ -120,7 +121,7 @@ Observability Engineering Introduction In the rapidly evolving landscape of soft
       <description>
         
           
-            2022 by Luciano Ramalho
+            ![[fluent_python.jpg]] 2022 by Luciano Ramalho
 Fluent Python Introduction Welcome to our deep dive into &amp;ldquo;Fluent Python&amp;rdquo; by Luciano Ramalho. In this post, we&amp;rsquo;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&amp;rsquo;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.
 Fluent Python by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.
           
@@ -138,7 +139,7 @@ Fluent Python by Luciano Ramalho is a comprehensive guide that delves into the d
       <description>
         
           
-            2018 by Nicole Forsgren, Jez Humble and Gene Kim
+            ![[book_accelerate.jpg]] 2018 by Nicole Forsgren, Jez Humble and Gene Kim
 Accelerate: Building and Scaling High Performing Technology Organizations
 Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.
           
@@ -156,9 +157,10 @@ Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and 
       <description>
         
           
-            2020 by Glenn Wilson
+            ![[DevSecOps.jpg]] 2020 by Glenn Wilson
 DevSecOps Introduction In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&amp;rsquo;s DevSecOps offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.
-Summary Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models.
+Summary ![[mindmap_devsecops.png]]
+Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models.
           
           
         
@@ -174,9 +176,9 @@ Summary Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begi
       <description>
         
           
-            2016 by Vaughn Vernon
+            ![[domain_drive_desing.jpg]] 2016 by Vaughn Vernon
 Domain-Driven Design Distilled Introduction In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&amp;rsquo;s &amp;ldquo;Domain-Driven Design Distilled&amp;rdquo; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.
-Summary Chapter 1: DDD for Me Will DDD Hurt?
+Summary !
           
           
         
@@ -192,7 +194,7 @@ Summary Chapter 1: DDD for Me Will DDD Hurt?
       <description>
         
           
-            2010 by David Farley and Jez Humble
+            ![[continuous_delivery.jpg]] 2010 by David Farley and Jez Humble
 Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;ldquo;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;rdquo; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively.
           
@@ -210,7 +212,7 @@ Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionis
       <description>
         
           
-            2013 by Gene Kim, Kevin Behr, and George Spafford
+            ![[phoenix_project.jpg]] 2013 by Gene Kim, Kevin Behr, and George Spafford
 The Phoenix Project Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.
           
           

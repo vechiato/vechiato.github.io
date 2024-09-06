@@ -32,7 +32,7 @@
       <description>
         
           
-            2023 by Liz Rice
+            ![[book_learning_ebpf.jpg]] 2023 by Liz Rice
 Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security
 Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.
           
@@ -66,9 +66,10 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
       <description>
         
           
-            2020 by Glenn Wilson
+            ![[DevSecOps.jpg]] 2020 by Glenn Wilson
 DevSecOps Introduction In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&amp;rsquo;s DevSecOps offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.
-Summary Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models.
+Summary ![[mindmap_devsecops.png]]
+Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models.
           
           
         

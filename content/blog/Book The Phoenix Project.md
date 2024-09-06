@@ -8,7 +8,7 @@ tags:
   - devops
   - book
 --- 
-![image](/obsidian/phoenix_project.jpg)
+![[phoenix_project.jpg]]
 2013 by Gene Kim, Kevin Behr, and George Spafford
 
 # The Phoenix Project

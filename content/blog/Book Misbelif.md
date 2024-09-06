@@ -7,7 +7,7 @@ publish: true
 tags: 
   - book
 --- 
-![image](/obsidian/misbelief.jpg)
+![[misbelief.jpg]]
 2023 by Dan Ariely
 # Misbelief: What Makes Rational People Believe Irrational Things
 
@@ -15,7 +15,7 @@ tags:
 I remember the first time I stumbled upon a friend’s social media post that seemed utterly detached from reality. It wasn’t just a quirky opinion or an eccentric idea, but a full-blown conspiracy theory. This experience piqued my interest in understanding how rational individuals could come to hold such irrational beliefs. This curiosity led me to Dan Ariely’s book, *Misbelief: What Makes Rational People Believe Irrational Things*. Ariely, a renowned behavioral economist, delves into the psychological underpinnings that drive people down the path of misbelief. This book offers a comprehensive look into the factors that shape our beliefs and why some individuals are more susceptible to false narratives. Readers can expect to gain a deeper understanding of the emotional, cognitive, personality, and social elements that contribute to the formation and persistence of misbeliefs.
 
 ## Summary
-![image](/obsidian/mindmap_misbelief.png)
+![[mindmap_misbelief.png]]
 ### Part I: The Funnel of Misbelief
 
 #### Chapter 1: How Could That Person Believe That Thing?

@@ -11,7 +11,7 @@ tags:
   - crossplane
 --- 
 
-![image](/obsidian/book_platform_engineering_kubernetes.jpg)
+![[book_platform_engineering_kubernetes.jpg]]
 2022 by Mauricio Salatino
 
 [Platform Engineering on Kubernetes](https://www.amazon.co.uk/dp/1617299324)
@@ -23,7 +23,7 @@ tags:
 "Platform Engineering on Kubernetes" by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
 
 ## Summary
-![image](/obsidian/mindmap_platform_engineering_k8s.png)
+![[mindmap_platform_engineering_k8s.png]]
 
 ### Chapter 1: The Rise of Platforms on Top of Kubernetes
 

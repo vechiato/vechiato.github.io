@@ -8,7 +8,7 @@ tags:
   - k8s
   - book
 --- 
-![image](/obsidian/kubernetes_up_and_running.jpg)
+![[kubernetes_up_and_running.jpg]]
 2022 by Brendan Burns, Joe Beda, Kelsey Hightower & Lachlan Evenson
 
 # Kubernetes: Up and Running
@@ -17,7 +17,7 @@ tags:
 
 "Kubernetes: Up and Running" by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It's an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.
 
-![image](/obsidian/mindmap_kubernetes_up_and_running.png)
+![[mindmap_kubernetes_up_and_running.png]]
 ### Part I: Introduction to Kubernetes
 
 #### Chapter 1: Introducing Kubernetes

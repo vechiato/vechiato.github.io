@@ -6,7 +6,24 @@
     <description>Recent content on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Outlive</title>
+      <link>https://blog.vechiato.cc/blog/book-outlive/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/book-outlive/</guid>
+      <description>
+        
+          
+            ![[outlive.jpg]] 2023 by Peter Attia
+Outlive: The Science and Art of Longevity Overview I’ve always been fascinated by the concept of longevity and what it means to live not just a long life, but a healthy and fulfilling one. When I came across &amp;ldquo;Outlive: The Science and Art of Longevity&amp;rdquo; by Peter Attia, I knew it was a must-read. The book delves into the science of prolonging life and improving its quality through proactive health measures.
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Insights from Leading Effective Engineering Teams</title>
       <link>https://blog.vechiato.cc/blog/book-leading-effective-engineering-teams/</link>
@@ -16,7 +33,7 @@
       <description>
         
           
-            2024 by Addy Osmani
+            ![[leading_effective_engineering.jpg]] 2024 by Addy Osmani
 Leading Effective Engineering Teams Overview Years ago, when I found myself managing an engineering team for the first time. The transition from being an individual contributor to a leader was filled with challenges and uncertainties. I wished for a guide that could provide practical advice and real-world examples to navigate this new role effectively. &amp;ldquo;Leading Effective Engineering Teams&amp;rdquo; by Addy Osmani is one of the few guides covering this subject.
           
           
@@ -33,7 +50,7 @@ Leading Effective Engineering Teams Overview Years ago, when I found myself mana
       <description>
         
           
-            2009 by Donald G. Reinertsen
+            ![[product_development_flow.jpg]] 2009 by Donald G. Reinertsen
 The Principles of Product Development Flow Overview In today&amp;rsquo;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;ldquo;The Principles of Product Development Flow&amp;rdquo; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency. This book is a game-changer for anyone involved in product development.
           
           
@@ -50,9 +67,9 @@ The Principles of Product Development Flow Overview In today&amp;rsquo;s fast-pa
       <description>
         
           
-            Are Your Metrics Hiding the Truth? Image by YuliiaKa on Freepik
+            Are Your Metrics Hiding the Truth? ![[green-striped-ripe-watermelon.jpg]] Image by YuliiaKa on Freepik
 The watermelon effect in IT refers to situations where metrics appear green (positive) on the outside but are red (negative) on the inside. This can lead to a false sense of security and overlook underlying issues. Addressing this requires a combination of transparent metrics, honest culture, and actionable insights.
-Understanding the Watermelon Effect The watermelon effect occurs when surface-level indicators show success while deeper issues remain hidden.
+Understanding the Watermelon Effect ![[watermelon-effect.png]] The watermelon effect occurs when surface-level indicators show success while deeper issues remain hidden.
           
           
         
@@ -68,7 +85,7 @@ Understanding the Watermelon Effect The watermelon effect occurs when surface-le
       <description>
         
           
-            2024 by Viktor Farcic
+            ![[book_crossplane.png]] 2024 by Viktor Farcic
 Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&amp;rsquo;ve always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &amp;ldquo;Crossplane: The Cloud Native Control Plane&amp;rdquo; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers.
           
           
@@ -101,7 +118,8 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&am
       <description>
         
           
-            2020 by Casey Rosenthal, Nora Jones
+            ![[caos_eng.jpg]]
+2020 by Casey Rosenthal, Nora Jones
 Chaos Engineering: System Resiliency in Practice Overview I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
           
           
@@ -118,10 +136,11 @@ Chaos Engineering: System Resiliency in Practice Overview I remember multiple oc
       <description>
         
           
-            2022 by Mauricio Salatino
+            ![[book_platform_engineering_kubernetes.jpg]] 2022 by Mauricio Salatino
 Platform Engineering on Kubernetes
 Platform Engineering on Kubernetes Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
-Summary Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.
+Summary ![[mindmap_platform_engineering_k8s.png]]
+Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.
           
           
         
@@ -137,7 +156,7 @@ Summary Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter intro
       <description>
         
           
-            2000 by Robert Greene
+            ![[48_laws_of_power.jpg]] 2000 by Robert Greene
 The 48 Laws of Power Overview I remember the first time I encountered the concept of power dynamics in a workplace. A seemingly harmless comment from a colleague turned into a lesson in hierarchy and influence. This personal experience nudged me towards exploring how power operates in various facets of life. It led me to The 48 Laws of Power by Robert Greene, a book that delves deep into the mechanics of power, manipulation, and strategy.
           
           
@@ -154,7 +173,7 @@ The 48 Laws of Power Overview I remember the first time I encountered the concep
       <description>
         
           
-            2023 by Liz Rice
+            ![[book_learning_ebpf.jpg]] 2023 by Liz Rice
 Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security
 Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.
           
@@ -172,7 +191,7 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
       <description>
         
           
-            Grinberg, M. (2018). Flask Web Development. O&amp;rsquo;Reilly Media.
+            ![[flask.jpg]] Grinberg, M. (2018). Flask Web Development. O&amp;rsquo;Reilly Media.
 Flask Web Development Overview I picked up &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.
           
           
@@ -189,7 +208,7 @@ Flask Web Development Overview I picked up &amp;ldquo;Flask Web Development&amp;
       <description>
         
           
-            2023 by Dan Ariely
+            ![[misbelief.jpg]] 2023 by Dan Ariely
 Misbelief: What Makes Rational People Believe Irrational Things Overview I remember the first time I stumbled upon a friend’s social media post that seemed utterly detached from reality. It wasn’t just a quirky opinion or an eccentric idea, but a full-blown conspiracy theory. This experience piqued my interest in understanding how rational individuals could come to hold such irrational beliefs. This curiosity led me to Dan Ariely’s book, Misbelief: What Makes Rational People Believe Irrational Things.
           
           
@@ -241,9 +260,10 @@ Online Multiple-choice Exam Duration of Exam 90 Minutes Certification Valid for 
       <description>
         
           
-            2023 by Brent Laster
+            ![[learning_github_actions.jpg]] 2023 by Brent Laster
 Learning GitHub Actions: Automation and Integration of CI/CD with GitHub Overview This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.
-Summary Part I: Foundations Chapter 1: The Basics In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance.
+Summary ![[mindmap_learning_github_actions.png]]
+Part I: Foundations Chapter 1: The Basics In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance.
           
           
         
@@ -259,7 +279,7 @@ Summary Part I: Foundations Chapter 1: The Basics In this introductory chapter, 
       <description>
         
           
-            2022 by Brendan Burns, Joe Beda, Kelsey Hightower &amp;amp; Lachlan Evenson
+            ![[kubernetes_up_and_running.jpg]] 2022 by Brendan Burns, Joe Beda, Kelsey Hightower &amp;amp; Lachlan Evenson
 Kubernetes: Up and Running Summary &amp;ldquo;Kubernetes: Up and Running&amp;rdquo; by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It&amp;rsquo;s an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.
           
           
@@ -276,7 +296,8 @@ Kubernetes: Up and Running Summary &amp;ldquo;Kubernetes: Up and Running&amp;rdq
       <description>
         
           
-            2018 by Danese Cooper &amp;amp; Klaas-Jan Stol
+            ![[adopting_innersource.jpg]]
+2018 by Danese Cooper &amp;amp; Klaas-Jan Stol
 Adopting InnerSource free download
 Introduction &amp;ldquo;Adopting InnerSource: Principles and Case Studies&amp;rdquo; by Danese Cooper and Klaas-Jan Stol explores how companies can leverage the principles of open-source software development within their own organisations. InnerSource adapts the collaborative, transparent, and community-driven practices of open-source to a corporate environment, fostering innovation and efficiency. This book presents various case studies from companies that have successfully adopted InnerSource, providing practical insights and lessons learned.
           
@@ -294,7 +315,7 @@ Introduction &amp;ldquo;Adopting InnerSource: Principles and Case Studies&amp;rd
       <description>
         
           
-            2022 by Arun Ramakani
+            ![[end2end_automation_k8s_crossplane.jpg]] 2022 by Arun Ramakani
 End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
 Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.
           
@@ -312,7 +333,7 @@ Introduction In the ever-evolving landscape of cloud-native infrastructure, Kube
       <description>
         
           
-            2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
+            ![[devops_handbook.jpg]] 2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
 The DevOps Handbook Introduction In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;ldquo;The DevOps Handbook: Second Edition&amp;rdquo; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices.
           
           
@@ -330,7 +351,24 @@ The DevOps Handbook Introduction In the rapidly evolving landscape of software d
         
           
             Lettuce	ideal PH 5.5 – 6.5 PPM 560 – 840
-Date PH PPM photo 11/11/23 6.4 580 04/11/23 5.89 332-640 29/10/23 n/a 450 22/10/23 6.04 640 14/10/23 6.05 650 07/10/23 5.81 680 30/09/23 5.95 770 22/09/23 9 770 17/09/23 n/a n/a 10/09/23 n/a n/a 
+Date PH PPM photo 11/11/23 6.4 580 ![[tower231111.jpg]] 04/11/23 5.89 332-640 ![[tower231104.jpg]] 29/10/23 n/a 450 ![[tower231029.jpeg]] 22/10/23 6.04 640 ![[tower231022.jpg]] 14/10/23 6.05 650 ![[tower231014.jpg]] 07/10/23 5.81 680 ![[tower231007.jpeg]] 30/09/23 5.95 770 ![[tower230930.jpg]] 22/09/23 9 770 ![[tower230922.jpg]] 17/09/23 n/a n/a ![[tower230917.png]] 10/09/23 n/a n/a ![[tower230923.png]] 
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Insights from Economics for the Common Good</title>
+      <link>https://blog.vechiato.cc/blog/book-economics-for-the-common-good/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/blog/book-economics-for-the-common-good/</guid>
+      <description>
+        
+          
+            ![[economics_for_the_common_good.jpg]] 2019 by Jean Tirole
+Insights from &amp;ldquo;Economics for the Common Good&amp;rdquo; Overview Reading &amp;ldquo;Economics for the Common Good&amp;rdquo; by Jean Tirole has been a transformative experience for me. As someone who is deeply interested in the intersection of economics and society, this book provided a comprehensive and nuanced exploration of how economic principles can be applied to achieve the common good. Tirole, a Nobel Prize-winning economist, delves into various economic theories and their implications for policy-making, societal well-being, and global challenges.
           
           
         
@@ -346,7 +384,7 @@ Date PH PPM photo 11/11/23 6.4 580 04/11/23 5.89 332-640 29/10/23 n/a 450 22/10/
       <description>
         
           
-            2023 by J.R. Storment and Mike Fuller
+            ![[cloud_finops.jpg]] 2023 by J.R. Storment and Mike Fuller
 Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making Introduction In the modern era of cloud computing, managing cloud spend efficiently has become crucial for businesses. &amp;ldquo;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making&amp;rdquo; by J.R. Storment and Mike Fuller delves into the practices and principles of FinOps, a methodology that combines financial management with DevOps to drive accountability and efficiency in cloud spending.
           
           
@@ -363,7 +401,7 @@ Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making Introduction 
       <description>
         
           
-             Date what photo 10/09/23 Lettuce/Rocket 05/09/23 Lettuce/Rocket 27/08/23 Lettuce/Rocket 25/08/23 Lettuce/Rocket 20/08/23 Lettuce/Rocket 17/08/23 Lettuce/Rocket 14/08/23 Lettuce/Rocket 
+             Date what photo 10/09/23 Lettuce/Rocket ![[seedling230910.png]] 05/09/23 Lettuce/Rocket ![[seedling230923.jpeg]] 27/08/23 Lettuce/Rocket ![[seedling230827.png]] 25/08/23 Lettuce/Rocket ![[seedling230825.jpg]] 20/08/23 Lettuce/Rocket ![[seedling230823.png]] 17/08/23 Lettuce/Rocket ![[seedling230817.jpg]] 14/08/23 Lettuce/Rocket ![[seedling230814.jpeg]] 
           
           
         
@@ -379,7 +417,7 @@ Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making Introduction 
       <description>
         
           
-            2022 by Tanya Reilly
+            ![[the_staff_enginners_path.jpg]] 2022 by Tanya Reilly
 The Staff Engineer&amp;rsquo;s Path: A Guide For Individual Contributors Navigating Growth and Change
 The Staff Engineer&amp;rsquo;s Path Introduction In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. &amp;ldquo;The Staff Engineer&amp;rsquo;s Path: A Guide for Individual Contributors Navigating Growth and Change&amp;rdquo; by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management.
           
@@ -397,7 +435,7 @@ The Staff Engineer&amp;rsquo;s Path Introduction In the world of technology, car
       <description>
         
           
-            I recently had the wonderful opportunity to present at the London SRE Meetup, and I&amp;rsquo;m excited to share the experience with you all. The presentation, titled &amp;ldquo;Working Together: SRE and Platform Engineering,&amp;rdquo; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.
+            ![[mv_sre_meetup_thumb.png]] I recently had the wonderful opportunity to present at the London SRE Meetup, and I&amp;rsquo;m excited to share the experience with you all. The presentation, titled &amp;ldquo;Working Together: SRE and Platform Engineering,&amp;rdquo; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.
 I am pleased to have engaged with so many knowledgeable professionals and enthusiasts who are passionate about improving systems and operations.
           
           
@@ -414,7 +452,7 @@ I am pleased to have engaged with so many knowledgeable professionals and enthus
       <description>
         
           
-            2021 by Matt Butcher, Matt Farina &amp;amp; Josh Dolitsky
+            ![[learning_helm.jpg]] 2021 by Matt Butcher, Matt Farina &amp;amp; Josh Dolitsky
 Learning Helm: Managing Apps on Kubernetes Overview I remember the first time I dived into Kubernetes; it felt like stepping into a new world. There were so many moving parts, and I quickly realised the need for effective tools to manage it all. This is where &amp;ldquo;Learning Helm&amp;rdquo; by Matt Butcher, Matt Farina, and Josh Dolitsky comes in. The book serves as a comprehensive guide to using Helm, the package manager for Kubernetes.
           
           
@@ -431,7 +469,7 @@ Learning Helm: Managing Apps on Kubernetes Overview I remember the first time I 
       <description>
         
           
-            2016 by Clayton M. Christensen The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail
+            ![[innovators_dilemma.jpg]] 2016 by Clayton M. Christensen The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail
 The Innovators Dilemma Introduction &amp;ldquo;The Innovator&amp;rsquo;s Dilemma&amp;rdquo; by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.
 Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fail?
           
@@ -449,7 +487,7 @@ Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fa
       <description>
         
           
-            2007 by Malcolm Gladwell
+            ![[blink.jpg]] 2007 by Malcolm Gladwell
 Blink Introduction In a world where decisions are often made in the blink of an eye, understanding the power of these snap judgments is crucial. Malcolm Gladwell&amp;rsquo;s &amp;ldquo;Blink: The Power of Thinking Without Thinking&amp;rdquo; delves into the science and psychology behind these rapid decisions, revealing how they can be both incredibly accurate and dangerously flawed. This book is a fascinating exploration of the unconscious mind and its role in our everyday choices.
           
           
@@ -466,9 +504,11 @@ Blink Introduction In a world where decisions are often made in the blink of an 
       <description>
         
           
-            Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations
+            ![[sre_foundations.jpg]]
+Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations
 Establishing SRE Foundations Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.
-Summary Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.
+Summary ![[mindmap_establishing_sre.png]]
+Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.
           
           
         
@@ -484,7 +524,7 @@ Summary Chapter 1: Introduction to SRE The first chapter introduces the concept 
       <description>
         
           
-            2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
+            ![[observability_engineering.png]] 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
 Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).
           
           
@@ -501,7 +541,7 @@ Observability Engineering Introduction In the rapidly evolving landscape of soft
       <description>
         
           
-            2022 by Luciano Ramalho
+            ![[fluent_python.jpg]] 2022 by Luciano Ramalho
 Fluent Python Introduction Welcome to our deep dive into &amp;ldquo;Fluent Python&amp;rdquo; by Luciano Ramalho. In this post, we&amp;rsquo;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&amp;rsquo;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.
 Fluent Python by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.
           
@@ -519,7 +559,7 @@ Fluent Python by Luciano Ramalho is a comprehensive guide that delves into the d
       <description>
         
           
-            2022 by Tiago Forte
+            ![[second_brain.jpg]] 2022 by Tiago Forte
 Insights from Building a Second Brain by Tiago Forte Building a Second Brain Overview A few years ago, I found myself overwhelmed by the sheer volume of information I was trying to manage daily. Articles, books, emails, and notes piled up, creating a chaotic mental space that hindered my productivity and creativity. When I came across Tiago Forte’s Building a Second Brain, it felt like a lifeline.
           
           
@@ -536,7 +576,7 @@ Insights from Building a Second Brain by Tiago Forte Building a Second Brain Ove
       <description>
         
           
-            2019 by Matthew Skelton and Manuel Pais
+            ![[team_topologies_book.jpg]] 2019 by Matthew Skelton and Manuel Pais
 Team Topologies: Organizing Business and Technology Teams for Fast
 Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;rdquo; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.
           
@@ -554,7 +594,7 @@ Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and
       <description>
         
           
-            2021 by Colin Bryar &amp;amp; Bill Carr
+            ![[working_backwards.jpg]] 2021 by Colin Bryar &amp;amp; Bill Carr
 Working Backwards Introduction &amp;ldquo;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;rdquo; by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon&amp;rsquo;s success. The authors, both former Amazon executives, provide a detailed account of how the company&amp;rsquo;s culture and methodologies can be applied to achieve extraordinary results in any organisation.
 Summary Part One: Being Amazonian Chapter 1: Building Blocks: Leadership Principles and Mechanisms This chapter introduces Amazon&amp;rsquo;s 14 Leadership Principles, which are central to the company&amp;rsquo;s culture and decision-making processes.
           
@@ -572,7 +612,7 @@ Summary Part One: Being Amazonian Chapter 1: Building Blocks: Leadership Princip
       <description>
         
           
-            2017 by Brandon Black &amp;amp; Shayne Hughes
+            ![[ego_free_leadership.jpg]] 2017 by Brandon Black &amp;amp; Shayne Hughes
 Ego Free Leadership Introduction &amp;ldquo;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&amp;rdquo; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.
           
           
@@ -589,7 +629,7 @@ Ego Free Leadership Introduction &amp;ldquo;Ego Free Leadership: Ending the Unco
       <description>
         
           
-            2020 by Reed Hastings and Erin Meyer
+            ![[no_rules_rules.jpg]] 2020 by Reed Hastings and Erin Meyer
 No Rules Rules Introduction In &amp;ldquo;No Rules Rules: Netflix and the Culture of Reinvention,&amp;rdquo; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.
           
           
@@ -606,7 +646,7 @@ No Rules Rules Introduction In &amp;ldquo;No Rules Rules: Netflix and the Cultur
       <description>
         
           
-            2020 by Brendan Gregg
+            ![[systems_performance.jpg]] 2020 by Brendan Gregg
 Systems Performance Introduction &amp;ldquo;Systems Performance: Enterprise and the Cloud&amp;rdquo; by Brendan Gregg is a comprehensive guide to understanding and improving the performance of computer systems. The book covers a wide range of topics, from the fundamentals of systems performance to advanced techniques for optimizing various system components. It provides practical methodologies and tools for performance analysis, making it an essential resource for system administrators, developers, and performance engineers.
           
           
@@ -623,7 +663,7 @@ Systems Performance Introduction &amp;ldquo;Systems Performance: Enterprise and 
       <description>
         
           
-            2018 by Nicole Forsgren, Jez Humble and Gene Kim
+            ![[book_accelerate.jpg]] 2018 by Nicole Forsgren, Jez Humble and Gene Kim
 Accelerate: Building and Scaling High Performing Technology Organizations
 Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.
           
@@ -641,9 +681,10 @@ Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and 
       <description>
         
           
-            2021 by Jeff Lawson
+            ![[ask_your_developer.jpg]] 2021 by Jeff Lawson
 Ask Your Developer Introduction In the digital age, businesses need to adapt quickly to remain competitive. &amp;ldquo;Ask Your Developer&amp;rdquo; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&amp;rsquo; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.
-Summary Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.
+Summary ![[mindmap_ask_your_dev.png]]
+Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.
           
           
         
@@ -659,9 +700,10 @@ Summary Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.
       <description>
         
           
-            2020 by Glenn Wilson
+            ![[DevSecOps.jpg]] 2020 by Glenn Wilson
 DevSecOps Introduction In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&amp;rsquo;s DevSecOps offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.
-Summary Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models.
+Summary ![[mindmap_devsecops.png]]
+Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models.
           
           
         
@@ -677,9 +719,9 @@ Summary Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begi
       <description>
         
           
-            2017 by Laine Campbell &amp;amp; Charity Majors
+            ![[database_reliability.jpg]] 2017 by Laine Campbell &amp;amp; Charity Majors
 Database Reliability Engineering Introduction &amp;ldquo;Database Reliability Engineering&amp;rdquo; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.
-Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introducing Database Reliability Engineering This chapter sets the stage by defining the role of a Database Reliability Engineer and the need for reliability engineering in database management.
+Summary ![[mindmap_dbre.png]]
           
           
         
@@ -695,7 +737,7 @@ Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introduc
       <description>
         
           
-            2018 by David Blank–edelman
+            ![[seeking_sre.jpg]] 2018 by David Blank–edelman
 Seeking SRE: Conversations about running production systems at scale
 Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&amp;rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.
           
@@ -713,7 +755,7 @@ Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundame
       <description>
         
           
-            ![image](/obsidian/the managers path.jpg) 2017 by Camile Fournier
+            ![[the managers path.jpg]] 2017 by Camile Fournier
 The Manager&amp;rsquo;s Path: A Guide for Tech Leaders Navigating
 The Manager&amp;rsquo;s Path Introduction &amp;ldquo;The Manager&amp;rsquo;s Path&amp;rdquo; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.
           
@@ -731,7 +773,7 @@ The Manager&amp;rsquo;s Path Introduction &amp;ldquo;The Manager&amp;rsquo;s Pat
       <description>
         
           
-            2017 by Martin Kleppmann
+            ![[data_intensive_apps.jpg]] 2017 by Martin Kleppmann
 Designing Data-Intensive Applications Introduction &amp;ldquo;Designing Data-Intensive Applications&amp;rdquo; by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.
           
           
@@ -748,9 +790,9 @@ Designing Data-Intensive Applications Introduction &amp;ldquo;Designing Data-Int
       <description>
         
           
-            2016 by Vaughn Vernon
+            ![[domain_drive_desing.jpg]] 2016 by Vaughn Vernon
 Domain-Driven Design Distilled Introduction In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&amp;rsquo;s &amp;ldquo;Domain-Driven Design Distilled&amp;rdquo; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.
-Summary Chapter 1: DDD for Me Will DDD Hurt?
+Summary !
           
           
         
@@ -766,7 +808,7 @@ Summary Chapter 1: DDD for Me Will DDD Hurt?
       <description>
         
           
-            2013 by Jason Fried and David Heinemeier Hansson
+            ![[remote.jpg]] 2013 by Jason Fried and David Heinemeier Hansson
 Remote: Office Not Required Overview I remember the days when working from home was a rare privilege, reserved for special circumstances. Fast forward to today, remote work has become a norm, a necessity even, due to technological advancements and recent global events. This shift intrigued me, and it was a recommendation from my friend Eduardo that led me to &amp;ldquo;Remote: Office Not Required&amp;rdquo; by Jason Fried and David Heinemeier Hansson.
           
           
@@ -783,7 +825,7 @@ Remote: Office Not Required Overview I remember the days when working from home 
       <description>
         
           
-            by Patric Lencioni
+            ![[five_dysfunctions.jpg]] by Patric Lencioni
 The Five Dysfunctions of a Team Overview This book, presented as a leadership fable, delves into the core issues that impede teamwork and provides actionable insights to overcome these challenges. I chose this book to gain a deeper understanding of team dynamics and to find practical strategies to foster a more collaborative environment. You can expect to gain a comprehensive framework for identifying and addressing the common pitfalls that teams face, ultimately leading to improved performance and unity.
           
           
@@ -800,7 +842,7 @@ The Five Dysfunctions of a Team Overview This book, presented as a leadership fa
       <description>
         
           
-            2010 by David Farley and Jez Humble
+            ![[continuous_delivery.jpg]] 2010 by David Farley and Jez Humble
 Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
 Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;ldquo;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;rdquo; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively.
           
@@ -818,7 +860,7 @@ Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionis
       <description>
         
           
-            2013 by Gene Kim, Kevin Behr, and George Spafford
+            ![[phoenix_project.jpg]] 2013 by Gene Kim, Kevin Behr, and George Spafford
 The Phoenix Project Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.
           
           

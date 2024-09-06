@@ -9,7 +9,7 @@ tags:
   - systems performance
   - book
 --- 
-![image](/obsidian/systems_performance.jpg)
+![[systems_performance.jpg]]
 2020 by Brendan Gregg
 
 # Systems Performance
@@ -19,7 +19,7 @@ tags:
 "Systems Performance: Enterprise and the Cloud" by Brendan Gregg is a comprehensive guide to understanding and improving the performance of computer systems. The book covers a wide range of topics, from the fundamentals of systems performance to advanced techniques for optimizing various system components. It provides practical methodologies and tools for performance analysis, making it an essential resource for system administrators, developers, and performance engineers.
 
 ## Summary
-![image](/obsidian/mindmap_systems_performance.png)
+![[mindmap_systems_performance.png]]
 ### Part I: Foundations
 
 #### Chapter 1: Introduction

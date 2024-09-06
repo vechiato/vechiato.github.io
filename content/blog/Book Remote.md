@@ -8,7 +8,7 @@ tags:
   - book
   - leadership
 --- 
-![image](/obsidian/remote.jpg)
+![[remote.jpg]]
 2013 by Jason Fried and David Heinemeier Hansson
 
 # Remote: Office Not Required

@@ -16,7 +16,7 @@
       <description>
         
           
-            2021 by Matt Butcher, Matt Farina &amp;amp; Josh Dolitsky
+            ![[learning_helm.jpg]] 2021 by Matt Butcher, Matt Farina &amp;amp; Josh Dolitsky
 Learning Helm: Managing Apps on Kubernetes Overview I remember the first time I dived into Kubernetes; it felt like stepping into a new world. There were so many moving parts, and I quickly realised the need for effective tools to manage it all. This is where &amp;ldquo;Learning Helm&amp;rdquo; by Matt Butcher, Matt Farina, and Josh Dolitsky comes in. The book serves as a comprehensive guide to using Helm, the package manager for Kubernetes.
           
           

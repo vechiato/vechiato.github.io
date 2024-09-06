@@ -8,7 +8,7 @@ tags:
   - sre
   - book
 --- 
-![image](/obsidian/seeking_sre.jpg)
+![[seeking_sre.jpg]]
 2018 by David Blank–edelman
 
 [Seeking SRE: Conversations about running production systems at scale](https://www.amazon.co.uk/dp/1491978864)
@@ -20,7 +20,7 @@ tags:
 Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. "Seeking SRE: Conversations About Running Production Systems at Scale" by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.
 
 ## Summary
-![image](/obsidian/mindmap_seeking_sre.png)
+![[mindmap_seeking_sre.png]]
 ### Part I: SRE Implementation
 
 #### Chapter 1: Context Versus Control in SRE
