@@ -9,7 +9,7 @@ tags:
   - python
   - book
 --- 
-![[fluent_python.jpg]]
+![image](/obsidian/fluent_python.jpg)
 2022 by Luciano Ramalho
 
 # Fluent Python
@@ -21,7 +21,7 @@ Welcome to our deep dive into "Fluent Python" by Luciano Ramalho. In this post, 
 *Fluent Python* by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code. 
 
 ## Summary 
-![[mindmap_fluent_python.png]]
+![image](/obsidian/mindmap_fluent_python.png)
 ## In-Depth Analysis
 
 ### The Importance of Pythonic Thinking

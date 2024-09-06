@@ -9,7 +9,7 @@ tags:
   - book
 --- 
 
-![[domain_drive_desing.jpg]]
+![image](/obsidian/domain_drive_desing.jpg)
 2016 by Vaughn Vernon
 
 # Domain-Driven Design Distilled
@@ -19,7 +19,7 @@ tags:
 In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon's "Domain-Driven Design Distilled" simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.
 
 ## Summary
-![[mindmap_ddd.png]]
+![image](/obsidian/mindmap_ddd.png)
 ### Chapter 1: DDD for Me
 
 #### Will DDD Hurt?

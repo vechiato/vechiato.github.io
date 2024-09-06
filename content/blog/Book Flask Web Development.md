@@ -8,7 +8,7 @@ tags:
   - python
   - book
 --- 
-![[flask.jpg]]
+![image](/obsidian/flask.jpg)
 Grinberg, M. (2018). *Flask Web Development*. O'Reilly Media.
 
 # Flask Web Development
@@ -17,7 +17,7 @@ Grinberg, M. (2018). *Flask Web Development*. O'Reilly Media.
 I picked up "Flask Web Development" by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.
 
 ## Summary
-![[mindmap_flask_web.png]]
+![image](/obsidian/mindmap_flask_web.png)
 ### Part I: Introduction to Flask
 #### Chapter 1: Hello, World!
 The book starts with setting up a basic Flask application, walking through the creation of a simple "Hello, World!" app. Key points include setting up a virtual environment, installing Flask, and running a development server. This chapter highlights the minimalistic and easy-to-understand nature of Flask, making it accessible even for beginners.

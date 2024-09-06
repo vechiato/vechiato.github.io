@@ -12,7 +12,7 @@ tags:
   - sre
 --- 
 
-![[book_learning_ebpf.jpg]]
+![image](/obsidian/book_learning_ebpf.jpg)
 2023 by Liz Rice
 
 [Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security](https://www.amazon.co.uk/dp/1098135121)
@@ -24,7 +24,7 @@ tags:
 In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In "Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security," Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.
 
 ## Summary
-![[mindmap_ebpf.png]]
+![image](/obsidian/mindmap_ebpf.png)
 ### Part I: The Basics of eBPF
 
 #### Chapter 1: What Is eBPF, and Why Is It Important?

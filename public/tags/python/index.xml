@@ -16,11 +16,8 @@
       <description>
         
           
-            &lt;p&gt;![[flask.jpg]]
-Grinberg, M. (2018). &lt;em&gt;Flask Web Development&lt;/em&gt;. O&amp;rsquo;Reilly Media.&lt;/p&gt;
-&lt;h1 id=&#34;flask-web-development&#34;&gt;Flask Web Development&lt;/h1&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;I picked up &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.&lt;/p&gt;
+            Grinberg, M. (2018). Flask Web Development. O&amp;rsquo;Reilly Media.
+Flask Web Development Overview I picked up &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.
           
           
         
@@ -36,12 +33,9 @@ Grinberg, M. (2018). &lt;em&gt;Flask Web Development&lt;/em&gt;. O&amp;rsquo;Rei
       <description>
         
           
-            &lt;p&gt;![[fluent_python.jpg]]
-2022 by Luciano Ramalho&lt;/p&gt;
-&lt;h1 id=&#34;fluent-python&#34;&gt;Fluent Python&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Welcome to our deep dive into &amp;ldquo;Fluent Python&amp;rdquo; by Luciano Ramalho. In this post, we&amp;rsquo;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&amp;rsquo;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Fluent Python&lt;/em&gt; by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.&lt;/p&gt;
+            2022 by Luciano Ramalho
+Fluent Python Introduction Welcome to our deep dive into &amp;ldquo;Fluent Python&amp;rdquo; by Luciano Ramalho. In this post, we&amp;rsquo;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&amp;rsquo;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.
+Fluent Python by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.
           
           
         

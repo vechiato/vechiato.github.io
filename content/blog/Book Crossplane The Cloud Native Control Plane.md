@@ -10,7 +10,7 @@ tags:
   - book
   - platform engineering
 --- 
-![[book_crossplane.png]]
+![image](/obsidian/book_crossplane.png)
 2024 by Viktor Farcic 
 
 ## Crossplane: The Cloud Native Control Plane
@@ -20,7 +20,7 @@ tags:
 As a DevOps enthusiast, I've always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up "Crossplane: The Cloud Native Control Plane" by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers. By abstracting away complexity and allowing for custom control planes, Crossplane stands out as a transformative tool for modern infrastructure management. I chose this book to deepen my understanding of how Crossplane can help create a seamless, scalable, and efficient cloud infrastructure tailored to specific organizational needs.
 
 ### Summary
-![[mindmap_crossplane.png]]
+![image](/obsidian/mindmap_crossplane.png)
 #### Chapter 1: Introduction
 
 In this chapter, Farcic introduces the potential of Crossplane to create custom control planes that provide a similar experience to using major public cloud providers like AWS, Google Cloud, and Azure. He emphasizes the hands-on learning approach of the book, encouraging readers to dive directly into creating and managing resources using Crossplane. One notable section describes a simple YAML manifest that can set up a production-ready Kubernetes cluster, a managed PostgreSQL database, and a backend application, showcasing Crossplane's powerful abstraction capabilities.

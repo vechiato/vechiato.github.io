@@ -9,7 +9,7 @@ tags:
   - book
 --- 
 
-![[devops_handbook.jpg]]
+![image](/obsidian/devops_handbook.jpg)
 2021 by Gene Kim & Jez Humble & Patrick Debois & John Willis & Nicole Forsgren
 
 # The DevOps Handbook
@@ -19,7 +19,7 @@ tags:
 In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. "The DevOps Handbook: Second Edition" by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices. This book provides valuable insights into the principles, methodologies, and case studies that illustrate the transformative power of DevOps in modern enterprises.
 
 ## Summary
-![[mindmap_devops_handbook.png]]
+![image](/obsidian/mindmap_devops_handbook.png)
 ### Part I: The Three Ways
 
 #### Chapter 1: Agile, Continuous Delivery, and the Three Ways
