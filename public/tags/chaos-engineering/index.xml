@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chaos Engineering on Marcus Vechiato</title>
-    <link>blog.vechiato.cc/tags/chaos-engineering/</link>
+    <link>https://example.com/tags/chaos-engineering/</link>
     <description>Recent content in Chaos Engineering on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/chaos-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/chaos-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Chaos Engineering: System Resiliency in Practice</title>
-      <link>blog.vechiato.cc/post/book-chaos-engineering/</link>
+      <link>https://example.com/post/book-chaos-engineering/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-chaos-engineering/</guid>
+      <guid>https://example.com/post/book-chaos-engineering/</guid>
       <description>
         
           

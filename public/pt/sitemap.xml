@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>blog.vechiato.cc/pt/</loc>
+    <loc>https://example.com/pt/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog.vechiato.cc/"
+                href="https://example.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="blog.vechiato.cc/pt/"
+                href="https://example.com/pt/"
                 />
   </url><url>
-    <loc>blog.vechiato.cc/pt/about-hugo/</loc>
+    <loc>https://example.com/pt/about-hugo/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog.vechiato.cc/about-hugo/"
+                href="https://example.com/about-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="blog.vechiato.cc/pt/about-hugo/"
+                href="https://example.com/pt/about-hugo/"
                 />
   </url><url>
-    <loc>blog.vechiato.cc/pt/tags/</loc>
+    <loc>https://example.com/pt/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog.vechiato.cc/tags/"
+                href="https://example.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="blog.vechiato.cc/pt/tags/"
+                href="https://example.com/pt/tags/"
                 />
   </url>
 </urlset>

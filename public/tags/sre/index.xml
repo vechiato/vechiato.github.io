@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sre on Marcus Vechiato</title>
-    <link>blog.vechiato.cc/tags/sre/</link>
+    <link>https://example.com/tags/sre/</link>
     <description>Recent content in Sre on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/sre/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/sre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Chaos Engineering: System Resiliency in Practice</title>
-      <link>blog.vechiato.cc/post/book-chaos-engineering/</link>
+      <link>https://example.com/post/book-chaos-engineering/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-chaos-engineering/</guid>
+      <guid>https://example.com/post/book-chaos-engineering/</guid>
       <description>
         
           
@@ -27,10 +27,10 @@
     
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>blog.vechiato.cc/post/book-learning-ebpf/</link>
+      <link>https://example.com/post/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-learning-ebpf/</guid>
+      <guid>https://example.com/post/book-learning-ebpf/</guid>
       <description>
         
           
@@ -44,10 +44,10 @@
     
     <item>
       <title>Reflecting on My Presentation at the London SRE Meetup</title>
-      <link>blog.vechiato.cc/post/20230523-london-sre-meetup/</link>
+      <link>https://example.com/post/20230523-london-sre-meetup/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/20230523-london-sre-meetup/</guid>
+      <guid>https://example.com/post/20230523-london-sre-meetup/</guid>
       <description>
         
           
@@ -68,7 +68,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/mv_sre_meetup_thumb.png&#34;
+        src=&#34;https://example.com/obsidian/mv_sre_meetup_thumb.png&#34;
       
       
     /&gt;
@@ -86,10 +86,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Establishing SRE Foundations</title>
-      <link>blog.vechiato.cc/post/book-establishing-sre-foundations/</link>
+      <link>https://example.com/post/book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-establishing-sre-foundations/</guid>
+      <guid>https://example.com/post/book-establishing-sre-foundations/</guid>
       <description>
         
           
@@ -110,7 +110,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/sre_foundations.jpg&#34;
+        src=&#34;https://example.com/obsidian/sre_foundations.jpg&#34;
       
       
     /&gt;
@@ -140,7 +140,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/mindmap_establishing_sre.png&#34;
+        src=&#34;https://example.com/obsidian/mindmap_establishing_sre.png&#34;
       
       
     /&gt;
@@ -156,10 +156,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Observability Engineering: Achieving Production Excellence</title>
-      <link>blog.vechiato.cc/post/book-observability-engineering-2022/</link>
+      <link>https://example.com/post/book-observability-engineering-2022/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-observability-engineering-2022/</guid>
+      <guid>https://example.com/post/book-observability-engineering-2022/</guid>
       <description>
         
           
@@ -180,7 +180,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/observability_engineering.png&#34;
+        src=&#34;https://example.com/obsidian/observability_engineering.png&#34;
       
       
     /&gt;
@@ -200,10 +200,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems</title>
-      <link>blog.vechiato.cc/post/book-database-reliability-engineering/</link>
+      <link>https://example.com/post/book-database-reliability-engineering/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-database-reliability-engineering/</guid>
+      <guid>https://example.com/post/book-database-reliability-engineering/</guid>
       <description>
         
           
@@ -224,7 +224,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/database_reliability.jpg&#34;
+        src=&#34;https://example.com/obsidian/database_reliability.jpg&#34;
       
       
     /&gt;
@@ -244,10 +244,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Seeking SRE</title>
-      <link>blog.vechiato.cc/post/book-seeking-sre/</link>
+      <link>https://example.com/post/book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-seeking-sre/</guid>
+      <guid>https://example.com/post/book-seeking-sre/</guid>
       <description>
         
           
@@ -268,7 +268,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/seeking_sre.jpg&#34;
+        src=&#34;https://example.com/obsidian/seeking_sre.jpg&#34;
       
       
     /&gt;

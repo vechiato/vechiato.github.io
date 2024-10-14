@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Helm on Marcus Vechiato</title>
-    <link>blog.vechiato.cc/tags/helm/</link>
+    <link>https://example.com/tags/helm/</link>
     <description>Recent content in Helm on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/helm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/helm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Learning Helm: Managing Apps on Kubernetes</title>
-      <link>blog.vechiato.cc/post/book-learning-helm/</link>
+      <link>https://example.com/post/book-learning-helm/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-learning-helm/</guid>
+      <guid>https://example.com/post/book-learning-helm/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/learning_helm.jpg&#34;
+        src=&#34;https://example.com/obsidian/learning_helm.jpg&#34;
       
       
     /&gt;

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ebpf on Marcus Vechiato</title>
-    <link>blog.vechiato.cc/tags/ebpf/</link>
+    <link>https://example.com/tags/ebpf/</link>
     <description>Recent content in Ebpf on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/ebpf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ebpf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>blog.vechiato.cc/post/book-learning-ebpf/</link>
+      <link>https://example.com/post/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-learning-ebpf/</guid>
+      <guid>https://example.com/post/book-learning-ebpf/</guid>
       <description>
         
           
@@ -27,10 +27,10 @@
     
     <item>
       <title>CNCF Falco Graduation - Another step in your Shift-Left Journey</title>
-      <link>blog.vechiato.cc/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
+      <link>https://example.com/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
+      <guid>https://example.com/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
       <description>
         
           

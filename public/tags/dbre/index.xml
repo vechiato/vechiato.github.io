@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dbre on Marcus Vechiato</title>
-    <link>blog.vechiato.cc/tags/dbre/</link>
+    <link>https://example.com/tags/dbre/</link>
     <description>Recent content in Dbre on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/dbre/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/dbre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems</title>
-      <link>blog.vechiato.cc/post/book-database-reliability-engineering/</link>
+      <link>https://example.com/post/book-database-reliability-engineering/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-database-reliability-engineering/</guid>
+      <guid>https://example.com/post/book-database-reliability-engineering/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/database_reliability.jpg&#34;
+        src=&#34;https://example.com/obsidian/database_reliability.jpg&#34;
       
       
     /&gt;

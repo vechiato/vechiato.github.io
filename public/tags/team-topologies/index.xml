@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team Topologies on Marcus Vechiato</title>
-    <link>blog.vechiato.cc/tags/team-topologies/</link>
+    <link>https://example.com/tags/team-topologies/</link>
     <description>Recent content in Team Topologies on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/team-topologies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/team-topologies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</title>
-      <link>blog.vechiato.cc/post/book-team-topologies/</link>
+      <link>https://example.com/post/book-team-topologies/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-team-topologies/</guid>
+      <guid>https://example.com/post/book-team-topologies/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/team_topologies_book.jpg&#34;
+        src=&#34;https://example.com/obsidian/team_topologies_book.jpg&#34;
       
       
     /&gt;

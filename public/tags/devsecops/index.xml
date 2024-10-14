@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devsecops on Marcus Vechiato</title>
-    <link>blog.vechiato.cc/tags/devsecops/</link>
+    <link>https://example.com/tags/devsecops/</link>
     <description>Recent content in Devsecops on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/devsecops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/devsecops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from DevSecOps</title>
-      <link>blog.vechiato.cc/post/book-devsecops/</link>
+      <link>https://example.com/post/book-devsecops/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-devsecops/</guid>
+      <guid>https://example.com/post/book-devsecops/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/DevSecOps.jpg&#34;
+        src=&#34;https://example.com/obsidian/DevSecOps.jpg&#34;
       
       
     /&gt;
@@ -64,7 +64,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/mindmap_devsecops.png&#34;
+        src=&#34;https://example.com/obsidian/mindmap_devsecops.png&#34;
       
       
     /&gt;

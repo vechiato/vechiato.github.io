@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Platform Engineering on Marcus Vechiato</title>
-    <link>blog.vechiato.cc/tags/platform-engineering/</link>
+    <link>https://example.com/tags/platform-engineering/</link>
     <description>Recent content in Platform Engineering on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/platform-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/platform-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Crossplane: The Cloud Native Control Plane</title>
-      <link>blog.vechiato.cc/post/book-crossplane-the-cloud-native-control-plane/</link>
+      <link>https://example.com/post/book-crossplane-the-cloud-native-control-plane/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-crossplane-the-cloud-native-control-plane/</guid>
+      <guid>https://example.com/post/book-crossplane-the-cloud-native-control-plane/</guid>
       <description>
         
           
@@ -27,10 +27,10 @@
     
     <item>
       <title>Insights from Platform Engineering on Kubernetes</title>
-      <link>blog.vechiato.cc/post/book-platform-engineering-on-kubernetes/</link>
+      <link>https://example.com/post/book-platform-engineering-on-kubernetes/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-platform-engineering-on-kubernetes/</guid>
+      <guid>https://example.com/post/book-platform-engineering-on-kubernetes/</guid>
       <description>
         
           
@@ -53,7 +53,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/book_platform_engineering_kubernetes.jpg&#34;
+        src=&#34;https://example.com/obsidian/book_platform_engineering_kubernetes.jpg&#34;
       
       
     /&gt;
@@ -80,7 +80,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/mindmap_platform_engineering_k8s.png&#34;
+        src=&#34;https://example.com/obsidian/mindmap_platform_engineering_k8s.png&#34;
       
       
     /&gt;
@@ -98,10 +98,10 @@
     
     <item>
       <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
-      <link>blog.vechiato.cc/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
+      <link>https://example.com/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
+      <guid>https://example.com/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
       <description>
         
           
@@ -123,7 +123,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/end2end_automation_k8s_crossplane.jpg&#34;
+        src=&#34;https://example.com/obsidian/end2end_automation_k8s_crossplane.jpg&#34;
       
       
     /&gt;
@@ -143,10 +143,10 @@
     
     <item>
       <title>Reflecting on My Presentation at the London SRE Meetup</title>
-      <link>blog.vechiato.cc/post/20230523-london-sre-meetup/</link>
+      <link>https://example.com/post/20230523-london-sre-meetup/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/20230523-london-sre-meetup/</guid>
+      <guid>https://example.com/post/20230523-london-sre-meetup/</guid>
       <description>
         
           
@@ -167,7 +167,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/mv_sre_meetup_thumb.png&#34;
+        src=&#34;https://example.com/obsidian/mv_sre_meetup_thumb.png&#34;
       
       
     /&gt;

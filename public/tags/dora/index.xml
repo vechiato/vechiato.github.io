@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dora on Marcus Vechiato</title>
-    <link>blog.vechiato.cc/tags/dora/</link>
+    <link>https://example.com/tags/dora/</link>
     <description>Recent content in Dora on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/dora/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/dora/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
-      <link>blog.vechiato.cc/post/book-accelerate/</link>
+      <link>https://example.com/post/book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-accelerate/</guid>
+      <guid>https://example.com/post/book-accelerate/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/book_accelerate.jpg&#34;
+        src=&#34;https://example.com/obsidian/book_accelerate.jpg&#34;
       
       
     /&gt;

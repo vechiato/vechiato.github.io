@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Netflix on Marcus Vechiato</title>
-    <link>blog.vechiato.cc/tags/netflix/</link>
+    <link>https://example.com/tags/netflix/</link>
     <description>Recent content in Netflix on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from No rules rules: Netflix and the culture of reinvention</title>
-      <link>blog.vechiato.cc/post/book-no-rules-rules/</link>
+      <link>https://example.com/post/book-no-rules-rules/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>blog.vechiato.cc/post/book-no-rules-rules/</guid>
+      <guid>https://example.com/post/book-no-rules-rules/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;blog.vechiato.cc/obsidian/no_rules_rules.jpg&#34;
+        src=&#34;https://example.com/obsidian/no_rules_rules.jpg&#34;
       
       
     /&gt;
