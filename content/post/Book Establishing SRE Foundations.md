@@ -9,15 +9,13 @@ tags:
   - book
 --- 
 
+# Establishing SRE Foundations
+
+"Establishing SRE Foundations: A Step-by-Step Guide" by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.
+
 ![image](/obsidian/sre_foundations.jpg)
 
 [Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations](https://www.amazon.co.uk/dp/0137424604)
-
-# Establishing SRE Foundations
-
-## Introduction
-
-"Establishing SRE Foundations: A Step-by-Step Guide" by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.
 
 ## Summary
 ![image](/obsidian/mindmap_establishing_sre.png)

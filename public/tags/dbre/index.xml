@@ -17,7 +17,9 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;database-reliability-engineering&#34;&gt;Database Reliability Engineering&lt;/h1&gt;
+&lt;p&gt;&amp;quot;Database Reliability Engineering&amp;quot; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -43,9 +45,6 @@
 &lt;/figure&gt;
 
 2017 by Laine Campbell &amp;amp; Charity Majors&lt;/p&gt;
-&lt;h1 id=&#34;database-reliability-engineering&#34;&gt;Database Reliability Engineering&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&amp;quot;Database Reliability Engineering&amp;quot; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.&lt;/p&gt;
           
           
         

@@ -3,7 +3,7 @@ author: "Marcus Vechiato"
 title: "Insights from Domain-Driven Design Distilled"
 date: "2019-01-29"
 publish: true
-thumnail: "/obsidian/domain_drive_desing.jpg"
+thumbnail: "/obsidian/domain_drive_desing.jpg"
 tags: 
   - devops
   - book
