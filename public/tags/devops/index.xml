@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devops on Marcus Vechiato</title>
-    <link>https://example.com/tags/devops/</link>
+    <link>https://blog.vechiato.cc/tags/devops/</link>
     <description>Recent content in Devops on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seven Books on Managing Technical Debt</title>
-      <link>https://example.com/post/7-books-managing-technical-debt/</link>
+      <link>https://blog.vechiato.cc/post/7-books-managing-technical-debt/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/7-books-managing-technical-debt/</guid>
+      <guid>https://blog.vechiato.cc/post/7-books-managing-technical-debt/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>GitOps Certification</title>
-      <link>https://example.com/post/20240305-certified-gitops-associate-cgoa/</link>
+      <link>https://blog.vechiato.cc/post/20240305-certified-gitops-associate-cgoa/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/20240305-certified-gitops-associate-cgoa/</guid>
+      <guid>https://blog.vechiato.cc/post/20240305-certified-gitops-associate-cgoa/</guid>
       <description>
         
           
@@ -54,10 +54,10 @@
     
     <item>
       <title>Insights from Learning GitHub Actions</title>
-      <link>https://example.com/post/book-learning-github-actions/</link>
+      <link>https://blog.vechiato.cc/post/book-learning-github-actions/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-learning-github-actions/</guid>
+      <guid>https://blog.vechiato.cc/post/book-learning-github-actions/</guid>
       <description>
         
           
@@ -80,7 +80,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/learning_github_actions.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/learning_github_actions.jpg&#34;
       
       
     /&gt;
@@ -107,7 +107,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mindmap_learning_github_actions.png&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_learning_github_actions.png&#34;
       
       
     /&gt;
@@ -123,10 +123,10 @@
     
     <item>
       <title>Insights from The DevOps Handbook</title>
-      <link>https://example.com/post/book-the-devops-handbook/</link>
+      <link>https://blog.vechiato.cc/post/book-the-devops-handbook/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-the-devops-handbook/</guid>
+      <guid>https://blog.vechiato.cc/post/book-the-devops-handbook/</guid>
       <description>
         
           
@@ -140,10 +140,10 @@
     
     <item>
       <title>Reflecting on My Presentation at the London SRE Meetup</title>
-      <link>https://example.com/post/20230523-london-sre-meetup/</link>
+      <link>https://blog.vechiato.cc/post/20230523-london-sre-meetup/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/20230523-london-sre-meetup/</guid>
+      <guid>https://blog.vechiato.cc/post/20230523-london-sre-meetup/</guid>
       <description>
         
           
@@ -164,7 +164,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mv_sre_meetup_thumb.png&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/mv_sre_meetup_thumb.png&#34;
       
       
     /&gt;
@@ -182,10 +182,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Observability Engineering: Achieving Production Excellence</title>
-      <link>https://example.com/post/book-observability-engineering-2022/</link>
+      <link>https://blog.vechiato.cc/post/book-observability-engineering-2022/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-observability-engineering-2022/</guid>
+      <guid>https://blog.vechiato.cc/post/book-observability-engineering-2022/</guid>
       <description>
         
           
@@ -206,7 +206,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/observability_engineering.png&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/observability_engineering.png&#34;
       
       
     /&gt;
@@ -226,10 +226,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Fluent Python, second edition</title>
-      <link>https://example.com/post/book-fluent-python/</link>
+      <link>https://blog.vechiato.cc/post/book-fluent-python/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-fluent-python/</guid>
+      <guid>https://blog.vechiato.cc/post/book-fluent-python/</guid>
       <description>
         
           
@@ -250,7 +250,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/fluent_python.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/fluent_python.jpg&#34;
       
       
     /&gt;
@@ -271,10 +271,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
-      <link>https://example.com/post/book-accelerate/</link>
+      <link>https://blog.vechiato.cc/post/book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-accelerate/</guid>
+      <guid>https://blog.vechiato.cc/post/book-accelerate/</guid>
       <description>
         
           
@@ -295,7 +295,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/book_accelerate.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/book_accelerate.jpg&#34;
       
       
     /&gt;
@@ -316,10 +316,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from DevSecOps</title>
-      <link>https://example.com/post/book-devsecops/</link>
+      <link>https://blog.vechiato.cc/post/book-devsecops/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-devsecops/</guid>
+      <guid>https://blog.vechiato.cc/post/book-devsecops/</guid>
       <description>
         
           
@@ -340,7 +340,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/DevSecOps.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/DevSecOps.jpg&#34;
       
       
     /&gt;
@@ -370,7 +370,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mindmap_devsecops.png&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_devsecops.png&#34;
       
       
     /&gt;
@@ -389,10 +389,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Domain-Driven Design Distilled</title>
-      <link>https://example.com/post/book-domain-driven-design-distilled/</link>
+      <link>https://blog.vechiato.cc/post/book-domain-driven-design-distilled/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-domain-driven-design-distilled/</guid>
+      <guid>https://blog.vechiato.cc/post/book-domain-driven-design-distilled/</guid>
       <description>
         
           
@@ -413,7 +413,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/domain_drive_desing.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/domain_drive_desing.jpg&#34;
       
       
     /&gt;
@@ -433,10 +433,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Continuous Delivery</title>
-      <link>https://example.com/post/book-continuous-delivery/</link>
+      <link>https://blog.vechiato.cc/post/book-continuous-delivery/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-continuous-delivery/</guid>
+      <guid>https://blog.vechiato.cc/post/book-continuous-delivery/</guid>
       <description>
         
           
@@ -457,7 +457,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/continuous_delivery.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/continuous_delivery.jpg&#34;
       
       
     /&gt;
@@ -478,10 +478,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from The Phoenix Project</title>
-      <link>https://example.com/post/book-the-phoenix-project/</link>
+      <link>https://blog.vechiato.cc/post/book-the-phoenix-project/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-the-phoenix-project/</guid>
+      <guid>https://blog.vechiato.cc/post/book-the-phoenix-project/</guid>
       <description>
         
           
@@ -502,7 +502,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/phoenix_project.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/phoenix_project.jpg&#34;
       
       
     /&gt;

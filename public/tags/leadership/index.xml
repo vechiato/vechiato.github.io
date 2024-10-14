@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leadership on Marcus Vechiato</title>
-    <link>https://example.com/tags/leadership/</link>
+    <link>https://blog.vechiato.cc/tags/leadership/</link>
     <description>Recent content in Leadership on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Leading Effective Engineering Teams</title>
-      <link>https://example.com/post/book-leading-effective-engineering-teams/</link>
+      <link>https://blog.vechiato.cc/post/book-leading-effective-engineering-teams/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-leading-effective-engineering-teams/</guid>
+      <guid>https://blog.vechiato.cc/post/book-leading-effective-engineering-teams/</guid>
       <description>
         
           
@@ -27,10 +27,10 @@
     
     <item>
       <title>Insights from The Staff Engineer&#39;s Path</title>
-      <link>https://example.com/post/book-the-staff-engineers-path/</link>
+      <link>https://blog.vechiato.cc/post/book-the-staff-engineers-path/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-the-staff-engineers-path/</guid>
+      <guid>https://blog.vechiato.cc/post/book-the-staff-engineers-path/</guid>
       <description>
         
           
@@ -51,7 +51,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/the_staff_enginners_path.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/the_staff_enginners_path.jpg&#34;
       
       
     /&gt;
@@ -72,10 +72,10 @@
     
     <item>
       <title>Insights from Working Backwards: Insights, Stories, and Secrets from Inside Amazon</title>
-      <link>https://example.com/post/book-working-backwards/</link>
+      <link>https://blog.vechiato.cc/post/book-working-backwards/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-working-backwards/</guid>
+      <guid>https://blog.vechiato.cc/post/book-working-backwards/</guid>
       <description>
         
           
@@ -96,7 +96,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/working_backwards.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/working_backwards.jpg&#34;
       
       
     /&gt;
@@ -116,10 +116,10 @@
     
     <item>
       <title>Insights from Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business</title>
-      <link>https://example.com/post/book-ego-free-leadership/</link>
+      <link>https://blog.vechiato.cc/post/book-ego-free-leadership/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-ego-free-leadership/</guid>
+      <guid>https://blog.vechiato.cc/post/book-ego-free-leadership/</guid>
       <description>
         
           
@@ -140,7 +140,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/ego_free_leadership.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/ego_free_leadership.jpg&#34;
       
       
     /&gt;
@@ -160,10 +160,10 @@
     
     <item>
       <title>Insights from No rules rules: Netflix and the culture of reinvention</title>
-      <link>https://example.com/post/book-no-rules-rules/</link>
+      <link>https://blog.vechiato.cc/post/book-no-rules-rules/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-no-rules-rules/</guid>
+      <guid>https://blog.vechiato.cc/post/book-no-rules-rules/</guid>
       <description>
         
           
@@ -184,7 +184,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/no_rules_rules.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/no_rules_rules.jpg&#34;
       
       
     /&gt;
@@ -204,10 +204,10 @@
     
     <item>
       <title>Insights from Ask Your Developer</title>
-      <link>https://example.com/post/book-ask-your-developer/</link>
+      <link>https://blog.vechiato.cc/post/book-ask-your-developer/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-ask-your-developer/</guid>
+      <guid>https://blog.vechiato.cc/post/book-ask-your-developer/</guid>
       <description>
         
           
@@ -228,7 +228,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/ask_your_developer.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/ask_your_developer.jpg&#34;
       
       
     /&gt;
@@ -258,7 +258,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mindmap_ask_your_dev.png&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_ask_your_dev.png&#34;
       
       
     /&gt;
@@ -274,10 +274,10 @@
     
     <item>
       <title>Insights from The Manager&#39;s Path</title>
-      <link>https://example.com/post/book-managers-path/</link>
+      <link>https://blog.vechiato.cc/post/book-managers-path/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-managers-path/</guid>
+      <guid>https://blog.vechiato.cc/post/book-managers-path/</guid>
       <description>
         
           
@@ -295,10 +295,10 @@
     
     <item>
       <title>Insights from Remote: Office not Required</title>
-      <link>https://example.com/post/book-remote/</link>
+      <link>https://blog.vechiato.cc/post/book-remote/</link>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-remote/</guid>
+      <guid>https://blog.vechiato.cc/post/book-remote/</guid>
       <description>
         
           
@@ -319,7 +319,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/remote.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/remote.jpg&#34;
       
       
     /&gt;
@@ -339,10 +339,10 @@
     
     <item>
       <title>Insights from The Five Dysfunctions of a Team</title>
-      <link>https://example.com/post/book-the-five-dysfunctions-of-a-team/</link>
+      <link>https://blog.vechiato.cc/post/book-the-five-dysfunctions-of-a-team/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-the-five-dysfunctions-of-a-team/</guid>
+      <guid>https://blog.vechiato.cc/post/book-the-five-dysfunctions-of-a-team/</guid>
       <description>
         
           
@@ -363,7 +363,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/five_dysfunctions.jpg&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/five_dysfunctions.jpg&#34;
       
       
     /&gt;
