@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on Marcus Vechiato</title>
-    <link>https://example.com/tags/security/</link>
+    <link>blog.vechiato.cc/tags/security/</link>
     <description>Recent content in Security on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seven Books on Managing Technical Debt</title>
-      <link>https://example.com/post/7-books-managing-technical-debt/</link>
+      <link>blog.vechiato.cc/post/7-books-managing-technical-debt/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/7-books-managing-technical-debt/</guid>
+      <guid>blog.vechiato.cc/post/7-books-managing-technical-debt/</guid>
       <description>
         
           
@@ -26,10 +26,10 @@
     
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>https://example.com/post/book-learning-ebpf/</link>
+      <link>blog.vechiato.cc/post/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-learning-ebpf/</guid>
+      <guid>blog.vechiato.cc/post/book-learning-ebpf/</guid>
       <description>
         
           
@@ -43,10 +43,10 @@
     
     <item>
       <title>CNCF Falco Graduation - Another step in your Shift-Left Journey</title>
-      <link>https://example.com/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
+      <link>blog.vechiato.cc/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
+      <guid>blog.vechiato.cc/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
       <description>
         
           
@@ -60,10 +60,10 @@
     
     <item>
       <title>Insights from DevSecOps</title>
-      <link>https://example.com/post/book-devsecops/</link>
+      <link>blog.vechiato.cc/post/book-devsecops/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-devsecops/</guid>
+      <guid>blog.vechiato.cc/post/book-devsecops/</guid>
       <description>
         
           
@@ -84,7 +84,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/DevSecOps.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/DevSecOps.jpg&#34;
       
       
     /&gt;
@@ -114,7 +114,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mindmap_devsecops.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/mindmap_devsecops.png&#34;
       
       
     /&gt;

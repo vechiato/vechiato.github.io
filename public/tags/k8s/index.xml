@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K8s on Marcus Vechiato</title>
-    <link>https://example.com/tags/k8s/</link>
+    <link>blog.vechiato.cc/tags/k8s/</link>
     <description>Recent content in K8s on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Crossplane: The Cloud Native Control Plane</title>
-      <link>https://example.com/post/book-crossplane-the-cloud-native-control-plane/</link>
+      <link>blog.vechiato.cc/post/book-crossplane-the-cloud-native-control-plane/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-crossplane-the-cloud-native-control-plane/</guid>
+      <guid>blog.vechiato.cc/post/book-crossplane-the-cloud-native-control-plane/</guid>
       <description>
         
           
@@ -27,10 +27,10 @@
     
     <item>
       <title>Insights from Platform Engineering on Kubernetes</title>
-      <link>https://example.com/post/book-platform-engineering-on-kubernetes/</link>
+      <link>blog.vechiato.cc/post/book-platform-engineering-on-kubernetes/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-platform-engineering-on-kubernetes/</guid>
+      <guid>blog.vechiato.cc/post/book-platform-engineering-on-kubernetes/</guid>
       <description>
         
           
@@ -53,7 +53,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/book_platform_engineering_kubernetes.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/book_platform_engineering_kubernetes.jpg&#34;
       
       
     /&gt;
@@ -80,7 +80,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mindmap_platform_engineering_k8s.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/mindmap_platform_engineering_k8s.png&#34;
       
       
     /&gt;
@@ -98,10 +98,10 @@
     
     <item>
       <title>Insights from Kubernetes Up and Running, 3rd Edition</title>
-      <link>https://example.com/post/book-kubernetes-up-and-running/</link>
+      <link>blog.vechiato.cc/post/book-kubernetes-up-and-running/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-kubernetes-up-and-running/</guid>
+      <guid>blog.vechiato.cc/post/book-kubernetes-up-and-running/</guid>
       <description>
         
           
@@ -124,7 +124,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/kubernetes_up_and_running.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/kubernetes_up_and_running.jpg&#34;
       
       
     /&gt;
@@ -141,10 +141,10 @@
     
     <item>
       <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
-      <link>https://example.com/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
+      <link>blog.vechiato.cc/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
+      <guid>blog.vechiato.cc/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
       <description>
         
           
@@ -166,7 +166,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/end2end_automation_k8s_crossplane.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/end2end_automation_k8s_crossplane.jpg&#34;
       
       
     /&gt;
@@ -186,10 +186,10 @@
     
     <item>
       <title>Insights from Learning Helm: Managing Apps on Kubernetes</title>
-      <link>https://example.com/post/book-learning-helm/</link>
+      <link>blog.vechiato.cc/post/book-learning-helm/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-learning-helm/</guid>
+      <guid>blog.vechiato.cc/post/book-learning-helm/</guid>
       <description>
         
           
@@ -210,7 +210,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/learning_helm.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/learning_helm.jpg&#34;
       
       
     /&gt;

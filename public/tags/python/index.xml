@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Marcus Vechiato</title>
-    <link>https://example.com/tags/python/</link>
+    <link>blog.vechiato.cc/tags/python/</link>
     <description>Recent content in Python on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Flask Web Development, Second Edition</title>
-      <link>https://example.com/post/book-flask-web-development/</link>
+      <link>blog.vechiato.cc/post/book-flask-web-development/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-flask-web-development/</guid>
+      <guid>blog.vechiato.cc/post/book-flask-web-development/</guid>
       <description>
         
           
@@ -27,10 +27,10 @@
     
     <item>
       <title>Insights from Fluent Python, second edition</title>
-      <link>https://example.com/post/book-fluent-python/</link>
+      <link>blog.vechiato.cc/post/book-fluent-python/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-fluent-python/</guid>
+      <guid>blog.vechiato.cc/post/book-fluent-python/</guid>
       <description>
         
           
@@ -51,7 +51,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/fluent_python.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/fluent_python.jpg&#34;
       
       
     /&gt;

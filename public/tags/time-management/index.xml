@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time Management on Marcus Vechiato</title>
-    <link>https://example.com/tags/time-management/</link>
+    <link>blog.vechiato.cc/tags/time-management/</link>
     <description>Recent content in Time Management on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/time-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/time-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Building a Second Brain</title>
-      <link>https://example.com/post/book-building-a-second-brain/</link>
+      <link>blog.vechiato.cc/post/book-building-a-second-brain/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-building-a-second-brain/</guid>
+      <guid>blog.vechiato.cc/post/book-building-a-second-brain/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/second_brain.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/second_brain.jpg&#34;
       
       
     /&gt;

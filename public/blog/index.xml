@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Marcus Vechiato</title>
-    <link>https://example.com/blog/</link>
+    <link>blog.vechiato.cc/blog/</link>
     <description>Recent content in Blogs on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

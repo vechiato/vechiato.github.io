@@ -2,737 +2,737 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>blog.vechiato.cc/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="blog.vechiato.cc/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="blog.vechiato.cc/"
                 />
   </url><url>
-    <loc>https://example.com/blog/</loc>
+    <loc>blog.vechiato.cc/blog/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/book/</loc>
+    <loc>blog.vechiato.cc/tags/book/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-outlive/</loc>
+    <loc>blog.vechiato.cc/blog/book-outlive/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-outlive/</loc>
+    <loc>blog.vechiato.cc/post/book-outlive/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>blog.vechiato.cc/post/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>blog.vechiato.cc/tags/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/"
+                href="blog.vechiato.cc/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="blog.vechiato.cc/tags/"
                 />
   </url><url>
-    <loc>https://example.com/blog/book-leading-effective-engineering-teams/</loc>
+    <loc>blog.vechiato.cc/blog/book-leading-effective-engineering-teams/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-leading-effective-engineering-teams/</loc>
+    <loc>blog.vechiato.cc/post/book-leading-effective-engineering-teams/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/leadership/</loc>
+    <loc>blog.vechiato.cc/tags/leadership/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-the-principles-of-product-development-flow/</loc>
+    <loc>blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-the-principles-of-product-development-flow/</loc>
+    <loc>blog.vechiato.cc/post/book-the-principles-of-product-development-flow/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/lean/</loc>
+    <loc>blog.vechiato.cc/tags/lean/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/product-development/</loc>
+    <loc>blog.vechiato.cc/tags/product-development/</loc>
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/metrics/</loc>
+    <loc>blog.vechiato.cc/tags/metrics/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/article-unveiling-the-watermelon-effect/</loc>
+    <loc>blog.vechiato.cc/blog/article-unveiling-the-watermelon-effect/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/article-unveiling-the-watermelon-effect/</loc>
+    <loc>blog.vechiato.cc/post/article-unveiling-the-watermelon-effect/</loc>
     <lastmod>2024-07-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/crossplane/</loc>
+    <loc>blog.vechiato.cc/tags/crossplane/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-crossplane-the-cloud-native-control-plane/</loc>
+    <loc>blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-crossplane-the-cloud-native-control-plane/</loc>
+    <loc>blog.vechiato.cc/post/book-crossplane-the-cloud-native-control-plane/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/k8s/</loc>
+    <loc>blog.vechiato.cc/tags/k8s/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/platform-engineering/</loc>
+    <loc>blog.vechiato.cc/tags/platform-engineering/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/devops/</loc>
+    <loc>blog.vechiato.cc/tags/devops/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/security/</loc>
+    <loc>blog.vechiato.cc/tags/security/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/7-books-managing-technical-debt/</loc>
+    <loc>blog.vechiato.cc/blog/7-books-managing-technical-debt/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/7-books-managing-technical-debt/</loc>
+    <loc>blog.vechiato.cc/post/7-books-managing-technical-debt/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/technical-debt/</loc>
+    <loc>blog.vechiato.cc/tags/technical-debt/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/chaos-engineering/</loc>
+    <loc>blog.vechiato.cc/tags/chaos-engineering/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-chaos-engineering/</loc>
+    <loc>blog.vechiato.cc/blog/book-chaos-engineering/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-chaos-engineering/</loc>
+    <loc>blog.vechiato.cc/post/book-chaos-engineering/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/sre/</loc>
+    <loc>blog.vechiato.cc/tags/sre/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-platform-engineering-on-kubernetes/</loc>
+    <loc>blog.vechiato.cc/blog/book-platform-engineering-on-kubernetes/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-platform-engineering-on-kubernetes/</loc>
+    <loc>blog.vechiato.cc/post/book-platform-engineering-on-kubernetes/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-48-laws-of-power/</loc>
+    <loc>blog.vechiato.cc/blog/book-48-laws-of-power/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-48-laws-of-power/</loc>
+    <loc>blog.vechiato.cc/post/book-48-laws-of-power/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/ebpf/</loc>
+    <loc>blog.vechiato.cc/tags/ebpf/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-learning-ebpf/</loc>
+    <loc>blog.vechiato.cc/blog/book-learning-ebpf/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-learning-ebpf/</loc>
+    <loc>blog.vechiato.cc/post/book-learning-ebpf/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/observability/</loc>
+    <loc>blog.vechiato.cc/tags/observability/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-flask-web-development/</loc>
+    <loc>blog.vechiato.cc/blog/book-flask-web-development/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-flask-web-development/</loc>
+    <loc>blog.vechiato.cc/post/book-flask-web-development/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/python/</loc>
+    <loc>blog.vechiato.cc/tags/python/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>blog.vechiato.cc/about/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-misbelif/</loc>
+    <loc>blog.vechiato.cc/blog/book-misbelif/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-misbelif/</loc>
+    <loc>blog.vechiato.cc/post/book-misbelif/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</loc>
+    <loc>blog.vechiato.cc/blog/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</loc>
+    <loc>blog.vechiato.cc/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/certification/</loc>
+    <loc>blog.vechiato.cc/tags/certification/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/gitops/</loc>
+    <loc>blog.vechiato.cc/tags/gitops/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/20240305-certified-gitops-associate-cgoa/</loc>
+    <loc>blog.vechiato.cc/blog/20240305-certified-gitops-associate-cgoa/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/20240305-certified-gitops-associate-cgoa/</loc>
+    <loc>blog.vechiato.cc/post/20240305-certified-gitops-associate-cgoa/</loc>
     <lastmod>2024-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/cicd/</loc>
+    <loc>blog.vechiato.cc/tags/cicd/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/git/</loc>
+    <loc>blog.vechiato.cc/tags/git/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-learning-github-actions/</loc>
+    <loc>blog.vechiato.cc/blog/book-learning-github-actions/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-learning-github-actions/</loc>
+    <loc>blog.vechiato.cc/post/book-learning-github-actions/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-kubernetes-up-and-running/</loc>
+    <loc>blog.vechiato.cc/blog/book-kubernetes-up-and-running/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-kubernetes-up-and-running/</loc>
+    <loc>blog.vechiato.cc/post/book-kubernetes-up-and-running/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-adopting-innersource/</loc>
+    <loc>blog.vechiato.cc/blog/book-adopting-innersource/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-adopting-innersource/</loc>
+    <loc>blog.vechiato.cc/post/book-adopting-innersource/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-end-to-end-automation-with-kubernetes-and-crossplane/</loc>
+    <loc>blog.vechiato.cc/blog/book-end-to-end-automation-with-kubernetes-and-crossplane/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</loc>
+    <loc>blog.vechiato.cc/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-the-devops-handbook/</loc>
+    <loc>blog.vechiato.cc/blog/book-the-devops-handbook/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-the-devops-handbook/</loc>
+    <loc>blog.vechiato.cc/post/book-the-devops-handbook/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/hydroponics/</loc>
+    <loc>blog.vechiato.cc/tags/hydroponics/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/tower-sep2023/</loc>
+    <loc>blog.vechiato.cc/blog/tower-sep2023/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/tower-sep2023/</loc>
+    <loc>blog.vechiato.cc/post/tower-sep2023/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-economics-for-the-common-good/</loc>
+    <loc>blog.vechiato.cc/blog/book-economics-for-the-common-good/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-economics-for-the-common-good/</loc>
+    <loc>blog.vechiato.cc/post/book-economics-for-the-common-good/</loc>
     <lastmod>2023-10-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/finops/</loc>
+    <loc>blog.vechiato.cc/tags/finops/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-cloud-finops/</loc>
+    <loc>blog.vechiato.cc/blog/book-cloud-finops/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-cloud-finops/</loc>
+    <loc>blog.vechiato.cc/post/book-cloud-finops/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/seedling-aug23/</loc>
+    <loc>blog.vechiato.cc/blog/seedling-aug23/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/seedling-aug23/</loc>
+    <loc>blog.vechiato.cc/post/seedling-aug23/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-the-staff-engineers-path/</loc>
+    <loc>blog.vechiato.cc/blog/book-the-staff-engineers-path/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-the-staff-engineers-path/</loc>
+    <loc>blog.vechiato.cc/post/book-the-staff-engineers-path/</loc>
     <lastmod>2023-08-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/meetup/</loc>
+    <loc>blog.vechiato.cc/tags/meetup/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/20230523-london-sre-meetup/</loc>
+    <loc>blog.vechiato.cc/blog/20230523-london-sre-meetup/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/20230523-london-sre-meetup/</loc>
+    <loc>blog.vechiato.cc/post/20230523-london-sre-meetup/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/helm/</loc>
+    <loc>blog.vechiato.cc/tags/helm/</loc>
     <lastmod>2023-04-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-learning-helm/</loc>
+    <loc>blog.vechiato.cc/blog/book-learning-helm/</loc>
     <lastmod>2023-04-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-learning-helm/</loc>
+    <loc>blog.vechiato.cc/post/book-learning-helm/</loc>
     <lastmod>2023-04-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-innovators-dilemma/</loc>
+    <loc>blog.vechiato.cc/blog/book-innovators-dilemma/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-innovators-dilemma/</loc>
+    <loc>blog.vechiato.cc/post/book-innovators-dilemma/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-blink/</loc>
+    <loc>blog.vechiato.cc/blog/book-blink/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-blink/</loc>
+    <loc>blog.vechiato.cc/post/book-blink/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-establishing-sre-foundations/</loc>
+    <loc>blog.vechiato.cc/blog/book-establishing-sre-foundations/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-establishing-sre-foundations/</loc>
+    <loc>blog.vechiato.cc/post/book-establishing-sre-foundations/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-observability-engineering-2022/</loc>
+    <loc>blog.vechiato.cc/blog/book-observability-engineering-2022/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-observability-engineering-2022/</loc>
+    <loc>blog.vechiato.cc/post/book-observability-engineering-2022/</loc>
     <lastmod>2022-12-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-fluent-python/</loc>
+    <loc>blog.vechiato.cc/blog/book-fluent-python/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-fluent-python/</loc>
+    <loc>blog.vechiato.cc/post/book-fluent-python/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-building-a-second-brain/</loc>
+    <loc>blog.vechiato.cc/blog/book-building-a-second-brain/</loc>
     <lastmod>2022-09-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-building-a-second-brain/</loc>
+    <loc>blog.vechiato.cc/post/book-building-a-second-brain/</loc>
     <lastmod>2022-09-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/notes-management/</loc>
+    <loc>blog.vechiato.cc/tags/notes-management/</loc>
     <lastmod>2022-09-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/time-management/</loc>
+    <loc>blog.vechiato.cc/tags/time-management/</loc>
     <lastmod>2022-09-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-team-topologies/</loc>
+    <loc>blog.vechiato.cc/blog/book-team-topologies/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-team-topologies/</loc>
+    <loc>blog.vechiato.cc/post/book-team-topologies/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/team-topologies/</loc>
+    <loc>blog.vechiato.cc/tags/team-topologies/</loc>
     <lastmod>2022-06-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-working-backwards/</loc>
+    <loc>blog.vechiato.cc/blog/book-working-backwards/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-working-backwards/</loc>
+    <loc>blog.vechiato.cc/post/book-working-backwards/</loc>
     <lastmod>2021-12-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-ego-free-leadership/</loc>
+    <loc>blog.vechiato.cc/blog/book-ego-free-leadership/</loc>
     <lastmod>2021-11-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-ego-free-leadership/</loc>
+    <loc>blog.vechiato.cc/post/book-ego-free-leadership/</loc>
     <lastmod>2021-11-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-no-rules-rules/</loc>
+    <loc>blog.vechiato.cc/blog/book-no-rules-rules/</loc>
     <lastmod>2021-08-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-no-rules-rules/</loc>
+    <loc>blog.vechiato.cc/post/book-no-rules-rules/</loc>
     <lastmod>2021-08-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/netflix/</loc>
+    <loc>blog.vechiato.cc/tags/netflix/</loc>
     <lastmod>2021-08-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-systems-performance/</loc>
+    <loc>blog.vechiato.cc/blog/book-systems-performance/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-systems-performance/</loc>
+    <loc>blog.vechiato.cc/post/book-systems-performance/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/operating-systems/</loc>
+    <loc>blog.vechiato.cc/tags/operating-systems/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/systems-performance/</loc>
+    <loc>blog.vechiato.cc/tags/systems-performance/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/dora/</loc>
+    <loc>blog.vechiato.cc/tags/dora/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-accelerate/</loc>
+    <loc>blog.vechiato.cc/blog/book-accelerate/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-accelerate/</loc>
+    <loc>blog.vechiato.cc/post/book-accelerate/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-ask-your-developer/</loc>
+    <loc>blog.vechiato.cc/blog/book-ask-your-developer/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-ask-your-developer/</loc>
+    <loc>blog.vechiato.cc/post/book-ask-your-developer/</loc>
     <lastmod>2021-04-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/devsecops/</loc>
+    <loc>blog.vechiato.cc/tags/devsecops/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-devsecops/</loc>
+    <loc>blog.vechiato.cc/blog/book-devsecops/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-devsecops/</loc>
+    <loc>blog.vechiato.cc/post/book-devsecops/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/dbre/</loc>
+    <loc>blog.vechiato.cc/tags/dbre/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-database-reliability-engineering/</loc>
+    <loc>blog.vechiato.cc/blog/book-database-reliability-engineering/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-database-reliability-engineering/</loc>
+    <loc>blog.vechiato.cc/post/book-database-reliability-engineering/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-seeking-sre/</loc>
+    <loc>blog.vechiato.cc/blog/book-seeking-sre/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-seeking-sre/</loc>
+    <loc>blog.vechiato.cc/post/book-seeking-sre/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-managers-path/</loc>
+    <loc>blog.vechiato.cc/blog/book-managers-path/</loc>
     <lastmod>2020-02-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-managers-path/</loc>
+    <loc>blog.vechiato.cc/post/book-managers-path/</loc>
     <lastmod>2020-02-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/data/</loc>
+    <loc>blog.vechiato.cc/tags/data/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-designing-data-intensive-applications/</loc>
+    <loc>blog.vechiato.cc/blog/book-designing-data-intensive-applications/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-designing-data-intensive-applications/</loc>
+    <loc>blog.vechiato.cc/post/book-designing-data-intensive-applications/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/tags/systems-design/</loc>
+    <loc>blog.vechiato.cc/tags/systems-design/</loc>
     <lastmod>2019-11-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>blog.vechiato.cc/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/about-hugo/</loc>
+    <loc>blog.vechiato.cc/about-hugo/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/about-hugo/"
+                href="blog.vechiato.cc/pt/about-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about-hugo/"
+                href="blog.vechiato.cc/about-hugo/"
                 />
   </url><url>
-    <loc>https://example.com/blog/book-domain-driven-design-distilled/</loc>
+    <loc>blog.vechiato.cc/blog/book-domain-driven-design-distilled/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-domain-driven-design-distilled/</loc>
+    <loc>blog.vechiato.cc/post/book-domain-driven-design-distilled/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-remote/</loc>
+    <loc>blog.vechiato.cc/blog/book-remote/</loc>
     <lastmod>2018-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-remote/</loc>
+    <loc>blog.vechiato.cc/post/book-remote/</loc>
     <lastmod>2018-04-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-the-five-dysfunctions-of-a-team/</loc>
+    <loc>blog.vechiato.cc/blog/book-the-five-dysfunctions-of-a-team/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-the-five-dysfunctions-of-a-team/</loc>
+    <loc>blog.vechiato.cc/post/book-the-five-dysfunctions-of-a-team/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-continuous-delivery/</loc>
+    <loc>blog.vechiato.cc/blog/book-continuous-delivery/</loc>
     <lastmod>2015-03-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-continuous-delivery/</loc>
+    <loc>blog.vechiato.cc/post/book-continuous-delivery/</loc>
     <lastmod>2015-03-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/blog/book-the-phoenix-project/</loc>
+    <loc>blog.vechiato.cc/blog/book-the-phoenix-project/</loc>
     <lastmod>2013-06-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/book-the-phoenix-project/</loc>
+    <loc>blog.vechiato.cc/post/book-the-phoenix-project/</loc>
     <lastmod>2013-06-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>blog.vechiato.cc/search/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

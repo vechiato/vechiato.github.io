@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Marcus Vechiato</title>
-    <link>https://example.com/post/</link>
+    <link>blog.vechiato.cc/post/</link>
     <description>Recent content in Posts on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Outlive</title>
-      <link>https://example.com/post/book-outlive/</link>
+      <link>blog.vechiato.cc/post/book-outlive/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-outlive/</guid>
+      <guid>blog.vechiato.cc/post/book-outlive/</guid>
       <description>
         
           
@@ -27,10 +27,10 @@
     
     <item>
       <title>Insights from Leading Effective Engineering Teams</title>
-      <link>https://example.com/post/book-leading-effective-engineering-teams/</link>
+      <link>blog.vechiato.cc/post/book-leading-effective-engineering-teams/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-leading-effective-engineering-teams/</guid>
+      <guid>blog.vechiato.cc/post/book-leading-effective-engineering-teams/</guid>
       <description>
         
           
@@ -44,10 +44,10 @@
     
     <item>
       <title>Insights from The Principles of Product Development Flow: Second Generation Lean Product Development</title>
-      <link>https://example.com/post/book-the-principles-of-product-development-flow/</link>
+      <link>blog.vechiato.cc/post/book-the-principles-of-product-development-flow/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-the-principles-of-product-development-flow/</guid>
+      <guid>blog.vechiato.cc/post/book-the-principles-of-product-development-flow/</guid>
       <description>
         
           
@@ -61,10 +61,10 @@
     
     <item>
       <title>Unveiling the Watermelon Effect: Are Your Metrics Hiding the Truth?</title>
-      <link>https://example.com/post/article-unveiling-the-watermelon-effect/</link>
+      <link>blog.vechiato.cc/post/article-unveiling-the-watermelon-effect/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/article-unveiling-the-watermelon-effect/</guid>
+      <guid>blog.vechiato.cc/post/article-unveiling-the-watermelon-effect/</guid>
       <description>
         
           
@@ -87,7 +87,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/green-striped-ripe-watermelon.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/green-striped-ripe-watermelon.jpg&#34;
       
       
     /&gt;
@@ -114,7 +114,7 @@ Image by YuliiaKa on Freepik&lt;/p&gt;
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/watermelon-effect.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/watermelon-effect.png&#34;
       
       
     /&gt;
@@ -131,10 +131,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Crossplane: The Cloud Native Control Plane</title>
-      <link>https://example.com/post/book-crossplane-the-cloud-native-control-plane/</link>
+      <link>blog.vechiato.cc/post/book-crossplane-the-cloud-native-control-plane/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-crossplane-the-cloud-native-control-plane/</guid>
+      <guid>blog.vechiato.cc/post/book-crossplane-the-cloud-native-control-plane/</guid>
       <description>
         
           
@@ -148,10 +148,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Seven Books on Managing Technical Debt</title>
-      <link>https://example.com/post/7-books-managing-technical-debt/</link>
+      <link>blog.vechiato.cc/post/7-books-managing-technical-debt/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/7-books-managing-technical-debt/</guid>
+      <guid>blog.vechiato.cc/post/7-books-managing-technical-debt/</guid>
       <description>
         
           
@@ -164,10 +164,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Chaos Engineering: System Resiliency in Practice</title>
-      <link>https://example.com/post/book-chaos-engineering/</link>
+      <link>blog.vechiato.cc/post/book-chaos-engineering/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-chaos-engineering/</guid>
+      <guid>blog.vechiato.cc/post/book-chaos-engineering/</guid>
       <description>
         
           
@@ -181,10 +181,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Platform Engineering on Kubernetes</title>
-      <link>https://example.com/post/book-platform-engineering-on-kubernetes/</link>
+      <link>blog.vechiato.cc/post/book-platform-engineering-on-kubernetes/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-platform-engineering-on-kubernetes/</guid>
+      <guid>blog.vechiato.cc/post/book-platform-engineering-on-kubernetes/</guid>
       <description>
         
           
@@ -207,7 +207,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/book_platform_engineering_kubernetes.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/book_platform_engineering_kubernetes.jpg&#34;
       
       
     /&gt;
@@ -234,7 +234,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mindmap_platform_engineering_k8s.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/mindmap_platform_engineering_k8s.png&#34;
       
       
     /&gt;
@@ -252,10 +252,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from 48 Laws of Power</title>
-      <link>https://example.com/post/book-48-laws-of-power/</link>
+      <link>blog.vechiato.cc/post/book-48-laws-of-power/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-48-laws-of-power/</guid>
+      <guid>blog.vechiato.cc/post/book-48-laws-of-power/</guid>
       <description>
         
           
@@ -269,10 +269,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>https://example.com/post/book-learning-ebpf/</link>
+      <link>blog.vechiato.cc/post/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-learning-ebpf/</guid>
+      <guid>blog.vechiato.cc/post/book-learning-ebpf/</guid>
       <description>
         
           
@@ -286,10 +286,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Flask Web Development, Second Edition</title>
-      <link>https://example.com/post/book-flask-web-development/</link>
+      <link>blog.vechiato.cc/post/book-flask-web-development/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-flask-web-development/</guid>
+      <guid>blog.vechiato.cc/post/book-flask-web-development/</guid>
       <description>
         
           
@@ -303,10 +303,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Misbelief</title>
-      <link>https://example.com/post/book-misbelif/</link>
+      <link>blog.vechiato.cc/post/book-misbelif/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-misbelif/</guid>
+      <guid>blog.vechiato.cc/post/book-misbelif/</guid>
       <description>
         
           
@@ -320,10 +320,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>CNCF Falco Graduation - Another step in your Shift-Left Journey</title>
-      <link>https://example.com/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
+      <link>blog.vechiato.cc/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
+      <guid>blog.vechiato.cc/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
       <description>
         
           
@@ -337,10 +337,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>GitOps Certification</title>
-      <link>https://example.com/post/20240305-certified-gitops-associate-cgoa/</link>
+      <link>blog.vechiato.cc/post/20240305-certified-gitops-associate-cgoa/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/20240305-certified-gitops-associate-cgoa/</guid>
+      <guid>blog.vechiato.cc/post/20240305-certified-gitops-associate-cgoa/</guid>
       <description>
         
           
@@ -365,10 +365,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Learning GitHub Actions</title>
-      <link>https://example.com/post/book-learning-github-actions/</link>
+      <link>blog.vechiato.cc/post/book-learning-github-actions/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-learning-github-actions/</guid>
+      <guid>blog.vechiato.cc/post/book-learning-github-actions/</guid>
       <description>
         
           
@@ -391,7 +391,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/learning_github_actions.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/learning_github_actions.jpg&#34;
       
       
     /&gt;
@@ -418,7 +418,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mindmap_learning_github_actions.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/mindmap_learning_github_actions.png&#34;
       
       
     /&gt;
@@ -434,10 +434,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Kubernetes Up and Running, 3rd Edition</title>
-      <link>https://example.com/post/book-kubernetes-up-and-running/</link>
+      <link>blog.vechiato.cc/post/book-kubernetes-up-and-running/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-kubernetes-up-and-running/</guid>
+      <guid>blog.vechiato.cc/post/book-kubernetes-up-and-running/</guid>
       <description>
         
           
@@ -460,7 +460,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/kubernetes_up_and_running.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/kubernetes_up_and_running.jpg&#34;
       
       
     /&gt;
@@ -477,10 +477,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Adopting InnerSource</title>
-      <link>https://example.com/post/book-adopting-innersource/</link>
+      <link>blog.vechiato.cc/post/book-adopting-innersource/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-adopting-innersource/</guid>
+      <guid>blog.vechiato.cc/post/book-adopting-innersource/</guid>
       <description>
         
           
@@ -503,7 +503,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/adopting_innersource.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/adopting_innersource.jpg&#34;
       
       
     /&gt;
@@ -520,10 +520,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
-      <link>https://example.com/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
+      <link>blog.vechiato.cc/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
+      <guid>blog.vechiato.cc/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
       <description>
         
           
@@ -545,7 +545,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/end2end_automation_k8s_crossplane.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/end2end_automation_k8s_crossplane.jpg&#34;
       
       
     /&gt;
@@ -565,10 +565,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from The DevOps Handbook</title>
-      <link>https://example.com/post/book-the-devops-handbook/</link>
+      <link>blog.vechiato.cc/post/book-the-devops-handbook/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-the-devops-handbook/</guid>
+      <guid>blog.vechiato.cc/post/book-the-devops-handbook/</guid>
       <description>
         
           
@@ -582,10 +582,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Tower Sep-Nov2023</title>
-      <link>https://example.com/post/tower-sep2023/</link>
+      <link>blog.vechiato.cc/post/tower-sep2023/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/tower-sep2023/</guid>
+      <guid>blog.vechiato.cc/post/tower-sep2023/</guid>
       <description>
         
           
@@ -621,7 +621,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/tower231111.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/tower231111.jpg&#34;
       
       
     /&gt;
@@ -651,7 +651,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/tower231104.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/tower231104.jpg&#34;
       
       
     /&gt;
@@ -681,7 +681,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/tower231029.jpeg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/tower231029.jpeg&#34;
       
       
     /&gt;
@@ -711,7 +711,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/tower231022.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/tower231022.jpg&#34;
       
       
     /&gt;
@@ -741,7 +741,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/tower231014.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/tower231014.jpg&#34;
       
       
     /&gt;
@@ -771,7 +771,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/tower231007.jpeg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/tower231007.jpeg&#34;
       
       
     /&gt;
@@ -801,7 +801,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/tower230930.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/tower230930.jpg&#34;
       
       
     /&gt;
@@ -831,7 +831,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/tower230922.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/tower230922.jpg&#34;
       
       
     /&gt;
@@ -861,7 +861,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/tower230917.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/tower230917.png&#34;
       
       
     /&gt;
@@ -891,7 +891,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/tower230923.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/tower230923.png&#34;
       
       
     /&gt;
@@ -910,10 +910,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Economics for the Common Good</title>
-      <link>https://example.com/post/book-economics-for-the-common-good/</link>
+      <link>blog.vechiato.cc/post/book-economics-for-the-common-good/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-economics-for-the-common-good/</guid>
+      <guid>blog.vechiato.cc/post/book-economics-for-the-common-good/</guid>
       <description>
         
           
@@ -934,7 +934,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/economics_for_the_common_good.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/economics_for_the_common_good.jpg&#34;
       
       
     /&gt;
@@ -954,10 +954,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making</title>
-      <link>https://example.com/post/book-cloud-finops/</link>
+      <link>blog.vechiato.cc/post/book-cloud-finops/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-cloud-finops/</guid>
+      <guid>blog.vechiato.cc/post/book-cloud-finops/</guid>
       <description>
         
           
@@ -978,7 +978,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/cloud_finops.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/cloud_finops.jpg&#34;
       
       
     /&gt;
@@ -998,10 +998,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Seedling Aug-Sep23</title>
-      <link>https://example.com/post/seedling-aug23/</link>
+      <link>blog.vechiato.cc/post/seedling-aug23/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/seedling-aug23/</guid>
+      <guid>blog.vechiato.cc/post/seedling-aug23/</guid>
       <description>
         
           
@@ -1034,7 +1034,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/seedling230910.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/seedling230910.png&#34;
       
       
     /&gt;
@@ -1063,7 +1063,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/seedling230923.jpeg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/seedling230923.jpeg&#34;
       
       
     /&gt;
@@ -1092,7 +1092,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/seedling230827.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/seedling230827.png&#34;
       
       
     /&gt;
@@ -1121,7 +1121,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/seedling230825.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/seedling230825.jpg&#34;
       
       
     /&gt;
@@ -1150,7 +1150,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/seedling230823.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/seedling230823.png&#34;
       
       
     /&gt;
@@ -1179,7 +1179,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/seedling230817.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/seedling230817.jpg&#34;
       
       
     /&gt;
@@ -1208,7 +1208,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/seedling230814.jpeg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/seedling230814.jpeg&#34;
       
       
     /&gt;
@@ -1227,10 +1227,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Insights from The Staff Engineer&#39;s Path</title>
-      <link>https://example.com/post/book-the-staff-engineers-path/</link>
+      <link>blog.vechiato.cc/post/book-the-staff-engineers-path/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-the-staff-engineers-path/</guid>
+      <guid>blog.vechiato.cc/post/book-the-staff-engineers-path/</guid>
       <description>
         
           
@@ -1251,7 +1251,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/the_staff_enginners_path.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/the_staff_enginners_path.jpg&#34;
       
       
     /&gt;
@@ -1272,10 +1272,10 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Reflecting on My Presentation at the London SRE Meetup</title>
-      <link>https://example.com/post/20230523-london-sre-meetup/</link>
+      <link>blog.vechiato.cc/post/20230523-london-sre-meetup/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/20230523-london-sre-meetup/</guid>
+      <guid>blog.vechiato.cc/post/20230523-london-sre-meetup/</guid>
       <description>
         
           
@@ -1296,7 +1296,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mv_sre_meetup_thumb.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/mv_sre_meetup_thumb.png&#34;
       
       
     /&gt;
@@ -1314,10 +1314,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Learning Helm: Managing Apps on Kubernetes</title>
-      <link>https://example.com/post/book-learning-helm/</link>
+      <link>blog.vechiato.cc/post/book-learning-helm/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-learning-helm/</guid>
+      <guid>blog.vechiato.cc/post/book-learning-helm/</guid>
       <description>
         
           
@@ -1338,7 +1338,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/learning_helm.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/learning_helm.jpg&#34;
       
       
     /&gt;
@@ -1358,10 +1358,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from The Innovator&#39;s Dilemma</title>
-      <link>https://example.com/post/book-innovators-dilemma/</link>
+      <link>blog.vechiato.cc/post/book-innovators-dilemma/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-innovators-dilemma/</guid>
+      <guid>blog.vechiato.cc/post/book-innovators-dilemma/</guid>
       <description>
         
           
@@ -1382,7 +1382,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/innovators_dilemma.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/innovators_dilemma.jpg&#34;
       
       
     /&gt;
@@ -1403,10 +1403,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insight from Blink: The Power of Thinking Without Thinking</title>
-      <link>https://example.com/post/book-blink/</link>
+      <link>blog.vechiato.cc/post/book-blink/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-blink/</guid>
+      <guid>blog.vechiato.cc/post/book-blink/</guid>
       <description>
         
           
@@ -1427,7 +1427,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/blink.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/blink.jpg&#34;
       
       
     /&gt;
@@ -1447,10 +1447,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Establishing SRE Foundations</title>
-      <link>https://example.com/post/book-establishing-sre-foundations/</link>
+      <link>blog.vechiato.cc/post/book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-establishing-sre-foundations/</guid>
+      <guid>blog.vechiato.cc/post/book-establishing-sre-foundations/</guid>
       <description>
         
           
@@ -1471,7 +1471,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/sre_foundations.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/sre_foundations.jpg&#34;
       
       
     /&gt;
@@ -1501,7 +1501,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mindmap_establishing_sre.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/mindmap_establishing_sre.png&#34;
       
       
     /&gt;
@@ -1517,10 +1517,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Observability Engineering: Achieving Production Excellence</title>
-      <link>https://example.com/post/book-observability-engineering-2022/</link>
+      <link>blog.vechiato.cc/post/book-observability-engineering-2022/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-observability-engineering-2022/</guid>
+      <guid>blog.vechiato.cc/post/book-observability-engineering-2022/</guid>
       <description>
         
           
@@ -1541,7 +1541,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/observability_engineering.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/observability_engineering.png&#34;
       
       
     /&gt;
@@ -1561,10 +1561,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Fluent Python, second edition</title>
-      <link>https://example.com/post/book-fluent-python/</link>
+      <link>blog.vechiato.cc/post/book-fluent-python/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-fluent-python/</guid>
+      <guid>blog.vechiato.cc/post/book-fluent-python/</guid>
       <description>
         
           
@@ -1585,7 +1585,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/fluent_python.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/fluent_python.jpg&#34;
       
       
     /&gt;
@@ -1606,10 +1606,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Building a Second Brain</title>
-      <link>https://example.com/post/book-building-a-second-brain/</link>
+      <link>blog.vechiato.cc/post/book-building-a-second-brain/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-building-a-second-brain/</guid>
+      <guid>blog.vechiato.cc/post/book-building-a-second-brain/</guid>
       <description>
         
           
@@ -1630,7 +1630,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/second_brain.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/second_brain.jpg&#34;
       
       
     /&gt;
@@ -1651,10 +1651,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</title>
-      <link>https://example.com/post/book-team-topologies/</link>
+      <link>blog.vechiato.cc/post/book-team-topologies/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-team-topologies/</guid>
+      <guid>blog.vechiato.cc/post/book-team-topologies/</guid>
       <description>
         
           
@@ -1675,7 +1675,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/team_topologies_book.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/team_topologies_book.jpg&#34;
       
       
     /&gt;
@@ -1696,10 +1696,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Working Backwards: Insights, Stories, and Secrets from Inside Amazon</title>
-      <link>https://example.com/post/book-working-backwards/</link>
+      <link>blog.vechiato.cc/post/book-working-backwards/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-working-backwards/</guid>
+      <guid>blog.vechiato.cc/post/book-working-backwards/</guid>
       <description>
         
           
@@ -1720,7 +1720,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/working_backwards.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/working_backwards.jpg&#34;
       
       
     /&gt;
@@ -1740,10 +1740,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business</title>
-      <link>https://example.com/post/book-ego-free-leadership/</link>
+      <link>blog.vechiato.cc/post/book-ego-free-leadership/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-ego-free-leadership/</guid>
+      <guid>blog.vechiato.cc/post/book-ego-free-leadership/</guid>
       <description>
         
           
@@ -1764,7 +1764,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/ego_free_leadership.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/ego_free_leadership.jpg&#34;
       
       
     /&gt;
@@ -1784,10 +1784,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from No rules rules: Netflix and the culture of reinvention</title>
-      <link>https://example.com/post/book-no-rules-rules/</link>
+      <link>blog.vechiato.cc/post/book-no-rules-rules/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-no-rules-rules/</guid>
+      <guid>blog.vechiato.cc/post/book-no-rules-rules/</guid>
       <description>
         
           
@@ -1808,7 +1808,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/no_rules_rules.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/no_rules_rules.jpg&#34;
       
       
     /&gt;
@@ -1828,10 +1828,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Systems Performance: Enterprise and the Cloud, Second Edition</title>
-      <link>https://example.com/post/book-systems-performance/</link>
+      <link>blog.vechiato.cc/post/book-systems-performance/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-systems-performance/</guid>
+      <guid>blog.vechiato.cc/post/book-systems-performance/</guid>
       <description>
         
           
@@ -1852,7 +1852,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/systems_performance.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/systems_performance.jpg&#34;
       
       
     /&gt;
@@ -1872,10 +1872,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
-      <link>https://example.com/post/book-accelerate/</link>
+      <link>blog.vechiato.cc/post/book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-accelerate/</guid>
+      <guid>blog.vechiato.cc/post/book-accelerate/</guid>
       <description>
         
           
@@ -1896,7 +1896,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/book_accelerate.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/book_accelerate.jpg&#34;
       
       
     /&gt;
@@ -1917,10 +1917,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Ask Your Developer</title>
-      <link>https://example.com/post/book-ask-your-developer/</link>
+      <link>blog.vechiato.cc/post/book-ask-your-developer/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-ask-your-developer/</guid>
+      <guid>blog.vechiato.cc/post/book-ask-your-developer/</guid>
       <description>
         
           
@@ -1941,7 +1941,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/ask_your_developer.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/ask_your_developer.jpg&#34;
       
       
     /&gt;
@@ -1971,7 +1971,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mindmap_ask_your_dev.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/mindmap_ask_your_dev.png&#34;
       
       
     /&gt;
@@ -1987,10 +1987,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from DevSecOps</title>
-      <link>https://example.com/post/book-devsecops/</link>
+      <link>blog.vechiato.cc/post/book-devsecops/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-devsecops/</guid>
+      <guid>blog.vechiato.cc/post/book-devsecops/</guid>
       <description>
         
           
@@ -2011,7 +2011,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/DevSecOps.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/DevSecOps.jpg&#34;
       
       
     /&gt;
@@ -2041,7 +2041,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mindmap_devsecops.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/mindmap_devsecops.png&#34;
       
       
     /&gt;
@@ -2060,10 +2060,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems</title>
-      <link>https://example.com/post/book-database-reliability-engineering/</link>
+      <link>blog.vechiato.cc/post/book-database-reliability-engineering/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-database-reliability-engineering/</guid>
+      <guid>blog.vechiato.cc/post/book-database-reliability-engineering/</guid>
       <description>
         
           
@@ -2084,7 +2084,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/database_reliability.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/database_reliability.jpg&#34;
       
       
     /&gt;
@@ -2104,10 +2104,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Seeking SRE</title>
-      <link>https://example.com/post/book-seeking-sre/</link>
+      <link>blog.vechiato.cc/post/book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-seeking-sre/</guid>
+      <guid>blog.vechiato.cc/post/book-seeking-sre/</guid>
       <description>
         
           
@@ -2128,7 +2128,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/seeking_sre.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/seeking_sre.jpg&#34;
       
       
     /&gt;
@@ -2149,10 +2149,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from The Manager&#39;s Path</title>
-      <link>https://example.com/post/book-managers-path/</link>
+      <link>blog.vechiato.cc/post/book-managers-path/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-managers-path/</guid>
+      <guid>blog.vechiato.cc/post/book-managers-path/</guid>
       <description>
         
           
@@ -2170,10 +2170,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Designing Data-Intensive Applications</title>
-      <link>https://example.com/post/book-designing-data-intensive-applications/</link>
+      <link>blog.vechiato.cc/post/book-designing-data-intensive-applications/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-designing-data-intensive-applications/</guid>
+      <guid>blog.vechiato.cc/post/book-designing-data-intensive-applications/</guid>
       <description>
         
           
@@ -2194,7 +2194,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/data_intensive_apps.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/data_intensive_apps.jpg&#34;
       
       
     /&gt;
@@ -2214,10 +2214,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Domain-Driven Design Distilled</title>
-      <link>https://example.com/post/book-domain-driven-design-distilled/</link>
+      <link>blog.vechiato.cc/post/book-domain-driven-design-distilled/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-domain-driven-design-distilled/</guid>
+      <guid>blog.vechiato.cc/post/book-domain-driven-design-distilled/</guid>
       <description>
         
           
@@ -2238,7 +2238,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/domain_drive_desing.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/domain_drive_desing.jpg&#34;
       
       
     /&gt;
@@ -2258,10 +2258,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from Remote: Office not Required</title>
-      <link>https://example.com/post/book-remote/</link>
+      <link>blog.vechiato.cc/post/book-remote/</link>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-remote/</guid>
+      <guid>blog.vechiato.cc/post/book-remote/</guid>
       <description>
         
           
@@ -2282,7 +2282,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/remote.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/remote.jpg&#34;
       
       
     /&gt;
@@ -2302,10 +2302,10 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
     
     <item>
       <title>Insights from The Five Dysfunctions of a Team</title>
-      <link>https://example.com/post/book-the-five-dysfunctions-of-a-team/</link>
+      <link>blog.vechiato.cc/post/book-the-five-dysfunctions-of-a-team/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-the-five-dysfunctions-of-a-team/</guid>
+      <guid>blog.vechiato.cc/post/book-the-five-dysfunctions-of-a-team/</guid>
       <description>
         
           
@@ -2326,7 +2326,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/five_dysfunctions.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/five_dysfunctions.jpg&#34;
       
       
     /&gt;
@@ -2346,10 +2346,10 @@ by Patric Lencioni&lt;/p&gt;
     
     <item>
       <title>Insights from Continuous Delivery</title>
-      <link>https://example.com/post/book-continuous-delivery/</link>
+      <link>blog.vechiato.cc/post/book-continuous-delivery/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-continuous-delivery/</guid>
+      <guid>blog.vechiato.cc/post/book-continuous-delivery/</guid>
       <description>
         
           
@@ -2370,7 +2370,7 @@ by Patric Lencioni&lt;/p&gt;
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/continuous_delivery.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/continuous_delivery.jpg&#34;
       
       
     /&gt;
@@ -2391,10 +2391,10 @@ by Patric Lencioni&lt;/p&gt;
     
     <item>
       <title>Insights from The Phoenix Project</title>
-      <link>https://example.com/post/book-the-phoenix-project/</link>
+      <link>blog.vechiato.cc/post/book-the-phoenix-project/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/book-the-phoenix-project/</guid>
+      <guid>blog.vechiato.cc/post/book-the-phoenix-project/</guid>
       <description>
         
           
@@ -2415,7 +2415,7 @@ by Patric Lencioni&lt;/p&gt;
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/phoenix_project.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/phoenix_project.jpg&#34;
       
       
     /&gt;

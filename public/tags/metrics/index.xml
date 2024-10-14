@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metrics on Marcus Vechiato</title>
-    <link>https://example.com/tags/metrics/</link>
+    <link>blog.vechiato.cc/tags/metrics/</link>
     <description>Recent content in Metrics on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/metrics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/metrics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unveiling the Watermelon Effect: Are Your Metrics Hiding the Truth?</title>
-      <link>https://example.com/post/article-unveiling-the-watermelon-effect/</link>
+      <link>blog.vechiato.cc/post/article-unveiling-the-watermelon-effect/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/article-unveiling-the-watermelon-effect/</guid>
+      <guid>blog.vechiato.cc/post/article-unveiling-the-watermelon-effect/</guid>
       <description>
         
           
@@ -36,7 +36,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/green-striped-ripe-watermelon.jpg&#34;
+        src=&#34;blog.vechiato.cc/obsidian/green-striped-ripe-watermelon.jpg&#34;
       
       
     /&gt;
@@ -63,7 +63,7 @@ Image by YuliiaKa on Freepik&lt;/p&gt;
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/watermelon-effect.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/watermelon-effect.png&#34;
       
       
     /&gt;

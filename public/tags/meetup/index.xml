@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meetup on Marcus Vechiato</title>
-    <link>https://example.com/tags/meetup/</link>
+    <link>blog.vechiato.cc/tags/meetup/</link>
     <description>Recent content in Meetup on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="blog.vechiato.cc/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflecting on My Presentation at the London SRE Meetup</title>
-      <link>https://example.com/post/20230523-london-sre-meetup/</link>
+      <link>blog.vechiato.cc/post/20230523-london-sre-meetup/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/20230523-london-sre-meetup/</guid>
+      <guid>blog.vechiato.cc/post/20230523-london-sre-meetup/</guid>
       <description>
         
           
@@ -34,7 +34,7 @@
       alt=&#34;image&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://example.com/obsidian/mv_sre_meetup_thumb.png&#34;
+        src=&#34;blog.vechiato.cc/obsidian/mv_sre_meetup_thumb.png&#34;
       
       
     /&gt;
