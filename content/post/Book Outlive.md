@@ -16,7 +16,8 @@ I’ve always been fascinated by the concept of longevity and what it means to l
 2023 by Peter Attia
 
 ## Summary
-### ![image](/obsidian/mindmap_outlive.png)Part I: The Foundations
+![image](/obsidian/mindmap_outlive.png)
+### Part I: The Foundations
 #### Chapter 1: The Long Game: From Fast Death to Slow Death
 In this chapter, Attia introduces the concept of "fast death" versus "slow death," emphasising the shift from acute illnesses to chronic diseases as the primary causes of death. He recounts his experiences as a surgical resident and the realisation that many medical interventions come too late to make a significant impact. The chapter sets the stage for a new approach to medicine, focusing on prevention rather than cure.
 

@@ -6,7 +6,7 @@ copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all r
 # canonifyurls = true
 
 theme = "hugo-clarity"
-disqusShortname = ""
+disqusShortname = "vechiato-cc"
 
 DefaultContentLanguage = "en"
 # [languages]

@@ -195,6 +195,27 @@
     </div>
 <div class="post_comments">
   
+    <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "vechiato-cc" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  
   
   
   
@@ -208,18 +229,6 @@
   <section class="sidebar_inner">
     <br>
     
-  
-  <div class="search">
-    <input type="search" class="search_field form_field" placeholder='Search...' id="find" autocomplete="off" data-scope=''>
-    <label for="find" class="search_label"><svg class="icon">
-  <title>search</title>
-  <use xlink:href="#search"></use>
-</svg>
-
-    </label>
-    
-    <div class="search_results results"></div>
-  </div>
 
         <h2>Marcus Vechiato</h2>
       <div class="author_bio">
@@ -579,8 +588,5 @@
 </footer>
 
 <script type="text/javascript" src="https://blog.vechiato.cc/en/js/bundle.ae5528c4cf7efb78ac64c8c669badcb296f41814525d6612bcd1dec5347e7be9db9a8ff706a7f0372a28c87bdad0b529c80a7d3b2a3ae507d09797da70dc3179.js" integrity="sha512-rlUoxM9&#43;&#43;3isZMjGabrcspb0GBRSXWYSvNHexTR&#43;e&#43;nbmo/3BqfwNyooyHva0LUpyAp9Oyo65QfQl5facNwxeQ==" crossorigin="anonymous"></script>
-
-  <script src="https://blog.vechiato.cc/js/search.min.73cb82d8f274395dd220d6594053cd3d3d8ac8c97d874b5142a60b9744f3704d765551e0ade104d5803c66b731f5a7a00ac2cff33c8c9090ff8100169a3e2574.js"></script>
-
   </body>
 </html>
