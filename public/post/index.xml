@@ -1701,7 +1701,9 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;working-backwards&#34;&gt;Working Backwards&lt;/h1&gt;
+&lt;p&gt;&amp;quot;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;quot; by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon&#39;s success. The authors, both former Amazon executives, provide a detailed account of how the company&#39;s culture and methodologies can be applied to achieve extraordinary results in any organisation.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -1727,9 +1729,6 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
 &lt;/figure&gt;
 
 2021 by Colin Bryar &amp;amp; Bill Carr&lt;/p&gt;
-&lt;h1 id=&#34;working-backwards&#34;&gt;Working Backwards&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&amp;quot;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;quot; by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon&#39;s success. The authors, both former Amazon executives, provide a detailed account of how the company&#39;s culture and methodologies can be applied to achieve extraordinary results in any organisation.&lt;/p&gt;
           
           
         
@@ -1745,34 +1744,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/ego_free_leadership.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2017 by Brandon Black &amp;amp; Shayne Hughes&lt;/p&gt;
-&lt;h1 id=&#34;ego-free-leadership&#34;&gt;Ego Free Leadership&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+            &lt;h1 id=&#34;ego-free-leadership&#34;&gt;Ego Free Leadership&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&amp;quot; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.&lt;/p&gt;
           
           
@@ -1789,7 +1761,9 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;no-rules-rules&#34;&gt;No Rules Rules&lt;/h1&gt;
+&lt;p&gt;In &amp;quot;No Rules Rules: Netflix and the Culture of Reinvention,&amp;quot; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -1815,9 +1789,6 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
 &lt;/figure&gt;
 
 2020 by Reed Hastings and Erin Meyer&lt;/p&gt;
-&lt;h1 id=&#34;no-rules-rules&#34;&gt;No Rules Rules&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In &amp;quot;No Rules Rules: Netflix and the Culture of Reinvention,&amp;quot; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.&lt;/p&gt;
           
           
         
@@ -1922,7 +1893,9 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;ask-your-developer&#34;&gt;Ask Your Developer&lt;/h1&gt;
+&lt;p&gt;In the digital age, businesses need to adapt quickly to remain competitive. &amp;quot;Ask Your Developer&amp;quot; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&#39; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -1948,9 +1921,6 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
 &lt;/figure&gt;
 
 2021 by Jeff Lawson&lt;/p&gt;
-&lt;h1 id=&#34;ask-your-developer&#34;&gt;Ask Your Developer&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In the digital age, businesses need to adapt quickly to remain competitive. &amp;quot;Ask Your Developer&amp;quot; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&#39; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -2154,12 +2124,11 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       <description>
         
           
-            &lt;p&gt;![image](/obsidian/the managers path.jpg)
+            &lt;h1 id=&#34;the-managers-path&#34;&gt;The Manager&#39;s Path&lt;/h1&gt;
+&lt;p&gt;&amp;quot;The Manager&#39;s Path&amp;quot; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.&lt;/p&gt;
+&lt;p&gt;![image](/obsidian/the managers path.jpg)
 2017 by Camile Fournier&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/1491973897&#34;&gt;The Manager&#39;s Path: A Guide for Tech Leaders Navigating&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;the-managers-path&#34;&gt;The Manager&#39;s Path&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&amp;quot;The Manager&#39;s Path&amp;quot; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.&lt;/p&gt;
           
           
         

@@ -9,14 +9,12 @@ tags:
   - leadership
 --- 
 
-![image](/obsidian/ask_your_developer.jpg)
-2021 by Jeff Lawson
-
 # Ask Your Developer
 
-## Introduction
-
 In the digital age, businesses need to adapt quickly to remain competitive. "Ask Your Developer" by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers' expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.
+
+![image](/obsidian/ask_your_developer.jpg)
+2021 by Jeff Lawson
 
 ## Summary
 ![image](/obsidian/mindmap_ask_your_dev.png)

@@ -8,14 +8,12 @@ tags:
   - book
   - leadership
 --- 
-![image](/obsidian/working_backwards.jpg)
-2021 by Colin Bryar & Bill Carr
-
 # Working Backwards
 
-## Introduction
-
 "Working Backwards: Insights, Stories, and Secrets from Inside Amazon" by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon's success. The authors, both former Amazon executives, provide a detailed account of how the company's culture and methodologies can be applied to achieve extraordinary results in any organisation.
+
+![image](/obsidian/working_backwards.jpg)
+2021 by Colin Bryar & Bill Carr
 
 ## Summary
 
