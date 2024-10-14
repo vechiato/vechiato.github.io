@@ -151,7 +151,7 @@ blogDir = "post"
 # website author
 [author]
 name = "Marcus Vechiato"
-#photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
+#photo = "images/john-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.
