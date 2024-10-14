@@ -3,7 +3,7 @@ author: "Marcus Vechiato"
 title: "Insights from The Manager's Path"
 date: "2020-02-14"
 publish: true
-thumbnail: "/obsidian/the managers path.jpg"
+thumbnail: "/obsidian/the_managers_path.jpg"
 tags:
   - leadership
   - book
