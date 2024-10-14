@@ -8,12 +8,13 @@ tags:
   - leadership
   - book
 --- 
-![image](/obsidian/five_dysfunctions.jpg)
-by Patric Lencioni
+
 # The Five Dysfunctions of a Team
 
-## Overview
 This book, presented as a leadership fable, delves into the core issues that impede teamwork and provides actionable insights to overcome these challenges. I chose this book to gain a deeper understanding of team dynamics and to find practical strategies to foster a more collaborative environment. You can expect to gain a comprehensive framework for identifying and addressing the common pitfalls that teams face, ultimately leading to improved performance and unity.
+
+![image](/obsidian/five_dysfunctions.jpg)
+by Patric Lencioni
 
 ## Summary
 

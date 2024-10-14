@@ -1270,39 +1270,14 @@ The watermelon effect occurs when surface-level indicators show success while de
     
     <item>
       <title>Reflecting on My Presentation at the London SRE Meetup</title>
-      <link>https://blog.vechiato.cc/post/20230523-london-sre-meetup/</link>
+      <link>https://blog.vechiato.cc/post/london-sre-meetup/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/post/20230523-london-sre-meetup/</guid>
+      <guid>https://blog.vechiato.cc/post/london-sre-meetup/</guid>
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mv_sre_meetup_thumb.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-I recently had the wonderful opportunity to present at the London SRE Meetup, and I&#39;m excited to share the experience with you all. The presentation, titled &amp;quot;Working Together: SRE and Platform Engineering,&amp;quot; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.&lt;/p&gt;
+            &lt;p&gt;I recently had the wonderful opportunity to present at the London SRE Meetup, and I&#39;m excited to share the experience with you all. The presentation, titled &amp;quot;Working Together: SRE and Platform Engineering,&amp;quot; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.&lt;/p&gt;
 &lt;p&gt;I am pleased to have engaged with so many knowledgeable professionals and enthusiasts who are passionate about improving systems and operations. The discussions and interactions were enlightening, and I hope they were as beneficial for attendees as they were for me.&lt;/p&gt;
           
           
@@ -2232,34 +2207,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/remote.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2013 by Jason Fried and David Heinemeier Hansson&lt;/p&gt;
-&lt;h1 id=&#34;remote-office-not-required&#34;&gt;Remote: Office Not Required&lt;/h1&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+            &lt;h1 id=&#34;remote-office-not-required&#34;&gt;Remote: Office Not Required&lt;/h1&gt;
 &lt;p&gt;I remember the days when working from home was a rare privilege, reserved for special circumstances. Fast forward to today, remote work has become a norm, a necessity even, due to technological advancements and recent global events. This shift intrigued me, and it was a recommendation from my friend Eduardo that led me to &amp;quot;Remote: Office Not Required&amp;quot; by Jason Fried and David Heinemeier Hansson. This book explores the phenomenon of remote work, its challenges, and its unexpected benefits. Eduardo&#39;s recommendation was timely as I sought to understand how remote work could be effectively implemented and its impact on workplace culture and productivity.&lt;/p&gt;
           
           
@@ -2276,34 +2224,7 @@ I recently had the wonderful opportunity to present at the London SRE Meetup, an
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/five_dysfunctions.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-by Patric Lencioni&lt;/p&gt;
-&lt;h1 id=&#34;the-five-dysfunctions-of-a-team&#34;&gt;The Five Dysfunctions of a Team&lt;/h1&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+            &lt;h1 id=&#34;the-five-dysfunctions-of-a-team&#34;&gt;The Five Dysfunctions of a Team&lt;/h1&gt;
 &lt;p&gt;This book, presented as a leadership fable, delves into the core issues that impede teamwork and provides actionable insights to overcome these challenges. I chose this book to gain a deeper understanding of team dynamics and to find practical strategies to foster a more collaborative environment. You can expect to gain a comprehensive framework for identifying and addressing the common pitfalls that teams face, ultimately leading to improved performance and unity.&lt;/p&gt;
           
           

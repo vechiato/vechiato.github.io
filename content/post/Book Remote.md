@@ -8,13 +8,12 @@ tags:
   - book
   - leadership
 --- 
-![image](/obsidian/remote.jpg)
-2013 by Jason Fried and David Heinemeier Hansson
-
 # Remote: Office Not Required
 
-## Overview
 I remember the days when working from home was a rare privilege, reserved for special circumstances. Fast forward to today, remote work has become a norm, a necessity even, due to technological advancements and recent global events. This shift intrigued me, and it was a recommendation from my friend Eduardo that led me to "Remote: Office Not Required" by Jason Fried and David Heinemeier Hansson. This book explores the phenomenon of remote work, its challenges, and its unexpected benefits. Eduardo's recommendation was timely as I sought to understand how remote work could be effectively implemented and its impact on workplace culture and productivity.
+
+![image](/obsidian/remote.jpg)
+2013 by Jason Fried and David Heinemeier Hansson
 
 ## Summary
 
