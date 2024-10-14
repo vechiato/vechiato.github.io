@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sre on Marcus Vechiato</title>
-    <link>https://blog.vechiato.cc/tags/sre/</link>
+    <link>https://example.com/tags/sre/</link>
     <description>Recent content in Sre on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/sre/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/sre/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Chaos Engineering: System Resiliency in Practice</title>
-      <link>https://blog.vechiato.cc/blog/book-chaos-engineering/</link>
+      <link>https://example.com/post/book-chaos-engineering/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-chaos-engineering/</guid>
+      <guid>https://example.com/post/book-chaos-engineering/</guid>
       <description>
         
           
-            2020 by Casey Rosenthal, Nora Jones
-Chaos Engineering: System Resiliency in Practice Overview I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
+            &lt;h1 id=&#34;chaos-engineering-system-resiliency-in-practice&#34;&gt;Chaos Engineering: System Resiliency in Practice&lt;/h1&gt;
+&lt;p&gt;I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency. This book delves into the principles and practices of Chaos Engineering, a methodology designed to improve system reliability by intentionally introducing failures. I chose this book to understand how we can better prepare for the unexpected and ensure our systems can withstand and recover from disruptions.&lt;/p&gt;
           
           
         
@@ -26,16 +27,15 @@ Chaos Engineering: System Resiliency in Practice Overview I remember multiple oc
     
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>https://blog.vechiato.cc/blog/book-learning-ebpf/</link>
+      <link>https://example.com/post/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-learning-ebpf/</guid>
+      <guid>https://example.com/post/book-learning-ebpf/</guid>
       <description>
         
           
-            2023 by Liz Rice
-Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security
-Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.
+            &lt;h1 id=&#34;learning-ebpf&#34;&gt;Learning eBPF&lt;/h1&gt;
+&lt;p&gt;In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p&gt;
           
           
         
@@ -44,15 +44,40 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
     
     <item>
       <title>Reflecting on My Presentation at the London SRE Meetup</title>
-      <link>https://blog.vechiato.cc/blog/20230523-london-sre-meetup/</link>
+      <link>https://example.com/post/20230523-london-sre-meetup/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20230523-london-sre-meetup/</guid>
+      <guid>https://example.com/post/20230523-london-sre-meetup/</guid>
       <description>
         
           
-            I recently had the wonderful opportunity to present at the London SRE Meetup, and I&amp;rsquo;m excited to share the experience with you all. The presentation, titled &amp;ldquo;Working Together: SRE and Platform Engineering,&amp;rdquo; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.
-I am pleased to have engaged with so many knowledgeable professionals and enthusiasts who are passionate about improving systems and operations.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/mv_sre_meetup_thumb.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+I recently had the wonderful opportunity to present at the London SRE Meetup, and I&#39;m excited to share the experience with you all. The presentation, titled &amp;quot;Working Together: SRE and Platform Engineering,&amp;quot; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.&lt;/p&gt;
+&lt;p&gt;I am pleased to have engaged with so many knowledgeable professionals and enthusiasts who are passionate about improving systems and operations. The discussions and interactions were enlightening, and I hope they were as beneficial for attendees as they were for me.&lt;/p&gt;
           
           
         
@@ -61,16 +86,68 @@ I am pleased to have engaged with so many knowledgeable professionals and enthus
     
     <item>
       <title>Insights from Establishing SRE Foundations</title>
-      <link>https://blog.vechiato.cc/blog/book-establishing-sre-foundations/</link>
+      <link>https://example.com/post/book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-establishing-sre-foundations/</guid>
+      <guid>https://example.com/post/book-establishing-sre-foundations/</guid>
       <description>
         
           
-            Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations
-Establishing SRE Foundations Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.
-Summary Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/sre_foundations.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/0137424604&#34;&gt;Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;establishing-sre-foundations&#34;&gt;Establishing SRE Foundations&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Establishing SRE Foundations: A Step-by-Step Guide&amp;quot; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/mindmap_establishing_sre.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
           
           
         
@@ -79,15 +156,42 @@ Summary Chapter 1: Introduction to SRE The first chapter introduces the concept 
     
     <item>
       <title>Insights from Observability Engineering: Achieving Production Excellence</title>
-      <link>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</link>
+      <link>https://example.com/post/book-observability-engineering-2022/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</guid>
+      <guid>https://example.com/post/book-observability-engineering-2022/</guid>
       <description>
         
           
-            2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
-Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/observability_engineering.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&lt;/p&gt;
+&lt;h1 id=&#34;observability-engineering&#34;&gt;Observability Engineering&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
           
           
         
@@ -96,16 +200,42 @@ Observability Engineering Introduction In the rapidly evolving landscape of soft
     
     <item>
       <title>Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems</title>
-      <link>https://blog.vechiato.cc/blog/book-database-reliability-engineering/</link>
+      <link>https://example.com/post/book-database-reliability-engineering/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-database-reliability-engineering/</guid>
+      <guid>https://example.com/post/book-database-reliability-engineering/</guid>
       <description>
         
           
-            2017 by Laine Campbell &amp;amp; Charity Majors
-Database Reliability Engineering Introduction &amp;ldquo;Database Reliability Engineering&amp;rdquo; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.
-Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introducing Database Reliability Engineering This chapter sets the stage by defining the role of a Database Reliability Engineer and the need for reliability engineering in database management.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/database_reliability.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2017 by Laine Campbell &amp;amp; Charity Majors&lt;/p&gt;
+&lt;h1 id=&#34;database-reliability-engineering&#34;&gt;Database Reliability Engineering&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Database Reliability Engineering&amp;quot; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.&lt;/p&gt;
           
           
         
@@ -114,16 +244,43 @@ Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introduc
     
     <item>
       <title>Insights from Seeking SRE</title>
-      <link>https://blog.vechiato.cc/blog/book-seeking-sre/</link>
+      <link>https://example.com/post/book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-seeking-sre/</guid>
+      <guid>https://example.com/post/book-seeking-sre/</guid>
       <description>
         
           
-            2018 by David Blank–edelman
-Seeking SRE: Conversations about running production systems at scale
-Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&amp;rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/seeking_sre.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2018 by David Blank–edelman&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/1491978864&#34;&gt;Seeking SRE: Conversations about running production systems at scale&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;seeking-sre&#34;&gt;Seeking SRE&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;quot;Seeking SRE: Conversations About Running Production Systems at Scale&amp;quot; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.&lt;/p&gt;
           
           
         

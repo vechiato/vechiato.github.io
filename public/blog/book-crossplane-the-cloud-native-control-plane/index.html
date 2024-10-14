@@ -13,11 +13,13 @@
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-
-<script data-goatcounter="https://mvblog.goatcounter.com/count"
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script data-goatcounter="https://mvblog.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1a90cb96716d4b05b8b6a34a62ef59a2"}'></script>
+
+
 
 
 
@@ -25,46 +27,47 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="2024 by Viktor Farcic
-Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rsquo;ve always been fascinated by the potential of …" />
+<meta name="description" content="Crossplane: The Cloud Native Control Plane
+As a DevOps enthusiast, I&#39;ve always been fascinated by the potential of cloud-native technologies to streamline and …" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:creator" content="">
+<meta name="twitter:creator" content="@vechiato">
 <meta name="twitter:title" content="Insights from Crossplane: The Cloud Native Control Plane" />
-<meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/book_crossplane.png"/>
-<meta property="og:url" content="https://blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/" />
+<meta name="twitter:image" content="https://example.com/obsidian/book_crossplane.png"/>
+<meta property="og:url" content="https://example.com/blog/book-crossplane-the-cloud-native-control-plane/" />
 <meta property="og:title" content="Insights from Crossplane: The Cloud Native Control Plane" />
-<meta property="og:description" content="2024 by Viktor Farcic
-Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rsquo;ve always been fascinated by the potential of …" />
-<meta property="og:image" content="https://blog.vechiato.cc/obsidian/book_crossplane.png" />
+<meta property="og:description" content="Crossplane: The Cloud Native Control Plane
+As a DevOps enthusiast, I&#39;ve always been fascinated by the potential of cloud-native technologies to streamline and …" />
+<meta property="og:image" content="https://example.com/obsidian/book_crossplane.png" />
+  <meta name="keywords" content="k8s,crossplane,book,platform engineering" />
 
-<link rel="apple-touch-icon" sizes="180x180" href="https://blog.vechiato.cc/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://blog.vechiato.cc/favicon-32x32.png">
-<link rel="manifest" href="https://blog.vechiato.cc/site.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="https://example.com/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://example.com/icons/favicon-32x32.png">
+<link rel="manifest" href="https://example.com/icons/site.webmanifest">
 
-<link rel="canonical" href="https://blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/">
-
-
-
-<link rel="preload" href="https://blog.vechiato.cc/css/styles.42e2c5f6d8cf9c52872666f8d8b2678ad0c426978b9d78aff3c33b7a1e7f6f97f54bcdaf0518a25fb0fe26367d04f8b07c683b3b38b331cb098daadee06b1f3e.css" integrity = "sha512-QuLF9tjPnFKHJmb42LJnitDEJpeLnXiv88M7eh5/b5f1S82vBRiiX7D&#43;JjZ9BPiwfGg7OzizMcsJjare4GsfPg==" as="style" crossorigin="anonymous">
+<link rel="canonical" href="https://example.com/blog/book-crossplane-the-cloud-native-control-plane/">
 
 
 
-<link rel="preload" href="https://blog.vechiato.cc/en/js/bundle.8f23ee977cc0ba8639e134e7390c81a13db8b818064722e11537f7cee30ad6157076718aec570f957063910f70f5c7f1a707d7e34f69035150db7474b502109d.js" as="script" integrity=
-"sha512-jyPul3zAuoY54TTnOQyBoT24uBgGRyLhFTf3zuMK1hVwdnGK7FcPlXBjkQ9w9cfxpwfX409pA1FQ23R0tQIQnQ==" crossorigin="anonymous">
+<link rel="preload" href="https://example.com/css/styles.a556cef0edd8ecd9821e661f7f201d84cc18d0c6435703889db2949aea0eccb84b7ac9a2bb49093b03f5e7d9ce21c23c705efd6dcbd7e8018afae9a9f32ca095.css" integrity = "sha512-pVbO8O3Y7NmCHmYffyAdhMwY0MZDVwOInbKUmuoOzLhLesmiu0kJOwP159nOIcI8cF79bcvX6AGK&#43;ump8yyglQ==" as="style" crossorigin="anonymous">
 
 
-<link rel="stylesheet" type="text/css" href="https://blog.vechiato.cc/css/styles.42e2c5f6d8cf9c52872666f8d8b2678ad0c426978b9d78aff3c33b7a1e7f6f97f54bcdaf0518a25fb0fe26367d04f8b07c683b3b38b331cb098daadee06b1f3e.css" integrity="sha512-QuLF9tjPnFKHJmb42LJnitDEJpeLnXiv88M7eh5/b5f1S82vBRiiX7D&#43;JjZ9BPiwfGg7OzizMcsJjare4GsfPg==" crossorigin="anonymous">
+
+<link rel="preload" href="https://example.com/en/js/bundle.23a7b32324f71258dac8e2f6f93d460b91eed86e1e4a1f09c2c62371100427e191880327ffed3d9707363eee2a6866916fdf32e6c7ed9be1537cc1dc036c40dd.js" as="script" integrity=
+"sha512-I6ezIyT3EljayOL2&#43;T1GC5Hu2G4eSh8JwsYjcRAEJ&#43;GRiAMn/&#43;09lwc2Pu4qaGaRb98y5sftm&#43;FTfMHcA2xA3Q==" crossorigin="anonymous">
+
+
+<link rel="stylesheet" type="text/css" href="https://example.com/css/styles.a556cef0edd8ecd9821e661f7f201d84cc18d0c6435703889db2949aea0eccb84b7ac9a2bb49093b03f5e7d9ce21c23c705efd6dcbd7e8018afae9a9f32ca095.css" integrity="sha512-pVbO8O3Y7NmCHmYffyAdhMwY0MZDVwOInbKUmuoOzLhLesmiu0kJOwP159nOIcI8cF79bcvX6AGK&#43;ump8yyglQ==" crossorigin="anonymous">
 
   </head>
   <body
-    data-code="100"
+    data-code="7"
     data-lines="false"
     id="documentTop"
     data-lang="en"
   >
 
 <header class="nav_header" >
-  <nav class="nav"><a href='https://blog.vechiato.cc/' class="nav_brand nav_item" title="Marcus Vechiato">Marcus Vechiato
+  <nav class="nav"><a href='https://example.com/' class="nav_brand nav_item" title="Marcus Vechiato">Marcus Vechiato
   <div class="nav_close">
     <div><svg class="icon">
   <title>open-menu</title>
@@ -84,8 +87,54 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
       
         
 
+  <div class="nav_parent">
+    <a href="https://example.com/" class="nav_item" title="Blog">Blog </a>
+  </div>
+  <div class="nav_parent">
+    <a href="https://example.com/about/" class="nav_item" title="About">About </a>
+  </div>
       
+      <div class="nav_parent">
+        <a href="#" class="nav_item">🌐</a>
+        <div class="nav_sub">
+          <span class="nav_child"></span>
+          
+          <a href="https://example.com/" class="nav_child nav_item">English</a>
+          
+          <a href="https://example.com/pt/" class="nav_child nav_item"></a>
+          
+        </div>
+      </div>
 <div class='follow'>
+  <a href="https://github.com/vechiato">
+    <svg class="icon">
+  <title>github</title>
+  <use xlink:href="#github"></use>
+</svg>
+
+  </a>
+  <a href="https://twitter.com/vechiato">
+    <svg class="icon">
+  <title>twitter</title>
+  <use xlink:href="#twitter"></use>
+</svg>
+
+  </a>
+  <a href="https://www.linkedin.com/in/vechiato">
+    <svg class="icon">
+  <title>linkedin</title>
+  <use xlink:href="#linkedin"></use>
+</svg>
+
+  </a>
+    
+  <a href="https://example.com/index.xml">
+    <svg class="icon">
+  <title>rss</title>
+  <use xlink:href="#rss"></use>
+</svg>
+
+  </a>
 <div class="color_mode">
   <input type="checkbox" class="color_choice" id="mode">
 </div>
@@ -109,23 +158,23 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
 </span>
     <span class="post_date">
       Jul 2, 2024</span>
-    <span class="post_time"> · 6 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/k8s/' title="k8s" class="post_tag button button_translucent">k8s
-        </a><a href='https://blog.vechiato.cc/tags/crossplane/' title="crossplane" class="post_tag button button_translucent">crossplane
-        </a><a href='https://blog.vechiato.cc/tags/book/' title="book" class="post_tag button button_translucent">book
-        </a><a href='https://blog.vechiato.cc/tags/platform-engineering/' title="platform engineering" class="post_tag button button_translucent">platform engineering
+    <span class="post_time"> · 6 min read</span><span>&nbsp;· <a href='https://example.com/tags/k8s/' title="k8s" class="post_tag button button_translucent">k8s
+        </a><a href='https://example.com/tags/crossplane/' title="crossplane" class="post_tag button button_translucent">crossplane
+        </a><a href='https://example.com/tags/book/' title="book" class="post_tag button button_translucent">book
+        </a><a href='https://example.com/tags/platform-engineering/' title="platform engineering" class="post_tag button button_translucent">platform engineering
         </a>
     </span>
     <span class="page_only">&nbsp;·
   <div class="post_share">
     Share on:
-    <a href="https://twitter.com/intent/tweet?text=Insights%20from%20Crossplane%3a%20The%20Cloud%20Native%20Control%20Plane&url=https%3a%2f%2fblog.vechiato.cc%2fblog%2fbook-crossplane-the-cloud-native-control-plane%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+    <a href="https://twitter.com/intent/tweet?text=Insights%20from%20Crossplane%3a%20The%20Cloud%20Native%20Control%20Plane&url=https%3a%2f%2fexample.com%2fblog%2fbook-crossplane-the-cloud-native-control-plane%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>twitter</title>
   <use xlink:href="#twitter"></use>
 </svg>
 
     </a>
-    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fblog%2fbook-crossplane-the-cloud-native-control-plane%2f&t=Insights%20from%20Crossplane%3a%20The%20Cloud%20Native%20Control%20Plane" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fexample.com%2fblog%2fbook-crossplane-the-cloud-native-control-plane%2f&t=Insights%20from%20Crossplane%3a%20The%20Cloud%20Native%20Control%20Plane" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>facebook</title>
   <use xlink:href="#facebook"></use>
@@ -139,7 +188,7 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
 </svg>
 
     </a>
-    <a href="https://blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/" title="Copy Link" class="link link_yank">
+    <a href="https://example.com/blog/book-crossplane-the-cloud-native-control-plane/" title="Copy Link" class="link link_yank">
       <svg class="icon">
   <title>copy</title>
   <use xlink:href="#copy"></use>
@@ -150,7 +199,9 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
   </span>
   </div>
 
-    <div class="post_body"><p><figure>
+    <div class="post_body"><h1 id="crossplane-the-cloud-native-control-plane">Crossplane: The Cloud Native Control Plane</h1>
+<p>As a DevOps enthusiast, I've always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &quot;Crossplane: The Cloud Native Control Plane&quot; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers. By abstracting away complexity and allowing for custom control planes, Crossplane stands out as a transformative tool for modern infrastructure management. I chose this book to deepen my understanding of how Crossplane can help create a seamless, scalable, and efficient cloud infrastructure tailored to specific organizational needs.</p>
+<p><figure>
   <picture>
 
     
@@ -167,7 +218,7 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
       alt="image"
       
         class="image_figure image_internal image_unprocessed"
-        src="/obsidian/book_crossplane.png"
+        src="https://example.com/obsidian/book_crossplane.png"
       
       
     />
@@ -176,9 +227,6 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
 </figure>
 
 2024 by Viktor Farcic</p>
-<h2 id="crossplane-the-cloud-native-control-plane">Crossplane: The Cloud Native Control Plane</h2>
-<h3 id="overview">Overview</h3>
-<p>As a DevOps enthusiast, I&rsquo;ve always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &ldquo;Crossplane: The Cloud Native Control Plane&rdquo; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers. By abstracting away complexity and allowing for custom control planes, Crossplane stands out as a transformative tool for modern infrastructure management. I chose this book to deepen my understanding of how Crossplane can help create a seamless, scalable, and efficient cloud infrastructure tailored to specific organizational needs.</p>
 <h3 id="summary">Summary</h3>
 <p><figure>
   <picture>
@@ -197,7 +245,7 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
       alt="image"
       
         class="image_figure image_internal image_unprocessed"
-        src="/obsidian/mindmap_crossplane.png"
+        src="https://example.com/obsidian/mindmap_crossplane.png"
       
       
     />
@@ -206,26 +254,26 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
 </figure>
 </p>
 <h4 id="chapter-1-introduction">Chapter 1: Introduction</h4>
-<p>In this chapter, Farcic introduces the potential of Crossplane to create custom control planes that provide a similar experience to using major public cloud providers like AWS, Google Cloud, and Azure. He emphasizes the hands-on learning approach of the book, encouraging readers to dive directly into creating and managing resources using Crossplane. One notable section describes a simple YAML manifest that can set up a production-ready Kubernetes cluster, a managed PostgreSQL database, and a backend application, showcasing Crossplane&rsquo;s powerful abstraction capabilities.</p>
-<p>&ldquo;Imagine if you could create, for people in your company, a platform that would provide them with the same experience they have when working with AWS, Google Cloud, Azure, or any other public Cloud provider.&rdquo; – Viktor Farcic (Page 1)</p>
+<p>In this chapter, Farcic introduces the potential of Crossplane to create custom control planes that provide a similar experience to using major public cloud providers like AWS, Google Cloud, and Azure. He emphasizes the hands-on learning approach of the book, encouraging readers to dive directly into creating and managing resources using Crossplane. One notable section describes a simple YAML manifest that can set up a production-ready Kubernetes cluster, a managed PostgreSQL database, and a backend application, showcasing Crossplane's powerful abstraction capabilities.</p>
+<p>&quot;Imagine if you could create, for people in your company, a platform that would provide them with the same experience they have when working with AWS, Google Cloud, Azure, or any other public Cloud provider.&quot; – Viktor Farcic (Page 1)</p>
 <h5 id="a-glimpse-into-the-future">A Glimpse Into the Future</h5>
 <p>This chapter gives a preview of what they can expect to achieve by the end of the book. Farcic describes various capabilities that Crossplane can provide, such as creating and managing Kubernetes clusters, databases, and applications through simple declarative manifests and emphasises the ease and efficiency of using Crossplane to manage complex infrastructure.</p>
 <h4 id="chapter-2-providers-and-managed-resources">Chapter 2: Providers and Managed Resources</h4>
-<p>Farcic explores the concept of providers, which extend Crossplane&rsquo;s capabilities through custom resource definitions (CRDs) and controllers. He explains how providers, such as AWS, Google Cloud, and Azure, add numerous CRDs to Kubernetes, enabling the management of various cloud resources. The chapter also introduces the Upbound marketplace, a repository for discovering and installing providers.</p>
-<p>&ldquo;Providers are a way to extend Crossplane capabilities through custom resource definitions (CRDs) and controllers.&rdquo; – Viktor Farcic (Page 18)</p>
-<p>&ldquo;A Crossplane Managed Resource represents a resource managed by Crossplane. That resource can be anything from an AWS EC2 instance to a Google Cloud Run instance.&rdquo; – Viktor Farcic (Page 25)</p>
+<p>Farcic explores the concept of providers, which extend Crossplane's capabilities through custom resource definitions (CRDs) and controllers. He explains how providers, such as AWS, Google Cloud, and Azure, add numerous CRDs to Kubernetes, enabling the management of various cloud resources. The chapter also introduces the Upbound marketplace, a repository for discovering and installing providers.</p>
+<p>&quot;Providers are a way to extend Crossplane capabilities through custom resource definitions (CRDs) and controllers.&quot; – Viktor Farcic (Page 18)</p>
+<p>&quot;A Crossplane Managed Resource represents a resource managed by Crossplane. That resource can be anything from an AWS EC2 instance to a Google Cloud Run instance.&quot; – Viktor Farcic (Page 25)</p>
 <h5 id="continuous-drift-detection-and-reconciliation">Continuous Drift-Detection and Reconciliation</h5>
 <p>Farcic explains the importance of continuous drift detection and reconciliation in maintaining the desired state of resources. He illustrates how Crossplane ensures that managed resources stay in sync with their defined configurations, correcting any deviations automatically.</p>
-<p>&ldquo;Crossplane takes those concepts to the next level or, to be more precise, it extends them to… everything. No matter which type of resources we are managing with Crossplane, it will ensure that their state always matches the desired state.&rdquo; – Viktor Farcic (Page 35)</p>
+<p>&quot;Crossplane takes those concepts to the next level or, to be more precise, it extends them to… everything. No matter which type of resources we are managing with Crossplane, it will ensure that their state always matches the desired state.&quot; – Viktor Farcic (Page 35)</p>
 <h4 id="chapter-3-compositions">Chapter 3: Compositions</h4>
 <p>In this chapter, Farcic explains how to use Compositions to define complex resource configurations that can be reused across different environments. This approach allows for greater flexibility and consistency in managing cloud resources.</p>
-<p>&ldquo;Compositions allow us to define reusable configurations that can be applied to different environments, ensuring consistency and reducing complexity.&rdquo; – Viktor Farcic (Page 41)</p>
+<p>&quot;Compositions allow us to define reusable configurations that can be applied to different environments, ensuring consistency and reducing complexity.&quot; – Viktor Farcic (Page 41)</p>
 <h4 id="chapter-4-configuration-packages">Chapter 4: Configuration Packages</h4>
 <p>Farcic introduces Configuration Packages, which bundle together multiple resources and configurations into a single, reusable package. This chapter provides a step-by-step guide to creating and managing Configuration Packages.</p>
-<p>&ldquo;Configuration Packages enable us to bundle multiple resources and configurations into a single package, making it easier to manage and deploy complex infrastructure.&rdquo; – Viktor Farcic (Page 88)</p>
+<p>&quot;Configuration Packages enable us to bundle multiple resources and configurations into a single package, making it easier to manage and deploy complex infrastructure.&quot; – Viktor Farcic (Page 88)</p>
 <h4 id="chapter-5-composition-functions">Chapter 5: Composition Functions</h4>
 <p>This chapter delves into Composition Functions, which extend the functionality of Compositions by allowing for more complex logic and transformations. Farcic provides examples of how to use these functions to achieve advanced resource configurations.</p>
-<p>&ldquo;Composition Functions allow us to extend the capabilities of Compositions with more complex logic and transformations.&rdquo; – Viktor Farcic (Page 104)</p>
+<p>&quot;Composition Functions allow us to extend the capabilities of Compositions with more complex logic and transformations.&quot; – Viktor Farcic (Page 104)</p>
 <h3 id="key-takeaways">Key Takeaways</h3>
 <h4 id="key-takeaway-1-simplified-cloud-resource-management">Key Takeaway 1: Simplified Cloud Resource Management</h4>
 <ul>
@@ -245,12 +293,13 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
 <li><strong>Quote</strong>: “Providers, together with configurations and functions, are a type of package that extends Crossplane’s capabilities.” – Viktor Farcic</li>
 </ul>
 <h3 id="personal-reflections">Personal Reflections</h3>
-<p>&ldquo;Crossplane: The Cloud Native Control Plane&rdquo; has significantly broadened my perspective on cloud resource management. The book’s practical, hands-on approach allowed me to grasp the potential of Crossplane in creating custom control planes. It has inspired me to consider how my organization can leverage Crossplane to streamline our infrastructure management, reduce complexity, and enhance scalability. This book is a valuable resource for anyone looking to explore the possibilities of cloud-native technologies and implement effective solutions tailored to their unique needs.</p>
+<p>&quot;Crossplane: The Cloud Native Control Plane&quot; has significantly broadened my perspective on cloud resource management. The book’s practical, hands-on approach allowed me to grasp the potential of Crossplane in creating custom control planes. It has inspired me to consider how my organization can leverage Crossplane to streamline our infrastructure management, reduce complexity, and enhance scalability. This book is a valuable resource for anyone looking to explore the possibilities of cloud-native technologies and implement effective solutions tailored to their unique needs.</p>
 <h3 id="conclusion">Conclusion</h3>
-<p>Overall, &ldquo;Crossplane: The Cloud Native Control Plane&rdquo; by Viktor Farcic is a good source for DevOps professionals and cloud enthusiasts. The book’s practical approach, combined with its in-depth exploration of Crossplane’s capabilities, makes it an great guide for managing cloud infrastructure. Farcic’s insights and detailed explanations provide readers with the knowledge and confidence to implement Crossplane in their own environments. If you’re looking to simplify and enhance your cloud resource management, this book offers the tools and inspiration you need to get started.</p>
+<p>Overall, &quot;Crossplane: The Cloud Native Control Plane&quot; by Viktor Farcic is a good source for DevOps professionals and cloud enthusiasts. The book’s practical approach, combined with its in-depth exploration of Crossplane’s capabilities, makes it an great guide for managing cloud infrastructure. Farcic’s insights and detailed explanations provide readers with the knowledge and confidence to implement Crossplane in their own environments. If you’re looking to simplify and enhance your cloud resource management, this book offers the tools and inspiration you need to get started.</p>
 
     </div>
 <div class="post_comments">
+  
   
   
   
@@ -264,163 +313,125 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
   <section class="sidebar_inner">
     <br>
     
+  
+  <div class="search">
+    <input type="search" class="search_field form_field" placeholder='Search...' id="find" autocomplete="off" data-scope='blog'>
+    <label for="find" class="search_label"><svg class="icon">
+  <title>search</title>
+  <use xlink:href="#search"></use>
+</svg>
 
+    </label>
+    
+    <div class="search_results results"></div>
+  </div>
+
+        <h2>Marcus Vechiato</h2>
+      <div class="author_bio">
+        Technologist, perpetual student, continual incremental improvement.
+      </div>
+      <a href='https://example.com/about/' class="button mt-1" role="button" title='Read More'>Read More</a>
 
     
     
     <h2 class="mt-4">Recent Posts</h2>
     <ul class="flex-column">
       <li>
-        <a href="https://blog.vechiato.cc/blog/book-leading-effective-engineering-teams/" class="nav-link" title="Insights from Leading Effective Engineering Teams">Insights from Leading Effective Engineering Teams</a>
+        <a href="https://example.com/post/book-outlive/" class="nav-link" title="Insights from Outlive">Insights from Outlive</a>
       </li>
       <li>
-        <a href="https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/" class="nav-link" title="Insights from The Principles of Product Development Flow: Second Generation Lean Product Development">Insights from The Principles of Product Development Flow: Second Generation Lean Product Development</a>
+        <a href="https://example.com/post/book-leading-effective-engineering-teams/" class="nav-link" title="Insights from Leading Effective Engineering Teams">Insights from Leading Effective Engineering Teams</a>
       </li>
       <li>
-        <a href="https://blog.vechiato.cc/blog/article-unveiling-the-watermelon-effect/" class="nav-link" title="Unveiling the Watermelon Effect: Are Your Metrics Hiding the Truth?">Unveiling the Watermelon Effect: Are Your Metrics Hiding the Truth?</a>
+        <a href="https://example.com/post/book-the-principles-of-product-development-flow/" class="nav-link" title="Insights from The Principles of Product Development Flow: Second Generation Lean Product Development">Insights from The Principles of Product Development Flow: Second Generation Lean Product Development</a>
       </li>
       <li>
-        <a href="https://blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/" class="nav-link" title="Insights from Crossplane: The Cloud Native Control Plane">Insights from Crossplane: The Cloud Native Control Plane</a>
+        <a href="https://example.com/post/article-unveiling-the-watermelon-effect/" class="nav-link" title="Unveiling the Watermelon Effect: Are Your Metrics Hiding the Truth?">Unveiling the Watermelon Effect: Are Your Metrics Hiding the Truth?</a>
       </li>
       <li>
-        <a href="https://blog.vechiato.cc/blog/7-books-managing-technical-debt/" class="nav-link" title="Seven Books on Managing Technical Debt">Seven Books on Managing Technical Debt</a>
+        <a href="https://example.com/post/book-crossplane-the-cloud-native-control-plane/" class="nav-link" title="Insights from Crossplane: The Cloud Native Control Plane">Insights from Crossplane: The Cloud Native Control Plane</a>
       </li>
       <li>
-        <a href="https://blog.vechiato.cc/blog/book-chaos-engineering/" class="nav-link" title="Insights from Chaos Engineering: System Resiliency in Practice">Insights from Chaos Engineering: System Resiliency in Practice</a>
+        <a href="https://example.com/post/7-books-managing-technical-debt/" class="nav-link" title="Seven Books on Managing Technical Debt">Seven Books on Managing Technical Debt</a>
       </li>
       <li>
-        <a href="https://blog.vechiato.cc/blog/book-platform-engineering-on-kubernetes/" class="nav-link" title="Insights from Platform Engineering on Kubernetes">Insights from Platform Engineering on Kubernetes</a>
+        <a href="https://example.com/post/book-chaos-engineering/" class="nav-link" title="Insights from Chaos Engineering: System Resiliency in Practice">Insights from Chaos Engineering: System Resiliency in Practice</a>
       </li>
       <li>
-        <a href="https://blog.vechiato.cc/blog/book-48-laws-of-power/" class="nav-link" title="Insights from 48 Laws of Power">Insights from 48 Laws of Power</a>
+        <a href="https://example.com/post/book-platform-engineering-on-kubernetes/" class="nav-link" title="Insights from Platform Engineering on Kubernetes">Insights from Platform Engineering on Kubernetes</a>
       </li>
     </ul>
     <div>
       <h2 class="mt-4 taxonomy" id="tags-section">Tags</h2>
       <nav class="tags_nav">
-        <a href='https://blog.vechiato.cc/tags/book/' class="post_tag button button_translucent" title="book">
+        <a href='https://example.com/tags/book/' class="post_tag button button_translucent" title="book">
           BOOK
-          <span class="button_tally">41</span>
+          <span class="button_tally">86</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/devops/' class="post_tag button button_translucent" title="devops">
+        <a href='https://example.com/tags/devops/' class="post_tag button button_translucent" title="devops">
           DEVOPS
-          <span class="button_tally">12</span>
+          <span class="button_tally">24</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/leadership/' class="post_tag button button_translucent" title="leadership">
+        <a href='https://example.com/tags/leadership/' class="post_tag button button_translucent" title="leadership">
           LEADERSHIP
-          <span class="button_tally">9</span>
+          <span class="button_tally">18</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/sre/' class="post_tag button button_translucent" title="sre">
+        <a href='https://example.com/tags/sre/' class="post_tag button button_translucent" title="sre">
           SRE
-          <span class="button_tally">7</span>
+          <span class="button_tally">14</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/k8s/' class="post_tag button button_translucent" title="k8s">
+        <a href='https://example.com/tags/k8s/' class="post_tag button button_translucent" title="k8s">
           K8S
-          <span class="button_tally">5</span>
+          <span class="button_tally">10</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/platform-engineering/' class="post_tag button button_translucent" title="platform engineering">
+        <a href='https://example.com/tags/platform-engineering/' class="post_tag button button_translucent" title="platform engineering">
           PLATFORM ENGINEERING
-          <span class="button_tally">4</span>
+          <span class="button_tally">8</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/security/' class="post_tag button button_translucent" title="security">
+        <a href='https://example.com/tags/security/' class="post_tag button button_translucent" title="security">
           SECURITY
+          <span class="button_tally">8</span>
+        </a>
+        
+        <a href='https://example.com/tags/crossplane/' class="post_tag button button_translucent" title="crossplane">
+          CROSSPLANE
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://example.com/tags/ebpf/' class="post_tag button button_translucent" title="ebpf">
+          EBPF
           <span class="button_tally">4</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/crossplane/' class="post_tag button button_translucent" title="crossplane">
-          CROSSPLANE
-          <span class="button_tally">3</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/ebpf/' class="post_tag button button_translucent" title="ebpf">
-          EBPF
-          <span class="button_tally">2</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/hydroponics/' class="post_tag button button_translucent" title="hydroponics">
+        <a href='https://example.com/tags/hydroponics/' class="post_tag button button_translucent" title="hydroponics">
           HYDROPONICS
-          <span class="button_tally">2</span>
+          <span class="button_tally">4</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/observability/' class="post_tag button button_translucent" title="observability">
+        <a href='https://example.com/tags/observability/' class="post_tag button button_translucent" title="observability">
           OBSERVABILITY
-          <span class="button_tally">2</span>
+          <span class="button_tally">4</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/python/' class="post_tag button button_translucent" title="python">
+        <a href='https://example.com/tags/python/' class="post_tag button button_translucent" title="python">
           PYTHON
+          <span class="button_tally">4</span>
+        </a>
+        
+        <a href='https://example.com/tags/certification/' class="post_tag button button_translucent" title="certification">
+          CERTIFICATION
           <span class="button_tally">2</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/certification/' class="post_tag button button_translucent" title="certification">
-          CERTIFICATION
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/chaos-engineering/' class="post_tag button button_translucent" title="chaos engineering">
+        <a href='https://example.com/tags/chaos-engineering/' class="post_tag button button_translucent" title="chaos engineering">
           CHAOS ENGINEERING
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/cicd/' class="post_tag button button_translucent" title="cicd">
-          CICD
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/data/' class="post_tag button button_translucent" title="data">
-          DATA
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/dbre/' class="post_tag button button_translucent" title="dbre">
-          DBRE
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/devsecops/' class="post_tag button button_translucent" title="devsecops">
-          DEVSECOPS
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/dora/' class="post_tag button button_translucent" title="dora">
-          DORA
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/finops/' class="post_tag button button_translucent" title="finops">
-          FINOPS
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/git/' class="post_tag button button_translucent" title="git">
-          GIT
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/gitops/' class="post_tag button button_translucent" title="gitops">
-          GITOPS
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/helm/' class="post_tag button button_translucent" title="helm">
-          HELM
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/lean/' class="post_tag button button_translucent" title="lean">
-          LEAN
-          <span class="button_tally">1</span>
-        </a>
-        
-        <a href='https://blog.vechiato.cc/tags/meetup/' class="post_tag button button_translucent" title="meetup">
-          MEETUP
-          <span class="button_tally">1</span>
+          <span class="button_tally">2</span>
         </a>
         
         
@@ -429,143 +440,143 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
         <div class="post_tags">
           <div class="tags_list">
             
-            <a href='https://blog.vechiato.cc/tags/book/' class=" post_tag button button_translucent" data-position=41 title="book">BOOK<span class="button_tally">41</span>
+            <a href='https://example.com/tags/book/' class=" post_tag button button_translucent" data-position=86 title="book">BOOK<span class="button_tally">86</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/certification/' class=" post_tag button button_translucent" data-position=1 title="certification">CERTIFICATION<span class="button_tally">1</span>
+            <a href='https://example.com/tags/certification/' class=" post_tag button button_translucent" data-position=2 title="certification">CERTIFICATION<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/chaos-engineering/' class=" post_tag button button_translucent" data-position=1 title="chaos engineering">CHAOS ENGINEERING<span class="button_tally">1</span>
+            <a href='https://example.com/tags/chaos-engineering/' class=" post_tag button button_translucent" data-position=2 title="chaos engineering">CHAOS ENGINEERING<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/cicd/' class=" post_tag button button_translucent" data-position=1 title="cicd">CICD<span class="button_tally">1</span>
+            <a href='https://example.com/tags/cicd/' class=" post_tag button button_translucent" data-position=2 title="cicd">CICD<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/crossplane/' class=" post_tag button button_translucent" data-position=3 title="crossplane">CROSSPLANE<span class="button_tally">3</span>
+            <a href='https://example.com/tags/crossplane/' class=" post_tag button button_translucent" data-position=6 title="crossplane">CROSSPLANE<span class="button_tally">6</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/data/' class=" post_tag button button_translucent" data-position=1 title="data">DATA<span class="button_tally">1</span>
+            <a href='https://example.com/tags/data/' class=" post_tag button button_translucent" data-position=2 title="data">DATA<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/dbre/' class=" post_tag button button_translucent" data-position=1 title="dbre">DBRE<span class="button_tally">1</span>
+            <a href='https://example.com/tags/dbre/' class=" post_tag button button_translucent" data-position=2 title="dbre">DBRE<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/devops/' class=" post_tag button button_translucent" data-position=12 title="devops">DEVOPS<span class="button_tally">12</span>
+            <a href='https://example.com/tags/devops/' class=" post_tag button button_translucent" data-position=24 title="devops">DEVOPS<span class="button_tally">24</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/devsecops/' class=" post_tag button button_translucent" data-position=1 title="devsecops">DEVSECOPS<span class="button_tally">1</span>
+            <a href='https://example.com/tags/devsecops/' class=" post_tag button button_translucent" data-position=2 title="devsecops">DEVSECOPS<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/dora/' class=" post_tag button button_translucent" data-position=1 title="dora">DORA<span class="button_tally">1</span>
+            <a href='https://example.com/tags/dora/' class=" post_tag button button_translucent" data-position=2 title="dora">DORA<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/ebpf/' class=" post_tag button button_translucent" data-position=2 title="ebpf">EBPF<span class="button_tally">2</span>
+            <a href='https://example.com/tags/ebpf/' class=" post_tag button button_translucent" data-position=4 title="ebpf">EBPF<span class="button_tally">4</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/finops/' class=" post_tag button button_translucent" data-position=1 title="finops">FINOPS<span class="button_tally">1</span>
+            <a href='https://example.com/tags/finops/' class=" post_tag button button_translucent" data-position=2 title="finops">FINOPS<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/git/' class=" post_tag button button_translucent" data-position=1 title="git">GIT<span class="button_tally">1</span>
+            <a href='https://example.com/tags/git/' class=" post_tag button button_translucent" data-position=2 title="git">GIT<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/gitops/' class=" post_tag button button_translucent" data-position=1 title="gitops">GITOPS<span class="button_tally">1</span>
+            <a href='https://example.com/tags/gitops/' class=" post_tag button button_translucent" data-position=2 title="gitops">GITOPS<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/helm/' class=" post_tag button button_translucent" data-position=1 title="helm">HELM<span class="button_tally">1</span>
+            <a href='https://example.com/tags/helm/' class=" post_tag button button_translucent" data-position=2 title="helm">HELM<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/hydroponics/' class=" post_tag button button_translucent" data-position=2 title="hydroponics">HYDROPONICS<span class="button_tally">2</span>
+            <a href='https://example.com/tags/hydroponics/' class=" post_tag button button_translucent" data-position=4 title="hydroponics">HYDROPONICS<span class="button_tally">4</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/k8s/' class=" post_tag button button_translucent" data-position=5 title="k8s">K8S<span class="button_tally">5</span>
+            <a href='https://example.com/tags/k8s/' class=" post_tag button button_translucent" data-position=10 title="k8s">K8S<span class="button_tally">10</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/leadership/' class=" post_tag button button_translucent" data-position=9 title="leadership">LEADERSHIP<span class="button_tally">9</span>
+            <a href='https://example.com/tags/leadership/' class=" post_tag button button_translucent" data-position=18 title="leadership">LEADERSHIP<span class="button_tally">18</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/lean/' class=" post_tag button button_translucent" data-position=1 title="lean">LEAN<span class="button_tally">1</span>
+            <a href='https://example.com/tags/lean/' class=" post_tag button button_translucent" data-position=2 title="lean">LEAN<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/meetup/' class=" post_tag button button_translucent" data-position=1 title="meetup">MEETUP<span class="button_tally">1</span>
+            <a href='https://example.com/tags/meetup/' class=" post_tag button button_translucent" data-position=2 title="meetup">MEETUP<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/metrics/' class=" post_tag button button_translucent" data-position=1 title="metrics">METRICS<span class="button_tally">1</span>
+            <a href='https://example.com/tags/metrics/' class=" post_tag button button_translucent" data-position=2 title="metrics">METRICS<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/netflix/' class=" post_tag button button_translucent" data-position=1 title="netflix">NETFLIX<span class="button_tally">1</span>
+            <a href='https://example.com/tags/netflix/' class=" post_tag button button_translucent" data-position=2 title="netflix">NETFLIX<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/notes-management/' class=" post_tag button button_translucent" data-position=1 title="notes management">NOTES MANAGEMENT<span class="button_tally">1</span>
+            <a href='https://example.com/tags/notes-management/' class=" post_tag button button_translucent" data-position=2 title="notes management">NOTES MANAGEMENT<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/observability/' class=" post_tag button button_translucent" data-position=2 title="observability">OBSERVABILITY<span class="button_tally">2</span>
+            <a href='https://example.com/tags/observability/' class=" post_tag button button_translucent" data-position=4 title="observability">OBSERVABILITY<span class="button_tally">4</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/operating-systems/' class=" post_tag button button_translucent" data-position=1 title="operating systems">OPERATING SYSTEMS<span class="button_tally">1</span>
+            <a href='https://example.com/tags/operating-systems/' class=" post_tag button button_translucent" data-position=2 title="operating systems">OPERATING SYSTEMS<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/platform-engineering/' class=" post_tag button button_translucent" data-position=4 title="platform engineering">PLATFORM ENGINEERING<span class="button_tally">4</span>
+            <a href='https://example.com/tags/platform-engineering/' class=" post_tag button button_translucent" data-position=8 title="platform engineering">PLATFORM ENGINEERING<span class="button_tally">8</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/product-development/' class=" post_tag button button_translucent" data-position=1 title="product development">PRODUCT DEVELOPMENT<span class="button_tally">1</span>
+            <a href='https://example.com/tags/product-development/' class=" post_tag button button_translucent" data-position=2 title="product development">PRODUCT DEVELOPMENT<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/python/' class=" post_tag button button_translucent" data-position=2 title="python">PYTHON<span class="button_tally">2</span>
+            <a href='https://example.com/tags/python/' class=" post_tag button button_translucent" data-position=4 title="python">PYTHON<span class="button_tally">4</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/security/' class=" post_tag button button_translucent" data-position=4 title="security">SECURITY<span class="button_tally">4</span>
+            <a href='https://example.com/tags/security/' class=" post_tag button button_translucent" data-position=8 title="security">SECURITY<span class="button_tally">8</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/sre/' class=" post_tag button button_translucent" data-position=7 title="sre">SRE<span class="button_tally">7</span>
+            <a href='https://example.com/tags/sre/' class=" post_tag button button_translucent" data-position=14 title="sre">SRE<span class="button_tally">14</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/systems-design/' class=" post_tag button button_translucent" data-position=1 title="systems design">SYSTEMS DESIGN<span class="button_tally">1</span>
+            <a href='https://example.com/tags/systems-design/' class=" post_tag button button_translucent" data-position=2 title="systems design">SYSTEMS DESIGN<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/systems-performance/' class=" post_tag button button_translucent" data-position=1 title="systems performance">SYSTEMS PERFORMANCE<span class="button_tally">1</span>
+            <a href='https://example.com/tags/systems-performance/' class=" post_tag button button_translucent" data-position=2 title="systems performance">SYSTEMS PERFORMANCE<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/team-topologies/' class=" post_tag button button_translucent" data-position=1 title="team topologies">TEAM TOPOLOGIES<span class="button_tally">1</span>
+            <a href='https://example.com/tags/team-topologies/' class=" post_tag button button_translucent" data-position=2 title="team topologies">TEAM TOPOLOGIES<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/technical-debt/' class=" post_tag button button_translucent" data-position=1 title="technical debt">TECHNICAL DEBT<span class="button_tally">1</span>
+            <a href='https://example.com/tags/technical-debt/' class=" post_tag button button_translucent" data-position=2 title="technical debt">TECHNICAL DEBT<span class="button_tally">2</span>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/time-management/' class=" post_tag button button_translucent" data-position=1 title="time management">TIME MANAGEMENT<span class="button_tally">1</span>
+            <a href='https://example.com/tags/time-management/' class=" post_tag button button_translucent" data-position=2 title="time management">TIME MANAGEMENT<span class="button_tally">2</span>
             </a>
             
             <div class="tags_sort"><span title="sort alphabetically">[A~Z]</span><span title="sort by count">[0~9]</span>
@@ -660,8 +671,8 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
 
 <footer class="footer">
   <div class="footer_inner wrap pale">
-    <img src='https://blog.vechiato.cc/apple-touch-icon.png' class="icon icon_2 transparent" alt="Marcus Vechiato">
-    <p>Copyright&nbsp;<span class="year"></span>&nbsp;MARCUS VECHIATO. All Rights Reserved</p><a class="to_top" href="#documentTop">
+    <img src='https://example.com/icons/apple-touch-icon.png' class="icon icon_2 transparent" alt="Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.">
+    <p>Copyright&nbsp;<span class="year"></span>&nbsp;COPYRIGHT © 2008–2018, STEVE FRANCIA AND THE HUGO AUTHORS; ALL RIGHTS RESERVED.. All Rights Reserved</p><a class="to_top" href="#documentTop">
   <svg class="icon">
   <title>to-top</title>
   <use xlink:href="#to-top"></use>
@@ -672,6 +683,9 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&rs
   </div>
 </footer>
 
-<script type="text/javascript" src="https://blog.vechiato.cc/en/js/bundle.8f23ee977cc0ba8639e134e7390c81a13db8b818064722e11537f7cee30ad6157076718aec570f957063910f70f5c7f1a707d7e34f69035150db7474b502109d.js" integrity="sha512-jyPul3zAuoY54TTnOQyBoT24uBgGRyLhFTf3zuMK1hVwdnGK7FcPlXBjkQ9w9cfxpwfX409pA1FQ23R0tQIQnQ==" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://example.com/en/js/bundle.23a7b32324f71258dac8e2f6f93d460b91eed86e1e4a1f09c2c62371100427e191880327ffed3d9707363eee2a6866916fdf32e6c7ed9be1537cc1dc036c40dd.js" integrity="sha512-I6ezIyT3EljayOL2&#43;T1GC5Hu2G4eSh8JwsYjcRAEJ&#43;GRiAMn/&#43;09lwc2Pu4qaGaRb98y5sftm&#43;FTfMHcA2xA3Q==" crossorigin="anonymous"></script>
+
+  <script src="https://example.com/js/search.min.73cb82d8f274395dd220d6594053cd3d3d8ac8c97d874b5142a60b9744f3704d765551e0ade104d5803c66b731f5a7a00ac2cff33c8c9090ff8100169a3e2574.js"></script>
+
   </body>
 </html>

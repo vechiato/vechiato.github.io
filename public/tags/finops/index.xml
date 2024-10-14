@@ -2,22 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finops on Marcus Vechiato</title>
-    <link>https://blog.vechiato.cc/tags/finops/</link>
+    <link>https://example.com/tags/finops/</link>
     <description>Recent content in Finops on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/finops/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/finops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making</title>
-      <link>https://blog.vechiato.cc/blog/book-cloud-finops/</link>
+      <link>https://example.com/post/book-cloud-finops/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-cloud-finops/</guid>
+      <guid>https://example.com/post/book-cloud-finops/</guid>
       <description>
         
           
-            2023 by J.R. Storment and Mike Fuller
-Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making Introduction In the modern era of cloud computing, managing cloud spend efficiently has become crucial for businesses. &amp;ldquo;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making&amp;rdquo; by J.R. Storment and Mike Fuller delves into the practices and principles of FinOps, a methodology that combines financial management with DevOps to drive accountability and efficiency in cloud spending.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/cloud_finops.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2023 by J.R. Storment and Mike Fuller&lt;/p&gt;
+&lt;h1 id=&#34;cloud-finops-collaborative-real-time-cloud-value-decision-making&#34;&gt;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the modern era of cloud computing, managing cloud spend efficiently has become crucial for businesses. &amp;quot;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making&amp;quot; by J.R. Storment and Mike Fuller delves into the practices and principles of FinOps, a methodology that combines financial management with DevOps to drive accountability and efficiency in cloud spending. This book is an essential read for engineering and finance teams, executives, and FinOps practitioners aiming to optimise their cloud investments.&lt;/p&gt;
           
           
         

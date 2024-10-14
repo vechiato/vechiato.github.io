@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ebpf on Marcus Vechiato</title>
-    <link>https://blog.vechiato.cc/tags/ebpf/</link>
+    <link>https://example.com/tags/ebpf/</link>
     <description>Recent content in Ebpf on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/ebpf/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ebpf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>https://blog.vechiato.cc/blog/book-learning-ebpf/</link>
+      <link>https://example.com/post/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-learning-ebpf/</guid>
+      <guid>https://example.com/post/book-learning-ebpf/</guid>
       <description>
         
           
-            2023 by Liz Rice
-Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security
-Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.
+            &lt;h1 id=&#34;learning-ebpf&#34;&gt;Learning eBPF&lt;/h1&gt;
+&lt;p&gt;In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p&gt;
           
           
         
@@ -27,14 +27,15 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
     
     <item>
       <title>CNCF Falco Graduation - Another step in your Shift-Left Journey</title>
-      <link>https://blog.vechiato.cc/blog/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
+      <link>https://example.com/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
+      <guid>https://example.com/post/20240307-cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
       <description>
         
           
-            Falco Enhances Container Security with Real-time Threat Detection In today&amp;rsquo;s digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.
+            &lt;h1 id=&#34;falco-enhances-container-security-with-real-time-threat-detection&#34;&gt;Falco Enhances Container Security with Real-time Threat Detection&lt;/h1&gt;
+&lt;p&gt;In today&#39;s digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.&lt;/p&gt;
           
           
         

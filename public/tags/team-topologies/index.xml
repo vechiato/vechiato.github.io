@@ -2,23 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team Topologies on Marcus Vechiato</title>
-    <link>https://blog.vechiato.cc/tags/team-topologies/</link>
+    <link>https://example.com/tags/team-topologies/</link>
     <description>Recent content in Team Topologies on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/team-topologies/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/team-topologies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</title>
-      <link>https://blog.vechiato.cc/blog/book-team-topologies/</link>
+      <link>https://example.com/post/book-team-topologies/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-team-topologies/</guid>
+      <guid>https://example.com/post/book-team-topologies/</guid>
       <description>
         
           
-            2019 by Matthew Skelton and Manuel Pais
-Team Topologies: Organizing Business and Technology Teams for Fast
-Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;rdquo; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/team_topologies_book.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2019 by Matthew Skelton and Manuel Pais&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B07W1667D7&#34;&gt;Team Topologies: Organizing Business and Technology Teams for Fast&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;team-topologies&#34;&gt;Team Topologies&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;quot; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.&lt;/p&gt;
           
           
         

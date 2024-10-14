@@ -1,13 +1,13 @@
 title = "Marcus Vechiato"
 baseURL = "https://blog.vechiato.cc"
 languageCode = "en-us"
-theme = "clarity"
+theme = "hugo-clarity"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 #SectionPagesMenu = "main"
-Paginate = 20 
-googleAnalytics = "G-6BYRELN45K"
+pagination.pagerSize = 12
+#googleAnalytics = "G-6BYRELN45K"
 enableRobotsTXT = true
 
 [sitemap]
@@ -16,14 +16,16 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  #mainSections = ["posts", "docs", "blog"]	
+  mainSections = ["posts"]	
   text_color = ""
   author = "Marcus Vechiato"
   #favicon = "/static/favicon.ico"
   site_logo = ""
-  numberOfTagsShown = 25
+  numberOfTagsShown = 12
   description = "Discover insights on DevOps, SRE, Platform Engineering, and modern software development practices."
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  #background_color_class = "bg-black"
   recent_posts_number = 3
     
   [params.share]

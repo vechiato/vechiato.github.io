@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Debt on Marcus Vechiato</title>
-    <link>https://blog.vechiato.cc/tags/technical-debt/</link>
+    <link>https://example.com/tags/technical-debt/</link>
     <description>Recent content in Technical Debt on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seven Books on Managing Technical Debt</title>
-      <link>https://blog.vechiato.cc/blog/7-books-managing-technical-debt/</link>
+      <link>https://example.com/post/7-books-managing-technical-debt/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/7-books-managing-technical-debt/</guid>
+      <guid>https://example.com/post/7-books-managing-technical-debt/</guid>
       <description>
         
           
-            Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&amp;rsquo;s important to recognize that technical debt encompasses not only software but also infrastructure, security, and organizational processes. Addressing technical debt holistically ensures that an organization can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&amp;rsquo;ve compiled a list of books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.
+            &lt;p&gt;Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&#39;s important to recognize that technical debt encompasses not only software but also infrastructure, security, and organizational processes. Addressing technical debt holistically ensures that an organization can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&#39;ve compiled a list of  books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.&lt;/p&gt;
           
           
         

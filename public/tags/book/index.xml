@@ -2,22 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book on Marcus Vechiato</title>
-    <link>https://blog.vechiato.cc/tags/book/</link>
+    <link>https://example.com/tags/book/</link>
     <description>Recent content in Book on Marcus Vechiato</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Insights from Leading Effective Engineering Teams</title>
-      <link>https://blog.vechiato.cc/blog/book-leading-effective-engineering-teams/</link>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <title>Insights from Outlive</title>
+      <link>https://example.com/post/book-outlive/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-leading-effective-engineering-teams/</guid>
+      <guid>https://example.com/post/book-outlive/</guid>
       <description>
         
           
-            2024 by Addy Osmani
-Leading Effective Engineering Teams Overview Years ago, when I found myself managing an engineering team for the first time. The transition from being an individual contributor to a leader was filled with challenges and uncertainties. I wished for a guide that could provide practical advice and real-world examples to navigate this new role effectively. &amp;ldquo;Leading Effective Engineering Teams&amp;rdquo; by Addy Osmani is one of the few guides covering this subject.
+            &lt;h1 id=&#34;outlive-the-science-and-art-of-longevity&#34;&gt;Outlive: The Science and Art of Longevity&lt;/h1&gt;
+&lt;p&gt;I’ve always been fascinated by the concept of longevity and what it means to live not just a long life, but a healthy and fulfilling one. When I came across &amp;quot;Outlive: The Science and Art of Longevity&amp;quot; by Peter Attia, I knew it was a must-read. The book delves into the science of prolonging life and improving its quality through proactive health measures. Attia, with his rich background in medicine and personal experiences, offers a comprehensive guide to understanding and implementing strategies for better health and longevity.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Insights from Leading Effective Engineering Teams</title>
+      <link>https://example.com/post/book-leading-effective-engineering-teams/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/book-leading-effective-engineering-teams/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;leading-effective-engineering-teams&#34;&gt;Leading Effective Engineering Teams&lt;/h1&gt;
+&lt;p&gt;Years ago, when I found myself managing an engineering team for the first time. The transition from being an individual contributor to a leader was filled with challenges and uncertainties. I wished for a guide that could provide practical advice and real-world examples to navigate this new role effectively. &amp;quot;Leading Effective Engineering Teams&amp;quot; by Addy Osmani is one of the few guides covering this subject. Drawing from over a decade of experience at Google, Osmani uncovers the secrets to engineering effectiveness, efficiency, and team success. This book is a treasure trove of insights for anyone looking to lead a thriving engineering team.&lt;/p&gt;
           
           
         
@@ -26,15 +44,15 @@ Leading Effective Engineering Teams Overview Years ago, when I found myself mana
     
     <item>
       <title>Insights from The Principles of Product Development Flow: Second Generation Lean Product Development</title>
-      <link>https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</link>
+      <link>https://example.com/post/book-the-principles-of-product-development-flow/</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-the-principles-of-product-development-flow/</guid>
+      <guid>https://example.com/post/book-the-principles-of-product-development-flow/</guid>
       <description>
         
           
-            2009 by Donald G. Reinertsen
-The Principles of Product Development Flow Overview In today&amp;rsquo;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;ldquo;The Principles of Product Development Flow&amp;rdquo; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency. This book is a game-changer for anyone involved in product development.
+            &lt;h1 id=&#34;the-principles-of-product-development-flow&#34;&gt;The Principles of Product Development Flow&lt;/h1&gt;
+&lt;p&gt;In today&#39;s fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. &amp;quot;The Principles of Product Development Flow&amp;quot; by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency. This book is a game-changer for anyone involved in product development. It goes beyond high-level theory and delves into practical, real-life examples, providing a comprehensive approach to achieving efficient and effective product development processes. If you&#39;re looking to transform your product development practices, this book is a must-read.&lt;/p&gt;
           
           
         
@@ -43,15 +61,15 @@ The Principles of Product Development Flow Overview In today&amp;rsquo;s fast-pa
     
     <item>
       <title>Insights from Crossplane: The Cloud Native Control Plane</title>
-      <link>https://blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/</link>
+      <link>https://example.com/post/book-crossplane-the-cloud-native-control-plane/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-crossplane-the-cloud-native-control-plane/</guid>
+      <guid>https://example.com/post/book-crossplane-the-cloud-native-control-plane/</guid>
       <description>
         
           
-            2024 by Viktor Farcic
-Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&amp;rsquo;ve always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &amp;ldquo;Crossplane: The Cloud Native Control Plane&amp;rdquo; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers.
+            &lt;h1 id=&#34;crossplane-the-cloud-native-control-plane&#34;&gt;Crossplane: The Cloud Native Control Plane&lt;/h1&gt;
+&lt;p&gt;As a DevOps enthusiast, I&#39;ve always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &amp;quot;Crossplane: The Cloud Native Control Plane&amp;quot; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers. By abstracting away complexity and allowing for custom control planes, Crossplane stands out as a transformative tool for modern infrastructure management. I chose this book to deepen my understanding of how Crossplane can help create a seamless, scalable, and efficient cloud infrastructure tailored to specific organizational needs.&lt;/p&gt;
           
           
         
@@ -60,14 +78,14 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&am
     
     <item>
       <title>Seven Books on Managing Technical Debt</title>
-      <link>https://blog.vechiato.cc/blog/7-books-managing-technical-debt/</link>
+      <link>https://example.com/post/7-books-managing-technical-debt/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/7-books-managing-technical-debt/</guid>
+      <guid>https://example.com/post/7-books-managing-technical-debt/</guid>
       <description>
         
           
-            Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&amp;rsquo;s important to recognize that technical debt encompasses not only software but also infrastructure, security, and organizational processes. Addressing technical debt holistically ensures that an organization can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&amp;rsquo;ve compiled a list of books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.
+            &lt;p&gt;Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&#39;s important to recognize that technical debt encompasses not only software but also infrastructure, security, and organizational processes. Addressing technical debt holistically ensures that an organization can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&#39;ve compiled a list of  books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.&lt;/p&gt;
           
           
         
@@ -76,15 +94,15 @@ Crossplane: The Cloud Native Control Plane Overview As a DevOps enthusiast, I&am
     
     <item>
       <title>Insights from Chaos Engineering: System Resiliency in Practice</title>
-      <link>https://blog.vechiato.cc/blog/book-chaos-engineering/</link>
+      <link>https://example.com/post/book-chaos-engineering/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-chaos-engineering/</guid>
+      <guid>https://example.com/post/book-chaos-engineering/</guid>
       <description>
         
           
-            2020 by Casey Rosenthal, Nora Jones
-Chaos Engineering: System Resiliency in Practice Overview I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency.
+            &lt;h1 id=&#34;chaos-engineering-system-resiliency-in-practice&#34;&gt;Chaos Engineering: System Resiliency in Practice&lt;/h1&gt;
+&lt;p&gt;I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency. This book delves into the principles and practices of Chaos Engineering, a methodology designed to improve system reliability by intentionally introducing failures. I chose this book to understand how we can better prepare for the unexpected and ensure our systems can withstand and recover from disruptions.&lt;/p&gt;
           
           
         
@@ -93,17 +111,69 @@ Chaos Engineering: System Resiliency in Practice Overview I remember multiple oc
     
     <item>
       <title>Insights from Platform Engineering on Kubernetes</title>
-      <link>https://blog.vechiato.cc/blog/book-platform-engineering-on-kubernetes/</link>
+      <link>https://example.com/post/book-platform-engineering-on-kubernetes/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-platform-engineering-on-kubernetes/</guid>
+      <guid>https://example.com/post/book-platform-engineering-on-kubernetes/</guid>
       <description>
         
           
-            2022 by Mauricio Salatino
-Platform Engineering on Kubernetes
-Platform Engineering on Kubernetes Introduction &amp;ldquo;Platform Engineering on Kubernetes&amp;rdquo; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
-Summary Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter introduces the concept of platforms and their significance.
+            &lt;h1 id=&#34;platform-engineering-on-kubernetes&#34;&gt;Platform Engineering on Kubernetes&lt;/h1&gt;
+&lt;p&gt;&amp;quot;Platform Engineering on Kubernetes&amp;quot; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/book_platform_engineering_kubernetes.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2022 by Mauricio Salatino&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/mindmap_platform_engineering_k8s.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;chapter-1-the-rise-of-platforms-on-top-of-kubernetes&#34;&gt;Chapter 1: The Rise of Platforms on Top of Kubernetes&lt;/h3&gt;
+&lt;p&gt;This chapter introduces the concept of platforms and their significance. It explains why platforms are essential for organisations and discusses the advantages of building platforms on top of Kubernetes. The chapter also outlines the challenges associated with platform engineering and the need for a &amp;quot;walking skeleton&amp;quot; to demonstrate platform concepts.&lt;/p&gt;
           
           
         
@@ -112,15 +182,15 @@ Summary Chapter 1: The Rise of Platforms on Top of Kubernetes This chapter intro
     
     <item>
       <title>Insights from 48 Laws of Power</title>
-      <link>https://blog.vechiato.cc/blog/book-48-laws-of-power/</link>
+      <link>https://example.com/post/book-48-laws-of-power/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-48-laws-of-power/</guid>
+      <guid>https://example.com/post/book-48-laws-of-power/</guid>
       <description>
         
           
-            2000 by Robert Greene
-The 48 Laws of Power Overview I remember the first time I encountered the concept of power dynamics in a workplace. A seemingly harmless comment from a colleague turned into a lesson in hierarchy and influence. This personal experience nudged me towards exploring how power operates in various facets of life. It led me to The 48 Laws of Power by Robert Greene, a book that delves deep into the mechanics of power, manipulation, and strategy.
+            &lt;h1 id=&#34;the-48-laws-of-power&#34;&gt;The 48 Laws of Power&lt;/h1&gt;
+&lt;p&gt;I remember the first time I encountered the concept of power dynamics in a workplace. A seemingly harmless comment from a colleague turned into a lesson in hierarchy and influence. This personal experience nudged me towards exploring how power operates in various facets of life. It led me to &lt;em&gt;The 48 Laws of Power&lt;/em&gt; by Robert Greene, a book that delves deep into the mechanics of power, manipulation, and strategy. Greene&#39;s work is a comprehensive guide on understanding and navigating power structures, making it a must-read for anyone looking to thrive in competitive environments. I chose this book because it offers practical and historical insights into power, helping readers recognize and apply these principles in their own lives.&lt;/p&gt;
           
           
         
@@ -129,16 +199,15 @@ The 48 Laws of Power Overview I remember the first time I encountered the concep
     
     <item>
       <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
-      <link>https://blog.vechiato.cc/blog/book-learning-ebpf/</link>
+      <link>https://example.com/post/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-learning-ebpf/</guid>
+      <guid>https://example.com/post/book-learning-ebpf/</guid>
       <description>
         
           
-            2023 by Liz Rice
-Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security
-Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;ldquo;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;rdquo; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF.
+            &lt;h1 id=&#34;learning-ebpf&#34;&gt;Learning eBPF&lt;/h1&gt;
+&lt;p&gt;In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p&gt;
           
           
         
@@ -147,15 +216,15 @@ Learning eBPF Introduction In the realm of cloud-native infrastructure, eBPF (ex
     
     <item>
       <title>Insights from Flask Web Development, Second Edition</title>
-      <link>https://blog.vechiato.cc/blog/book-flask-web-development/</link>
+      <link>https://example.com/post/book-flask-web-development/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-flask-web-development/</guid>
+      <guid>https://example.com/post/book-flask-web-development/</guid>
       <description>
         
           
-            Grinberg, M. (2018). Flask Web Development. O&amp;rsquo;Reilly Media.
-Flask Web Development Overview I picked up &amp;ldquo;Flask Web Development&amp;rdquo; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.
+            &lt;h1 id=&#34;flask-web-development&#34;&gt;Flask Web Development&lt;/h1&gt;
+&lt;p&gt;I picked up &amp;quot;Flask Web Development&amp;quot; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.&lt;/p&gt;
           
           
         
@@ -164,15 +233,15 @@ Flask Web Development Overview I picked up &amp;ldquo;Flask Web Development&amp;
     
     <item>
       <title>Insights from Misbelief</title>
-      <link>https://blog.vechiato.cc/blog/book-misbelif/</link>
+      <link>https://example.com/post/book-misbelif/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-misbelif/</guid>
+      <guid>https://example.com/post/book-misbelif/</guid>
       <description>
         
           
-            2023 by Dan Ariely
-Misbelief: What Makes Rational People Believe Irrational Things Overview I remember the first time I stumbled upon a friend’s social media post that seemed utterly detached from reality. It wasn’t just a quirky opinion or an eccentric idea, but a full-blown conspiracy theory. This experience piqued my interest in understanding how rational individuals could come to hold such irrational beliefs. This curiosity led me to Dan Ariely’s book, Misbelief: What Makes Rational People Believe Irrational Things.
+            &lt;h1 id=&#34;misbelief-what-makes-rational-people-believe-irrational-things&#34;&gt;Misbelief: What Makes Rational People Believe Irrational Things&lt;/h1&gt;
+&lt;p&gt;I remember the first time I stumbled upon a friend’s social media post that seemed utterly detached from reality. It wasn’t just a quirky opinion or an eccentric idea, but a full-blown conspiracy theory. This experience piqued my interest in understanding how rational individuals could come to hold such irrational beliefs. This curiosity led me to Dan Ariely’s book, &lt;em&gt;Misbelief: What Makes Rational People Believe Irrational Things&lt;/em&gt;. Ariely, a renowned behavioral economist, delves into the psychological underpinnings that drive people down the path of misbelief. This book offers a comprehensive look into the factors that shape our beliefs and why some individuals are more susceptible to false narratives. Readers can expect to gain a deeper understanding of the emotional, cognitive, personality, and social elements that contribute to the formation and persistence of misbeliefs.&lt;/p&gt;
           
           
         
@@ -181,16 +250,67 @@ Misbelief: What Makes Rational People Believe Irrational Things Overview I remem
     
     <item>
       <title>Insights from Learning GitHub Actions</title>
-      <link>https://blog.vechiato.cc/blog/book-learning-github-actions/</link>
+      <link>https://example.com/post/book-learning-github-actions/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-learning-github-actions/</guid>
+      <guid>https://example.com/post/book-learning-github-actions/</guid>
       <description>
         
           
-            2023 by Brent Laster
-Learning GitHub Actions: Automation and Integration of CI/CD with GitHub Overview This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.
-Summary Part I: Foundations Chapter 1: The Basics In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance.
+            &lt;h1 id=&#34;learning-github-actions-automation-and-integration-of-cicd-with-github&#34;&gt;Learning GitHub Actions: Automation and Integration of CI/CD with GitHub&lt;/h1&gt;
+&lt;p&gt;This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/learning_github_actions.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2023 by Brent Laster&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/mindmap_learning_github_actions.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
           
           
         
@@ -199,15 +319,41 @@ Summary Part I: Foundations Chapter 1: The Basics In this introductory chapter, 
     
     <item>
       <title>Insights from Kubernetes Up and Running, 3rd Edition</title>
-      <link>https://blog.vechiato.cc/blog/book-kubernetes-up-and-running/</link>
+      <link>https://example.com/post/book-kubernetes-up-and-running/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-kubernetes-up-and-running/</guid>
+      <guid>https://example.com/post/book-kubernetes-up-and-running/</guid>
       <description>
         
           
-            2022 by Brendan Burns, Joe Beda, Kelsey Hightower &amp;amp; Lachlan Evenson
-Kubernetes: Up and Running Summary &amp;ldquo;Kubernetes: Up and Running&amp;rdquo; by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It&amp;rsquo;s an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.
+            &lt;h1 id=&#34;kubernetes-up-and-running&#34;&gt;Kubernetes: Up and Running&lt;/h1&gt;
+&lt;p&gt;&amp;quot;Kubernetes: Up and Running&amp;quot; by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It&#39;s an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/kubernetes_up_and_running.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2022 by Brendan Burns, Joe Beda, Kelsey Hightower &amp;amp; Lachlan Evenson&lt;/p&gt;
           
           
         
@@ -216,16 +362,41 @@ Kubernetes: Up and Running Summary &amp;ldquo;Kubernetes: Up and Running&amp;rdq
     
     <item>
       <title>Insights from Adopting InnerSource</title>
-      <link>https://blog.vechiato.cc/blog/book-adopting-innersource/</link>
+      <link>https://example.com/post/book-adopting-innersource/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-adopting-innersource/</guid>
+      <guid>https://example.com/post/book-adopting-innersource/</guid>
       <description>
         
           
-            2018 by Danese Cooper &amp;amp; Klaas-Jan Stol
-Adopting InnerSource free download
-Introduction &amp;ldquo;Adopting InnerSource: Principles and Case Studies&amp;rdquo; by Danese Cooper and Klaas-Jan Stol explores how companies can leverage the principles of open-source software development within their own organisations. InnerSource adapts the collaborative, transparent, and community-driven practices of open-source to a corporate environment, fostering innovation and efficiency. This book presents various case studies from companies that have successfully adopted InnerSource, providing practical insights and lessons learned.
+            &lt;p&gt;&lt;a href=&#34;https://innersourcecommons.org/documents/books/AdoptingInnerSource.pdf&#34;&gt;Adopting InnerSource free download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;quot;Adopting InnerSource: Principles and Case Studies&amp;quot; by Danese Cooper and Klaas-Jan Stol explores how companies can leverage the principles of open-source software development within their own organisations. InnerSource adapts the collaborative, transparent, and community-driven practices of open-source to a corporate environment, fostering innovation and efficiency. This book presents various case studies from companies that have successfully adopted InnerSource, providing practical insights and lessons learned.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/adopting_innersource.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2018 by Danese Cooper &amp;amp; Klaas-Jan Stol&lt;/p&gt;
           
           
         
@@ -234,16 +405,43 @@ Introduction &amp;ldquo;Adopting InnerSource: Principles and Case Studies&amp;rd
     
     <item>
       <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
-      <link>https://blog.vechiato.cc/blog/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
+      <link>https://example.com/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
+      <guid>https://example.com/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
       <description>
         
           
-            2022 by Arun Ramakani
-End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation
-Introduction In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management.
+            &lt;p&gt;This book is an essential read for cloud architects, platform engineers, infrastructure operators, and Kubernetes enthusiasts. Arun Ramakani expertly navigates the intricate world of infrastructure automation, providing readers with a comprehensive understanding of Crossplane and its integration with Kubernetes.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/end2end_automation_k8s_crossplane.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2022 by Arun Ramakani&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B09ZJ1NZRB&#34;&gt;End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In &amp;quot;End-to-End Automation with Kubernetes and Crossplane,&amp;quot; Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.&lt;/p&gt;
           
           
         
@@ -252,15 +450,59 @@ Introduction In the ever-evolving landscape of cloud-native infrastructure, Kube
     
     <item>
       <title>Insights from The DevOps Handbook</title>
-      <link>https://blog.vechiato.cc/blog/book-the-devops-handbook/</link>
+      <link>https://example.com/post/book-the-devops-handbook/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-the-devops-handbook/</guid>
+      <guid>https://example.com/post/book-the-devops-handbook/</guid>
       <description>
         
           
-            2021 by Gene Kim &amp;amp; Jez Humble &amp;amp; Patrick Debois &amp;amp; John Willis &amp;amp; Nicole Forsgren
-The DevOps Handbook Introduction In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;ldquo;The DevOps Handbook: Second Edition&amp;rdquo; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices.
+            &lt;h1 id=&#34;the-devops-handbook&#34;&gt;The DevOps Handbook&lt;/h1&gt;
+&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organizations striving to enhance their productivity, efficiency, and overall business success. &amp;quot;The DevOps Handbook: Second Edition&amp;quot; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices. This book provides valuable insights into the principles, methodologies, and case studies that illustrate the transformative power of DevOps in modern enterprises.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Insights from Economics for the Common Good</title>
+      <link>https://example.com/post/book-economics-for-the-common-good/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/book-economics-for-the-common-good/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/economics_for_the_common_good.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2019 by Jean Tirole&lt;/p&gt;
+&lt;h1 id=&#34;insights-from-economics-for-the-common-good&#34;&gt;Insights from &amp;quot;Economics for the Common Good&amp;quot;&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Reading &amp;quot;Economics for the Common Good&amp;quot; by Jean Tirole has been a transformative experience for me. As someone who is deeply interested in the intersection of economics and society, this book provided a comprehensive and nuanced exploration of how economic principles can be applied to achieve the common good. Tirole, a Nobel Prize-winning economist, delves into various economic theories and their implications for policy-making, societal well-being, and global challenges. I chose this book because of its relevance to contemporary economic issues and its potential to offer valuable insights into how economics can be harnessed for societal benefit.&lt;/p&gt;
           
           
         
@@ -269,15 +511,42 @@ The DevOps Handbook Introduction In the rapidly evolving landscape of software d
     
     <item>
       <title>Insights from Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making</title>
-      <link>https://blog.vechiato.cc/blog/book-cloud-finops/</link>
+      <link>https://example.com/post/book-cloud-finops/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-cloud-finops/</guid>
+      <guid>https://example.com/post/book-cloud-finops/</guid>
       <description>
         
           
-            2023 by J.R. Storment and Mike Fuller
-Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making Introduction In the modern era of cloud computing, managing cloud spend efficiently has become crucial for businesses. &amp;ldquo;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making&amp;rdquo; by J.R. Storment and Mike Fuller delves into the practices and principles of FinOps, a methodology that combines financial management with DevOps to drive accountability and efficiency in cloud spending.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/cloud_finops.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2023 by J.R. Storment and Mike Fuller&lt;/p&gt;
+&lt;h1 id=&#34;cloud-finops-collaborative-real-time-cloud-value-decision-making&#34;&gt;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the modern era of cloud computing, managing cloud spend efficiently has become crucial for businesses. &amp;quot;Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making&amp;quot; by J.R. Storment and Mike Fuller delves into the practices and principles of FinOps, a methodology that combines financial management with DevOps to drive accountability and efficiency in cloud spending. This book is an essential read for engineering and finance teams, executives, and FinOps practitioners aiming to optimise their cloud investments.&lt;/p&gt;
           
           
         
@@ -286,16 +555,43 @@ Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making Introduction 
     
     <item>
       <title>Insights from The Staff Engineer&#39;s Path</title>
-      <link>https://blog.vechiato.cc/blog/book-the-staff-engineers-path/</link>
+      <link>https://example.com/post/book-the-staff-engineers-path/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-the-staff-engineers-path/</guid>
+      <guid>https://example.com/post/book-the-staff-engineers-path/</guid>
       <description>
         
           
-            2022 by Tanya Reilly
-The Staff Engineer&amp;rsquo;s Path: A Guide For Individual Contributors Navigating Growth and Change
-The Staff Engineer&amp;rsquo;s Path Introduction In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. &amp;ldquo;The Staff Engineer&amp;rsquo;s Path: A Guide for Individual Contributors Navigating Growth and Change&amp;rdquo; by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/the_staff_enginners_path.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2022 by Tanya Reilly&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/1098118731&#34;&gt;The Staff Engineer&#39;s Path: A Guide For Individual Contributors Navigating Growth and Change&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;the-staff-engineers-path&#34;&gt;The Staff Engineer&#39;s Path&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. &amp;quot;The Staff Engineer&#39;s Path: A Guide for Individual Contributors Navigating Growth and Change&amp;quot; by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management. This book is an essential guide for engineers looking to elevate their impact and influence within their organizations.&lt;/p&gt;
           
           
         
@@ -304,15 +600,42 @@ The Staff Engineer&amp;rsquo;s Path Introduction In the world of technology, car
     
     <item>
       <title>Insights from Learning Helm: Managing Apps on Kubernetes</title>
-      <link>https://blog.vechiato.cc/blog/book-learning-helm/</link>
+      <link>https://example.com/post/book-learning-helm/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-learning-helm/</guid>
+      <guid>https://example.com/post/book-learning-helm/</guid>
       <description>
         
           
-            2021 by Matt Butcher, Matt Farina &amp;amp; Josh Dolitsky
-Learning Helm: Managing Apps on Kubernetes Overview I remember the first time I dived into Kubernetes; it felt like stepping into a new world. There were so many moving parts, and I quickly realised the need for effective tools to manage it all. This is where &amp;ldquo;Learning Helm&amp;rdquo; by Matt Butcher, Matt Farina, and Josh Dolitsky comes in. The book serves as a comprehensive guide to using Helm, the package manager for Kubernetes.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/learning_helm.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2021 by Matt Butcher, Matt Farina &amp;amp; Josh Dolitsky&lt;/p&gt;
+&lt;h2 id=&#34;learning-helm-managing-apps-on-kubernetes&#34;&gt;Learning Helm: Managing Apps on Kubernetes&lt;/h2&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;I remember the first time I dived into Kubernetes; it felt like stepping into a new world. There were so many moving parts, and I quickly realised the need for effective tools to manage it all. This is where &amp;quot;Learning Helm&amp;quot; by Matt Butcher, Matt Farina, and Josh Dolitsky comes in. The book serves as a comprehensive guide to using Helm, the package manager for Kubernetes. I chose helm because it promised to simplify the complexity of Kubernetes management, and it certainly delivered. Readers can expect to gain a solid understanding of Helm&#39;s capabilities, its architecture, and practical ways to manage Kubernetes applications efficiently.&lt;/p&gt;
           
           
         
@@ -321,16 +644,43 @@ Learning Helm: Managing Apps on Kubernetes Overview I remember the first time I 
     
     <item>
       <title>Insights from The Innovator&#39;s Dilemma</title>
-      <link>https://blog.vechiato.cc/blog/book-innovators-dilemma/</link>
+      <link>https://example.com/post/book-innovators-dilemma/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-innovators-dilemma/</guid>
+      <guid>https://example.com/post/book-innovators-dilemma/</guid>
       <description>
         
           
-            2016 by Clayton M. Christensen The Innovator&amp;rsquo;s Dilemma: When New Technologies Cause Great Firms to Fail
-The Innovators Dilemma Introduction &amp;ldquo;The Innovator&amp;rsquo;s Dilemma&amp;rdquo; by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.
-Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fail?
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/innovators_dilemma.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2016 by Clayton M. Christensen
+&lt;a href=&#34;https://www.amazon.co.uk/dp/1633691780&#34;&gt;The Innovator&#39;s Dilemma: When New Technologies Cause Great Firms to Fail&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;the-innovators-dilemma&#34;&gt;The Innovators Dilemma&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;The Innovator&#39;s Dilemma&amp;quot; by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.&lt;/p&gt;
           
           
         
@@ -339,15 +689,42 @@ Summary Part One: Why Great Companies Can Fail Chapter 1: How Can Great Firms Fa
     
     <item>
       <title>Insight from Blink: The Power of Thinking Without Thinking</title>
-      <link>https://blog.vechiato.cc/blog/book-blink/</link>
+      <link>https://example.com/post/book-blink/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-blink/</guid>
+      <guid>https://example.com/post/book-blink/</guid>
       <description>
         
           
-            2007 by Malcolm Gladwell
-Blink Introduction In a world where decisions are often made in the blink of an eye, understanding the power of these snap judgments is crucial. Malcolm Gladwell&amp;rsquo;s &amp;ldquo;Blink: The Power of Thinking Without Thinking&amp;rdquo; delves into the science and psychology behind these rapid decisions, revealing how they can be both incredibly accurate and dangerously flawed. This book is a fascinating exploration of the unconscious mind and its role in our everyday choices.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/blink.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2007 by Malcolm Gladwell&lt;/p&gt;
+&lt;h1 id=&#34;blink&#34;&gt;Blink&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a world where decisions are often made in the blink of an eye, understanding the power of these snap judgments is crucial. Malcolm Gladwell&#39;s &amp;quot;Blink: The Power of Thinking Without Thinking&amp;quot; delves into the science and psychology behind these rapid decisions, revealing how they can be both incredibly accurate and dangerously flawed. This book is a fascinating exploration of the unconscious mind and its role in our everyday choices.&lt;/p&gt;
           
           
         
@@ -356,16 +733,68 @@ Blink Introduction In a world where decisions are often made in the blink of an 
     
     <item>
       <title>Insights from Establishing SRE Foundations</title>
-      <link>https://blog.vechiato.cc/blog/book-establishing-sre-foundations/</link>
+      <link>https://example.com/post/book-establishing-sre-foundations/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-establishing-sre-foundations/</guid>
+      <guid>https://example.com/post/book-establishing-sre-foundations/</guid>
       <description>
         
           
-            Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations
-Establishing SRE Foundations Introduction &amp;ldquo;Establishing SRE Foundations: A Step-by-Step Guide&amp;rdquo; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.
-Summary Chapter 1: Introduction to SRE The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/sre_foundations.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/0137424604&#34;&gt;Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;establishing-sre-foundations&#34;&gt;Establishing SRE Foundations&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Establishing SRE Foundations: A Step-by-Step Guide&amp;quot; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/mindmap_establishing_sre.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
           
           
         
@@ -374,15 +803,42 @@ Summary Chapter 1: Introduction to SRE The first chapter introduces the concept 
     
     <item>
       <title>Insights from Observability Engineering: Achieving Production Excellence</title>
-      <link>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</link>
+      <link>https://example.com/post/book-observability-engineering-2022/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-observability-engineering-2022/</guid>
+      <guid>https://example.com/post/book-observability-engineering-2022/</guid>
       <description>
         
           
-            2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda
-Observability Engineering Introduction In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;ldquo;Observability Engineering&amp;rdquo; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/observability_engineering.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&lt;/p&gt;
+&lt;h1 id=&#34;observability-engineering&#34;&gt;Observability Engineering&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
           
           
         
@@ -391,16 +847,43 @@ Observability Engineering Introduction In the rapidly evolving landscape of soft
     
     <item>
       <title>Insights from Fluent Python, second edition</title>
-      <link>https://blog.vechiato.cc/blog/book-fluent-python/</link>
+      <link>https://example.com/post/book-fluent-python/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-fluent-python/</guid>
+      <guid>https://example.com/post/book-fluent-python/</guid>
       <description>
         
           
-            2022 by Luciano Ramalho
-Fluent Python Introduction Welcome to our deep dive into &amp;ldquo;Fluent Python&amp;rdquo; by Luciano Ramalho. In this post, we&amp;rsquo;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&amp;rsquo;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.
-Fluent Python by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/fluent_python.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2022 by Luciano Ramalho&lt;/p&gt;
+&lt;h1 id=&#34;fluent-python&#34;&gt;Fluent Python&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Welcome to our deep dive into &amp;quot;Fluent Python&amp;quot; by Luciano Ramalho. In this post, we&#39;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&#39;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Fluent Python&lt;/em&gt; by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.&lt;/p&gt;
           
           
         
@@ -409,15 +892,43 @@ Fluent Python by Luciano Ramalho is a comprehensive guide that delves into the d
     
     <item>
       <title>Insights from Building a Second Brain</title>
-      <link>https://blog.vechiato.cc/blog/book-building-a-second-brain/</link>
+      <link>https://example.com/post/book-building-a-second-brain/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-building-a-second-brain/</guid>
+      <guid>https://example.com/post/book-building-a-second-brain/</guid>
       <description>
         
           
-            2022 by Tiago Forte
-Insights from Building a Second Brain by Tiago Forte Building a Second Brain Overview A few years ago, I found myself overwhelmed by the sheer volume of information I was trying to manage daily. Articles, books, emails, and notes piled up, creating a chaotic mental space that hindered my productivity and creativity. When I came across Tiago Forte’s Building a Second Brain, it felt like a lifeline.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/second_brain.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2022 by Tiago Forte&lt;/p&gt;
+&lt;h1 id=&#34;insights-from-building-a-second-brain-by-tiago-forte&#34;&gt;Insights from Building a Second Brain by Tiago Forte&lt;/h1&gt;
+&lt;h2 id=&#34;building-a-second-brain&#34;&gt;Building a Second Brain&lt;/h2&gt;
+&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;A few years ago, I found myself overwhelmed by the sheer volume of information I was trying to manage daily. Articles, books, emails, and notes piled up, creating a chaotic mental space that hindered my productivity and creativity. When I came across Tiago Forte’s &lt;em&gt;Building a Second Brain&lt;/em&gt;, it felt like a lifeline. This book promises to help readers organize their digital lives and unlock their creative potential through a methodical approach to personal knowledge management. Intrigued by the idea of creating a digital system to support my thinking and memory, I dived in. This book offers a structured method to capture, organize, distill, and express information, ultimately transforming how we interact with and leverage our knowledge.&lt;/p&gt;
           
           
         
@@ -426,16 +937,43 @@ Insights from Building a Second Brain by Tiago Forte Building a Second Brain Ove
     
     <item>
       <title>Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</title>
-      <link>https://blog.vechiato.cc/blog/book-team-topologies/</link>
+      <link>https://example.com/post/book-team-topologies/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-team-topologies/</guid>
+      <guid>https://example.com/post/book-team-topologies/</guid>
       <description>
         
           
-            2019 by Matthew Skelton and Manuel Pais
-Team Topologies: Organizing Business and Technology Teams for Fast
-Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;rdquo; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/team_topologies_book.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2019 by Matthew Skelton and Manuel Pais&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B07W1667D7&#34;&gt;Team Topologies: Organizing Business and Technology Teams for Fast&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;team-topologies&#34;&gt;Team Topologies&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Team Topologies: Organizing Business and Technology Teams for Fast Flow&amp;quot; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.&lt;/p&gt;
           
           
         
@@ -444,16 +982,42 @@ Team Topologies Introduction &amp;ldquo;Team Topologies: Organizing Business and
     
     <item>
       <title>Insights from Working Backwards: Insights, Stories, and Secrets from Inside Amazon</title>
-      <link>https://blog.vechiato.cc/blog/book-working-backwards/</link>
+      <link>https://example.com/post/book-working-backwards/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-working-backwards/</guid>
+      <guid>https://example.com/post/book-working-backwards/</guid>
       <description>
         
           
-            2021 by Colin Bryar &amp;amp; Bill Carr
-Working Backwards Introduction &amp;ldquo;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;rdquo; by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon&amp;rsquo;s success. The authors, both former Amazon executives, provide a detailed account of how the company&amp;rsquo;s culture and methodologies can be applied to achieve extraordinary results in any organisation.
-Summary Part One: Being Amazonian Chapter 1: Building Blocks: Leadership Principles and Mechanisms This chapter introduces Amazon&amp;rsquo;s 14 Leadership Principles, which are central to the company&amp;rsquo;s culture and decision-making processes.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/working_backwards.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2021 by Colin Bryar &amp;amp; Bill Carr&lt;/p&gt;
+&lt;h1 id=&#34;working-backwards&#34;&gt;Working Backwards&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;quot; by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon&#39;s success. The authors, both former Amazon executives, provide a detailed account of how the company&#39;s culture and methodologies can be applied to achieve extraordinary results in any organisation.&lt;/p&gt;
           
           
         
@@ -462,15 +1026,42 @@ Summary Part One: Being Amazonian Chapter 1: Building Blocks: Leadership Princip
     
     <item>
       <title>Insights from Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business</title>
-      <link>https://blog.vechiato.cc/blog/book-ego-free-leadership/</link>
+      <link>https://example.com/post/book-ego-free-leadership/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-ego-free-leadership/</guid>
+      <guid>https://example.com/post/book-ego-free-leadership/</guid>
       <description>
         
           
-            2017 by Brandon Black &amp;amp; Shayne Hughes
-Ego Free Leadership Introduction &amp;ldquo;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&amp;rdquo; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/ego_free_leadership.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2017 by Brandon Black &amp;amp; Shayne Hughes&lt;/p&gt;
+&lt;h1 id=&#34;ego-free-leadership&#34;&gt;Ego Free Leadership&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&amp;quot; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.&lt;/p&gt;
           
           
         
@@ -479,15 +1070,42 @@ Ego Free Leadership Introduction &amp;ldquo;Ego Free Leadership: Ending the Unco
     
     <item>
       <title>Insights from No rules rules: Netflix and the culture of reinvention</title>
-      <link>https://blog.vechiato.cc/blog/book-no-rules-rules/</link>
+      <link>https://example.com/post/book-no-rules-rules/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-no-rules-rules/</guid>
+      <guid>https://example.com/post/book-no-rules-rules/</guid>
       <description>
         
           
-            2020 by Reed Hastings and Erin Meyer
-No Rules Rules Introduction In &amp;ldquo;No Rules Rules: Netflix and the Culture of Reinvention,&amp;rdquo; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/no_rules_rules.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2020 by Reed Hastings and Erin Meyer&lt;/p&gt;
+&lt;h1 id=&#34;no-rules-rules&#34;&gt;No Rules Rules&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In &amp;quot;No Rules Rules: Netflix and the Culture of Reinvention,&amp;quot; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.&lt;/p&gt;
           
           
         
@@ -496,15 +1114,42 @@ No Rules Rules Introduction In &amp;ldquo;No Rules Rules: Netflix and the Cultur
     
     <item>
       <title>Insights from Systems Performance: Enterprise and the Cloud, Second Edition</title>
-      <link>https://blog.vechiato.cc/blog/book-systems-performance/</link>
+      <link>https://example.com/post/book-systems-performance/</link>
       <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-systems-performance/</guid>
+      <guid>https://example.com/post/book-systems-performance/</guid>
       <description>
         
           
-            2020 by Brendan Gregg
-Systems Performance Introduction &amp;ldquo;Systems Performance: Enterprise and the Cloud&amp;rdquo; by Brendan Gregg is a comprehensive guide to understanding and improving the performance of computer systems. The book covers a wide range of topics, from the fundamentals of systems performance to advanced techniques for optimizing various system components. It provides practical methodologies and tools for performance analysis, making it an essential resource for system administrators, developers, and performance engineers.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/systems_performance.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2020 by Brendan Gregg&lt;/p&gt;
+&lt;h1 id=&#34;systems-performance&#34;&gt;Systems Performance&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Systems Performance: Enterprise and the Cloud&amp;quot; by Brendan Gregg is a comprehensive guide to understanding and improving the performance of computer systems. The book covers a wide range of topics, from the fundamentals of systems performance to advanced techniques for optimizing various system components. It provides practical methodologies and tools for performance analysis, making it an essential resource for system administrators, developers, and performance engineers.&lt;/p&gt;
           
           
         
@@ -513,16 +1158,43 @@ Systems Performance Introduction &amp;ldquo;Systems Performance: Enterprise and 
     
     <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
-      <link>https://blog.vechiato.cc/blog/book-accelerate/</link>
+      <link>https://example.com/post/book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-accelerate/</guid>
+      <guid>https://example.com/post/book-accelerate/</guid>
       <description>
         
           
-            2018 by Nicole Forsgren, Jez Humble and Gene Kim
-Accelerate: Building and Scaling High Performing Technology Organizations
-Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and DevOps&amp;rdquo; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/book_accelerate.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2018 by Nicole Forsgren, Jez Humble and Gene Kim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B07BLYJ4HR&#34;&gt;Accelerate: Building and Scaling High Performing Technology Organizations&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;accelerate&#34;&gt;Accelerate&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;
           
           
         
@@ -531,16 +1203,68 @@ Accelerate Introduction &amp;ldquo;Accelerate: The Science of Lean Software and 
     
     <item>
       <title>Insights from Ask Your Developer</title>
-      <link>https://blog.vechiato.cc/blog/book-ask-your-developer/</link>
+      <link>https://example.com/post/book-ask-your-developer/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-ask-your-developer/</guid>
+      <guid>https://example.com/post/book-ask-your-developer/</guid>
       <description>
         
           
-            2021 by Jeff Lawson
-Ask Your Developer Introduction In the digital age, businesses need to adapt quickly to remain competitive. &amp;ldquo;Ask Your Developer&amp;rdquo; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&amp;rsquo; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.
-Summary Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/ask_your_developer.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2021 by Jeff Lawson&lt;/p&gt;
+&lt;h1 id=&#34;ask-your-developer&#34;&gt;Ask Your Developer&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the digital age, businesses need to adapt quickly to remain competitive. &amp;quot;Ask Your Developer&amp;quot; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&#39; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/mindmap_ask_your_dev.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
           
           
         
@@ -549,16 +1273,71 @@ Summary Part I: Why Developers Matter More Than Ever Chapter 1: Build vs.
     
     <item>
       <title>Insights from DevSecOps</title>
-      <link>https://blog.vechiato.cc/blog/book-devsecops/</link>
+      <link>https://example.com/post/book-devsecops/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-devsecops/</guid>
+      <guid>https://example.com/post/book-devsecops/</guid>
       <description>
         
           
-            2020 by Glenn Wilson
-DevSecOps Introduction In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&amp;rsquo;s DevSecOps offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.
-Summary Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/DevSecOps.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2020 by Glenn Wilson&lt;/p&gt;
+&lt;h1 id=&#34;devsecops&#34;&gt;DevSecOps&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/mindmap_devsecops.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;part-i-foundations-of-devsecops&#34;&gt;Part I: Foundations of DevSecOps&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-devops-explained&#34;&gt;Chapter 1: DevOps Explained&lt;/h4&gt;
+&lt;p&gt;Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models. Key concepts include the three ways (left-to-right process flow, right-to-left feedback, and continuous improvement) and the five ideals (locality and simplicity, focus, flow and joy, improvement of daily work, psychological safety, and customer focus).&lt;/p&gt;
           
           
         
@@ -567,16 +1346,42 @@ Summary Part I: Foundations of DevSecOps Chapter 1: DevOps Explained Wilson begi
     
     <item>
       <title>Insights from Database Reliability Engineering: Designing and Operating Resilient Database Systems</title>
-      <link>https://blog.vechiato.cc/blog/book-database-reliability-engineering/</link>
+      <link>https://example.com/post/book-database-reliability-engineering/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-database-reliability-engineering/</guid>
+      <guid>https://example.com/post/book-database-reliability-engineering/</guid>
       <description>
         
           
-            2017 by Laine Campbell &amp;amp; Charity Majors
-Database Reliability Engineering Introduction &amp;ldquo;Database Reliability Engineering&amp;rdquo; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.
-Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introducing Database Reliability Engineering This chapter sets the stage by defining the role of a Database Reliability Engineer and the need for reliability engineering in database management.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/database_reliability.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2017 by Laine Campbell &amp;amp; Charity Majors&lt;/p&gt;
+&lt;h1 id=&#34;database-reliability-engineering&#34;&gt;Database Reliability Engineering&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Database Reliability Engineering&amp;quot; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.&lt;/p&gt;
           
           
         
@@ -585,16 +1390,43 @@ Summary Part 1: Introducing Database Reliability Engineering Chapter 1: Introduc
     
     <item>
       <title>Insights from Seeking SRE</title>
-      <link>https://blog.vechiato.cc/blog/book-seeking-sre/</link>
+      <link>https://example.com/post/book-seeking-sre/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-seeking-sre/</guid>
+      <guid>https://example.com/post/book-seeking-sre/</guid>
       <description>
         
           
-            2018 by David Blank–edelman
-Seeking SRE: Conversations about running production systems at scale
-Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;ldquo;Seeking SRE: Conversations About Running Production Systems at Scale&amp;rdquo; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/seeking_sre.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2018 by David Blank–edelman&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/1491978864&#34;&gt;Seeking SRE: Conversations about running production systems at scale&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;seeking-sre&#34;&gt;Seeking SRE&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;quot;Seeking SRE: Conversations About Running Production Systems at Scale&amp;quot; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.&lt;/p&gt;
           
           
         
@@ -603,16 +1435,19 @@ Seeking SRE Introduction Site Reliability Engineering (SRE) has become a fundame
     
     <item>
       <title>Insights from The Manager&#39;s Path</title>
-      <link>https://blog.vechiato.cc/blog/book-managers-path/</link>
+      <link>https://example.com/post/book-managers-path/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-managers-path/</guid>
+      <guid>https://example.com/post/book-managers-path/</guid>
       <description>
         
           
-            ![image](/obsidian/the managers path.jpg) 2017 by Camile Fournier
-The Manager&amp;rsquo;s Path: A Guide for Tech Leaders Navigating
-The Manager&amp;rsquo;s Path Introduction &amp;ldquo;The Manager&amp;rsquo;s Path&amp;rdquo; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.
+            &lt;p&gt;![image](/obsidian/the managers path.jpg)
+2017 by Camile Fournier&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/1491973897&#34;&gt;The Manager&#39;s Path: A Guide for Tech Leaders Navigating&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;the-managers-path&#34;&gt;The Manager&#39;s Path&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;The Manager&#39;s Path&amp;quot; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.&lt;/p&gt;
           
           
         
@@ -621,15 +1456,42 @@ The Manager&amp;rsquo;s Path Introduction &amp;ldquo;The Manager&amp;rsquo;s Pat
     
     <item>
       <title>Insights from Designing Data-Intensive Applications</title>
-      <link>https://blog.vechiato.cc/blog/book-designing-data-intensive-applications/</link>
+      <link>https://example.com/post/book-designing-data-intensive-applications/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-designing-data-intensive-applications/</guid>
+      <guid>https://example.com/post/book-designing-data-intensive-applications/</guid>
       <description>
         
           
-            2017 by Martin Kleppmann
-Designing Data-Intensive Applications Introduction &amp;ldquo;Designing Data-Intensive Applications&amp;rdquo; by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/data_intensive_apps.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2017 by Martin Kleppmann&lt;/p&gt;
+&lt;h1 id=&#34;designing-data-intensive-applications&#34;&gt;Designing Data-Intensive Applications&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;Designing Data-Intensive Applications&amp;quot; by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.&lt;/p&gt;
           
           
         
@@ -638,16 +1500,42 @@ Designing Data-Intensive Applications Introduction &amp;ldquo;Designing Data-Int
     
     <item>
       <title>Insights from Domain-Driven Design Distilled</title>
-      <link>https://blog.vechiato.cc/blog/book-domain-driven-design-distilled/</link>
+      <link>https://example.com/post/book-domain-driven-design-distilled/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-domain-driven-design-distilled/</guid>
+      <guid>https://example.com/post/book-domain-driven-design-distilled/</guid>
       <description>
         
           
-            2016 by Vaughn Vernon
-Domain-Driven Design Distilled Introduction In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&amp;rsquo;s &amp;ldquo;Domain-Driven Design Distilled&amp;rdquo; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.
-Summary Chapter 1: DDD for Me Will DDD Hurt?
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/domain_drive_desing.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2016 by Vaughn Vernon&lt;/p&gt;
+&lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;Domain-Driven Design Distilled&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s &amp;quot;Domain-Driven Design Distilled&amp;quot; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&lt;/p&gt;
           
           
         
@@ -656,15 +1544,42 @@ Summary Chapter 1: DDD for Me Will DDD Hurt?
     
     <item>
       <title>Insights from Remote: Office not Required</title>
-      <link>https://blog.vechiato.cc/blog/book-remote/</link>
+      <link>https://example.com/post/book-remote/</link>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-remote/</guid>
+      <guid>https://example.com/post/book-remote/</guid>
       <description>
         
           
-            2013 by Jason Fried and David Heinemeier Hansson
-Remote: Office Not Required Overview I remember the days when working from home was a rare privilege, reserved for special circumstances. Fast forward to today, remote work has become a norm, a necessity even, due to technological advancements and recent global events. This shift intrigued me, and it was a recommendation from my friend Eduardo that led me to &amp;ldquo;Remote: Office Not Required&amp;rdquo; by Jason Fried and David Heinemeier Hansson.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/remote.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2013 by Jason Fried and David Heinemeier Hansson&lt;/p&gt;
+&lt;h1 id=&#34;remote-office-not-required&#34;&gt;Remote: Office Not Required&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;I remember the days when working from home was a rare privilege, reserved for special circumstances. Fast forward to today, remote work has become a norm, a necessity even, due to technological advancements and recent global events. This shift intrigued me, and it was a recommendation from my friend Eduardo that led me to &amp;quot;Remote: Office Not Required&amp;quot; by Jason Fried and David Heinemeier Hansson. This book explores the phenomenon of remote work, its challenges, and its unexpected benefits. Eduardo&#39;s recommendation was timely as I sought to understand how remote work could be effectively implemented and its impact on workplace culture and productivity.&lt;/p&gt;
           
           
         
@@ -673,15 +1588,42 @@ Remote: Office Not Required Overview I remember the days when working from home 
     
     <item>
       <title>Insights from The Five Dysfunctions of a Team</title>
-      <link>https://blog.vechiato.cc/blog/book-the-five-dysfunctions-of-a-team/</link>
+      <link>https://example.com/post/book-the-five-dysfunctions-of-a-team/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-the-five-dysfunctions-of-a-team/</guid>
+      <guid>https://example.com/post/book-the-five-dysfunctions-of-a-team/</guid>
       <description>
         
           
-            by Patric Lencioni
-The Five Dysfunctions of a Team Overview This book, presented as a leadership fable, delves into the core issues that impede teamwork and provides actionable insights to overcome these challenges. I chose this book to gain a deeper understanding of team dynamics and to find practical strategies to foster a more collaborative environment. You can expect to gain a comprehensive framework for identifying and addressing the common pitfalls that teams face, ultimately leading to improved performance and unity.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/five_dysfunctions.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+by Patric Lencioni&lt;/p&gt;
+&lt;h1 id=&#34;the-five-dysfunctions-of-a-team&#34;&gt;The Five Dysfunctions of a Team&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This book, presented as a leadership fable, delves into the core issues that impede teamwork and provides actionable insights to overcome these challenges. I chose this book to gain a deeper understanding of team dynamics and to find practical strategies to foster a more collaborative environment. You can expect to gain a comprehensive framework for identifying and addressing the common pitfalls that teams face, ultimately leading to improved performance and unity.&lt;/p&gt;
           
           
         
@@ -690,16 +1632,43 @@ The Five Dysfunctions of a Team Overview This book, presented as a leadership fa
     
     <item>
       <title>Insights from Continuous Delivery</title>
-      <link>https://blog.vechiato.cc/blog/book-continuous-delivery/</link>
+      <link>https://example.com/post/book-continuous-delivery/</link>
       <pubDate>Fri, 13 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-continuous-delivery/</guid>
+      <guid>https://example.com/post/book-continuous-delivery/</guid>
       <description>
         
           
-            2010 by David Farley and Jez Humble
-Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
-Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;ldquo;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;rdquo; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/continuous_delivery.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2010 by David Farley and Jez Humble&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/0321601912&#34;&gt;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;continuous-delivery-2011&#34;&gt;Continuous Delivery, 2011&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;quot;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;quot; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively. This book is part of the Addison-Wesley Signature Series and offers detailed insights into achieving efficient, low-risk software deployments.&lt;/p&gt;
           
           
         
@@ -708,15 +1677,42 @@ Continuous Delivery, 2011 Introduction Continuous Delivery (CD) has revolutionis
     
     <item>
       <title>Insights from The Phoenix Project</title>
-      <link>https://blog.vechiato.cc/blog/book-the-phoenix-project/</link>
+      <link>https://example.com/post/book-the-phoenix-project/</link>
       <pubDate>Sun, 02 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/blog/book-the-phoenix-project/</guid>
+      <guid>https://example.com/post/book-the-phoenix-project/</guid>
       <description>
         
           
-            2013 by Gene Kim, Kevin Behr, and George Spafford
-The Phoenix Project Introduction &amp;ldquo;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;rdquo; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://example.com/obsidian/phoenix_project.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2013 by Gene Kim, Kevin Behr, and George Spafford&lt;/p&gt;
+&lt;h1 id=&#34;the-phoenix-project&#34;&gt;The Phoenix Project&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&amp;quot;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;quot; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.&lt;/p&gt;
           
           
         
