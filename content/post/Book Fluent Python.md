@@ -9,16 +9,14 @@ tags:
   - python
   - book
 --- 
-![image](/obsidian/fluent_python.jpg)
-2022 by Luciano Ramalho
-
 # Fluent Python
-
-## Introduction
 
 Welcome to our deep dive into "Fluent Python" by Luciano Ramalho. In this post, we'll explore key concepts and insights from the book that will help you master Python programming. Whether you're a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.
 
 *Fluent Python* by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code. 
+
+![image](/obsidian/fluent_python.jpg)
+2022 by Luciano Ramalho
 
 ## Summary 
 ![image](/obsidian/mindmap_fluent_python.png)

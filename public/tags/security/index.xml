@@ -67,7 +67,9 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;devsecops&#34;&gt;DevSecOps&lt;/h1&gt;
+&lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -93,9 +95,6 @@
 &lt;/figure&gt;
 
 2020 by Glenn Wilson&lt;/p&gt;
-&lt;h1 id=&#34;devsecops&#34;&gt;DevSecOps&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;

@@ -34,7 +34,9 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;observability-engineering&#34;&gt;Observability Engineering&lt;/h1&gt;
+&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -60,9 +62,6 @@
 &lt;/figure&gt;
 
 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&lt;/p&gt;
-&lt;h1 id=&#34;observability-engineering&#34;&gt;Observability Engineering&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
           
           
         

@@ -1497,7 +1497,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;observability-engineering&#34;&gt;Observability Engineering&lt;/h1&gt;
+&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -1523,9 +1525,6 @@ The watermelon effect occurs when surface-level indicators show success while de
 &lt;/figure&gt;
 
 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&lt;/p&gt;
-&lt;h1 id=&#34;observability-engineering&#34;&gt;Observability Engineering&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
           
           
         
@@ -1541,34 +1540,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/fluent_python.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2022 by Luciano Ramalho&lt;/p&gt;
-&lt;h1 id=&#34;fluent-python&#34;&gt;Fluent Python&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+            &lt;h1 id=&#34;fluent-python&#34;&gt;Fluent Python&lt;/h1&gt;
 &lt;p&gt;Welcome to our deep dive into &amp;quot;Fluent Python&amp;quot; by Luciano Ramalho. In this post, we&#39;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&#39;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Fluent Python&lt;/em&gt; by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.&lt;/p&gt;
           
@@ -1823,7 +1795,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;accelerate&#34;&gt;Accelerate&lt;/h1&gt;
+&lt;p&gt;&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -1849,10 +1823,6 @@ The watermelon effect occurs when surface-level indicators show success while de
 &lt;/figure&gt;
 
 2018 by Nicole Forsgren, Jez Humble and Gene Kim&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B07BLYJ4HR&#34;&gt;Accelerate: Building and Scaling High Performing Technology Organizations&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;accelerate&#34;&gt;Accelerate&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;
           
           
         
@@ -1937,7 +1907,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;devsecops&#34;&gt;DevSecOps&lt;/h1&gt;
+&lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -1963,9 +1935,6 @@ The watermelon effect occurs when surface-level indicators show success while de
 &lt;/figure&gt;
 
 2020 by Glenn Wilson&lt;/p&gt;
-&lt;h1 id=&#34;devsecops&#34;&gt;DevSecOps&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -2187,7 +2156,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;Domain-Driven Design Distilled&lt;/h1&gt;
+&lt;p&gt;In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s &amp;quot;Domain-Driven Design Distilled&amp;quot; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -2213,9 +2184,6 @@ The watermelon effect occurs when surface-level indicators show success while de
 &lt;/figure&gt;
 
 2016 by Vaughn Vernon&lt;/p&gt;
-&lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;Domain-Driven Design Distilled&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s &amp;quot;Domain-Driven Design Distilled&amp;quot; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&lt;/p&gt;
           
           
         

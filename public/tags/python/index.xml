@@ -34,34 +34,7 @@
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/fluent_python.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2022 by Luciano Ramalho&lt;/p&gt;
-&lt;h1 id=&#34;fluent-python&#34;&gt;Fluent Python&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+            &lt;h1 id=&#34;fluent-python&#34;&gt;Fluent Python&lt;/h1&gt;
 &lt;p&gt;Welcome to our deep dive into &amp;quot;Fluent Python&amp;quot; by Luciano Ramalho. In this post, we&#39;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&#39;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Fluent Python&lt;/em&gt; by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.&lt;/p&gt;
           

@@ -9,20 +9,17 @@ tags:
   - dora
   - book
 --- 
+
+# Accelerate
+
+"Accelerate: The Science of Lean Software and DevOps" by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.
+
 ![image](/obsidian/book_accelerate.jpg)
 2018 by Nicole Forsgren, Jez Humble and Gene Kim
 
 [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.amazon.co.uk/dp/B07BLYJ4HR)
 
-# Accelerate
-
-## Introduction
-
-"Accelerate: The Science of Lean Software and DevOps" by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.
-
 ## Summary
-
-### Forewords
 
 The book begins with insightful forewords by Martin Fowler and Courtney Kissler, emphasising the significance of the research and methodologies presented in "Accelerate." Both forewords set the stage for understanding the critical role of software delivery performance in achieving business success.
 
