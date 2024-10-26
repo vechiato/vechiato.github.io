@@ -7,9 +7,12 @@ publish: true
 tags:
   - codeclub
 ---
-# **How to Host Your Website for Free Using Cloudflare Pages**
+# **How to Host Your Website for Free No Git required!**
 
-Just learned HTML and CSS and ready to put your website live? Cloudflare Pages is an excellent option to host your project for free. With Cloudflare Pages, you can easily get your website up and running without diving into complex server configurations.
+if you’ve just learned HTML and CSS and are eager to put your website online, Cloudflare Pages is an excellent, beginner-friendly way to host your site for free. This post was inspired by my own son, who recently asked me for a way to publish his site that looked a bit more professional than the usual coding platform links. Like him, you might be looking for something simple yet polished to showcase your work. This guide will walk you through the process without needing to know Git or any advanced setups.
+
+> **Why Cloudflare Pages?**  
+> This method is perfect for new web developers who want a simple, professional way to showcase their work. It was inspired by my own son, who wanted a way to publish his website that looked more polished than the usual shared links from coding platforms.
 
 ![image](/obsidian/cloudflare_pages.png)
 
