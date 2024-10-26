@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Unveiling the Watermelon Effect: Are Your Metrics Hiding the Truth?"
+title: "Unveiling the Watermelon Effect"
 date: "2024-07-08"
 aliases: 
   - /blog/article-unveiling-the-watermelon-effect/
