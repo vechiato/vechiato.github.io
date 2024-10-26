@@ -8,7 +8,7 @@ tags:
   - hydroponics
 --- 
 
-| Date     | what  | photo |
+| Date     | what  | Photo |
 | -------- | ----  | ---   |
 | 10/09/23 | Lettuce/Rocket |  ![image](/obsidian/seedling230910.png) |
 | 05/09/23 | Lettuce/Rocket |  ![image](/obsidian/seedling230923.jpeg) | 

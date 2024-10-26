@@ -9,7 +9,7 @@ tags:
 --- 
 Lettuce	ideal PH 5.5 – 6.5 PPM 560 – 840
 
-| Date     | PH   | PPM  | photo |
+| Date     | PH     | PPM    | Photo |
 | -------- | :----: | :----: | :---: |
 | 11/11/23 | 6.4  | 580  | ![image](/obsidian/tower231111.jpg) | 
 | 04/11/23 | 5.89 | 332-640 | ![image](/obsidian/tower231104.jpg) | 

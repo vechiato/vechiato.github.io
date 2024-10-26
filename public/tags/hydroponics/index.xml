@@ -24,7 +24,7 @@
           &lt;th style=&#34;text-align: left&#34;&gt;Date&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;PH&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;PPM&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;photo&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Photo&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -350,7 +350,7 @@
       &lt;tr&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;Date&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;what&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;photo&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Photo&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
