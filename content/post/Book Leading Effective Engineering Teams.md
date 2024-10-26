@@ -4,6 +4,8 @@ title: "Insights from Leading Effective Engineering Teams"
 date: "2024-07-23"
 thumbnail: "/obsidian/leading_effective_engineering.jpg"
 publish: true
+aliases: 
+  - /blog/book-leading-effective-engineering-teams/
 tags: 
   - leadership
   - book
