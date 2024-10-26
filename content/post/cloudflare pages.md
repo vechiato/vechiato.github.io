@@ -30,7 +30,9 @@ Make sure your website files (HTML, CSS, images, etc.) are well-organised and zi
 
 1. **Organize Your Files**: Put all files in one main folder (e.g., “MyWebsite”).
     - Make sure your main HTML file is named `index.html`, as this will be the homepage of your site.
-2. **Create a ZIP File**: Right-click the folder, choose "Compress" or "Send to ZIP," and save it.
+2. **Create a ZIP File**: Select all the files and subfolders inside your main project folder, then **right-click** and choose **"Compress"** or **"Send to ZIP"** to create a ZIP file. Make sure that only the files and subfolders are included in the ZIP—**do not include the main folder itself**.
+
+> If you include the main folder, your URL will end up looking like this: `mywebsite.pages.dev/MyWebsite`, which is not ideal since it adds an extra path.
 
 ---
 
