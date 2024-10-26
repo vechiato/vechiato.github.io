@@ -3,6 +3,8 @@ author: "Marcus Vechiato"
 title: "How to Host Your Website for Free as friendly as possible for beginners"
 date: "2024-10-26"
 thumbnail: "/obsidian/cloudflare_pages.png"
+aliases: 
+  - /blog/cloudflare-pages
 publish: true
 tags:
   - codeclub
