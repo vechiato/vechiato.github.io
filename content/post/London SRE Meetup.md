@@ -3,6 +3,8 @@ author: "Marcus Vechiato"
 title: "Reflecting on My Presentation at the London SRE Meetup"
 date: "2023-05-23"
 thumbnail: "/obsidian/mv_sre_meetup_thumb.png"
+aliases: 
+  - /blog/london-sre-meetup/
 publish: true
 tags: 
   - sre

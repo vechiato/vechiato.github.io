@@ -2,6 +2,8 @@
 author: "Marcus Vechiato"
 title: "Unveiling the Watermelon Effect: Are Your Metrics Hiding the Truth?"
 date: "2024-07-08"
+aliases: 
+  - /blog/article-unveiling-the-watermelon-effect/
 thumbnail: "/obsidian/green-striped-ripe-watermelon.jpg"
 publish: true
 tags: 
