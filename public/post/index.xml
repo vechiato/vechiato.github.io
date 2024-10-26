@@ -611,17 +611,17 @@ The watermelon effect occurs when surface-level indicators show success while de
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;Date&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;PH&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;PPM&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;photo&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;PH&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;PPM&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;photo&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;11/11/23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;6.4&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;580&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;580&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -649,9 +649,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;04/11/23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5.89&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;332-640&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.89&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;332-640&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -679,9 +679,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;29/10/23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;n/a&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;450&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;450&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -709,9 +709,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;22/10/23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;6.04&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;640&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.04&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;640&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -739,9 +739,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;14/10/23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;6.05&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;650&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.05&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;650&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -769,9 +769,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;07/10/23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5.81&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;680&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.81&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;680&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -799,9 +799,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;30/09/23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5.95&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;770&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.95&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;770&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -829,9 +829,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;22/09/23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;9&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;770&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;770&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -859,9 +859,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;17/09/23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;n/a&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;n/a&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -889,9 +889,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;10/09/23&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;n/a&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;n/a&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;figure&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
