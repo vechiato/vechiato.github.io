@@ -3,6 +3,8 @@ author: "Marcus Vechiato"
 title: "Insights from Crossplane: The Cloud Native Control Plane"
 date: "2024-07-02"
 publish: true
+aliases: 
+  - /blog/book-crossplane-the-cloud-native-control-plane/
 thumbnail: "/obsidian/book_crossplane.png"
 tags: 
   - k8s 
