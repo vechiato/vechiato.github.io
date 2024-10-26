@@ -155,7 +155,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;h1 id=&#34;crossplane-the-cloud-native-control-plane&#34;&gt;Crossplane: The Cloud Native Control Plane&lt;/h1&gt;
+            &lt;h1 id=&#34;crossplane-the-cloud-native-control-plane&#34;&gt;&lt;strong&gt;Crossplane: The Cloud Native Control Plane&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;As a DevOps enthusiast, I&#39;ve always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &amp;quot;Crossplane: The Cloud Native Control Plane&amp;quot; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers. By abstracting away complexity and allowing for custom control planes, Crossplane stands out as a transformative tool for modern infrastructure management. I chose this book to deepen my understanding of how Crossplane can help create a seamless, scalable, and efficient cloud infrastructure tailored to specific organizational needs.&lt;/p&gt;
           
           
