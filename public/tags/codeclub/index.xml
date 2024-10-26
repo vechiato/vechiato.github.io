@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codeclub on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/codeclub/</link>
+    <description>Recent content in Codeclub on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/codeclub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Host Your Website for Free Using Cloudflare Pages</title>
+      <link>https://blog.vechiato.cc/post/cloudflare-pages/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/cloudflare-pages/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;how-to-host-your-website-for-free-using-cloudflare-pages&#34;&gt;&lt;strong&gt;How to Host Your Website for Free Using Cloudflare Pages&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/cloudflare_pages.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Just learned HTML and CSS and ready to put your website live? Cloudflare Pages is an excellent option to host your project for free. With Cloudflare Pages, you can easily get your website up and running without diving into complex server configurations.&lt;/p&gt;
+&lt;p&gt;In this guide, I’ll walk you through setting up your website on Cloudflare Pages, using a ZIP file that contains your code.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
