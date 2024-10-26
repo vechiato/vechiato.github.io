@@ -9,9 +9,9 @@ tags:
 ---
 # **How to Host Your Website for Free Using Cloudflare Pages**
 
-![image](/obsidian/cloudflare_pages.png)
-
 Just learned HTML and CSS and ready to put your website live? Cloudflare Pages is an excellent option to host your project for free. With Cloudflare Pages, you can easily get your website up and running without diving into complex server configurations.
+
+![image](/obsidian/cloudflare_pages.png)
 
 In this guide, I’ll walk you through setting up your website on Cloudflare Pages, using a ZIP file that contains your code.
 
@@ -38,16 +38,14 @@ Make sure your website files (HTML, CSS, images, etc.) are well-organised and zi
 
 1. **Go to Cloudflare Pages**: In your Cloudflare dashboard, go to **Workers & Pages** and click on **Create a project**.
 2. **Choose the tab Pages**.
-3. **Create using direct upload**: Select the option to upload a ZIP file directly.
-4. **Upload the ZIP File**: Drag and drop your ZIP file, or click to browse and select it.
+3. **Create using direct upload**: Select the option to upload a ZIP file directly. click on **Upload Assets**.
 
 ---
 
 ## **Step 4: Configure the Project**
 
-1. **Project Name**: Give your project a name. This will be part of your website’s URL (e.g., `mywebsite.pages.dev`).
-2. **Root Directory**: If your files are all in the main folder, you can leave this blank. If they’re nested, specify the folder where `index.html` is located.
-3. **Settings**: Leave other settings at default for now.
+1. **Project Name**: Give your project a name. This will be part of your website’s URL (e.g., `mywebsite.pages.dev`) and click on **Create project**.
+2. **Upload the ZIP File**: Drag and drop your ZIP file, or click to browse and select it and click on **Deploy site**.
 
 ---
 
