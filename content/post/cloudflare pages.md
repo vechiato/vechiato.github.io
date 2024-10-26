@@ -11,10 +11,10 @@ tags:
 
 if you’ve just learned HTML and CSS and are eager to put your website online, Cloudflare Pages is an excellent, beginner-friendly way to host your site for free. This post was inspired by my own son, who recently asked me for a way to publish his site that looked a bit more professional than the usual coding platform links. Like him, you might be looking for something simple yet polished to showcase your work. This guide will walk you through the process without needing to know Git or any advanced setups.
 
+![image](/obsidian/cloudflare_pages.png)
+
 > **Why Cloudflare Pages?**  
 > This method is perfect for new web developers who want a simple, professional way to showcase their work.
-
-![image](/obsidian/cloudflare_pages.png)
 
 In this guide, I’ll walk you through setting up your website on Cloudflare Pages, using a ZIP file that contains your code.
 
