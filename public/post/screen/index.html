@@ -288,16 +288,18 @@ screen is a terminal multiplexer that allows you to start a session, run command
 </ol>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">screen -S my_session
 </span></span></code></pre></div><ol start="2">
-<li><strong>Split Horizontally</strong>: Press <code>Ctrl+A</code> then <code>S</code>.
+<li><strong>Split Horizontally</strong>: Press <code>Ctrl+A</code> then <code>S</code>.</li>
+</ol>
 <ul>
 <li>This creates a new horizontal split, but it will be empty initially.</li>
 </ul>
-</li>
-<li><strong>Split Vertically</strong>: Press <code>Ctrl+A</code> then <code>|</code>.
+<ol start="3">
+<li><strong>Split Vertically</strong>: Press <code>Ctrl+A</code> then <code>|</code>.</li>
+</ol>
 <ul>
 <li>This creates a vertical split in the active region.</li>
 </ul>
-</li>
+<ol start="4">
 <li><strong>Navigate Between Panes</strong>: To move between the panes, use:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">Ctrl+A <span class="k">then</span> Tab
@@ -305,28 +307,30 @@ screen is a terminal multiplexer that allows you to start a session, run command
 <li><strong>Open a New Window in a Pane</strong>: Once you've selected a pane, press:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">Ctrl+A <span class="k">then</span> C
-</span></span></code></pre></div><pre><code>- This creates a new window within that pane where you can run commands.
-</code></pre>
-<ol>
+</span></span></code></pre></div><ul>
+<li>This creates a new window within that pane where you can run commands.</li>
+</ul>
+<ol start="6">
 <li><strong>Close a Split Pane</strong>: To remove a split pane, navigate to it and press:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">Ctrl+A <span class="k">then</span> X
-</span></span></code></pre></div><pre><code>- This closes the current split without affecting the other panes.
-</code></pre>
+</span></span></code></pre></div><ul>
+<li>This closes the current split without affecting the other panes.</li>
+</ul>
 <ol start="7">
 <li><strong>Remove All Splits</strong>: To exit split-screen mode entirely and return to a single window:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">Ctrl+A <span class="k">then</span> Q
-</span></span></code></pre></div><pre><code>- This will close all splits and maximize the current window.
-</code></pre>
+</span></span></code></pre></div><ul>
+<li>This will close all splits and maximize the current window.</li>
+</ul>
 <h4 id="additional-tips-1">Additional Tips</h4>
 <ul>
 <li><strong>List All Open Windows</strong>: You can still have multiple windows open in each pane. To see all windows, press:</li>
 </ul>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">Ctrl+A <span class="k">then</span> <span class="s2">&#34;
-</span></span></span></code></pre></div><pre><code>- Use the arrow keys to select the window you want to view.
-</code></pre>
-<ul>
+</span></span></span></code></pre></div><ul>
+<li>Use the arrow keys to select the window you want to view.</li>
 <li><strong>Resize Panes</strong>: Unfortunately, <code>screen</code> doesn’t support direct resizing of split panes. However, if you need flexible resizing, consider using <code>tmux</code>, which provides more control over pane sizes.</li>
 </ul>
 <h4 id="example-workflow">Example Workflow</h4>

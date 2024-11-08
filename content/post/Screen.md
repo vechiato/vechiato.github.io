@@ -71,9 +71,9 @@ To close a screen session:
 screen -S my_session
 ```
 2. **Split Horizontally**: Press `Ctrl+A` then `S`.
-	- This creates a new horizontal split, but it will be empty initially.
+- This creates a new horizontal split, but it will be empty initially.
 3. **Split Vertically**: Press `Ctrl+A` then `|`.
-	- This creates a vertical split in the active region.
+- This creates a vertical split in the active region.
 4. **Navigate Between Panes**: To move between the panes, use:
 ```bash
 Ctrl+A then Tab
@@ -82,17 +82,17 @@ Ctrl+A then Tab
 ```bash
 Ctrl+A then C
 ```
-	- This creates a new window within that pane where you can run commands.
-1. **Close a Split Pane**: To remove a split pane, navigate to it and press:
+- This creates a new window within that pane where you can run commands.
+6. **Close a Split Pane**: To remove a split pane, navigate to it and press:
 ```bash
 Ctrl+A then X
 ```
-	- This closes the current split without affecting the other panes.
+- This closes the current split without affecting the other panes.
 7. **Remove All Splits**: To exit split-screen mode entirely and return to a single window:
 ```bash
 Ctrl+A then Q
 ```
-	- This will close all splits and maximize the current window.
+- This will close all splits and maximize the current window.
 
 
 #### Additional Tips
@@ -101,7 +101,7 @@ Ctrl+A then Q
 ```bash
 Ctrl+A then "
 ```
-	- Use the arrow keys to select the window you want to view.
+- Use the arrow keys to select the window you want to view.
 - **Resize Panes**: Unfortunately, `screen` doesn’t support direct resizing of split panes. However, if you need flexible resizing, consider using `tmux`, which provides more control over pane sizes.
 
 #### Example Workflow
