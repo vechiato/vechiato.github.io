@@ -227,7 +227,7 @@ The badblocks command in Linux is used to search for and identify bad sectors on
   </div>
 
     <div class="post_body"><h1 id="badblocks"><code>Badblocks</code></h1>
-<p>The <code>badblocks</code> command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can help detect damaged or faulty sectors that may affect the reliability of the disk and the data stored on it.  After running a FSCK</p>
+<p>The <code>badblocks</code> command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can help detect damaged or faulty sectors that may affect the reliability of the disk and the data stored on it.</p>
 <h2 id="how-it-works">How it works:</h2>
 <p>The <code>badblocks</code> command scans a disk for bad sectors by writing test patterns (usually zeros or ones) to the disk and then reading them back. If the data cannot be read correctly after being written, the sector is considered &quot;bad.&quot; The command then reports the location of these bad sectors.</p>
 <h2 id="syntax">Syntax:</h2>
@@ -252,7 +252,7 @@ The badblocks command in Linux is used to search for and identify bad sectors on
 </span></span></code></pre></div><ol start="2">
 <li><strong>Destructive write test</strong>:</li>
 </ol>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">badblocks -n -v /dev/sdb
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">badblocks -w -v /dev/sdb
 </span></span></code></pre></div><p>This command will write test patterns to the entire disk and check for bad sectors, but it will overwrite all data on the disk.</p>
 <h2 id="important-notes">Important Notes:</h2>
 <ul>
