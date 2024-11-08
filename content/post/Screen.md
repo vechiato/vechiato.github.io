@@ -68,7 +68,7 @@ To close a screen session:
 
 1. **Start a Screen Session**: First, start a new `screen` session or attach to an existing one.
 ```bash
-	screen -S my_session
+screen -S my_session
 ```
 2. **Split Horizontally**: Press `Ctrl+A` then `S`.
 	- This creates a new horizontal split, but it will be empty initially.
