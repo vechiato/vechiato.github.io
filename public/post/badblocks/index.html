@@ -9,7 +9,7 @@
   
   >
   <head>
-<title>Insights from Domain-Driven Design Distilled | Marcus Vechiato</title>
+<title>Search and identify bad sectors on a storage device using badblocks | Marcus Vechiato</title>
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -27,37 +27,37 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="Domain-Driven Design Distilled
-In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s …" />
+<meta name="description" content="Badblocks
+The badblocks command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can …" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@vechiato">
-<meta name="twitter:title" content="Insights from Domain-Driven Design Distilled" />
-<meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/domain_drive_desing.jpg"/>
-<meta property="og:url" content="https://blog.vechiato.cc/post/book-domain-driven-design-distilled/" />
-<meta property="og:title" content="Insights from Domain-Driven Design Distilled" />
-<meta property="og:description" content="Domain-Driven Design Distilled
-In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s …" />
-<meta property="og:image" content="https://blog.vechiato.cc/obsidian/domain_drive_desing.jpg" />
-  <meta name="keywords" content="blog,technology,devops,book" />
+<meta name="twitter:title" content="Search and identify bad sectors on a storage device using badblocks" />
+<meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/linux_thumb.jpeg"/>
+<meta property="og:url" content="https://blog.vechiato.cc/post/badblocks/" />
+<meta property="og:title" content="Search and identify bad sectors on a storage device using badblocks" />
+<meta property="og:description" content="Badblocks
+The badblocks command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can …" />
+<meta property="og:image" content="https://blog.vechiato.cc/obsidian/linux_thumb.jpeg" />
+  <meta name="keywords" content="blog,technology,linux" />
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
       "@type": "BlogPosting",
-      "mainEntityOfPage":"https:\/\/blog.vechiato.cc\/post\/book-domain-driven-design-distilled\/",
+      "mainEntityOfPage":"https:\/\/blog.vechiato.cc\/post\/badblocks\/",
       "name": "Marcus Vechiato",
-      "headline": "Insights from Domain-Driven Design Distilled",
-      "description": "\u003ch1 id=\"domain-driven-design-distilled\"\u003eDomain-Driven Design Distilled\u003c/h1\u003e\n\u003cp\u003eIn the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon's …\u003c/p\u003e",
-      "url": "https:\/\/blog.vechiato.cc\/post\/book-domain-driven-design-distilled\/",
-      "datePublished": "2019-01-29T00:00:00Z",
-      "dateModified": "2019-01-29T00:00:00Z",
-      "keywords": ["blog","technology","devops","book"],
+      "headline": "Search and identify bad sectors on a storage device using badblocks",
+      "description": "\u003ch1 id=\"badblocks\"\u003e\u003ccode\u003eBadblocks\u003c/code\u003e\u003c/h1\u003e\n\u003cp\u003eThe \u003ccode\u003ebadblocks\u003c/code\u003e command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can …\u003c/p\u003e",
+      "url": "https:\/\/blog.vechiato.cc\/post\/badblocks\/",
+      "datePublished": "2015-11-03T00:00:00Z",
+      "dateModified": "2015-11-03T00:00:00Z",
+      "keywords": ["blog","technology","linux"],
       "author": {
         "@type": "Person",
         "name": "map[name:Marcus Vechiato]"
       },
       "image":{
         "@type":"ImageObject",
-        "url": "https:\/\/blog.vechiato.cc\/obsidian\/domain_drive_desing.jpg"
+        "url": "https:\/\/blog.vechiato.cc\/obsidian\/linux_thumb.jpeg"
       },
       "publisher": {
         "@type": "Organization",
@@ -74,7 +74,7 @@ In the complex world of software development, mastering effective design princip
 <link rel="icon" type="image/png" sizes="32x32" href="https://blog.vechiato.cc/icons/favicon-32x32.png">
 <link rel="manifest" href="https://blog.vechiato.cc/icons/site.webmanifest">
 
-<link rel="canonical" href="https://blog.vechiato.cc/post/book-domain-driven-design-distilled/">
+<link rel="canonical" href="https://blog.vechiato.cc/post/badblocks/">
 
 
 
@@ -179,7 +179,7 @@ In the complex world of software development, mastering effective design princip
   
 <div class="grid-inverse wrap content">
   <article class="post_content">
-    <h1 class="post_title">Insights from Domain-Driven Design Distilled</h1>
+    <h1 class="post_title">Search and identify bad sectors on a storage device using badblocks</h1>
   <div class="post_meta">
     <span><svg class="icon">
   <title>calendar</title>
@@ -187,22 +187,21 @@ In the complex world of software development, mastering effective design princip
 </svg>
 </span>
     <span class="post_date">
-      Jan 29, 2019</span>
-    <span class="post_time"> · 4 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/devops/' title="devops" class="post_tag button button_translucent">devops
-        </a><a href='https://blog.vechiato.cc/tags/book/' title="book" class="post_tag button button_translucent">book
+      Nov 3, 2015</span>
+    <span class="post_time"> · 3 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/linux/' title="linux" class="post_tag button button_translucent">linux
         </a>
     </span>
     <span class="page_only">&nbsp;·
   <div class="post_share">
     Share on:
-    <a href="https://twitter.com/intent/tweet?text=Insights%20from%20Domain-Driven%20Design%20Distilled&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbook-domain-driven-design-distilled%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+    <a href="https://twitter.com/intent/tweet?text=Search%20and%20identify%20bad%20sectors%20on%20a%20storage%20device%20using%20badblocks&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbadblocks%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>twitter</title>
   <use xlink:href="#twitter"></use>
 </svg>
 
     </a>
-    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbook-domain-driven-design-distilled%2f&t=Insights%20from%20Domain-Driven%20Design%20Distilled" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbadblocks%2f&t=Search%20and%20identify%20bad%20sectors%20on%20a%20storage%20device%20using%20badblocks" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>facebook</title>
   <use xlink:href="#facebook"></use>
@@ -216,7 +215,7 @@ In the complex world of software development, mastering effective design princip
 </svg>
 
     </a>
-    <a href="https://blog.vechiato.cc/post/book-domain-driven-design-distilled/" title="Copy Link" class="link link_yank">
+    <a href="https://blog.vechiato.cc/post/badblocks/" title="Copy Link" class="link link_yank">
       <svg class="icon">
   <title>copy</title>
   <use xlink:href="#copy"></use>
@@ -227,106 +226,48 @@ In the complex world of software development, mastering effective design princip
   </span>
   </div>
 
-    <div class="post_body"><h1 id="domain-driven-design-distilled">Domain-Driven Design Distilled</h1>
-<p>In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon's &quot;Domain-Driven Design Distilled&quot; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.</p>
-<p><figure>
-  <picture>
-
-    
-      
-        
-        
-        
-        
-        
-        
-    <img
-      loading="lazy"
-      decoding="async"
-      alt="image"
-      
-        class="image_figure image_internal image_unprocessed"
-        src="https://blog.vechiato.cc/obsidian/domain_drive_desing.jpg"
-      
-      
-    />
-
-    </picture>
-</figure>
-
-2016 by Vaughn Vernon</p>
-<h2 id="summary">Summary</h2>
-<p><figure>
-  <picture>
-
-    
-      
-        
-        
-        
-        
-        
-        
-    <img
-      loading="lazy"
-      decoding="async"
-      alt="image"
-      
-        class="image_figure image_internal image_unprocessed"
-        src="https://blog.vechiato.cc/obsidian/mindmap_ddd.png"
-      
-      
-    />
-
-    </picture>
-</figure>
-</p>
-<h3 id="chapter-1-ddd-for-me">Chapter 1: DDD for Me</h3>
-<h4 id="will-ddd-hurt">Will DDD Hurt?</h4>
-<p>Vernon addresses common misconceptions about DDD being overly complicated and emphasizes its role in simplifying complex software projects by focusing on effective design over the &quot;task-board shuffle&quot; often seen in agile methodologies.</p>
-<h4 id="good-bad-and-effective-design">Good, Bad, and Effective Design</h4>
-<p>This section explores the importance of effective design, distinguishing it from the ineffective practices that lead to poorly designed software. Vernon stresses the necessity of thoughtful design to avoid the pitfalls of a &quot;Big Ball of Mud.&quot;</p>
-<h3 id="chapter-2-strategic-design-with-bounded-contexts-and-the-ubiquitous-language">Chapter 2: Strategic Design with Bounded Contexts and the Ubiquitous Language</h3>
-<h4 id="domain-experts-and-business-drivers">Domain Experts and Business Drivers</h4>
-<p>Vernon introduces the concept of Bounded Contexts and Ubiquitous Language, essential for ensuring that all team members and stakeholders share a common understanding of the domain. He emphasizes the need for collaboration between developers and domain experts to develop a precise and effective model.</p>
-<h4 id="developing-a-ubiquitous-language">Developing a Ubiquitous Language</h4>
-<p>A key takeaway from this chapter is the importance of creating a language that is both shared and rigorously defined within a specific context. This helps in maintaining clarity and reducing misunderstandings in software development.</p>
-<h3 id="chapter-3-strategic-design-with-subdomains">Chapter 3: Strategic Design with Subdomains</h3>
-<h4 id="types-of-subdomains">Types of Subdomains</h4>
-<p>The book categorizes subdomains into Core, Supporting, and Generic, each with different levels of strategic importance and resource allocation. Understanding these distinctions helps prioritize efforts in software projects.</p>
-<h4 id="dealing-with-complexity">Dealing with Complexity</h4>
-<p>Vernon discusses how to manage complexity by breaking down the business domain into manageable subdomains, which can help in integrating legacy systems and improving overall design clarity.</p>
-<h3 id="chapter-4-strategic-design-with-context-mapping">Chapter 4: Strategic Design with Context Mapping</h3>
-<h4 id="kinds-of-mappings">Kinds of Mappings</h4>
-<p>Context Mapping is crucial for understanding how different subdomains interact. Vernon describes various types of mappings like Partnership, Shared Kernel, and Customer-Supplier, each serving different integration needs.</p>
-<h4 id="making-good-use-of-context-mapping">Making Good Use of Context Mapping</h4>
-<p>This section provides practical advice on applying context maps to improve team collaboration and ensure consistent integration across different parts of the software.</p>
-<h3 id="chapter-5-tactical-design-with-aggregates">Chapter 5: Tactical Design with Aggregates</h3>
-<h4 id="aggregate-rules-of-thumb">Aggregate Rules of Thumb</h4>
-<p>Vernon offers practical guidelines for designing aggregates, including keeping them small, ensuring they protect business invariants, and using identity references appropriately.</p>
-<h4 id="modeling-aggregates">Modeling Aggregates</h4>
-<p>This chapter dives into the nuances of creating aggregates that are both effective and maintainable, with a focus on choosing the right abstractions and ensuring testability.</p>
-<h3 id="chapter-6-tactical-design-with-domain-events">Chapter 6: Tactical Design with Domain Events</h3>
-<h4 id="designing-implementing-and-using-domain-events">Designing, Implementing, and Using Domain Events</h4>
-<p>Vernon explains how domain events can be used to model significant occurrences within the domain, facilitating better communication and integration between different parts of the system.</p>
-<h4 id="event-sourcing">Event Sourcing</h4>
-<p>The concept of event sourcing is introduced as a way to persist the state of aggregates by storing the sequence of events that led to their current state, providing a robust way to manage state changes over time.</p>
-<h3 id="chapter-7-acceleration-and-management-tools">Chapter 7: Acceleration and Management Tools</h3>
-<h4 id="event-storming">Event Storming</h4>
-<p>Event Storming is presented as a powerful tool for collaborative modeling, helping teams quickly understand and design complex domains.</p>
-<h4 id="managing-ddd-on-an-agile-project">Managing DDD on an Agile Project</h4>
-<p>This section offers insights into integrating DDD practices into agile projects, emphasizing the importance of continuous learning and adaptation.</p>
-<h2 id="key-takeaways">Key Takeaways</h2>
+    <div class="post_body"><h1 id="badblocks"><code>Badblocks</code></h1>
+<p>The <code>badblocks</code> command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can help detect damaged or faulty sectors that may affect the reliability of the disk and the data stored on it.  After running a FSCK</p>
+<h2 id="how-it-works">How it works:</h2>
+<p>The <code>badblocks</code> command scans a disk for bad sectors by writing test patterns (usually zeros or ones) to the disk and then reading them back. If the data cannot be read correctly after being written, the sector is considered &quot;bad.&quot; The command then reports the location of these bad sectors.</p>
+<h2 id="syntax">Syntax:</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">badblocks <span class="o">[</span>options<span class="o">]</span> &lt;device&gt;
+</span></span></code></pre></div><p>Where <code>&lt;device&gt;</code> is the path to the disk, e.g., <code>/dev/sdb</code>.</p>
+<h2 id="common-options">Common Options:</h2>
+<ul>
+<li><strong><code>-v</code></strong>: Verbose mode; provides more detailed output.</li>
+<li><strong><code>-n</code></strong>: Non-destructive read-write test. This option writes test patterns to the disk but does not overwrite your data.</li>
+<li><strong><code>-s</code></strong>: Shows the progress of the test.</li>
+<li><strong><code>-w</code></strong>: Performs a destructive write-test, which writes to every block on the disk to check for errors. This will overwrite any data on the disk.</li>
+<li><strong><code>-l &lt;file&gt;</code></strong>: Outputs a list of bad blocks to the specified file.</li>
+<li><strong><code>-b &lt;block_size&gt;</code></strong>: Specifies the block size (in bytes) to use during testing.</li>
+<li><strong><code>-p &lt;passes&gt;</code></strong>: Specifies the number of passes to make during testing.</li>
+<li><strong><code>-f</code></strong>: Forces badblock detection even if the disk is already in use (dangerous in some cases).</li>
+</ul>
+<h2 id="example-usage">Example Usage:</h2>
 <ol>
-<li><strong>Effective Design Matters</strong>: Emphasizing effective design can distinguish successful projects from those that fail due to poor planning and execution.</li>
-<li><strong>Importance of Collaboration</strong>: Engaging both developers and domain experts is crucial for developing a shared understanding and precise models.</li>
-<li><strong>Strategic Use of Bounded Contexts and Subdomains</strong>: Properly defining and using Bounded Contexts and Subdomains helps manage complexity and improve software quality.</li>
-<li><strong>Event-Driven Approach</strong>: Utilizing domain events and event sourcing provides a scalable and maintainable way to handle state changes and communication.</li>
+<li><strong>Check for bad blocks (non-destructive)</strong>:</li>
 </ol>
-<h2 id="personal-reflections">Personal Reflections</h2>
-<p>Reading &quot;Domain-Driven Design Distilled&quot; has been an eye-opener. Vaughn Vernon's ability to distill complex concepts into actionable insights makes DDD accessible and practical. The emphasis on collaboration and effective design resonates with my experiences, highlighting areas for improvement in our current practices.</p>
-<h2 id="conclusion">Conclusion</h2>
-<p>&quot;Domain-Driven Design Distilled&quot; by Vaughn Vernon is a valuable resource for anyone involved in software development. Its practical advice and clear explanations make it an essential guide for implementing DDD principles, ensuring that software projects are both strategically sound and effectively executed.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">badblocks -n -v /dev/sdb
+</span></span></code></pre></div><ol start="2">
+<li><strong>Destructive write test</strong>:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">badblocks -n -v /dev/sdb
+</span></span></code></pre></div><p>This command will write test patterns to the entire disk and check for bad sectors, but it will overwrite all data on the disk.</p>
+<h2 id="important-notes">Important Notes:</h2>
+<ul>
+<li><strong>Destructive Testing</strong>: The <code>-w</code> option overwrites all data on the disk, so it is recommended to back up any important data before using this option.</li>
+<li><strong>Time-Consuming</strong>: Running <code>badblocks</code> can take a long time, especially on large disks, because it reads and writes to every block of the device.</li>
+<li><strong>Not Always Accurate</strong>: While <code>badblocks</code> is a useful tool, it doesn't always catch all possible hardware failures, and it may not detect all types of issues, such as wear on an SSD.</li>
+<li><strong>SMART Monitoring</strong>: For more advanced disk health monitoring, it's also a good idea to use tools like <code>smartctl</code> (part of the <code>smartmontools</code> package) to check the SMART status of the drive.</li>
+</ul>
+<h2 id="use-cases">Use Cases:</h2>
+<ul>
+<li><strong>Preventive Maintenance</strong>: Running <code>badblocks</code> periodically can help detect failing drives early, potentially avoiding data loss.</li>
+<li><strong>After Data Recovery</strong>: If you've recovered data from a damaged disk, running <code>badblocks</code> can help identify additional issues before using the disk again.</li>
+<li><strong>Drive Health Assessment</strong>: For drives showing signs of failure (slow performance, errors), <code>badblocks</code> can help pinpoint the extent of damage.</li>
+</ul>
+<p>In summary, <code>badblocks</code> is a helpful tool for identifying bad sectors and assessing the health of a storage device, but care must be taken when using it, especially with destructive options.</p>
 
     </div>
 <div class="post_comments">
