@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/linux/</link>
+    <description>Recent content in Linux on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 23 Feb 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using screen for Persistent Terminal Sessions</title>
+      <link>https://blog.vechiato.cc/post/screen/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/screen/</guid>
+      <description>
+        
+          
+            &lt;h2 id=&#34;using-screen-for-persistent-terminal-sessions&#34;&gt;Using &lt;code&gt;screen&lt;/code&gt; for Persistent Terminal Sessions&lt;/h2&gt;
+&lt;p&gt;#linux
+&lt;code&gt;screen&lt;/code&gt; is a terminal multiplexer that allows you to start a session, run commands, and detach from it, keeping the session running in the background. You can later reattach to the session even if the original terminal connection was lost, which is useful for remote tasks that need resilience against disconnections.
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/linux_thumb.jpeg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;basic-commands&#34;&gt;Basic Commands&lt;/h3&gt;
+&lt;h4 id=&#34;start-a-new-session&#34;&gt;Start a New Session&lt;/h4&gt;
+&lt;p&gt;To start a new session with a custom name (e.g., &lt;code&gt;my_session&lt;/code&gt;):&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
