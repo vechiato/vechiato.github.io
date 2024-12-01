@@ -50,10 +50,10 @@ Managing technical debt is crucial for maintaining the efficiency, security, and
 
 ## 6. **Building Microservices: Designing Fine-Grained Systems**
    ![image](/obsidian/building_microservices.jpg)
-   - **Author:** Sam Newman - 2015 - O'Reilly Media
+   - **Author:** Sam Newman - 2021 - O'Reilly Media
    - **Key Chapters:** Chapters 2, 8, and 12
    - **Overview:** This book discusses the impact of technical debt in the context of microservices architecture. Key chapters focus on designing systems that minimize technical debt and provide strategies for managing debt in microservice environments.
-   - **Available at:** [Amazon UK](https://www.amazon.co.uk/Building-Microservices-Sam-Newman/dp/1491950358)
+   - **Available at:** [Amazon UK](https://amzn.eu/d/5EJIP5J)
 
 ## 7. **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win**
    ![image](/obsidian/phoenix_project.jpg)
