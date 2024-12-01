@@ -17,7 +17,7 @@ I chose this book because it offers a structured way to think about reliability,
 ![image](/obsidian/book_implementing_slos.jpg)
 2020 by Alex Hidalgo
 
-## Summary
+## **Summary**
 
 ### **Part I: SLO Development**
 

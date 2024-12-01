@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/platform-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/platform-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Plaftform Engineering</title>
+      <link>https://blog.vechiato.cc/post/book-plafform-engineering/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-plafform-engineering/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;platform-engineering-a-guide-for-technical-product-and-people-leaders&#34;&gt;&lt;strong&gt;Platform Engineering: A Guide for Technical, Product, and People Leaders&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;When I first came across the idea of platform engineering, I realised how critical it is for scaling organisations to manage shared infrastructure and tools effectively. Camille Fournier and Ian Nowland&#39;s &lt;em&gt;Platform Engineering&lt;/em&gt; goes beyond theory, offering actionable strategies for building cohesive, user-centric platforms.&lt;/p&gt;
+&lt;p&gt;This book resonated with me as someone passionate about improving engineering systems. It provides a structured approach to handling platform challenges, from team organisation to operational excellence. If you&#39;re a leader in the tech space, this guide is a treasure trove of insights to streamline complexity while fostering innovation.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Insights from Crossplane: The Cloud Native Control Plane</title>
       <link>https://blog.vechiato.cc/post/book-crossplane-the-cloud-native-control-plane/</link>
