@@ -7,7 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Implementing Service Level Objectives</title>
+      <link>https://blog.vechiato.cc/post/book-implementing-service-level-objectives/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-implementing-service-level-objectives/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;insights-from-implementing-slo&#34;&gt;Insights from: Implementing SLO&lt;/h1&gt;
+&lt;p&gt;Reliability is a cornerstone of successful services, but how do we define and measure it effectively? Implementing Service Level Objectives by Alex Hidalgo provides a practical guide to adopting SLO-based approaches, allowing teams to balance user expectations and operational constraints. With its insights into SLIs (Service Level Indicators), SLOs (Service Level Objectives), and error budgets, the book helps bridge the gap between abstract goals and actionable strategies.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>How to Host Your Website for Free as friendly as possible for beginners</title>
       <link>https://blog.vechiato.cc/post/cloudflare-pages/</link>
