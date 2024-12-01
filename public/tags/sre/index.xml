@@ -17,7 +17,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;insights-from-implementing-slo&#34;&gt;Insights from: Implementing SLO&lt;/h1&gt;
+            &lt;h1 id=&#34;insights-from-implementing-slo&#34;&gt;&lt;strong&gt;Insights from: Implementing SLO&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Reliability is a cornerstone of successful services, but how do we define and measure it effectively? Implementing Service Level Objectives by Alex Hidalgo provides a practical guide to adopting SLO-based approaches, allowing teams to balance user expectations and operational constraints. With its insights into SLIs (Service Level Indicators), SLOs (Service Level Objectives), and error budgets, the book helps bridge the gap between abstract goals and actionable strategies.&lt;/p&gt;
           
           

@@ -8,7 +8,7 @@ tags:
   - book
 --- 
 
-# Outlive: The Science and Art of Longevity
+# **Outlive: The Science and Art of Longevity**
 
 I’ve always been fascinated by the concept of longevity and what it means to live not just a long life, but a healthy and fulfilling one. When I came across "Outlive: The Science and Art of Longevity" by Peter Attia, I knew it was a must-read. The book delves into the science of prolonging life and improving its quality through proactive health measures. Attia, with his rich background in medicine and personal experiences, offers a comprehensive guide to understanding and implementing strategies for better health and longevity.
 
