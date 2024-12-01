@@ -25,7 +25,7 @@
     </item>
     
     <item>
-      <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
+      <title>Insights from Learning eBPF</title>
       <link>https://blog.vechiato.cc/post/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
@@ -33,7 +33,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;learning-ebpf&#34;&gt;Learning eBPF&lt;/h1&gt;
+            &lt;h1 id=&#34;learning-ebpf-programmatically-extend-the-linux-kernel&#34;&gt;&lt;strong&gt;Learning eBPF: Programmatically Extend the Linux Kernel&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p&gt;
           
           
@@ -67,7 +67,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;devsecops&#34;&gt;DevSecOps&lt;/h1&gt;
+            &lt;h1 id=&#34;devsecops&#34;&gt;&lt;strong&gt;DevSecOps&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -121,8 +121,8 @@
     &lt;/picture&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
-&lt;h3 id=&#34;part-i-foundations-of-devsecops&#34;&gt;Part I: Foundations of DevSecOps&lt;/h3&gt;
-&lt;h4 id=&#34;chapter-1-devops-explained&#34;&gt;Chapter 1: DevOps Explained&lt;/h4&gt;
+&lt;h3 id=&#34;part-i-foundations-of-devsecops&#34;&gt;&lt;strong&gt;Part I: Foundations of DevSecOps&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-devops-explained&#34;&gt;&lt;strong&gt;Chapter 1: DevOps Explained&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models. Key concepts include the three ways (left-to-right process flow, right-to-left feedback, and continuous improvement) and the five ideals (locality and simplicity, focus, flow and joy, improvement of daily work, psychological safety, and customer focus).&lt;/p&gt;
           
           

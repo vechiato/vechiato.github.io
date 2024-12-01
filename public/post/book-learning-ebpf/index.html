@@ -9,7 +9,7 @@
   
   >
   <head>
-<title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel | Marcus Vechiato</title>
+<title>Insights from Learning eBPF | Marcus Vechiato</title>
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -27,16 +27,16 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="Learning eBPF
-In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing …" />
+<meta name="description" content="Learning eBPF: Programmatically Extend the Linux Kernel
+In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a …" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@vechiato">
-<meta name="twitter:title" content="Insights from Learning eBPF: Programmatically Extend the Linux Kernel" />
+<meta name="twitter:title" content="Insights from Learning eBPF" />
 <meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/book_learning_ebpf.jpg"/>
 <meta property="og:url" content="https://blog.vechiato.cc/post/book-learning-ebpf/" />
-<meta property="og:title" content="Insights from Learning eBPF: Programmatically Extend the Linux Kernel" />
-<meta property="og:description" content="Learning eBPF
-In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing …" />
+<meta property="og:title" content="Insights from Learning eBPF" />
+<meta property="og:description" content="Learning eBPF: Programmatically Extend the Linux Kernel
+In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a …" />
 <meta property="og:image" content="https://blog.vechiato.cc/obsidian/book_learning_ebpf.jpg" />
   <meta name="keywords" content="blog,technology,observability,ebpf,security,book,sre" />
   <script type="application/ld+json">
@@ -45,8 +45,8 @@ In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filt
       "@type": "BlogPosting",
       "mainEntityOfPage":"https:\/\/blog.vechiato.cc\/post\/book-learning-ebpf\/",
       "name": "Marcus Vechiato",
-      "headline": "Insights from Learning eBPF: Programmatically Extend the Linux Kernel",
-      "description": "\u003ch1 id=\"learning-ebpf\"\u003eLearning eBPF\u003c/h1\u003e\n\u003cp\u003eIn the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing …\u003c/p\u003e",
+      "headline": "Insights from Learning eBPF",
+      "description": "\u003ch1 id=\"learning-ebpf-programmatically-extend-the-linux-kernel\"\u003e\u003cstrong\u003eLearning eBPF: Programmatically Extend the Linux Kernel\u003c/strong\u003e\u003c/h1\u003e\n\u003cp\u003eIn the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a …\u003c/p\u003e",
       "url": "https:\/\/blog.vechiato.cc\/post\/book-learning-ebpf\/",
       "datePublished": "2024-05-12T00:00:00Z",
       "dateModified": "2024-05-12T00:00:00Z",
@@ -179,7 +179,7 @@ In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filt
   
 <div class="grid-inverse wrap content">
   <article class="post_content">
-    <h1 class="post_title">Insights from Learning eBPF: Programmatically Extend the Linux Kernel</h1>
+    <h1 class="post_title">Insights from Learning eBPF</h1>
   <div class="post_meta">
     <span><svg class="icon">
   <title>calendar</title>
@@ -198,14 +198,14 @@ In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filt
     <span class="page_only">&nbsp;·
   <div class="post_share">
     Share on:
-    <a href="https://twitter.com/intent/tweet?text=Insights%20from%20Learning%20eBPF%3a%20Programmatically%20Extend%20the%20Linux%20Kernel&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbook-learning-ebpf%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+    <a href="https://twitter.com/intent/tweet?text=Insights%20from%20Learning%20eBPF&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbook-learning-ebpf%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>twitter</title>
   <use xlink:href="#twitter"></use>
 </svg>
 
     </a>
-    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbook-learning-ebpf%2f&t=Insights%20from%20Learning%20eBPF%3a%20Programmatically%20Extend%20the%20Linux%20Kernel" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbook-learning-ebpf%2f&t=Insights%20from%20Learning%20eBPF" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>facebook</title>
   <use xlink:href="#facebook"></use>
@@ -230,7 +230,7 @@ In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filt
   </span>
   </div>
 
-    <div class="post_body"><h1 id="learning-ebpf">Learning eBPF</h1>
+    <div class="post_body"><h1 id="learning-ebpf-programmatically-extend-the-linux-kernel"><strong>Learning eBPF: Programmatically Extend the Linux Kernel</strong></h1>
 <p>In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.</p>
 <p><figure>
   <picture>
@@ -259,7 +259,7 @@ In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filt
 
 2023 by Liz Rice</p>
 <p><a href="https://www.amazon.co.uk/dp/1098135121">Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security</a></p>
-<h2 id="summary">Summary</h2>
+<h2 id="summary"><strong>Summary</strong></h2>
 <p><figure>
   <picture>
 
@@ -285,39 +285,39 @@ In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filt
     </picture>
 </figure>
 </p>
-<h3 id="part-i-the-basics-of-ebpf">Part I: The Basics of eBPF</h3>
-<h4 id="chapter-1-what-is-ebpf-and-why-is-it-important">Chapter 1: What Is eBPF, and Why Is It Important?</h4>
+<h3 id="part-i-the-basics-of-ebpf"><strong>Part I: The Basics of eBPF</strong></h3>
+<h4 id="chapter-1-what-is-ebpf-and-why-is-it-important"><strong>Chapter 1: What Is eBPF, and Why Is It Important?</strong></h4>
 <p>Liz Rice begins by exploring the origins and evolution of eBPF, tracing its roots back to the Berkeley Packet Filter (BPF). She explains how eBPF extends BPF's capabilities, enabling high-performance custom code execution within the Linux kernel. The chapter highlights eBPF's transformative impact on infrastructure tools and its applications in performance tracing, networking, and security.</p>
-<h4 id="chapter-2-ebpfs-hello-world">Chapter 2: eBPF’s “Hello World”</h4>
+<h4 id="chapter-2-ebpfs-hello-world"><strong>Chapter 2: eBPF’s “Hello World”</strong></h4>
 <p>The second chapter provides a hands-on introduction to eBPF programming. Using the BCC (BPF Compiler Collection) Python framework, Rice walks readers through creating a simple “Hello World” eBPF program. This practical example demonstrates the basic components of eBPF programs and how they interact with the kernel.</p>
-<h4 id="chapter-3-anatomy-of-an-ebpf-program">Chapter 3: Anatomy of an eBPF Program</h4>
+<h4 id="chapter-3-anatomy-of-an-ebpf-program"><strong>Chapter 3: Anatomy of an eBPF Program</strong></h4>
 <p>This chapter delves deeper into the structure of eBPF programs. Rice explains the eBPF virtual machine, registers, and instructions, providing detailed examples of how eBPF programs are compiled and loaded into the kernel. The chapter also covers key concepts such as BPF maps and function calls, essential for building complex eBPF applications.</p>
-<h3 id="part-ii-advanced-ebpf-programming">Part II: Advanced eBPF Programming</h3>
-<h4 id="chapter-4-the-bpf-system-call">Chapter 4: The bpf() System Call</h4>
+<h3 id="part-ii-advanced-ebpf-programming"><strong>Part II: Advanced eBPF Programming</strong></h3>
+<h4 id="chapter-4-the-bpf-system-call"><strong>Chapter 4: The bpf() System Call</strong></h4>
 <p>Rice explores the bpf() system call, which is fundamental for interacting with eBPF programs. She explains how to load BTF (BPF Type Format) data, create maps, and attach programs to events. This chapter provides the technical foundation needed to manage eBPF programs effectively.</p>
-<h4 id="chapter-5-co-re-btf-and-libbpf">Chapter 5: CO-RE, BTF, and Libbpf</h4>
+<h4 id="chapter-5-co-re-btf-and-libbpf"><strong>Chapter 5: CO-RE, BTF, and Libbpf</strong></h4>
 <p>This chapter introduces CO-RE (Compile Once - Run Everywhere) and BTF, essential for ensuring eBPF program compatibility across different kernel versions. Rice discusses how to use these technologies along with the libbpf library to write portable and efficient eBPF programs.</p>
-<h4 id="chapter-6-the-ebpf-verifier">Chapter 6: The eBPF Verifier</h4>
+<h4 id="chapter-6-the-ebpf-verifier"><strong>Chapter 6: The eBPF Verifier</strong></h4>
 <p>The eBPF verifier is crucial for ensuring the safety and reliability of eBPF programs. Rice explains how the verifier works, its role in validating helper functions, and how to check memory access and pointers. This chapter emphasizes the importance of verification in preventing kernel crashes and security vulnerabilities.</p>
-<h3 id="part-iii-practical-applications-of-ebpf">Part III: Practical Applications of eBPF</h3>
-<h4 id="chapter-7-ebpf-program-and-attachment-types">Chapter 7: eBPF Program and Attachment Types</h4>
+<h3 id="part-iii-practical-applications-of-ebpf"><strong>Part III: Practical Applications of eBPF</strong></h3>
+<h4 id="chapter-7-ebpf-program-and-attachment-types"><strong>Chapter 7: eBPF Program and Attachment Types</strong></h4>
 <p>Rice explores the various types of eBPF programs and their attachment points within the kernel. She covers tracing, networking, and security applications, providing practical examples of how to leverage eBPF for different use cases.</p>
-<h4 id="chapter-8-ebpf-for-networking">Chapter 8: eBPF for Networking</h4>
+<h4 id="chapter-8-ebpf-for-networking"><strong>Chapter 8: eBPF for Networking</strong></h4>
 <p>This chapter focuses on using eBPF for networking tasks such as load balancing, traffic control, and packet encryption. Rice demonstrates how eBPF can enhance network performance and security, offering insights into real-world implementations.</p>
-<h4 id="chapter-9-ebpf-for-security">Chapter 9: eBPF for Security</h4>
+<h4 id="chapter-9-ebpf-for-security"><strong>Chapter 9: eBPF for Security</strong></h4>
 <p>Rice discusses the use of eBPF for building advanced security tools. She explains how eBPF can be used for syscall tracking, generating seccomp profiles, and implementing network security measures. This chapter highlights the potential of eBPF in creating robust security solutions.</p>
-<h3 id="part-iv-developing-with-ebpf">Part IV: Developing with eBPF</h3>
-<h4 id="chapter-10-ebpf-programming">Chapter 10: eBPF Programming</h4>
+<h3 id="part-iv-developing-with-ebpf"><strong>Part IV: Developing with eBPF</strong></h3>
+<h4 id="chapter-10-ebpf-programming"><strong>Chapter 10: eBPF Programming</strong></h4>
 <p>The final chapter covers the practical aspects of eBPF development. Rice provides an overview of programming languages and frameworks for eBPF, including Python, C, Go, and Rust. She offers tips for testing eBPF programs and managing multiple eBPF programs within a system.</p>
-<h4 id="chapter-11-the-future-evolution-of-ebpf">Chapter 11: The Future Evolution of eBPF</h4>
+<h4 id="chapter-11-the-future-evolution-of-ebpf"><strong>Chapter 11: The Future Evolution of eBPF</strong></h4>
 <p>In the concluding chapter, Rice looks ahead to the future of eBPF. She discusses ongoing developments, including eBPF for Windows and the continued evolution of Linux eBPF. This chapter provides a forward-looking perspective on the potential advancements in eBPF technology.</p>
-<h2 id="key-takeaways">Key Takeaways</h2>
+<h2 id="key-takeaways"><strong>Key Takeaways</strong></h2>
 <ol>
 <li><strong>Transformative Potential:</strong> eBPF revolutionizes the way developers can interact with and modify the Linux kernel, enabling powerful new tools for observability, networking, and security.</li>
 <li><strong>Hands-On Learning:</strong> The book offers practical examples and exercises, making complex eBPF concepts accessible and actionable.</li>
 <li><strong>Future-Proof Skills:</strong> Understanding eBPF equips readers with cutting-edge skills that are highly relevant in modern cloud-native environments.</li>
 </ol>
-<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion"><strong>Conclusion</strong></h2>
 <p>&quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security&quot; by Liz Rice is an indispensable resource for anyone looking to master eBPF. By providing a comprehensive understanding of eBPF's capabilities and practical guidance for its application, this book empowers readers to leverage eBPF for building advanced infrastructure tools. Whether you're a developer, system administrator, or student, Rice's book offers the knowledge and insights needed to excel in the rapidly evolving world of cloud-native technology.</p>
 
     </div>

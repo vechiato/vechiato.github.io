@@ -34,7 +34,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;chaos-engineering-system-resiliency-in-practice&#34;&gt;Chaos Engineering: System Resiliency in Practice&lt;/h1&gt;
+            &lt;h1 id=&#34;chaos-engineering-system-resiliency-in-practice&#34;&gt;&lt;strong&gt;Chaos Engineering: System Resiliency in Practice&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency. This book delves into the principles and practices of Chaos Engineering, a methodology designed to improve system reliability by intentionally introducing failures. I chose this book to understand how we can better prepare for the unexpected and ensure our systems can withstand and recover from disruptions.&lt;/p&gt;
           
           
@@ -43,7 +43,7 @@
     </item>
     
     <item>
-      <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
+      <title>Insights from Learning eBPF</title>
       <link>https://blog.vechiato.cc/post/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
@@ -51,7 +51,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;learning-ebpf&#34;&gt;Learning eBPF&lt;/h1&gt;
+            &lt;h1 id=&#34;learning-ebpf-programmatically-extend-the-linux-kernel&#34;&gt;&lt;strong&gt;Learning eBPF: Programmatically Extend the Linux Kernel&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p&gt;
           
           
@@ -154,7 +154,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;observability-engineering&#34;&gt;Observability Engineering&lt;/h1&gt;
+            &lt;h1 id=&#34;observability-engineering&#34;&gt;&lt;strong&gt;Observability Engineering&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -197,7 +197,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;database-reliability-engineering&#34;&gt;Database Reliability Engineering&lt;/h1&gt;
+            &lt;h1 id=&#34;database-reliability-engineering&#34;&gt;&lt;strong&gt;Database Reliability Engineering&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Database Reliability Engineering&amp;quot; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasizes the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -240,7 +240,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;seeking-sre&#34;&gt;Seeking SRE&lt;/h1&gt;
+            &lt;h1 id=&#34;seeking-sre&#34;&gt;&lt;strong&gt;Seeking SRE&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;quot;Seeking SRE: Conversations About Running Production Systems at Scale&amp;quot; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.&lt;/p&gt;
           
           
