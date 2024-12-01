@@ -14,7 +14,7 @@ Reliability is a cornerstone of successful services, but how do we define and me
 
 I chose this book because it offers a structured way to think about reliability, a critical aspect of any service, especially in today’s complex systems. Readers can expect to gain an in-depth understanding of how to define, measure, and act upon reliability metrics while fostering a culture of continuous improvement.
 
-![image](/obsidian/implementing service level objectives.jpg)
+![image](/obsidian/book_implementing_slos.jpg)
 2020 by Alex Hidalgo
 
 ## Summary
