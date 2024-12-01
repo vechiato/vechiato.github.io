@@ -207,7 +207,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;p&gt;Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&#39;s important to recognize that technical debt encompasses not only software but also infrastructure, security, and organizational processes. Addressing technical debt holistically ensures that an organization can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&#39;ve compiled a list of  books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.&lt;/p&gt;
+            &lt;p&gt;Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&#39;s important to recognise that technical debt encompasses not only software but also infrastructure, security, and organisational processes. Addressing technical debt holistically ensures that an organisation can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&#39;ve compiled a list of  books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.&lt;/p&gt;
           
           
         
@@ -345,7 +345,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;h1 id=&#34;flask-web-development&#34;&gt;Flask Web Development&lt;/h1&gt;
+            &lt;h1 id=&#34;flask-web-development&#34;&gt;&lt;strong&gt;Flask Web Development&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;I picked up &amp;quot;Flask Web Development&amp;quot; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.&lt;/p&gt;
           
           
@@ -606,8 +606,7 @@ The watermelon effect occurs when surface-level indicators show success while de
 
 2022 by Arun Ramakani&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B09ZJ1NZRB&#34;&gt;End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionizing the way organizations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In &amp;quot;End-to-End Automation with Kubernetes and Crossplane,&amp;quot; Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.&lt;/p&gt;
+&lt;p&gt;In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionising the way organisations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In &amp;quot;End-to-End Automation with Kubernetes and Crossplane,&amp;quot; Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.&lt;/p&gt;
           
           
         
@@ -968,34 +967,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/economics_for_the_common_good.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2019 by Jean Tirole&lt;/p&gt;
-&lt;h1 id=&#34;insights-from-economics-for-the-common-good&#34;&gt;Insights from &amp;quot;Economics for the Common Good&amp;quot;&lt;/h1&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+            &lt;h1 id=&#34;economics-for-the-common-good&#34;&gt;&lt;strong&gt;Economics for the Common Good&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Reading &amp;quot;Economics for the Common Good&amp;quot; by Jean Tirole has been a transformative experience for me. As someone who is deeply interested in the intersection of economics and society, this book provided a comprehensive and nuanced exploration of how economic principles can be applied to achieve the common good. Tirole, a Nobel Prize-winning economist, delves into various economic theories and their implications for policy-making, societal well-being, and global challenges. I chose this book because of its relevance to contemporary economic issues and its potential to offer valuable insights into how economics can be harnessed for societal benefit.&lt;/p&gt;
           
           
@@ -1396,7 +1368,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;h1 id=&#34;establishing-sre-foundations&#34;&gt;Establishing SRE Foundations&lt;/h1&gt;
+            &lt;h1 id=&#34;establishing-sre-foundations&#34;&gt;&lt;strong&gt;Establishing SRE Foundations&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Establishing SRE Foundations: A Step-by-Step Guide&amp;quot; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
@@ -1424,7 +1396,7 @@ The watermelon effect occurs when surface-level indicators show success while de
 &lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/0137424604&#34;&gt;Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -1508,7 +1480,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;h1 id=&#34;fluent-python&#34;&gt;Fluent Python&lt;/h1&gt;
+            &lt;h1 id=&#34;fluent-python&#34;&gt;&lt;strong&gt;Fluent Python&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Welcome to our deep dive into &amp;quot;Fluent Python&amp;quot; by Luciano Ramalho. In this post, we&#39;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&#39;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Fluent Python&lt;/em&gt; by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.&lt;/p&gt;
           
@@ -1630,7 +1602,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;h1 id=&#34;ego-free-leadership&#34;&gt;Ego Free Leadership&lt;/h1&gt;
+            &lt;h1 id=&#34;ego-free-leadership&#34;&gt;&lt;strong&gt;Ego Free Leadership&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&amp;quot; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.&lt;/p&gt;
           
           
@@ -1690,7 +1662,9 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;p&gt;&lt;figure&gt;
+            &lt;h1 id=&#34;systems-performance&#34;&gt;&lt;strong&gt;Systems Performance&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&amp;quot;Systems Performance: Enterprise and the Cloud&amp;quot; by Brendan Gregg is a comprehensive guide to understanding and improving the performance of computer systems. The book covers a wide range of topics, from the fundamentals of systems performance to advanced techniques for optimizing various system components. It provides practical methodologies and tools for performance analysis, making it an essential resource for system administrators, developers, and performance engineers.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
     
@@ -1716,9 +1690,6 @@ The watermelon effect occurs when surface-level indicators show success while de
 &lt;/figure&gt;
 
 2020 by Brendan Gregg&lt;/p&gt;
-&lt;h1 id=&#34;systems-performance&#34;&gt;Systems Performance&lt;/h1&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;&amp;quot;Systems Performance: Enterprise and the Cloud&amp;quot; by Brendan Gregg is a comprehensive guide to understanding and improving the performance of computer systems. The book covers a wide range of topics, from the fundamentals of systems performance to advanced techniques for optimizing various system components. It provides practical methodologies and tools for performance analysis, making it an essential resource for system administrators, developers, and performance engineers.&lt;/p&gt;
           
           
         
@@ -2039,7 +2010,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;Domain-Driven Design Distilled&lt;/h1&gt;
+            &lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;&lt;strong&gt;Domain-Driven Design Distilled&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s &amp;quot;Domain-Driven Design Distilled&amp;quot; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;

@@ -17,7 +17,7 @@
       <description>
         
           
-            &lt;p&gt;Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&#39;s important to recognize that technical debt encompasses not only software but also infrastructure, security, and organizational processes. Addressing technical debt holistically ensures that an organization can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&#39;ve compiled a list of  books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.&lt;/p&gt;
+            &lt;p&gt;Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&#39;s important to recognise that technical debt encompasses not only software but also infrastructure, security, and organisational processes. Addressing technical debt holistically ensures that an organisation can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&#39;ve compiled a list of  books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.&lt;/p&gt;
           
           
         
@@ -199,24 +199,6 @@
     </item>
     
     <item>
-      <title>Insights from Fluent Python, second edition</title>
-      <link>https://blog.vechiato.cc/post/book-fluent-python/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.vechiato.cc/post/book-fluent-python/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;fluent-python&#34;&gt;Fluent Python&lt;/h1&gt;
-&lt;p&gt;Welcome to our deep dive into &amp;quot;Fluent Python&amp;quot; by Luciano Ramalho. In this post, we&#39;ll explore key concepts and insights from the book that will help you master Python programming. Whether you&#39;re a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Fluent Python&lt;/em&gt; by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
       <link>https://blog.vechiato.cc/post/book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
@@ -340,7 +322,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;Domain-Driven Design Distilled&lt;/h1&gt;
+            &lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;&lt;strong&gt;Domain-Driven Design Distilled&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s &amp;quot;Domain-Driven Design Distilled&amp;quot; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
