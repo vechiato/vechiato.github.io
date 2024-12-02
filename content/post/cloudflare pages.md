@@ -7,7 +7,7 @@ aliases:
   - /blog/cloudflare-pages
 publish: true
 tags:
-  - codeclub
+  - code club
 ---
 # **How to Host Your Website for Free No Git required!**
 

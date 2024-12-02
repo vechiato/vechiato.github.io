@@ -97,6 +97,8 @@ Briggs explains how to animate the stick figure, bind key events, and make the c
 
 The final chapter ties everything together, adding animations, a goal (the door), and collision-based interactions. The result is a polished platformer game.
 
+---
+
 ## **Key Takeaways**
 
 ### **Key Takeaway 1: Programming Encourages Creativity**
@@ -122,6 +124,8 @@ The final chapter ties everything together, adding animations, a goal (the door)
 ## **Personal Reflections**
 
 _Python for Kids_ reminded me of the joy of discovery in programming. Its playful tone and clear explanations make it accessible to all. Whether you’re writing your first line of code or guiding others, this book highlights the importance of patience, practice, and play.
+
+---
 
 ## **Conclusion**
 
