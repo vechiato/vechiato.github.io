@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Club on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/code-club/</link>
+    <description>Recent content in Code Club on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/code-club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Python for Kids</title>
+      <link>https://blog.vechiato.cc/post/book-python-for-kids/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-python-for-kids/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;python-for-kids-a-playful-introduction-to-programming&#34;&gt;&lt;strong&gt;Python for Kids: A Playful Introduction to Programming&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;When I first started programming, I wished for resources that made the journey exciting and approachable. &lt;em&gt;Python for Kids&lt;/em&gt; by Jason R. Briggs is just that—a vibrant, engaging introduction to Python that teaches through play and creativity. This book combines accessible explanations with hands-on examples, guiding readers to build games, draw graphics, and explore Python’s powerful features. Whether you’re a curious child, a parent, or an adult beginner, this book offers a fun and rewarding way to learn coding.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

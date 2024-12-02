@@ -52,6 +52,21 @@
                 href="https://blog.vechiato.cc/tags/"
                 />
   </url><url>
+    <loc>https://blog.vechiato.cc/tags/code-club/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/post/book-python-for-kids/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/python/</loc>
+    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://blog.vechiato.cc/post/book-implementing-service-level-objectives/</loc>
     <lastmod>2024-11-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -183,11 +198,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.vechiato.cc/post/book-flask-web-development/</loc>
-    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/python/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
