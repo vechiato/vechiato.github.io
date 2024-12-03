@@ -13,7 +13,7 @@ tags:
 
 In the modern era of cloud computing, managing cloud spend efficiently has become crucial for businesses. "Cloud FinOps: Collaborative, Real-Time Cloud Value Decision Making" by J.R. Storment and Mike Fuller delves into the practices and principles of FinOps, a methodology that combines financial management with DevOps to drive accountability and efficiency in cloud spending. This book is an essential read for engineering and finance teams, executives, and FinOps practitioners aiming to optimise their cloud investments.
 
-![image](/obsidian/cloud_finops.jpg)
+![image](/obsidian/book_cloud_finops.jpg)
 2023 by J.R. Storment and Mike Fuller
 
 ## **Summary**

@@ -27,7 +27,7 @@ Managing technical debt is crucial for maintaining the efficiency, security, and
    - **Available at:** [Amazon UK](https://www.amazon.co.uk/Managing-Technical-Debt-Software-Engineering/dp/013564593X)
 
 ## 3. **The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations**
-   ![image](/obsidian/devops_handbook.jpg)
+   ![image](/obsidian/book_devops_handbook.jpg)
    - **Authors:** Gene Kim, Jez Humble, Patrick Debois, John Willis - 2016 - IT Revolution Press
    - **Overview:** This book offers a comprehensive guide to implementing DevOps practices to manage technical debt in both software and infrastructure, focusing on improving agility, reliability, and security.
    - **Insights and notes:** [Insights from The DevOps Handbook](../book-the-devops-handbook/)

@@ -6,11 +6,12 @@ thumbnail: "/obsidian/adopting_innersource.jpg"
 publish: true
 tags:
   - book
+  - git
 --- 
 
 "Adopting InnerSource: Principles and Case Studies" by Danese Cooper and Klaas-Jan Stol explores how companies can leverage the principles of open-source software development within their own organisations. InnerSource adapts the collaborative, transparent, and community-driven practices of open-source to a corporate environment, fostering innovation and efficiency. This book presents various case studies from companies that have successfully adopted InnerSource, providing practical insights and lessons learned.
 
-![image](/obsidian/adopting_innersource.jpg)
+![image](/obsidian/book_adopting_innersource.jpg)
 2018 by Danese Cooper & Klaas-Jan Stol
 
 [Adopting InnerSource free download](https://innersourcecommons.org/documents/books/AdoptingInnerSource.pdf)
