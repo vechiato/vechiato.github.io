@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iot on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/iot/</link>
+    <description>Recent content in Iot on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from 20 Easy Raspberry Pi Projects</title>
+      <link>https://blog.vechiato.cc/post/book-20-easy-raspberry-pi-projects/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-20-easy-raspberry-pi-projects/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;20-easy-raspberry-pi-projects&#34;&gt;&lt;strong&gt;20 Easy Raspberry Pi Projects&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;When I first discovered the Raspberry Pi, its versatility felt like a door to endless possibilities. &lt;em&gt;20 Easy Raspberry Pi Projects&lt;/em&gt; by Rui and Sara Santos exemplifies this sentiment by transforming this tiny computer into a toolkit for creativity. The book is packed with practical and entertaining projects, each designed to enhance your programming and electronics skills.&lt;/p&gt;
+&lt;p&gt;I chose this book to explore ways to improve IoT experiments and to inspire ideas for the code club and my son. Whether you’re new to electronics or an experienced maker, the projects in this book will leave you brimming with ideas. Here&#39;s an in-depth look at each project.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
