@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Unveiling the Watermelon Effect"
+title: "The Watermelon Effect"
 date: "2024-07-08"
 aliases: 
   - /blog/article-unveiling-the-watermelon-effect/
