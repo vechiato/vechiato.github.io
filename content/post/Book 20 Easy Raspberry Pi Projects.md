@@ -87,6 +87,7 @@ This project features the MQ-2 gas and smoke sensor to build an alarm system, wi
 With a DHT22 sensor, this project logs environmental data into text files, emphasizing data acquisition and storage.
 
 ![image](/obsidian/20_rpi_p12.png)
+
 ### **Part 4: Cameras**
 
 #### **Project 13: Burglar Detector with Photo Capture**
@@ -94,6 +95,8 @@ With a DHT22 sensor, this project logs environmental data into text files, empha
 This project combines a motion sensor with a camera module to capture and save photos when an intruder is detected.
 
 ![image](/obsidian/20_rpi_p13.png)
+
+Full project as a sample for download https://nostarch.com/download/20EasyRPiProjects_ch13_sample.pdf
 #### **Project 14: Home Surveillance Camera**
 
 Expand on the previous project by recording videos. This project introduces video streaming and file management on the Raspberry Pi.
