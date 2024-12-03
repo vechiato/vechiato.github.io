@@ -1,7 +1,7 @@
 ---
 author: "Marcus Vechiato"
 title: "Insights from Plaftform Engineering"
-date: "2024-12-01"
+date: "2024-12-03"
 thumbnail: "/obsidian/book_platform_engineering.jpg"
 publish: true
 tags:

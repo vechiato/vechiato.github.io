@@ -1,7 +1,7 @@
 ---
 author: "Marcus Vechiato"
 title: "Insights from 20 Easy Raspberry Pi Projects"
-date: "2024-12-03"
+date: "2024-12-01"
 thumbnail: "/obsidian/book_20_easy_rpi_projects.jpg"
 publish: true
 tags: 
