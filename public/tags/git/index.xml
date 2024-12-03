@@ -7,7 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from GitHub For Dummies, 2nd Ed</title>
+      <link>https://blog.vechiato.cc/post/book-github-for-dummies/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-github-for-dummies/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;github-for-dummies-2nd-ed&#34;&gt;&lt;strong&gt;GitHub For Dummies, 2nd Ed&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;GitHub has always been a cornerstone of my tinkering projects, whether it’s managing configurations or collaborating on open-source initiatives. When my son asked about contributing to coding projects, I thought of this book: &lt;em&gt;GitHub For Dummies&lt;/em&gt; by Sarah Guthals. Its approachable style and step-by-step tutorials make it an excellent resource, especially for beginners navigating the complexities of version control and collaboration. For anyone curious about starting with GitHub or refining their workflows, this book promises clarity and practical advice.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Insights from Learning GitHub Actions</title>
       <link>https://blog.vechiato.cc/post/book-learning-github-actions/</link>

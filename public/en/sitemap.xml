@@ -92,6 +92,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://blog.vechiato.cc/tags/git/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/post/book-github-for-dummies/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://blog.vechiato.cc/post/book-outlive/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -238,11 +248,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.vechiato.cc/tags/cicd/</loc>
-    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/git/</loc>
     <lastmod>2024-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
