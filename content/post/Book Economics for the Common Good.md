@@ -44,7 +44,7 @@ Tirole examines the relationship between the market and the state, arguing for a
 #### **Chapter 7: The Governance and Social Responsibility of Business**
 This chapter explores the concept of corporate social responsibility (CSR) and the role of businesses in society. Tirole argues that businesses have a duty to act ethically and contribute to societal well-being beyond profit maximisation.
 
-### **Part IV: The Great Macroeconomic Challenges
+### **Part IV: The Great Macroeconomic Challenges**
 
 #### **Chapter 8: The Climate Challenge**
 Tirole addresses the urgent issue of climate change and the economic policies needed to mitigate its impact. He emphasises the importance of international cooperation and the role of economic incentives in reducing greenhouse gas emissions.
