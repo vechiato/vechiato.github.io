@@ -18,7 +18,7 @@ When I first discovered the Raspberry Pi, its versatility felt like a door to en
 I chose this book to explore ways to improve IoT experiments and to inspire ideas for the code club and my son. Whether you’re new to electronics or an experienced maker, the projects in this book will leave you brimming with ideas. Here's an in-depth look at each project.
 
 ![image](/obsidian/book_20_easy_rpi_projects.jpg)
-
+2018 by Rui and Sara Santos
 ## **Summary**
 
 ### **Part 1: LEDs**
