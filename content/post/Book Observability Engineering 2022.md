@@ -9,6 +9,7 @@ tags:
   - book
   - devops
   - sre
+  - otel
 --- 
 # **Observability Engineering**
 

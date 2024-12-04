@@ -26,6 +26,23 @@
     </item>
     
     <item>
+      <title>Insights from Learning Open Telemetry</title>
+      <link>https://blog.vechiato.cc/post/book-learning-open-telemetry/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-learning-open-telemetry/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;learning-opentelemetry-setting-up-and-operating-a-modern-observability-system&#34;&gt;&lt;strong&gt;Learning OpenTelemetry: Setting Up and Operating a Modern Observability System&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;As someone who has spent countless hours troubleshooting distributed systems, I understand the struggle of trying to untangle metrics, logs, and traces spread across multiple tools. That’s why &lt;em&gt;Learning OpenTelemetry&lt;/em&gt; by Austin Parker and Ted Young resonated with me. This book introduces OpenTelemetry, a game-changing framework for observability that unifies these disparate signals into a cohesive system. Whether you&#39;re new to observability or a seasoned developer looking to adopt modern practices, this book provides the tools and insights to make your systems more transparent and easier to debug.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Insights from Observability Engineering: Achieving Production Excellence</title>
       <link>https://blog.vechiato.cc/post/book-observability-engineering-2022/</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
