@@ -13,7 +13,7 @@ tags:
 I picked up "Flask Web Development" by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.
 
 ![image](/obsidian/flask.jpg)
-Grinberg, M. (2018). *Flask Web Development*. O'Reilly Media.
+2018 by Miguel Grinberg
 
 ## **Summary**
 ![image](/obsidian/mindmap_flask_web.png)
@@ -52,6 +52,7 @@ Comments are a key feature for any blogging platform. This chapter covers the im
 #### **Chapter 10: RESTful APIs**
 This chapter introduces creating RESTful APIs with Flask, covering topics like defining API endpoints, using Flask-HTTPAuth for token-based authentication, and handling JSON data. It emphasizes the importance of APIs for modern web applications and demonstrates how to build them effectively in Flask.
 
+---
 ## **Key Takeaways**
 
 ### **Key Takeaway 1:**
@@ -78,8 +79,10 @@ This chapter introduces creating RESTful APIs with Flask, covering topics like d
 - **Explanation**: Building RESTful APIs with Flask extends the application’s functionality and enables integration with other services. Proper API design and security are emphasized.
 - **Personal Reflection**: APIs are a critical component of modern web development, and understanding how to create robust APIs with Flask has been particularly useful.
 
+---
 ## **Personal Reflections**
 Reading "Flask Web Development" has significantly impacted my approach to building web applications. The hands-on examples and practical guidance have deepened my understanding of Flask and its ecosystem. The book has also reinforced the importance of writing clean, maintainable code and structuring applications for scalability. I have gained new insights into managing user authentication, database interactions, and creating APIs, which I plan to apply in my future projects.
 
+---
 ## **Conclusion**
 "Flask Web Development" by Miguel Grinberg is an essential resource for anyone looking to master web development with Flask. Its clear explanations, practical examples, and focus on best practices make it a valuable guide for both beginners and experienced developers. I highly recommend this book to anyone interested in building robust and scalable web applications with Flask. The insights and techniques covered in this book have been instrumental in enhancing my skills and understanding of web development.
