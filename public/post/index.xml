@@ -1351,6 +1351,23 @@ The watermelon effect occurs when surface-level indicators show success while de
     </item>
     
     <item>
+      <title>Insights from Plaftform Engineering</title>
+      <link>https://blog.vechiato.cc/post/book-prometheus-up-and-running-2nd-ed/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-prometheus-up-and-running-2nd-ed/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;prometheus-up--running-infrastructure-and-application-performance-monitoring-2nd-ed&#34;&gt;&lt;strong&gt;Prometheus Up &amp;amp; Running: Infrastructure and Application Performance Monitoring, 2nd Ed&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;When managing modern systems, effective monitoring can make or break your application’s reliability and performance. My own journey with monitoring tools has been one of trial and error, searching for a solution that balances simplicity and power. That’s why I picked up &lt;em&gt;Prometheus: Up &amp;amp; Running (Second Edition)&lt;/em&gt; by Julien Pivotto and Brian Brazil. This book dives deep into Prometheus, an open-source, metrics-based monitoring system, which has become a cornerstone for DevOps teams worldwide. If you&#39;re curious about scaling your infrastructure monitoring or learning Prometheus from scratch, this book provides a comprehensive guide.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Reflecting on My Presentation at the London SRE Meetup</title>
       <link>https://blog.vechiato.cc/post/london-sre-meetup/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
