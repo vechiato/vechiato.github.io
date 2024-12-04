@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Plaftform Engineering"
+title: "Insights from Prometheus Up & Running"
 date: "2023-07-23"
 thumbnail: "/obsidian/book_prometheus_up_and_running.jpg"
 publish: true
