@@ -8,9 +8,9 @@ tags:
   - python
   - book
 --- 
-# **Fluent Python**
+# **Fluent Python: Clear, Concise, and Effective Programming**
 
-Welcome to our deep dive into "Fluent Python" by Luciano Ramalho. In this post, we'll explore key concepts and insights from the book that will help you master Python programming. Whether you're a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.
+Welcome to our deep dive into _Fluent Python_ by Luciano Ramalho. In this post, we'll explore key concepts and insights from the book that will help you master Python programming. Whether you're a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.
 
 *Fluent Python* by Luciano Ramalho is a comprehensive guide that delves into the depths of Python programming, offering insights and practical advice on writing idiomatic and efficient Python code. 
 
@@ -52,7 +52,7 @@ Each chapter concludes with exercises that reinforce the material and encourage 
 
 #### **Chapter 1: The Python Data Model**
 
-Ramalho introduces the Python data model, explaining how special methods enable the language's expressive syntax. He emphasizes the importance of understanding these methods to fully leverage Python's capabilities.
+Ramalho introduces the Python data model, explaining how special methods enable the language's expressive syntax. He emphasises the importance of understanding these methods to fully leverage Python's capabilities.
 
 - **Pythonic Card Deck**: An example to illustrate special methods.
 - **Emulating Numeric Types**: Techniques for creating numeric types.

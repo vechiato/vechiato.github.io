@@ -8,9 +8,9 @@ tags:
   - leadership
   - book
 --- 
-# **Ego Free Leadership**
+# **Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business**
 
-"Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business" by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.
+_Ego Free Leadership_ by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.
 
  ![image](/obsidian/ego_free_leadership.jpg)
 2017 by Brandon Black & Shayne Hughes
@@ -61,6 +61,7 @@ The authors explore the power of a noble goal and the role of personal commitmen
 
 The final chapter emphasises the long-term impact of ego-free leadership on both personal and organisational levels. Brandon and Shayne summarise the key lessons from their journey and inspire leaders to commit to continuous self-improvement and authentic leadership.
 
+---
 ## **Key Takeaways**
 
 1. **Self-Awareness:** Recognising and addressing ego-driven behaviours is crucial for effective leadership.
@@ -69,10 +70,12 @@ The final chapter emphasises the long-term impact of ego-free leadership on both
 4. **Diverse Perspectives:** Learning from all members of the organisation can provide valuable insights and drive growth.
 5. **Continuous Improvement:** Committing to personal and professional growth leads to sustained success and resilience.
 
+---
 ## **Personal Reflections**
 
 Reading "Ego Free Leadership" has been a transformative experience. The candid narrative of Brandon Black’s challenges and triumphs, combined with Shayne Hughes’ expert coaching, offers a practical guide for leaders seeking to overcome ego and lead with authenticity. The book’s emphasis on vulnerability, self-awareness, and continuous improvement resonates deeply, providing actionable insights for fostering a more collaborative and high-performing organisation.
 
+---
 ## **Conclusion**
 
 "Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business" by Brandon Black and Shayne Hughes is a must-read for any leader committed to personal and organisational excellence. By addressing the unconscious habits driven by ego, leaders can unlock their potential, inspire their teams, and drive meaningful change. This book offers a blueprint for achieving true leadership excellence and transforming organisational culture.

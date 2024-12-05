@@ -9,6 +9,8 @@ tags:
   - platform engineering
   - crossplane
   - book
+  - helm 
+  - argo
 ---
 This book is an essential read for cloud architects, platform engineers, infrastructure operators, and Kubernetes enthusiasts. Arun Ramakani expertly navigates the intricate world of infrastructure automation, providing readers with a comprehensive understanding of Crossplane and its integration with Kubernetes.
 
@@ -19,10 +21,11 @@ This book is an essential read for cloud architects, platform engineers, infrast
 
 In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionising the way organisations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In "End-to-End Automation with Kubernetes and Crossplane," Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.
 
+---
 ## **Key Concepts**
 
 1. **Understanding Kubernetes-Based Infrastructure Automation:**
-   - The book starts by contextualizing Kubernetes-based infrastructure automation, highlighting its advantages and the disruptive potential it holds for IT operations.
+   - The book starts by contextualising Kubernetes-based infrastructure automation, highlighting its advantages and the disruptive potential it holds for IT operations.
 
 2. **Crossplane Fundamentals:**
    - Readers are introduced to the core concepts of Crossplane, including Custom Resource Definitions (CRDs) and custom controllers. These building blocks are crucial for extending Kubernetes to manage external infrastructure resources effectively.
@@ -60,6 +63,8 @@ In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has em
 #### **Chapter 11: Driving the Platform Adoption**
   - The final chapter addresses the challenges of platform adoption and provides insights into building a successful infrastructure platform.
 
+---
+
 ## **Key Takeaways**
 
 - **Unified Automation:**
@@ -70,6 +75,8 @@ In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has em
 
 - **Modern Infrastructure Engineering:**
   - Readers gain a deep understanding of modern infrastructure engineering principles, preparing them for the challenges of today's cloud-native environments.
+
+---
 
 ## **Conclusion**
 
