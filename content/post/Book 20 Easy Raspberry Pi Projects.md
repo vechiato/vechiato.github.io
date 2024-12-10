@@ -27,56 +27,56 @@ I chose this book to explore ways to improve IoT experiments and to inspire idea
 
 This beginner-friendly project introduces the GPIO pins and demonstrates how to blink an LED using Python. It’s an essential starting point for learning to control hardware with code.
 
-![image](/obsidian/20_rpi_p1.png)
+![image](/obsidian/20_rpi_p1.jpg)
 #### **Project 2: Pushbutton LED Flashlight**
 
 A step up from the first project, this one adds interactivity by incorporating a button to control the LED. It teaches how to work with switches and debounce inputs.
 
-![image](/obsidian/20_rpi_p2.png)
+![image](/obsidian/20_rpi_p2.jpg)
 #### **Project 3: LED Dimmer Switch**
 
 Using a potentiometer, this project creates a dimmer switch for LEDs, introducing concepts like analog-to-digital conversion and pulse-width modulation.
 
-![image](/obsidian/20_rpi_p3.png)
+![image](/obsidian/20_rpi_p3.jpg)
 #### **Project 4: A Graphical User Interface for an RGB LED**
 
 This project dives into building a GUI with Tkinter to control the color and intensity of an RGB LED. It highlights how software can simplify hardware interactions.
 
-![image](/obsidian/20_rpi_p4.png)
+![image](/obsidian/20_rpi_p4.jpg)
 #### **Project 5: Rainbow Light Strip**
 
 Here, you’ll work with WS2812B addressable RGB LEDs to create mesmerizing light effects, exploring SPI communication and Python libraries like WS281x.
 
-![image](/obsidian/20_rpi_p5.png)
+![image](/obsidian/20_rpi_p5.jpg)
 ### **Part 2: Displays**
 
 #### **Project 6: LCD Reminder**
 
 This project uses a liquid crystal display (LCD) to show reminders, teaching you to wire and program displays for visual output.
 
-![image](/obsidian/20_rpi_p6.png)
+![image](/obsidian/20_rpi_p6.jpg)
 #### **Project 7: Mini Weather Forecaster**
 
 Combining an OLED display with data from the OpenWeatherMap API, this project creates a compact weather station. It also introduces JSON and API integration.
 
-![image](/obsidian/20_rpi_p7.png)
+![image](/obsidian/20_rpi_p7.jpg)
 #### **Project 8: Pong with a Sense HAT**
 
 This fun project recreates the classic Pong game using the Raspberry Pi Sense HAT, showcasing how sensors and displays can create interactive applications.
 
-![image](/obsidian/20_rpi_p8.png)
+![image](/obsidian/20_rpi_p8.jpg)
 ### **Part 3: Sensors**
 
 #### **Project 9: All-in-One Weather Sensor Station**
 
 Building on the Sense HAT, this project creates a weather station that reads temperature, humidity, and barometric pressure, complete with a GUI.
 
-![image](/obsidian/20_rpi_p9.png)
+![image](/obsidian/20_rpi_p9.jpg)
 #### **Project 10: Intruder Alarm with Email Notifications**
 
 Using a PIR motion sensor, this project sets up a basic security system that sends email alerts when motion is detected.
 
-![image](/obsidian/20_rpi_p10.png)
+![image](/obsidian/20_rpi_p10.jpg)
 #### **Project 11: Gas and Smoke Alarm**
 
 This project features the MQ-2 gas and smoke sensor to build an alarm system, with thresholds configurable via Python.
@@ -86,7 +86,7 @@ This project features the MQ-2 gas and smoke sensor to build an alarm system, wi
 
 With a DHT22 sensor, this project logs environmental data into text files, emphasizing data acquisition and storage.
 
-![image](/obsidian/20_rpi_p12.png)
+![image](/obsidian/20_rpi_p12.jpg)
 
 ### **Part 4: Cameras**
 
@@ -94,14 +94,14 @@ With a DHT22 sensor, this project logs environmental data into text files, empha
 
 This project combines a motion sensor with a camera module to capture and save photos when an intruder is detected.
 
-![image](/obsidian/20_rpi_p13.png)
+![image](/obsidian/20_rpi_p13.jpg)
 
 Full project as a sample for download https://nostarch.com/download/20EasyRPiProjects_ch13_sample.pdf
 #### **Project 14: Home Surveillance Camera**
 
 Expand on the previous project by recording videos. This project introduces video streaming and file management on the Raspberry Pi.
 
-![image](/obsidian/20_rpi_p14.png)
+![image](/obsidian/20_rpi_p14.jpg)
 ### **Part 5: Web Applications**
 
 #### **Project 15: Building Your First Website**
@@ -112,13 +112,13 @@ Learn to host a simple website on the Raspberry Pi, covering HTML, CSS, and web 
 
 Integrate electronics with a website, allowing remote control of components using a Python Flask web server.
 
-![image](/obsidian/20_rpi_p16.png)
+![image](/obsidian/20_rpi_p16.jpg)
 #### **Project 17: IoT App to Control Electronics from a Web Server**
 
 This project uses Node-RED to create a web-based IoT control center, teaching drag-and-drop programming for IoT devices.
 
-![image](/obsidian/20_rpi_p17_1.png)
-![image](/obsidian/20_rpi_p17_2.png)
+![image](/obsidian/20_rpi_p17_1.jpg)
+![image](/obsidian/20_rpi_p17_2.jpg)
 
 ### **Part 6: Games and Toys**
 
@@ -126,19 +126,19 @@ This project uses Node-RED to create a web-based IoT control center, teaching dr
 
 Using touch sensors, this project creates a digital drum set that plays sounds when tapped. It highlights audio integration with hardware.
 
-![image](/obsidian/20_rpi_p18.png)
+![image](/obsidian/20_rpi_p18.jpg)
 
 #### **Project 19: Make a Game in Scratch: Hungry Monkey**
 
 This playful project teaches game development in Scratch, introducing children to programming with visual tools.
 
-![image](/obsidian/20_rpi_p19.png)
+![image](/obsidian/20_rpi_p19.jpg)
 
 #### **Project 20: Wi-Fi Remote-Controlled Robot**
 
 The final project combines motors, sensors, and a Wi-Fi controller to build a robot, showcasing the Raspberry Pi’s full potential.
 
-![image](/obsidian/20_rpi_p20.png)
+![image](/obsidian/20_rpi_p20.jpg)
 
 ## **Key Takeaways**
 
