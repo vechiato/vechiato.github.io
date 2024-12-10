@@ -15,8 +15,6 @@ The CGOA certification was announced in 2023 can now be purchased as of February
 
 [Certified GitOps Associate (CGOA)](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/)
 
-![image](/obsidian/gitops.jpeg)
-
 **Experience Level:** Beginner
 
 - Online
