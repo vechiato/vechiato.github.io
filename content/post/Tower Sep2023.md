@@ -7,6 +7,10 @@ publish: true
 tags:
   - hydroponics
 --- 
+
+Dive into my journey of experimenting with hydroponics! Over the past few months, I've tracked the key metric: pH, PPM, and growth stages for cultivating lettuce. This post outlines my progress, adjustments, and outcomes, complete with a timeline of photos and data.
+
+
 Lettuce	ideal PH 5.5 – 6.5 PPM 560 – 840
 
 | Date     | PH     | PPM    | Photo |

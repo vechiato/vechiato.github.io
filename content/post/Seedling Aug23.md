@@ -8,6 +8,8 @@ tags:
   - hydroponics
 --- 
 
+Join me as I explore the initial stages of my hydroponics journey! This post captures the progress of lettuce and rocket seedlings over several weeks, with updates on their growth, adjustments to the setup, and visual highlights.
+
 | Date     | what  | Photo |
 | -------- | ----  | ---   |
 | 10/09/23 | Lettuce/Rocket |  ![image](/obsidian/seedling230910.png) |
