@@ -2,6 +2,7 @@
 author: "Marcus Vechiato"
 title: "GitOps Certification"
 date: "2024-03-05"
+thumbnail: "/obsidian/gitops.jpeg"
 publish: true
 tags: 
   - gitops
@@ -9,9 +10,9 @@ tags:
   - certification
 --- 
 
-[Certified GitOps Associate (CGOA)](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/)
-
 The CGOA certification was announced in 2023 can now be purchased as of February 21, 2024, but the ability to schedule a CGOA exam will not be available until the end of March 2024.  
+
+[Certified GitOps Associate (CGOA)](https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/)
 
 **Experience Level:** Beginner
 
