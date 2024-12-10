@@ -6,6 +6,7 @@ thumbnail: "/obsidian/gitops.jpeg"
 publish: true
 tags: 
   - gitops
+  - git
   - devops
   - certification
 --- 
