@@ -18,35 +18,13 @@
         
           
             &lt;h1 id=&#34;screen&#34;&gt;&lt;code&gt;screen&lt;/code&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;code&gt;screen&lt;/code&gt; is a terminal multiplexer that allows you to start a session, run commands, and detach from it, keeping the session running in the background. You can later reattach to the session even if the original terminal connection was lost, which is useful for remote tasks that need resilience against disconnections.
-&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/linux_thumb.jpeg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;screen&lt;/code&gt; is a terminal multiplexer that allows you to start a session, run commands, and detach from it, keeping the session running in the background. You can later reattach to the session even if the original terminal connection was lost, which is useful for remote tasks that need resilience against disconnections.&lt;/p&gt;
 &lt;h3 id=&#34;basic-commands&#34;&gt;Basic Commands&lt;/h3&gt;
 &lt;h4 id=&#34;start-a-new-session&#34;&gt;Start a New Session&lt;/h4&gt;
 &lt;p&gt;To start a new session with a custom name (e.g., &lt;code&gt;my_session&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;screen -S my_session
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;run-a-command&#34;&gt;Run a Command&lt;/h4&gt;
+&lt;p&gt;Inside the screen session, run any long-running command:&lt;/p&gt;
           
           
         

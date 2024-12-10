@@ -9,11 +9,9 @@ publish: true
 tags: 
   - linux
 --- 
-
 #  `screen` 
 
 `screen` is a terminal multiplexer that allows you to start a session, run commands, and detach from it, keeping the session running in the background. You can later reattach to the session even if the original terminal connection was lost, which is useful for remote tasks that need resilience against disconnections.
-![image](/obsidian/linux_thumb.jpeg)
 ### Basic Commands
 
 #### Start a New Session
