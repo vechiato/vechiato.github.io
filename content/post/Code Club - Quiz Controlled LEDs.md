@@ -14,7 +14,8 @@ tags:
 
 Here's a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.
 
-**Objective:**  
+## **Objective:**  
+
 Create a Python-based LED game where players answer questions. Correct answers turn on a green LED, while wrong answers flash a red LED multiple times.
 
 ![image](/obsidian/code_club_thumb.jpeg)
@@ -71,7 +72,6 @@ Create a Python program that:
 
 ---
 ### **Example Code (Starter Template)**
-
 
 ```python
 import RPi.GPIO as GPIO
@@ -158,9 +158,9 @@ finally:
 
 ### **Challenge (Optional)**:
 
-#### **Suggested Add-Ons for Customisation:**
+**Suggested Add-Ons for Customisation:**
 
 1. **Timer:** Add a countdown timer for each question to make it more challenging.
-2. Lose Points: Take 1 point if the given answer is not correct.
+2. **Lose Points:** Take 1 point if the given answer is not correct.
 3. **Difficulty Levels:** Include an option to choose between Easy, Medium, and Hard questions.
 
