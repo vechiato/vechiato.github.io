@@ -2,7 +2,7 @@
 author: "Marcus Vechiato"
 title: "Code Club Challenge 1 - Quiz Controlled LEDs"
 date: "2024-12-10"
-thumbnail: "/obsidian/code_club_thumb.jpg"
+thumbnail: "/obsidian/code_club_thumb.jpeg"
 publish: true
 tags: 
   - code club
@@ -10,13 +10,14 @@ tags:
   - iot
   - raspberry pi
 --- 
-# **Quiz-Controlled LEDs**
+# **Code Club - Quiz Controlled LEDs**
 
-Here's a simple challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.
+Here's a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.
 
 **Objective:**  
 Create a Python-based LED game where players answer questions. Correct answers turn on a green LED, while wrong answers flash a red LED multiple times.
 
+![image](/obsidian/code_club_thumb.jpeg)
 ---
 
 ## **Requirements:**
@@ -69,15 +70,6 @@ Create a Python program that:
 - If the user answers incorrectly, turn on a different LED or flash it to indicate an error.
 
 ---
-
-### **Challenge Rules**:
-
-1. Write the program so it asks at least **3 questions**.
-2. Use functions to organize the code, e.g., a function for asking questions and another for controlling LEDs.
-3. Ensure that the program gracefully exits when the user answers "quit".
-
----
-
 ### **Example Code (Starter Template)**
 
 
@@ -139,7 +131,6 @@ except KeyboardInterrupt:
 
 finally:
     GPIO.cleanup()
-
 ```
 
 ### **Tasks:** 

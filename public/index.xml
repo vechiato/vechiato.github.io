@@ -10,18 +10,42 @@
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code Club Challenge 1 - Quiz Controlled LEDs</title>
-      <link>https://blog.vechiato.cc/post/code-club-challenge---quiz-controlled-leds/</link>
+      <link>https://blog.vechiato.cc/post/code-club---quiz-controlled-leds/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.vechiato.cc/post/code-club-challenge---quiz-controlled-leds/</guid>
+      <guid>https://blog.vechiato.cc/post/code-club---quiz-controlled-leds/</guid>
       <description>
         
           
-            &lt;h1 id=&#34;quiz-controlled-leds&#34;&gt;&lt;strong&gt;Quiz-Controlled LEDs&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Here&#39;s a simple challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.&lt;/p&gt;
+            &lt;h1 id=&#34;code-club---quiz-controlled-leds&#34;&gt;&lt;strong&gt;Code Club - Quiz Controlled LEDs&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Here&#39;s a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt;&lt;br&gt;
 Create a Python-based LED game where players answer questions. Correct answers turn on a green LED, while wrong answers flash a red LED multiple times.&lt;/p&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;imageobsidiancode_club_thumbjpeg&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/code_club_thumb.jpeg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/h2&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;hardware&#34;&gt;&lt;strong&gt;Hardware:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
