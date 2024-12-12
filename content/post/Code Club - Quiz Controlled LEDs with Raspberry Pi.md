@@ -62,7 +62,7 @@ Create a Python-based LED game where players answer questions. Correct answers t
 - Use resistors to protect the LEDs.
 - Connect the cathode (short leg) of each LED to the ground (negative -).
 
-![image](/obsidian/Pasted image 20241212142912.png)
+![image](/obsidian/ledquiz_boardbred.png)
 
 **Raspberry 3b Pinout** 
 ![image](/obsidian/rpi3b_pinout.png)

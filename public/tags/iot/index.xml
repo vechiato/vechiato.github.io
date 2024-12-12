@@ -83,7 +83,31 @@ The game ends with a score summary.&lt;/li&gt;
 &lt;li&gt;Use resistors to protect the LEDs.&lt;/li&gt;
 &lt;li&gt;Connect the cathode (short leg) of each LED to the ground (negative -).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;![image](/obsidian/Pasted image 20241212142912.png)&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/ledquiz_boardbred.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
           
           
         
