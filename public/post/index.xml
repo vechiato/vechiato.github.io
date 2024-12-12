@@ -83,8 +83,7 @@ The game ends with a score summary.&lt;/li&gt;
 &lt;li&gt;Use resistors to protect the LEDs.&lt;/li&gt;
 &lt;li&gt;Connect the cathode (short leg) of each LED to the ground (negative -).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;2-write-the-code&#34;&gt;2. &lt;strong&gt;Write the Code&lt;/strong&gt;:&lt;/h4&gt;
-&lt;p&gt;Create a Python program that:&lt;/p&gt;
+&lt;p&gt;![image](/obsidian/Pasted image 20241212142912.png)&lt;/p&gt;
           
           
         
