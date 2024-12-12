@@ -64,14 +64,14 @@ Create a Python-based LED game where players answer questions. Correct answers t
 
 ![image](/obsidian/Pasted image 20241212142912.png)
 
-Raspberry 3b Pinout 
-![image](/obsidian/Pasted image 20241212143418.png)
+**Raspberry 3b Pinout** 
+![image](/obsidian/rpi3b_pinout.png)
 
-Raspberry Pi 4 Pinout
-![image](/obsidian/Pasted image 20241212143917.png)
+**Raspberry Pi 4 Pinout**
+![image](/obsidian/rpi5_pinout.png)
 
-Raspberry Pi 5 Pinout 
-![image](/obsidian/Pasted image 20241212143848.png)
+**Raspberry Pi 5 Pinout **
+![image](/obsidian/rpi4_pinout.png)
 
 #### 2. **Write the Code**:
 
