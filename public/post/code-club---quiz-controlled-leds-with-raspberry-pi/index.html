@@ -407,9 +407,10 @@ The game ends with a score summary.</li>
 </ul>
 <h3 id="led-wiring-test-application"><strong>LED Wiring Test Application</strong></h3>
 <p>This program will sequentially blink the red LED, green LED, and then both LEDs together, to visually confirm that the wiring and components are working correctly.</p>
-<p><strong>Create a new file wiring_test.py</strong></p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">nano wiring_test.py
-</span></span></code></pre></div><p><strong>Copy the code and paste into the new file</strong></p>
+<ul>
+<li><strong>Create a new file wiring_test.py</strong></li>
+<li><strong>Copy the code and paste into the new file</strong></li>
+</ul>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="ln"> 1</span><span class="cl"><span class="kn">from</span> <span class="nn">gpiozero</span> <span class="kn">import</span> <span class="n">LED</span>
 </span></span><span class="line"><span class="ln"> 2</span><span class="cl"><span class="kn">import</span> <span class="nn">time</span>
 </span></span><span class="line"><span class="ln"> 3</span><span class="cl">
@@ -440,12 +441,12 @@ The game ends with a score summary.</li>
 </span></span><span class="line"><span class="ln">28</span><span class="cl">
 </span></span><span class="line"><span class="ln">29</span><span class="cl">    <span class="c1"># Test Red LED</span>
 </span></span><span class="line"><span class="ln">30</span><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Testing Red LED...&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln">31</span><span class="cl">    <span class="n">blink_led</span><span class="p">(</span><span class="n">LED_RED</span><span class="p">,</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">3</span><span class="p">)</span>
+</span></span><span class="line"><span class="ln">31</span><span class="cl">    <span class="n">blink_led</span><span class="p">(</span><span class="n">LED_RED</span><span class="p">,</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">5</span><span class="p">)</span>
 </span></span><span class="line"><span class="ln">32</span><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Red LED test complete.&#34;</span><span class="p">)</span>
 </span></span><span class="line"><span class="ln">33</span><span class="cl">
 </span></span><span class="line"><span class="ln">34</span><span class="cl">    <span class="c1"># Test Green LED</span>
 </span></span><span class="line"><span class="ln">35</span><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Testing Green LED...&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln">36</span><span class="cl">    <span class="n">blink_led</span><span class="p">(</span><span class="n">LED_GREEN</span><span class="p">,</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">3</span><span class="p">)</span>
+</span></span><span class="line"><span class="ln">36</span><span class="cl">    <span class="n">blink_led</span><span class="p">(</span><span class="n">LED_GREEN</span><span class="p">,</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">5</span><span class="p">)</span>
 </span></span><span class="line"><span class="ln">37</span><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Green LED test complete.&#34;</span><span class="p">)</span>
 </span></span><span class="line"><span class="ln">38</span><span class="cl">
 </span></span><span class="line"><span class="ln">39</span><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Wiring test complete! If all LEDs blinked as expected, your wiring is correct.&#34;</span><span class="p">)</span>
@@ -456,7 +457,9 @@ The game ends with a score summary.</li>
 </span></span><span class="line"><span class="ln">44</span><span class="cl">        <span class="n">test_wiring</span><span class="p">()</span>
 </span></span><span class="line"><span class="ln">45</span><span class="cl">    <span class="k">except</span> <span class="ne">KeyboardInterrupt</span><span class="p">:</span>
 </span></span><span class="line"><span class="ln">46</span><span class="cl">        <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;</span><span class="se">\n</span><span class="s2">Test interrupted.&#34;</span><span class="p">)</span>
-</span></span></code></pre></div><p><strong>Run wiring_test.py</strong> and you should see this output:</p>
+</span></span></code></pre></div><ul>
+<li><strong>Run wiring_test.py</strong> and you should see this output:</li>
+</ul>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln"> 1</span><span class="cl">$ python wiring_test.py
 </span></span><span class="line"><span class="ln"> 2</span><span class="cl">
 </span></span><span class="line"><span class="ln"> 3</span><span class="cl">Starting wiring test...
@@ -539,7 +542,8 @@ The game ends with a score summary.</li>
 </span></span><span class="line"><span class="ln">67</span><span class="cl">
 </span></span><span class="line"><span class="ln">68</span><span class="cl"><span class="c1"># Final score</span>
 </span></span><span class="line"><span class="ln">69</span><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Game over! You scored </span><span class="si">{</span><span class="n">score</span><span class="si">}</span><span class="s2"> out of </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">questions</span><span class="p">)</span><span class="si">}</span><span class="s2">.&#34;</span><span class="p">)</span>
-</span></span></code></pre></div><h3 id="tasks"><strong>Tasks:</strong></h3>
+</span></span></code></pre></div><hr>
+<h3 id="tasks"><strong>Tasks:</strong></h3>
 <ol>
 <li><strong>Complete the <code>wrong_answer()</code> Function</strong>:
 <ul>
@@ -556,7 +560,7 @@ The game ends with a score summary.</li>
 <li><strong>Enhance the Game</strong> (Optional):
 <ul>
 <li><strong>More questions:</strong> Add 3 additional questions</li>
-<li>Exit the quiz if the Q letter is entered.</li>
+<li><strong>Quit:</strong> Exit the quiz if the Q letter is entered.</li>
 <li><strong>Timer:</strong> Add a countdown timer for each question to make it more challenging.</li>
 <li><strong>More questions:</strong> Add more questions</li>
 </ul>

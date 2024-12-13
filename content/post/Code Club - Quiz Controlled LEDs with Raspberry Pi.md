@@ -85,14 +85,8 @@ Create a Python program that:
 
 This program will sequentially blink the red LED, green LED, and then both LEDs together, to visually confirm that the wiring and components are working correctly. 
 
-**Create a new file wiring_test.py**
-
-```bash
-nano wiring_test.py
-```
-
-**Copy the code and paste into the new file** 
-
+- **Create a new file wiring_test.py**
+- **Copy the code and paste into the new file** 
 
 ```python
 from gpiozero import LED
@@ -125,12 +119,12 @@ def test_wiring():
 
     # Test Red LED
     print("Testing Red LED...")
-    blink_led(LED_RED,0.5,3)
+    blink_led(LED_RED,0.5,5)
     print("Red LED test complete.")
 
     # Test Green LED
     print("Testing Green LED...")
-    blink_led(LED_GREEN,0.5,3)
+    blink_led(LED_GREEN,0.5,5)
     print("Green LED test complete.")
 
     print("Wiring test complete! If all LEDs blinked as expected, your wiring is correct.")
@@ -144,7 +138,7 @@ if __name__ == "__main__":
 
 ```
 
-**Run wiring_test.py** and you should see this output:
+- **Run wiring_test.py** and you should see this output:
 
 ```bash
 $ python wiring_test.py
@@ -235,6 +229,7 @@ for q in questions:
 print(f"Game over! You scored {score} out of {len(questions)}.")
 ```
 
+---
 ### **Tasks:** 
 
 1. **Complete the `wrong_answer()` Function**:
@@ -245,7 +240,7 @@ print(f"Game over! You scored {score} out of {len(questions)}.")
 3. **Lose Points:** Take 1 point if the given answer is not correct.
 4. **Enhance the Game** (Optional):
 	- **More questions:** Add 3 additional questions 
-	- Exit the quiz if the Q letter is entered. 
+	- **Quit:** Exit the quiz if the Q letter is entered. 
 	- **Timer:** Add a countdown timer for each question to make it more challenging.
     - **More questions:** Add more questions 
 
