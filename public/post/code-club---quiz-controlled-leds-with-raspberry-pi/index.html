@@ -407,6 +407,9 @@ The game ends with a score summary.</li>
 </ul>
 <h3 id="led-wiring-test-application"><strong>LED Wiring Test Application</strong></h3>
 <p>This program will sequentially blink the red LED, green LED, and then both LEDs together, to visually confirm that the wiring and components are working correctly.</p>
+<p>** Create a new file wiring_test.py **</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">nano wiring_test.py
+</span></span></code></pre></div><p>** Copy the code and paste in the new file **</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="ln"> 1</span><span class="cl"><span class="kn">from</span> <span class="nn">gpiozero</span> <span class="kn">import</span> <span class="n">LED</span>
 </span></span><span class="line"><span class="ln"> 2</span><span class="cl"><span class="kn">import</span> <span class="nn">time</span>
 </span></span><span class="line"><span class="ln"> 3</span><span class="cl">
@@ -463,6 +466,18 @@ The game ends with a score summary.</li>
 </span></span><span class="line"><span class="ln">54</span><span class="cl">        <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;</span><span class="se">\n</span><span class="s2">Test interrupted.&#34;</span><span class="p">)</span>
 </span></span><span class="line"><span class="ln">55</span><span class="cl">    <span class="k">finally</span><span class="p">:</span>
 </span></span><span class="line"><span class="ln">56</span><span class="cl">        <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Cleaning up GPIO...&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><p>** Run wiring_test.py **</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln"> 1</span><span class="cl">$ python wiring_test.py
+</span></span><span class="line"><span class="ln"> 2</span><span class="cl">
+</span></span><span class="line"><span class="ln"> 3</span><span class="cl">Starting wiring test...
+</span></span><span class="line"><span class="ln"> 4</span><span class="cl">Testing Red LED...
+</span></span><span class="line"><span class="ln"> 5</span><span class="cl">Red LED <span class="nb">test</span> complete.
+</span></span><span class="line"><span class="ln"> 6</span><span class="cl">Testing Green LED...
+</span></span><span class="line"><span class="ln"> 7</span><span class="cl">Green LED <span class="nb">test</span> complete.
+</span></span><span class="line"><span class="ln"> 8</span><span class="cl">Testing Both LEDs Together...
+</span></span><span class="line"><span class="ln"> 9</span><span class="cl">Both LEDs <span class="nb">test</span> complete.
+</span></span><span class="line"><span class="ln">10</span><span class="cl">Wiring <span class="nb">test</span> complete! If all LEDs blinked as expected, your wiring is correct.
+</span></span><span class="line"><span class="ln">11</span><span class="cl">Cleaning up GPIO...
 </span></span></code></pre></div><hr>
 <h3 id="example-code-starter-template"><strong>Example Code (Starter Template)</strong></h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="ln"> 1</span><span class="cl"><span class="kn">from</span> <span class="nn">gpiozero</span> <span class="kn">import</span> <span class="n">LED</span>

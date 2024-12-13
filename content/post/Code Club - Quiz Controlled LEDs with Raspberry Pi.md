@@ -85,6 +85,14 @@ Create a Python program that:
 
 This program will sequentially blink the red LED, green LED, and then both LEDs together, to visually confirm that the wiring and components are working correctly. 
 
+** Create a new file wiring_test.py **
+
+```bash
+nano wiring_test.py
+```
+
+** Copy the code and paste in the new file ** 
+
 ```python
 from gpiozero import LED
 import time
@@ -142,6 +150,22 @@ if __name__ == "__main__":
         print("\nTest interrupted.")
     finally:
         print("Cleaning up GPIO...")
+```
+
+** Run wiring_test.py ** 
+
+```bash
+$ python wiring_test.py
+
+Starting wiring test...
+Testing Red LED...
+Red LED test complete.
+Testing Green LED...
+Green LED test complete.
+Testing Both LEDs Together...
+Both LEDs test complete.
+Wiring test complete! If all LEDs blinked as expected, your wiring is correct.
+Cleaning up GPIO...
 ```
 
 ---
