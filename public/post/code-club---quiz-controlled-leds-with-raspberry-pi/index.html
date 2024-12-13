@@ -407,70 +407,69 @@ The game ends with a score summary.</li>
 </ul>
 <hr>
 <h3 id="example-code-starter-template"><strong>Example Code (Starter Template)</strong></h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="ln"> 1</span><span class="cl"><span class="kn">import</span> <span class="nn">RPi.GPIO</span> <span class="k">as</span> <span class="nn">GPIO</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="ln"> 1</span><span class="cl"><span class="kn">from</span> <span class="nn">gpiozero</span> <span class="kn">import</span> <span class="n">LED</span>
 </span></span><span class="line"><span class="ln"> 2</span><span class="cl"><span class="kn">import</span> <span class="nn">time</span>
 </span></span><span class="line"><span class="ln"> 3</span><span class="cl">
-</span></span><span class="line"><span class="ln"> 4</span><span class="cl"><span class="c1"># GPIO Setup (Predefined)</span>
-</span></span><span class="line"><span class="ln"> 5</span><span class="cl"><span class="n">GPIO</span><span class="o">.</span><span class="n">setmode</span><span class="p">(</span><span class="n">GPIO</span><span class="o">.</span><span class="n">BCM</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln"> 6</span><span class="cl"><span class="n">LED_GREEN</span> <span class="o">=</span> <span class="mi">17</span>  <span class="c1"># Green LED pin</span>
-</span></span><span class="line"><span class="ln"> 7</span><span class="cl"><span class="n">LED_RED</span> <span class="o">=</span> <span class="mi">18</span>    <span class="c1"># Red LED pin</span>
-</span></span><span class="line"><span class="ln"> 8</span><span class="cl"><span class="n">GPIO</span><span class="o">.</span><span class="n">setup</span><span class="p">(</span><span class="n">LED_GREEN</span><span class="p">,</span> <span class="n">GPIO</span><span class="o">.</span><span class="n">OUT</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln"> 9</span><span class="cl"><span class="n">GPIO</span><span class="o">.</span><span class="n">setup</span><span class="p">(</span><span class="n">LED_RED</span><span class="p">,</span> <span class="n">GPIO</span><span class="o">.</span><span class="n">OUT</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln">10</span><span class="cl">
-</span></span><span class="line"><span class="ln">11</span><span class="cl"><span class="c1"># Functions</span>
-</span></span><span class="line"><span class="ln">12</span><span class="cl"><span class="k">def</span> <span class="nf">correct_answer</span><span class="p">():</span>
-</span></span><span class="line"><span class="ln">13</span><span class="cl">    <span class="s2">&#34;&#34;&#34;
-</span></span></span><span class="line"><span class="ln">14</span><span class="cl"><span class="s2">    Turn on the green LED for 1 second.
-</span></span></span><span class="line"><span class="ln">15</span><span class="cl"><span class="s2">    &#34;&#34;&#34;</span>
-</span></span><span class="line"><span class="ln">16</span><span class="cl">    <span class="c1"># TODO: Write the code to turn on the green LED</span>
-</span></span><span class="line"><span class="ln">17</span><span class="cl">    <span class="c1"># Hint: Use GPIO.output and time.sleep</span>
-</span></span><span class="line"><span class="ln">18</span><span class="cl">
-</span></span><span class="line"><span class="ln">19</span><span class="cl"><span class="k">def</span> <span class="nf">wrong_answer</span><span class="p">():</span>
-</span></span><span class="line"><span class="ln">20</span><span class="cl">    <span class="s2">&#34;&#34;&#34;
-</span></span></span><span class="line"><span class="ln">21</span><span class="cl"><span class="s2">    Flash the red LED 3 times with 0.5-second intervals.
-</span></span></span><span class="line"><span class="ln">22</span><span class="cl"><span class="s2">    &#34;&#34;&#34;</span>
-</span></span><span class="line"><span class="ln">23</span><span class="cl">    <span class="c1"># TODO: Write the code to flash the red LED 3 times</span>
-</span></span><span class="line"><span class="ln">24</span><span class="cl">    <span class="c1"># Hint: Use a loop and GPIO.output</span>
-</span></span><span class="line"><span class="ln">25</span><span class="cl">
-</span></span><span class="line"><span class="ln">26</span><span class="cl"><span class="c1"># Questions and answers</span>
-</span></span><span class="line"><span class="ln">27</span><span class="cl"><span class="n">questions</span> <span class="o">=</span> <span class="p">[</span>
-</span></span><span class="line"><span class="ln">28</span><span class="cl">    <span class="p">{</span><span class="s2">&#34;question&#34;</span><span class="p">:</span> <span class="s2">&#34;What is 5 + 3? </span><span class="se">\n</span><span class="s2">A. 6</span><span class="se">\n</span><span class="s2">B. 8</span><span class="se">\n</span><span class="s2">C. 10</span><span class="se">\n</span><span class="s2">Your answer: &#34;</span><span class="p">,</span> <span class="s2">&#34;answer&#34;</span><span class="p">:</span> <span class="s2">&#34;B&#34;</span><span class="p">},</span>
-</span></span><span class="line"><span class="ln">29</span><span class="cl">    <span class="p">{</span><span class="s2">&#34;question&#34;</span><span class="p">:</span> <span class="s2">&#34;What is the capital of France? </span><span class="se">\n</span><span class="s2">A. Rome</span><span class="se">\n</span><span class="s2">B. Paris</span><span class="se">\n</span><span class="s2">C. Berlin</span><span class="se">\n</span><span class="s2">Your answer: &#34;</span><span class="p">,</span> <span class="s2">&#34;answer&#34;</span><span class="p">:</span> <span class="s2">&#34;B&#34;</span><span class="p">},</span>
-</span></span><span class="line"><span class="ln">30</span><span class="cl">    <span class="p">{</span><span class="s2">&#34;question&#34;</span><span class="p">:</span> <span class="s2">&#34;What is the color of the sky? </span><span class="se">\n</span><span class="s2">A. Blue</span><span class="se">\n</span><span class="s2">B. Green</span><span class="se">\n</span><span class="s2">C. Yellow</span><span class="se">\n</span><span class="s2">Your answer: &#34;</span><span class="p">,</span> <span class="s2">&#34;answer&#34;</span><span class="p">:</span> <span class="s2">&#34;A&#34;</span><span class="p">},</span>
-</span></span><span class="line"><span class="ln">31</span><span class="cl">    <span class="p">{</span><span class="s2">&#34;question&#34;</span><span class="p">:</span> <span class="s2">&#34;Which planet is known as the Red Planet? </span><span class="se">\n</span><span class="s2">A. Earth</span><span class="se">\n</span><span class="s2">B. Mars</span><span class="se">\n</span><span class="s2">C. Venus</span><span class="se">\n</span><span class="s2">Your answer: &#34;</span><span class="p">,</span> <span class="s2">&#34;answer&#34;</span><span class="p">:</span> <span class="s2">&#34;B&#34;</span><span class="p">},</span>
-</span></span><span class="line"><span class="ln">32</span><span class="cl">    <span class="p">{</span><span class="s2">&#34;question&#34;</span><span class="p">:</span> <span class="s2">&#34;What is the square root of 16? </span><span class="se">\n</span><span class="s2">A. 2</span><span class="se">\n</span><span class="s2">B. 4</span><span class="se">\n</span><span class="s2">C. 8</span><span class="se">\n</span><span class="s2">Your answer: &#34;</span><span class="p">,</span> <span class="s2">&#34;answer&#34;</span><span class="p">:</span> <span class="s2">&#34;B&#34;</span><span class="p">}</span>
-</span></span><span class="line"><span class="ln">33</span><span class="cl"><span class="p">]</span>
+</span></span><span class="line"><span class="ln"> 4</span><span class="cl"><span class="n">LED_GREEN</span> <span class="o">=</span> <span class="n">LED</span><span class="p">(</span><span class="mi">18</span><span class="p">)</span>  <span class="c1"># Green LED pin</span>
+</span></span><span class="line"><span class="ln"> 5</span><span class="cl"><span class="n">LED_RED</span> <span class="o">=</span> <span class="n">LED</span><span class="p">(</span><span class="mi">17</span><span class="p">)</span>    <span class="c1"># Red LED pin</span>
+</span></span><span class="line"><span class="ln"> 6</span><span class="cl">
+</span></span><span class="line"><span class="ln"> 7</span><span class="cl"><span class="c1"># Functions</span>
+</span></span><span class="line"><span class="ln"> 8</span><span class="cl"><span class="k">def</span> <span class="nf">correct_answer</span><span class="p">():</span>
+</span></span><span class="line"><span class="ln"> 9</span><span class="cl">    <span class="s2">&#34;&#34;&#34;
+</span></span></span><span class="line"><span class="ln">10</span><span class="cl"><span class="s2">    Turn on the green LED for 1 second.
+</span></span></span><span class="line"><span class="ln">11</span><span class="cl"><span class="s2">    &#34;&#34;&#34;</span>
+</span></span><span class="line"><span class="ln">12</span><span class="cl">    <span class="n">LED_GREEN</span><span class="o">.</span><span class="n">on</span><span class="p">()</span>
+</span></span><span class="line"><span class="ln">13</span><span class="cl">    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+</span></span><span class="line"><span class="ln">14</span><span class="cl">    <span class="n">LED_GREEN</span><span class="o">.</span><span class="n">off</span><span class="p">()</span>
+</span></span><span class="line"><span class="ln">15</span><span class="cl">
+</span></span><span class="line"><span class="ln">16</span><span class="cl"><span class="k">def</span> <span class="nf">wrong_answer</span><span class="p">():</span>
+</span></span><span class="line"><span class="ln">17</span><span class="cl">    <span class="s2">&#34;&#34;&#34;
+</span></span></span><span class="line"><span class="ln">18</span><span class="cl"><span class="s2">    Flash the red LED 3 times with 0.5-second intervals.
+</span></span></span><span class="line"><span class="ln">19</span><span class="cl"><span class="s2">    &#34;&#34;&#34;</span>
+</span></span><span class="line"><span class="ln">20</span><span class="cl">    <span class="c1"># TODO: Write the code to flash the red LED 3 times</span>
+</span></span><span class="line"><span class="ln">21</span><span class="cl">    <span class="c1"># Hint: Use a loop and GPIO.output</span>
+</span></span><span class="line"><span class="ln">22</span><span class="cl">
+</span></span><span class="line"><span class="ln">23</span><span class="cl"><span class="k">def</span> <span class="nf">get_valid_input</span><span class="p">():</span>
+</span></span><span class="line"><span class="ln">24</span><span class="cl">    <span class="s2">&#34;&#34;&#34;
+</span></span></span><span class="line"><span class="ln">25</span><span class="cl"><span class="s2">    Repeatedly ask the user for input until a valid answer (A, B, or C) is provided.
+</span></span></span><span class="line"><span class="ln">26</span><span class="cl"><span class="s2">    &#34;&#34;&#34;</span>
+</span></span><span class="line"><span class="ln">27</span><span class="cl">    <span class="n">valid_answers</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;A&#39;</span><span class="p">,</span> <span class="s1">&#39;B&#39;</span><span class="p">,</span> <span class="s1">&#39;C&#39;</span><span class="p">]</span>
+</span></span><span class="line"><span class="ln">28</span><span class="cl">    <span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+</span></span><span class="line"><span class="ln">29</span><span class="cl">        <span class="n">user_input</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Your answer (A/B/C): &#34;</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span><span class="o">.</span><span class="n">upper</span><span class="p">()</span>
+</span></span><span class="line"><span class="ln">30</span><span class="cl">        <span class="k">if</span> <span class="n">user_input</span> <span class="ow">in</span> <span class="n">valid_answers</span><span class="p">:</span>
+</span></span><span class="line"><span class="ln">31</span><span class="cl">            <span class="k">return</span> <span class="n">user_input</span>
+</span></span><span class="line"><span class="ln">32</span><span class="cl">        <span class="k">else</span><span class="p">:</span>
+</span></span><span class="line"><span class="ln">33</span><span class="cl">            <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Invalid input! Please choose A, B, or C.&#34;</span><span class="p">)</span>
 </span></span><span class="line"><span class="ln">34</span><span class="cl">
-</span></span><span class="line"><span class="ln">35</span><span class="cl"><span class="c1"># Main Quiz Logic</span>
-</span></span><span class="line"><span class="ln">36</span><span class="cl"><span class="k">try</span><span class="p">:</span>
-</span></span><span class="line"><span class="ln">37</span><span class="cl">    <span class="n">score</span> <span class="o">=</span> <span class="mi">0</span>
-</span></span><span class="line"><span class="ln">38</span><span class="cl">    <span class="k">for</span> <span class="n">q</span> <span class="ow">in</span> <span class="n">questions</span><span class="p">:</span>
-</span></span><span class="line"><span class="ln">39</span><span class="cl">        <span class="n">answer</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="n">q</span><span class="p">[</span><span class="s2">&#34;question&#34;</span><span class="p">])</span>
-</span></span><span class="line"><span class="ln">40</span><span class="cl">        <span class="c1"># TODO: Add the logic to check if the answer is correct</span>
-</span></span><span class="line"><span class="ln">41</span><span class="cl">        <span class="c1"># Hint: Compare the user&#39;s input to q[&#34;answer&#34;]</span>
-</span></span><span class="line"><span class="ln">42</span><span class="cl">        <span class="k">if</span> <span class="o">...</span><span class="p">:</span>  <span class="c1"># Complete this condition</span>
-</span></span><span class="line"><span class="ln">43</span><span class="cl">            <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Correct!&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln">44</span><span class="cl">            <span class="n">correct_answer</span><span class="p">()</span>
-</span></span><span class="line"><span class="ln">45</span><span class="cl">            <span class="n">score</span> <span class="o">+=</span> <span class="mi">1</span>
-</span></span><span class="line"><span class="ln">46</span><span class="cl">        <span class="k">else</span><span class="p">:</span>
-</span></span><span class="line"><span class="ln">47</span><span class="cl">            <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Wrong! The correct answer was </span><span class="si">{</span><span class="n">q</span><span class="p">[</span><span class="s1">&#39;answer&#39;</span><span class="p">]</span><span class="si">}</span><span class="s2">.&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln">48</span><span class="cl">            <span class="n">wrong_answer</span><span class="p">()</span>
+</span></span><span class="line"><span class="ln">35</span><span class="cl"><span class="c1"># Questions and answers</span>
+</span></span><span class="line"><span class="ln">36</span><span class="cl"><span class="n">questions</span> <span class="o">=</span> <span class="p">[</span>
+</span></span><span class="line"><span class="ln">37</span><span class="cl">    <span class="p">{</span><span class="s2">&#34;question&#34;</span><span class="p">:</span> <span class="s2">&#34;What is 5 + 3? </span><span class="se">\n</span><span class="s2">A. 6</span><span class="se">\n</span><span class="s2">B. 8</span><span class="se">\n</span><span class="s2">C. 10</span><span class="se">\n</span><span class="s2">Your answer: &#34;</span><span class="p">,</span> <span class="s2">&#34;answer&#34;</span><span class="p">:</span> <span class="s2">&#34;B&#34;</span><span class="p">},</span>
+</span></span><span class="line"><span class="ln">38</span><span class="cl">    <span class="p">{</span><span class="s2">&#34;question&#34;</span><span class="p">:</span> <span class="s2">&#34;What is the capital of France? </span><span class="se">\n</span><span class="s2">A. Rome</span><span class="se">\n</span><span class="s2">B. Paris</span><span class="se">\n</span><span class="s2">C. Berlin</span><span class="se">\n</span><span class="s2">Your answer: &#34;</span><span class="p">,</span> <span class="s2">&#34;answer&#34;</span><span class="p">:</span> <span class="s2">&#34;B&#34;</span><span class="p">},</span>
+</span></span><span class="line"><span class="ln">39</span><span class="cl">    <span class="p">{</span><span class="s2">&#34;question&#34;</span><span class="p">:</span> <span class="s2">&#34;What is the color of the sky? </span><span class="se">\n</span><span class="s2">A. Blue</span><span class="se">\n</span><span class="s2">B. Green</span><span class="se">\n</span><span class="s2">C. Yellow</span><span class="se">\n</span><span class="s2">Your answer: &#34;</span><span class="p">,</span> <span class="s2">&#34;answer&#34;</span><span class="p">:</span> <span class="s2">&#34;A&#34;</span><span class="p">},</span>
+</span></span><span class="line"><span class="ln">40</span><span class="cl">    <span class="p">{</span><span class="s2">&#34;question&#34;</span><span class="p">:</span> <span class="s2">&#34;Which planet is known as the Red Planet? </span><span class="se">\n</span><span class="s2">A. Earth</span><span class="se">\n</span><span class="s2">B. Mars</span><span class="se">\n</span><span class="s2">C. Venus</span><span class="se">\n</span><span class="s2">Your answer: &#34;</span><span class="p">,</span> <span class="s2">&#34;answer&#34;</span><span class="p">:</span> <span class="s2">&#34;B&#34;</span><span class="p">},</span>
+</span></span><span class="line"><span class="ln">41</span><span class="cl">    <span class="p">{</span><span class="s2">&#34;question&#34;</span><span class="p">:</span> <span class="s2">&#34;What is the square root of 16? </span><span class="se">\n</span><span class="s2">A. 2</span><span class="se">\n</span><span class="s2">B. 4</span><span class="se">\n</span><span class="s2">C. 8</span><span class="se">\n</span><span class="s2">Your answer: &#34;</span><span class="p">,</span> <span class="s2">&#34;answer&#34;</span><span class="p">:</span> <span class="s2">&#34;B&#34;</span><span class="p">}</span>
+</span></span><span class="line"><span class="ln">42</span><span class="cl"><span class="p">]</span>
+</span></span><span class="line"><span class="ln">43</span><span class="cl">
+</span></span><span class="line"><span class="ln">44</span><span class="cl"><span class="c1"># Main Quiz Logic</span>
+</span></span><span class="line"><span class="ln">45</span><span class="cl"><span class="n">score</span> <span class="o">=</span> <span class="mi">0</span>
+</span></span><span class="line"><span class="ln">46</span><span class="cl"><span class="k">for</span> <span class="n">q</span> <span class="ow">in</span> <span class="n">questions</span><span class="p">:</span>
+</span></span><span class="line"><span class="ln">47</span><span class="cl">	<span class="nb">print</span><span class="p">(</span><span class="n">q</span><span class="p">[</span><span class="s2">&#34;question&#34;</span><span class="p">])</span> 
+</span></span><span class="line"><span class="ln">48</span><span class="cl">	<span class="n">answer</span> <span class="o">=</span> <span class="n">get_valid_input</span><span class="p">()</span> <span class="c1"># Ensure we get a valid input</span>
 </span></span><span class="line"><span class="ln">49</span><span class="cl">
-</span></span><span class="line"><span class="ln">50</span><span class="cl">    <span class="c1"># Final score</span>
-</span></span><span class="line"><span class="ln">51</span><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Game over! You scored </span><span class="si">{</span><span class="n">score</span><span class="si">}</span><span class="s2"> out of </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">questions</span><span class="p">)</span><span class="si">}</span><span class="s2">.&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln">52</span><span class="cl">
-</span></span><span class="line"><span class="ln">53</span><span class="cl"><span class="k">except</span> <span class="ne">KeyboardInterrupt</span><span class="p">:</span>
-</span></span><span class="line"><span class="ln">54</span><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;</span><span class="se">\n</span><span class="s2">Game interrupted!&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="ln">55</span><span class="cl">
-</span></span><span class="line"><span class="ln">56</span><span class="cl"><span class="k">finally</span><span class="p">:</span>
-</span></span><span class="line"><span class="ln">57</span><span class="cl">    <span class="n">GPIO</span><span class="o">.</span><span class="n">cleanup</span><span class="p">()</span>
+</span></span><span class="line"><span class="ln">50</span><span class="cl">	<span class="c1"># TODO: Add the logic to check if the answer is correct</span>
+</span></span><span class="line"><span class="ln">51</span><span class="cl">	<span class="c1"># Hint: Compare the user&#39;s input to q[&#34;answer&#34;]</span>
+</span></span><span class="line"><span class="ln">52</span><span class="cl">	<span class="k">if</span> <span class="o">...</span><span class="p">:</span>  <span class="c1"># Complete this condition</span>
+</span></span><span class="line"><span class="ln">53</span><span class="cl">		<span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Correct!&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="ln">54</span><span class="cl">		<span class="n">correct_answer</span><span class="p">()</span>
+</span></span><span class="line"><span class="ln">55</span><span class="cl">		<span class="n">score</span> <span class="o">+=</span> <span class="mi">1</span>
+</span></span><span class="line"><span class="ln">56</span><span class="cl">	<span class="k">else</span><span class="p">:</span>
+</span></span><span class="line"><span class="ln">57</span><span class="cl">		<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Wrong! The correct answer was </span><span class="si">{</span><span class="n">q</span><span class="p">[</span><span class="s1">&#39;answer&#39;</span><span class="p">]</span><span class="si">}</span><span class="s2">.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="ln">58</span><span class="cl">		<span class="n">wrong_answer</span><span class="p">()</span>
+</span></span><span class="line"><span class="ln">59</span><span class="cl">
+</span></span><span class="line"><span class="ln">60</span><span class="cl"><span class="c1"># Final score</span>
+</span></span><span class="line"><span class="ln">61</span><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Game over! You scored </span><span class="si">{</span><span class="n">score</span><span class="si">}</span><span class="s2"> out of </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">questions</span><span class="p">)</span><span class="si">}</span><span class="s2">.&#34;</span><span class="p">)</span>
 </span></span></code></pre></div><h3 id="tasks"><strong>Tasks:</strong></h3>
 <ol>
-<li><strong>Complete the <code>correct_answer()</code> Function</strong>:
-<ul>
-<li>Write code to turn on the green LED for 1 second.</li>
-</ul>
-</li>
 <li><strong>Complete the <code>wrong_answer()</code> Function</strong>:
 <ul>
 <li>Write a loop to flash the red LED 3 times.</li>
@@ -557,6 +556,9 @@ The game ends with a score summary.</li>
     <h2 class="mt-4">Recent Posts</h2>
     <ul class="flex-column">
       <li>
+        <a href="https://blog.vechiato.cc/post/book-multi-cloud-mastery/" class="nav-link" title="Insights from Multi-Cloud Mastery">Insights from Multi-Cloud Mastery</a>
+      </li>
+      <li>
         <a href="https://blog.vechiato.cc/post/code-club---quiz-controlled-leds-with-raspberry-pi/" class="nav-link" title="Code Club - Quiz Controlled LEDs">Code Club - Quiz Controlled LEDs</a>
       </li>
       <li>
@@ -577,16 +579,13 @@ The game ends with a score summary.</li>
       <li>
         <a href="https://blog.vechiato.cc/post/book-github-for-dummies/" class="nav-link" title="Insights from GitHub For Dummies, 2nd Ed">Insights from GitHub For Dummies, 2nd Ed</a>
       </li>
-      <li>
-        <a href="https://blog.vechiato.cc/post/book-outlive/" class="nav-link" title="Insights from Outlive">Insights from Outlive</a>
-      </li>
     </ul>
     <div>
       <h2 class="mt-4 taxonomy" id="tags-section">Tags</h2>
       <nav class="tags_nav">
         <a href='https://blog.vechiato.cc/tags/book/' class="post_tag button button_translucent" title="book">
           BOOK
-          <span class="button_tally">52</span>
+          <span class="button_tally">53</span>
         </a>
         
         <a href='https://blog.vechiato.cc/tags/devops/' class="post_tag button button_translucent" title="devops">
@@ -604,13 +603,13 @@ The game ends with a score summary.</li>
           <span class="button_tally">9</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/code-club/' class="post_tag button button_translucent" title="code club">
-          CODE CLUB
-          <span class="button_tally">5</span>
-        </a>
-        
         <a href='https://blog.vechiato.cc/tags/k8s/' class="post_tag button button_translucent" title="k8s">
           K8S
+          <span class="button_tally">6</span>
+        </a>
+        
+        <a href='https://blog.vechiato.cc/tags/code-club/' class="post_tag button button_translucent" title="code club">
+          CODE CLUB
           <span class="button_tally">5</span>
         </a>
         
@@ -664,7 +663,7 @@ The game ends with a score summary.</li>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/book/' class=" post_tag button button_translucent" data-position=52 title="book">BOOK<span class="button_tally">52</span>
+            <a href='https://blog.vechiato.cc/tags/book/' class=" post_tag button button_translucent" data-position=53 title="book">BOOK<span class="button_tally">53</span>
             </a>
             
             
@@ -677,6 +676,10 @@ The game ends with a score summary.</li>
             
             
             <a href='https://blog.vechiato.cc/tags/cicd/' class=" post_tag button button_translucent" data-position=1 title="cicd">CICD<span class="button_tally">1</span>
+            </a>
+            
+            
+            <a href='https://blog.vechiato.cc/tags/cloud/' class=" post_tag button button_translucent" data-position=1 title="cloud">CLOUD<span class="button_tally">1</span>
             </a>
             
             
@@ -736,7 +739,7 @@ The game ends with a score summary.</li>
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/k8s/' class=" post_tag button button_translucent" data-position=5 title="k8s">K8S<span class="button_tally">5</span>
+            <a href='https://blog.vechiato.cc/tags/k8s/' class=" post_tag button button_translucent" data-position=6 title="k8s">K8S<span class="button_tally">6</span>
             </a>
             
             

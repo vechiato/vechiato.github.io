@@ -85,23 +85,20 @@ Create a Python program that:
 ### **Example Code (Starter Template)**
 
 ```python
-import RPi.GPIO as GPIO
+from gpiozero import LED
 import time
 
-# GPIO Setup (Predefined)
-GPIO.setmode(GPIO.BCM)
-LED_GREEN = 17  # Green LED pin
-LED_RED = 18    # Red LED pin
-GPIO.setup(LED_GREEN, GPIO.OUT)
-GPIO.setup(LED_RED, GPIO.OUT)
+LED_GREEN = LED(18)  # Green LED pin
+LED_RED = LED(17)    # Red LED pin
 
 # Functions
 def correct_answer():
     """
     Turn on the green LED for 1 second.
     """
-    # TODO: Write the code to turn on the green LED
-    # Hint: Use GPIO.output and time.sleep
+    LED_GREEN.on()
+    time.sleep(1)
+    LED_GREEN.off()
 
 def wrong_answer():
     """
@@ -109,6 +106,18 @@ def wrong_answer():
     """
     # TODO: Write the code to flash the red LED 3 times
     # Hint: Use a loop and GPIO.output
+
+def get_valid_input():
+    """
+    Repeatedly ask the user for input until a valid answer (A, B, or C) is provided.
+    """
+    valid_answers = ['A', 'B', 'C']
+    while True:
+        user_input = input("Your answer (A/B/C): ").strip().upper()
+        if user_input in valid_answers:
+            return user_input
+        else:
+            print("Invalid input! Please choose A, B, or C.")
 
 # Questions and answers
 questions = [
@@ -120,37 +129,30 @@ questions = [
 ]
 
 # Main Quiz Logic
-try:
-    score = 0
-    for q in questions:
-        answer = input(q["question"])
-        # TODO: Add the logic to check if the answer is correct
-        # Hint: Compare the user's input to q["answer"]
-        if ...:  # Complete this condition
-            print("Correct!")
-            correct_answer()
-            score += 1
-        else:
-            print(f"Wrong! The correct answer was {q['answer']}.")
-            wrong_answer()
+score = 0
+for q in questions:
+	print(q["question"]) 
+	answer = get_valid_input() # Ensure we get a valid input
 
-    # Final score
-    print(f"Game over! You scored {score} out of {len(questions)}.")
+	# TODO: Add the logic to check if the answer is correct
+	# Hint: Compare the user's input to q["answer"]
+	if ...:  # Complete this condition
+		print("Correct!")
+		correct_answer()
+		score += 1
+	else:
+		print(f"Wrong! The correct answer was {q['answer']}.")
+		wrong_answer()
 
-except KeyboardInterrupt:
-    print("\nGame interrupted!")
-
-finally:
-    GPIO.cleanup()
+# Final score
+print(f"Game over! You scored {score} out of {len(questions)}.")
 ```
 
 ### **Tasks:** 
 
-1. **Complete the `correct_answer()` Function**:
-    - Write code to turn on the green LED for 1 second.
-2. **Complete the `wrong_answer()` Function**:
+1. **Complete the `wrong_answer()` Function**:
     - Write a loop to flash the red LED 3 times.
-3. **Write the Quiz Logic**:
+2. **Write the Quiz Logic**:
     - Fill in the condition to check if the player's answer matches the correct one.
 4. **Test the Code**:
     - Ensure the LEDs respond correctly based on the answers.

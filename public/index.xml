@@ -9,6 +9,24 @@
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Insights from Multi-Cloud Mastery</title>
+      <link>https://blog.vechiato.cc/post/book-multi-cloud-mastery/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-multi-cloud-mastery/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;multi-cloud-mastery-architecting-secure-and-scalable-kubernetes-systems-and-infrastructures&#34;&gt;&lt;strong&gt;Multi-Cloud Mastery: Architecting Secure and Scalable Kubernetes Systems and Infrastructures&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;While managing my own projects that rely on Kubernetes clusters, I often encountered challenges involving scalability, security, and cost optimisation across various cloud providers. These obstacles made me curious about how industry experts approach multi-cloud Kubernetes environments. That’s when I stumbled upon &lt;em&gt;Multi-Cloud Mastery&lt;/em&gt; by Adam Robertson.&lt;/p&gt;
+&lt;p&gt;This book dives into the complexities of building and managing Kubernetes clusters across multiple cloud platforms. It offers practical advice for architects, platform engineers, and cloud enthusiasts seeking to harness the potential of multi-cloud strategies. I chose this book to gain deeper insights into a topic that lies at the heart of modern cloud computing—balancing resilience, performance, and cost in a multi-cloud Kubernetes environment.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Code Club - Quiz Controlled LEDs</title>
       <link>https://blog.vechiato.cc/post/code-club---quiz-controlled-leds-with-raspberry-pi/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
