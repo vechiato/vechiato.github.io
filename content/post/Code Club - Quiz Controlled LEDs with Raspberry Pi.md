@@ -81,6 +81,69 @@ Create a Python program that:
 - If the user answers correctly, turn on one LED for a short time.
 - If the user answers incorrectly, turn on a different LED or flash it to indicate an error.
 
+### **LED Wiring Test Application** 
+
+This program will sequentially blink the red LED, green LED, and then both LEDs together, to visually confirm that the wiring and components are working correctly. 
+
+```python
+from gpiozero import LED
+import time
+
+# Define LEDs
+LED_RED = LED(17)    # Red LED pin
+LED_GREEN = LED(18)  # Green LED pin
+
+# Functions
+def blink_led(led):
+    """
+    Blink a given LED 
+    :param led: The LED object to blink
+    """
+	led.on()
+	time.sleep(interval)
+	led.off()
+	time.sleep(interval)
+
+# Test Wiring
+def test_wiring():
+    """
+    Sequentially test each LED and then both together.
+    """
+    print("Starting wiring test...")
+    
+    # Test Red LED
+    print("Testing Red LED...")
+    blink_led(LED_RED)
+    print("Red LED test complete.")
+    
+    # Test Green LED
+    print("Testing Green LED...")
+    blink_led(LED_GREEN)
+    print("Green LED test complete.")
+    
+    # Test Both LEDs Together
+    print("Testing Both LEDs Together...")
+    for _ in range(3):
+        LED_RED.on()
+        LED_GREEN.on()
+        time.sleep(0.5)
+        LED_RED.off()
+        LED_GREEN.off()
+        time.sleep(0.5)
+    print("Both LEDs test complete.")
+    
+    print("Wiring test complete! If all LEDs blinked as expected, your wiring is correct.")
+
+# Main Program
+if __name__ == "__main__":
+    try:
+        test_wiring()
+    except KeyboardInterrupt:
+        print("\nTest interrupted.")
+    finally:
+        print("Cleaning up GPIO...")
+```
+
 ---
 ### **Example Code (Starter Template)**
 
@@ -105,7 +168,7 @@ def wrong_answer():
     Flash the red LED 3 times with 0.5-second intervals.
     """
     # TODO: Write the code to flash the red LED 3 times
-    # Hint: Use a loop and GPIO.output
+    # Hint: Use a loop 
 
 def get_valid_input():
     """
@@ -121,27 +184,35 @@ def get_valid_input():
 
 # Questions and answers
 questions = [
-    {"question": "What is 5 + 3? \nA. 6\nB. 8\nC. 10\nYour answer: ", "answer": "B"},
-    {"question": "What is the capital of France? \nA. Rome\nB. Paris\nC. Berlin\nYour answer: ", "answer": "B"},
-    {"question": "What is the color of the sky? \nA. Blue\nB. Green\nC. Yellow\nYour answer: ", "answer": "A"},
-    {"question": "Which planet is known as the Red Planet? \nA. Earth\nB. Mars\nC. Venus\nYour answer: ", "answer": "B"},
-    {"question": "What is the square root of 16? \nA. 2\nB. 4\nC. 8\nYour answer: ", "answer": "B"}
+    # Format: [question, option1, option2, option3, correct_answer]
+    ["What is 5 + 3?", "6", "8", "10", "B"],
+    ["What is the capital of France?", "Rome", "Paris", "Berlin", "B"],
+    ["What is the color of the sky?", "Blue", "Green", "Yellow", "A"],
+    ["Which planet is known as the Red Planet?", "Earth", "Mars", "Venus", "B"],
+    ["What is the square root of 16?", "2", "4", "8", "B"]
 ]
 
 # Main Quiz Logic
-score = 0
-for q in questions:
-	print(q["question"]) 
-	answer = get_valid_input() # Ensure we get a valid input
+score = 0 
+for q in questions: 
 
+	# Unpack question and options 
+	question, option1, option2, option3, correct_answer = q 
+	# Display the question and options 
+	print(f"{question}")
+	print(f"A. {option1}")
+	print(f"B. {option2}")
+	print(f"C. {option3}") 
+	answer = get_valid_input() # Get valid input 
+	
 	# TODO: Add the logic to check if the answer is correct
-	# Hint: Compare the user's input to q["answer"]
+	# Compare the user's input with the correct answer
 	if ...:  # Complete this condition
 		print("Correct!")
 		correct_answer()
 		score += 1
 	else:
-		print(f"Wrong! The correct answer was {q['answer']}.")
+		print(f"Wrong! The correct answer was {correct_answer}.")
 		wrong_answer()
 
 # Final score
@@ -154,26 +225,21 @@ print(f"Game over! You scored {score} out of {len(questions)}.")
     - Write a loop to flash the red LED 3 times.
 2. **Write the Quiz Logic**:
     - Fill in the condition to check if the player's answer matches the correct one.
-4. **Test the Code**:
-    - Ensure the LEDs respond correctly based on the answers.
-5. **Enhance the Game** (Optional):
-    - Add more questions or features, like a timer or score tracking.
+    - Expect lower or capital letter as input. Treat it accordingly.  
+3. **Lose Points:** Take 1 point if the given answer is not correct.
+4. **Enhance the Game** (Optional):
+	- **More questions:** Add 3 additional questions 
+	- Exit the quiz if the Q letter is entered. 
+	- **Timer:** Add a countdown timer for each question to make it more challenging.
+    - **More questions:** Add more questions 
 
 ---
 
 ### **Hints to Guide Learners**
 
-- Use `GPIO.output(LED_GREEN, GPIO.HIGH)` to turn on an LED and `GPIO.output(LED_GREEN, GPIO.LOW)` to turn it off.
 - Use `time.sleep(seconds)` to add delays.
 - Recall the syntax for loops (`for` or `while`) and conditionals (`if/else`).
+- upper() and lower() are basic functions to handle string conversion. 
 
----
 
-### **Challenge (Optional)**:
-
-**Suggested Add-Ons for Customisation:**
-
-1. **Timer:** Add a countdown timer for each question to make it more challenging.
-2. **Lose Points:** Take 1 point if the given answer is not correct.
-3. **Difficulty Levels:** Include an option to choose between Easy, Medium, and Hard questions.
 
