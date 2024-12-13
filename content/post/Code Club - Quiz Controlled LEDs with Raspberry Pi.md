@@ -85,13 +85,13 @@ Create a Python program that:
 
 This program will sequentially blink the red LED, green LED, and then both LEDs together, to visually confirm that the wiring and components are working correctly. 
 
-** Create a new file wiring_test.py **
+**Create a new file wiring_test.py**
 
 ```bash
 nano wiring_test.py
 ```
 
-** Copy the code and paste in the new file ** 
+**Copy the code and paste in the new file** 
 
 ```python
 from gpiozero import LED
@@ -107,10 +107,10 @@ def blink_led(led):
     Blink a given LED 
     :param led: The LED object to blink
     """
-	led.on()
-	time.sleep(interval)
-	led.off()
-	time.sleep(interval)
+    led.on()
+    time.sleep(interval)
+    led.off()
+    time.sleep(interval)
 
 # Test Wiring
 def test_wiring():
@@ -138,6 +138,7 @@ def test_wiring():
         LED_RED.off()
         LED_GREEN.off()
         time.sleep(0.5)
+        
     print("Both LEDs test complete.")
     
     print("Wiring test complete! If all LEDs blinked as expected, your wiring is correct.")
@@ -152,7 +153,7 @@ if __name__ == "__main__":
         print("Cleaning up GPIO...")
 ```
 
-** Run wiring_test.py ** 
+**Run wiring_test.py** 
 
 ```bash
 $ python wiring_test.py
@@ -179,7 +180,7 @@ LED_GREEN = LED(18)  # Green LED pin
 LED_RED = LED(17)    # Red LED pin
 
 # Functions
-def correct_answer():
+def indicate_correct():
     """
     Turn on the green LED for 1 second.
     """
@@ -187,7 +188,7 @@ def correct_answer():
     time.sleep(1)
     LED_GREEN.off()
 
-def wrong_answer():
+def indicate_wrong():
     """
     Flash the red LED 3 times with 0.5-second intervals.
     """
