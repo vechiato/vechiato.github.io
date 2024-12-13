@@ -91,7 +91,8 @@ This program will sequentially blink the red LED, green LED, and then both LEDs 
 nano wiring_test.py
 ```
 
-**Copy the code and paste in the new file** 
+**Copy the code and paste into the new file** 
+
 
 ```python
 from gpiozero import LED
@@ -102,15 +103,18 @@ LED_RED = LED(17)    # Red LED pin
 LED_GREEN = LED(18)  # Green LED pin
 
 # Functions
-def blink_led(led):
+def blink_led(led, interval, blink_times:1):
     """
-    Blink a given LED 
+    Blink a given LED
     :param led: The LED object to blink
+    :param interval: sleep in seconds
+    :blink_times: how many times the led will blink
     """
-    led.on()
-    time.sleep(interval)
-    led.off()
-    time.sleep(interval)
+	for _ in range(blink_times):
+		led.on()
+        time.sleep(interval)
+        led.off()
+        time.sleep(interval)
 
 # Test Wiring
 def test_wiring():
@@ -118,29 +122,17 @@ def test_wiring():
     Sequentially test each LED and then both together.
     """
     print("Starting wiring test...")
-    
+
     # Test Red LED
     print("Testing Red LED...")
-    blink_led(LED_RED)
+    blink_led(LED_RED,0.5,3)
     print("Red LED test complete.")
-    
+
     # Test Green LED
     print("Testing Green LED...")
-    blink_led(LED_GREEN)
+    blink_led(LED_GREEN,0.5,3)
     print("Green LED test complete.")
-    
-    # Test Both LEDs Together
-    print("Testing Both LEDs Together...")
-    for _ in range(3):
-        LED_RED.on()
-        LED_GREEN.on()
-        time.sleep(0.5)
-        LED_RED.off()
-        LED_GREEN.off()
-        time.sleep(0.5)
-        
-    print("Both LEDs test complete.")
-    
+
     print("Wiring test complete! If all LEDs blinked as expected, your wiring is correct.")
 
 # Main Program
@@ -149,11 +141,10 @@ if __name__ == "__main__":
         test_wiring()
     except KeyboardInterrupt:
         print("\nTest interrupted.")
-    finally:
-        print("Cleaning up GPIO...")
+
 ```
 
-**Run wiring_test.py** 
+**Run wiring_test.py** and you should see this output:
 
 ```bash
 $ python wiring_test.py
@@ -234,11 +225,11 @@ for q in questions:
 	# Compare the user's input with the correct answer
 	if ...:  # Complete this condition
 		print("Correct!")
-		correct_answer()
+		indicate_correct()
 		score += 1
 	else:
 		print(f"Wrong! The correct answer was {correct_answer}.")
-		wrong_answer()
+		indicate_wrong()
 
 # Final score
 print(f"Game over! You scored {score} out of {len(questions)}.")
