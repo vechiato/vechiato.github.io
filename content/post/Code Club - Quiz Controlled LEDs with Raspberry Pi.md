@@ -104,7 +104,7 @@ def blink_led(led, interval, blink_times:1):
     :param interval: sleep in seconds
     :blink_times: how many times the led will blink
     """
-	for _ in range(blink_times):
+    for _ in range(blink_times):
         led.on()
         time.sleep(interval)
         led.off()
