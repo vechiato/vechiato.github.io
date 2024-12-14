@@ -83,7 +83,7 @@ Create a Python program that:
 
 ### **LED Wiring Test Application** 
 
-This program will sequentially blink the red LED, green LED, and then both LEDs together, to visually confirm that the wiring and components are working correctly. 
+This program will sequentially blink the red LED, green LED to visually confirm that the wiring and components are working correctly. 
 
 - **Create a new file wiring_test.py**
 - **Copy the code and paste into the new file** 
