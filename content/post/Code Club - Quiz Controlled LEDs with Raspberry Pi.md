@@ -70,7 +70,7 @@ Create a Python-based LED game where players answer questions. Correct answers t
 **Raspberry Pi 4 Pinout**
 ![image](/obsidian/rpi5_pinout.png)
 
-**Raspberry Pi 5 Pinout **
+**Raspberry Pi 5 Pinout**
 ![image](/obsidian/rpi4_pinout.png)
 
 #### 2. **Write the Code**:
