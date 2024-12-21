@@ -15,49 +15,46 @@ tags:
 As a parent and mentor, I’m always on the lookout for resources to inspire and educate young minds. My son recently expressed an interest in learning Python, and I also help kids at a coding club take their first steps into programming. These two motivations led me to John Elder’s _Intro to Python Programming_. This book promises to make coding approachable and fun for beginners, which aligns perfectly with my goals. Elder’s conversational tone and hands-on approach provide an excellent foundation for young learners and anyone embarking on their coding journey.
 
 ![image](/obsidian/book_intro_to_python.png)
+2022 by John Elder
 ## **Summary**
 
-### **Part 1: Getting Started with Python**
-
-#### **Chapter 1: Setting Up a Python Development Environment**
+### **Chapter 1: Setting Up a Python Development Environment**
 
 Elder begins with the basics: setting up Python on different operating systems and selecting a text editor. He emphasises simplicity, recommending Sublime Text and Git Bash Terminal for their ease of use. This chapter is a gentle yet essential introduction for those new to coding.
 
-#### **Chapter 2: Writing Our First Python Program**
+### **Chapter 2: Writing Our First Python Program**
 
 Here, readers are guided to write their first Python program: the classic "Hello World!" Elder’s engaging explanations of the `print()` function and debugging simple errors like missing parentheses make this chapter approachable. He encourages experimentation, fostering confidence early on.
 
-### **Part 2: Diving into Python Basics**
-
-#### **Chapter 3: Fun with Math, Variables, and Inputs**
+### **Chapter 3: Fun with Math, Variables, and Inputs**
 
 This chapter explores Python’s math operators and variables. Elder's example-driven approach like using `f-strings` to combine strings and calculations is particularly effective. A standout moment is his explanation of the modulus operator (`%`) and its practical uses.
 
-#### **Chapter 4: IF/ELSE Statements**
+### **Chapter 4: IF/ELSE Statements**
 
 Elder introduces decision-making in Python with clear examples. Building a "Choose Your Own Adventure" game highlights how conditional statements can make programs interactive and fun.
 
-#### **Chapter 5: Lists**
+### **Chapter 5: Lists**
 
 This chapter delves into Python lists, explaining how to create, modify, and access elements. Elder covers topics like multi-dimensional lists and useful methods for adding or removing items, providing a strong foundation for data handling.
 
-#### **Chapter 6: Loops**
+### **Chapter 6: Loops**
 
 Loops are essential in programming, and Elder makes them approachable by explaining while loops, for loops, and concepts like break, continue, and pass statements. The chapter also includes a Fizz/Buzz game example to reinforce the concepts.
 
-#### **Chapter 7: Functions**
+### **Chapter 7: Functions**
 
 Functions are the building blocks of reusable code. Elder explains how to create, call, and pass arguments to functions. His practical examples, including using functions in a Fizz/Buzz game, make the concepts easy to grasp.
 
-#### **Chapter 8: Dictionaries**
+### **Chapter 8: Dictionaries**
 
 Elder contrasts dictionaries with lists, explaining when and why to use them. The chapter covers creating dictionaries, accessing values, and looping through key-value pairs, offering practical examples like a pizza dictionary.
 
-#### **Chapter 9: Putting It All Together to Make a Flashcard Game**
+### **Chapter 9: Putting It All Together to Make a Flashcard Game**
 
-The culmination of earlier lessons, this chapter guides readers through building a math-based flashcard game. Elder emphasizes planning and breaking the program into manageable functions, reinforcing best practices in coding.
+The culmination of earlier lessons, this chapter guides readers through building a math-based flashcard game. Elder emphasises planning and breaking the program into manageable functions, reinforcing best practices in coding.
 
-#### **Chapter 10: Conclusion**
+### **Chapter 10: Conclusion**
 
 Elder wraps up the book by encouraging readers to continue practicing and exploring Python. He shares additional resources and challenges to help readers build on what they’ve learned.
 
