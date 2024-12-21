@@ -7,7 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Intro To Python Programming</title>
+      <link>https://blog.vechiato.cc/post/book-intro-to-python/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-intro-to-python/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;intro-to-python-programming-beginners-guide-series&#34;&gt;&lt;strong&gt;Intro To Python Programming: Beginners Guide Series&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;As a parent and mentor, I’m always on the lookout for resources to inspire and educate young minds. My son recently expressed an interest in learning Python, and I also help kids at a coding club take their first steps into programming. These two motivations led me to John Elder’s &lt;em&gt;Intro to Python Programming&lt;/em&gt;. This book promises to make coding approachable and fun for beginners, which aligns perfectly with my goals. Elder’s conversational tone and hands-on approach provide an excellent foundation for young learners and anyone embarking on their coding journey.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Insights from Multi-Cloud Mastery</title>
       <link>https://blog.vechiato.cc/post/book-multi-cloud-mastery/</link>
