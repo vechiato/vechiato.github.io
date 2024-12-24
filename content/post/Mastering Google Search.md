@@ -122,4 +122,4 @@ Practice your new skills by answering these challenges:
 
 ---
 
-Learning to search is as important as learning to code. It saves you time, helps you find accurate information, and makes you a more effective problem-solver. With these tips and tricks, you're ready to tackle any challenge—in coding and beyond!
+Learning to search is as important as learning to code. It saves you time, helps you find accurate information, and makes you a more effective problem-solver. With these tips and tricks, you're ready to tackle any challenge in coding and beyond!
