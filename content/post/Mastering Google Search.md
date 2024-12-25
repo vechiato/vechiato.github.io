@@ -22,11 +22,11 @@ The internet is like a giant library, and Google Search is the tool that helps y
 
 3. **Use Quotation Marks**:
 
-	- Search for an exact phrase by placing it in quotation marks. For example, "JavaScript array methods" will return results with that exact phrase.
+	- Search for an exact phrase by placing it in quotation marks. For example, `"JavaScript array methods"` will return results with that exact phrase.
 
 4. **Use a Question Format**:
     
-	- Google is smart! Try typing a full question like "What is a loop in Python?"
+	- Google is smart! Try typing a full question like `"What is a loop in Python?"`
 
 ---
 
@@ -35,22 +35,22 @@ The internet is like a giant library, and Google Search is the tool that helps y
 1. **Site-Specific Searches**:    
     
 	- Want results only from a particular website? Use `site:`. For example:
-        - `site:stackoverflow.com Python list comprehension` will show results only from Stack Overflow.
+        - `"site:stackoverflow.com Python list comprehension"` will show results only from Stack Overflow.
 
 2. **Exclude Words**:
 
 	- Use a minus sign `-` to exclude specific words. For example:
-        - `Python tutorials -Django` will exclude results related to Django.
+        - `"Python tutorials -Django"` will exclude results related to Django.
 
 3. **Search for File Types**:
 
 	- Looking for PDFs or presentations? Use `filetype:`. For example:
-        - `Python basics filetype:pdf` will find PDFs about Python basics.
+        - `"Python basics filetype:pdf"` will find PDFs about Python basics.
 
 4. **Wildcard Searches**:
 
 	- Use an asterisk `*` as a placeholder for missing words. For example:
-        - `how to * in Python` could return "how to loop in Python" or "how to debug in Python."
+        - `"how to * in Python"` could return "how to loop in Python" or "how to debug in Python."
 
 ---
 
@@ -68,7 +68,7 @@ The internet is like a giant library, and Google Search is the tool that helps y
 3. **Define Words or Concepts**:
 
 	- Type `define:` followed by a word to get its definition. For example:
-        - `define:algorithm`.
+        - `"define:algorithm"`.
 
 4. **Reverse Image Search**:
 
@@ -77,12 +77,12 @@ The internet is like a giant library, and Google Search is the tool that helps y
 5. **Search for Related Websites**:
 
 	- Use `related:` to find sites similar to one you like. For example:
-        - `related:codeclub.org`.
+        - `"related:codeclub.org"`.
 
 6. **Find Specific Numbers or Ranges**:
 
 	- Use two dots between numbers to search within a range. For example:
-        - `laptop $500..$1000`.
+        - `"laptop $500..$1000"`.
 
 ---
 
@@ -94,19 +94,19 @@ The internet is like a giant library, and Google Search is the tool that helps y
 	
 1. **Use Google as a Dictionary**:
  
-	- Type a word followed by "meaning" to get its definition. For example, `recursion meaning`.
+	- Type a word followed by "meaning" to get its definition. For example, `"recursion meaning"`.
 
 2. **Explore Coding Examples**:
     
-	- Search for "Python example for sorting" or "JavaScript function examples" to find snippets of code.
+	- Search for `"Python example for sorting"` or `"JavaScript function examples"` to find snippets of code.
 
 3. **Translate Text**:
     
-	- Use Google Translate directly in search, e.g., `translate hello to Spanish`.
+	- Use Google Translate directly in search, e.g., `"translate hello to Spanish"`.
 
 4. **Discover Local Events or Weather**:
     
-	- Try `events near me` or `weather tomorrow`.
+	- Try `"events near me"` or `"weather tomorrow"`.
 
 ---
 
