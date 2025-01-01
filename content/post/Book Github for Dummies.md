@@ -138,22 +138,21 @@ The final chapter emphasizes kindness, communication, and collaboration in the G
 
 ### **Key Takeaway 1: Git Simplifies Collaboration**
 
-- **Explanation**: GitHub’s branching and version control empower teams to experiment and track changes effectively.
-- **Personal Reflection**: This principle has been transformative for teaching kids how to manage and improve their projects incrementally.
+-  GitHub’s branching and version control empower teams to experiment and track changes effectively.
+- This principle has been transformative for teaching kids how to manage and improve their projects incrementally.
 
 ---
 
 ### **Key Takeaway 2: Contribution is Empowering**
 
-- **Explanation**: Contributing to open-source projects fosters confidence and a sense of belonging.
-- **Personal Reflection**: I hope to instill this mindset in young learners at Code Club.
+- Contributing to open-source projects fosters confidence and a sense of belonging.
 
 ---
 
 ### **Key Takeaway 3: GitHub is More Than Code**
 
-- **Explanation**: GitHub’s tools, like Pages and Marketplace, expand its use beyond coding.
-- **Personal Reflection**: It’s inspiring to see how diverse professionals use GitHub for design, documentation, and community building.
+- GitHub’s tools, like Pages and Marketplace, expand its use beyond coding.
+- It’s inspiring to see how diverse professionals use GitHub for design, documentation, and community building.
 
 ---
 

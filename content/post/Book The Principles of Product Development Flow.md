@@ -51,27 +51,27 @@ The final chapter explores the balance between centralization and decentralizati
 ## **Key Takeaways**
 
 ### **Key Takeaway 1: Quantify the Cost of Delay**
-- Explanation: Understanding the cost of delay is critical for making informed decisions. It helps quantify the economic impact of delays and prioritizes actions that reduce cycle time.
+- Understanding the cost of delay is critical for making informed decisions. It helps quantify the economic impact of delays and prioritizes actions that reduce cycle time.
 - Personal Reflection: This concept transformed our decision-making process. By focusing on the cost of delay, we were able to justify investments in resources that accelerated our product development cycles.
 - Quote: “If you only quantify one thing, quantify the cost of delay.” (Chapter 2, Page 29)
 
 ### **Key Takeaway 2: Manage Queues Effectively**
-- Explanation: Queues are a significant source of inefficiency. Managing queues reduces cycle time and increases predictability in the development process.
+- Queues are a significant source of inefficiency. Managing queues reduces cycle time and increases predictability in the development process.
 - Personal Reflection: Recognising and managing queues helped us identify bottlenecks and implement solutions that drastically cut down our lead times.
 - Quote: “Queues are the single most important cause of poor product development performance.” (Chapter 3, Page 42)
 
 ### **Key Takeaway 3: Embrace Small Batch Sizes**
-- Explanation: Smaller batches lead to faster feedback and reduced cycle times. This principle helps in making the development process more responsive and flexible.
+- Smaller batches lead to faster feedback and reduced cycle times. This principle helps in making the development process more responsive and flexible.
 - Personal Reflection: Implementing small batch sizes allowed us to detect and correct issues early, resulting in higher quality and faster delivery.
 - Quote: “Reducing batch size is usually the single most cost-effective way to reduce queues.” (Chapter 5, Page 76)
 
 ### **Key Takeaway 4: Apply WIP Constraints**
-- Explanation: Work-In-Progress (WIP) constraints help control queues and cycle times, making the development process more efficient.
+- Work-In-Progress (WIP) constraints help control queues and cycle times, making the development process more efficient.
 - Personal Reflection: Applying WIP constraints in our projects helped streamline our workflow and reduce the overall project duration.
 - Quote: “WIP constraints are a powerful way to gain control over cycle time in the presence of variability.” (Chapter 6, Page 102) 
 
 ### **Key Takeaway 5: Use Fast Feedback**
-- Explanation: Fast feedback loops are essential for adapting to changes and improving the development process. They provide valuable insights that guide better decision-making.
+- Fast feedback loops are essential for adapting to changes and improving the development process. They provide valuable insights that guide better decision-making.
 - Personal Reflection: Establishing fast feedback mechanisms in our process allowed us to quickly respond to issues and improve the quality of our products,.
 - Quote: “The speed of feedback is at least two orders of magnitude more important to product developers than manufacturers.” (Chapter 8, Page 140) 
 

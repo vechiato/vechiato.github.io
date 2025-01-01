@@ -59,23 +59,23 @@ Forte explores the role of self-expression in personal and professional growth. 
 ## **Key Takeaways**
 
 ### 1. **Capture – Keep What Resonates**
-- **Explanation:** The first step in the CODE method is to capture information that resonates with you. This includes notes, ideas, quotes, and any other content that you find valuable. By doing this, you ensure that no important piece of information is lost.
-- **Personal Reflection:** This step has been transformative for me. By systematically capturing information, I’ve reduced the mental load of trying to remember everything. This has freed up my mind to focus on more critical and creative tasks.
+- The first step in the CODE method is to capture information that resonates with you. This includes notes, ideas, quotes, and any other content that you find valuable. By doing this, you ensure that no important piece of information is lost.
+- This step has been transformative for me. By systematically capturing information, I’ve reduced the mental load of trying to remember everything. This has freed up my mind to focus on more critical and creative tasks.
 - **Quote:** “Your mind is for having ideas, not holding them.” – David Allen, cited by Tiago Forte, Chapter 1, Page 22
 
 ### 2. **Organize – Save for Actionability**
-- **Explanation:** Once captured, information needs to be organized in a way that makes it easily retrievable and actionable. This involves categorizing notes by projects, themes, or goals.
-- **Personal Reflection:** Organizing my notes by themes has allowed me to quickly find relevant information when I need it. This has significantly improved my efficiency and reduced the time spent searching for information.
+- Once captured, information needs to be organized in a way that makes it easily retrievable and actionable. This involves categorizing notes by projects, themes, or goals.
+- Organizing my notes by themes has allowed me to quickly find relevant information when I need it. This has significantly improved my efficiency and reduced the time spent searching for information.
 - **Quote:** “Organize your knowledge and use it to move your projects and goals forward more consistently.” – Tiago Forte, Chapter 5, Page 102
 
 ### 3. **Distill – Find the Essence**
-- **Explanation:** The distillation process involves summarising and condensing your notes to their essence. This makes the information more digestible and easier to apply when needed.
-- **Personal Reflection:** Distilling my notes has helped me focus on the core insights and actionable items, making my learning process more effective.
+- The distillation process involves summarising and condensing your notes to their essence. This makes the information more digestible and easier to apply when needed.
+- Distilling my notes has helped me focus on the core insights and actionable items, making my learning process more effective.
 - **Quote:** “Save your best thinking so you don’t have to do it again.” – Tiago Forte, Chapter 6, Page 142
 
 ### **4. **Express – Show Your Work**
-- **Explanation:** The final step is to express and share your ideas. This can be through writing, presentations, or any other medium that allows you to communicate your insights and knowledge to others.
-- **Personal Reflection:** Sharing my work has not only helped others but also reinforced my understanding of the material. It’s a powerful way to solidify knowledge and inspire further creativity.
+- The final step is to express and share your ideas. This can be through writing, presentations, or any other medium that allows you to communicate your insights and knowledge to others.
+- Sharing my work has not only helped others but also reinforced my understanding of the material. It’s a powerful way to solidify knowledge and inspire further creativity.
 
 ## **Personal Reflections**
 *Building a Second Brain* has profoundly impacted how I manage information and ideas. By implementing the CODE method, I’ve noticed a significant reduction in mental clutter and an increase in productivity and creativity. The book encourages a shift from information overload to purposeful knowledge management, making it an invaluable resource for anyone looking to enhance their personal and professional life.

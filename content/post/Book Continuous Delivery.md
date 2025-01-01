@@ -9,8 +9,6 @@ tags:
   - book
 --- 
 
-
-
 # **Continuous Delivery**
 
 Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation," authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively. This book is part of the Addison-Wesley Signature Series and offers detailed insights into achieving efficient, low-risk software deployments.

@@ -59,19 +59,19 @@ This chapter explores how social dynamics, including the desire for status and a
 
 ## **Key Takeaways**
 
-### **Key Takeaway 1:**
-- **Explanation**: Stress is a critical factor in the development of misbelief. High stress levels make individuals more vulnerable to seeking out simple, often false, explanations for their discomfort.
-- **Personal Reflection**: Understanding the role of stress can help in developing strategies to mitigate its impact, such as promoting mental health resources and stress management techniques.
+### **Key Takeaway 1: Stress**
+- Stress is a critical factor in the development of misbelief. High stress levels make individuals more vulnerable to seeking out simple, often false, explanations for their discomfort.
+- Understanding the role of stress can help in developing strategies to mitigate its impact, such as promoting mental health resources and stress management techniques.
 - **Quote**: “Entrenched misbelief is the result of multiple elements coming together, every one of them adding their part to the total mix” – Dan Ariely (Chapter 3, p. 67).
 
-### **Key Takeaway 2:**
-- **Explanation**: Cognitive biases like confirmation bias play a significant role in shaping our beliefs. These biases lead us to seek out information that supports what we already believe, reinforcing our misbeliefs.
-- **Personal Reflection**: Recognising our cognitive biases is the first step toward mitigating their influence. Critical thinking and skepticism can help counteract these biases.
+### **Key Takeaway 2: Biases**
+- Cognitive biases like confirmation bias play a significant role in shaping our beliefs. These biases lead us to seek out information that supports what we already believe, reinforcing our misbeliefs.
+- Recognising our cognitive biases is the first step toward mitigating their influence. Critical thinking and skepticism can help counteract these biases.
 - **Quote**: “It ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so” – Mark Twain (Chapter 5, p. 123).
 
-### **Key Takeaway 3:**
-- **Explanation**: Social dynamics and the need for belonging can significantly reinforce misbeliefs. Social networks provide a community and a sense of identity that make it difficult for individuals to abandon their irrational beliefs.
-- **Personal Reflection**: Building inclusive and supportive communities that promote critical thinking can help reduce the appeal of misbelief-centric social circles.
+### **Key Takeaway 3: Social dynamics**
+- Social dynamics and the need for belonging can significantly reinforce misbeliefs. Social networks provide a community and a sense of identity that make it difficult for individuals to abandon their irrational beliefs.
+- Building inclusive and supportive communities that promote critical thinking can help reduce the appeal of misbelief-centric social circles.
 - **Quote**: “The social elements are the components that ‘seal the deal’ and make it exceedingly hard to escape” – Dan Ariely (Chapter 9, p. 277).
 
 ## **Personal Reflections**

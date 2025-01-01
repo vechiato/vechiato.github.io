@@ -144,20 +144,20 @@ The final project combines motors, sensors, and a Wi-Fi controller to build a ro
 
 ### **Key Takeaway 1: Building Practical Skills**
 
-- **Explanation**: Each project serves as a stepping stone to mastering electronics, programming, and IoT concepts.
-- **Personal Reflection**: These skills are essential for creating meaningful DIY projects, from home automation to educational tools.
+- Each project serves as a stepping stone to mastering electronics, programming, and IoT concepts.
+- These skills are essential for creating meaningful DIY projects, from home automation to educational tools.
 - **Quote**: “Every project is a new opportunity to learn and grow your maker skills.” (p. xvii)
 
 ### **Key Takeaway 2: Bridging Creativity and Technology**
 
-- **Explanation**: The book emphasizes creative problem-solving, encouraging readers to customize and expand on the projects.
-- **Personal Reflection**: This is particularly inspiring for my own IoT experiments, showing how small ideas can grow into impactful solutions.
+- The book emphasises creative problem-solving, encouraging readers to customize and expand on the projects.
+- This is particularly inspiring for my own IoT experiments, showing how small ideas can grow into impactful solutions.
 - **Quote**: “Innovation is about starting small and thinking big.” (p. 200)
 
 ### **Key Takeaway 3: Raspberry Pi’s Accessibility**
 
-- **Explanation**: With low-cost components and step-by-step instructions, the book makes Raspberry Pi projects accessible to all.
-- **Personal Reflection**: This accessibility is vital for introducing tech to younger audiences and non-tech-savvy individuals.
+- With low-cost components and step-by-step instructions, the book makes Raspberry Pi projects accessible to all.
+- This accessibility is vital for introducing tech to younger audiences and non-tech-savvy individuals.
 - **Quote**: “The Raspberry Pi democratizes technology, making innovation achievable for everyone.” (p. xvii)
 
 ## **Personal Reflections**

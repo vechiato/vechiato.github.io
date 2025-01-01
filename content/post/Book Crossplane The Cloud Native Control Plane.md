@@ -69,19 +69,19 @@ This chapter delves into Composition Functions, which extend the functionality o
 
 ### **Key Takeaway 1: Simplified Cloud Resource Management**
 
-- **Explanation**: Crossplane simplifies the management of cloud resources by abstracting the complexities of various cloud provider APIs into Kubernetes-native CRDs. This allows for consistent and scalable infrastructure management across different environments.
-- **Personal Reflection**: This abstraction layer is crucial for organizations looking to maintain a hybrid or multi-cloud strategy, as it reduces the learning curve and operational overhead associated with managing multiple cloud platforms.
+- Crossplane simplifies the management of cloud resources by abstracting the complexities of various cloud provider APIs into Kubernetes-native CRDs. This allows for consistent and scalable infrastructure management across different environments.
+- This abstraction layer is crucial for organizations looking to maintain a hybrid or multi-cloud strategy, as it reduces the learning curve and operational overhead associated with managing multiple cloud platforms.
 - **Quote**: “Crossplane enables us to create control planes based on the same principles public cloud providers have.” – Viktor Farcic
 
 ### **Key Takeaway 2: Hands-On Learning Approach**
 
-- **Explanation**: Farcic’s book emphasizes a hands-on approach, encouraging readers to learn by doing. This method helps solidify concepts and ensures that readers can apply what they learn in real-world scenarios.
-- **Personal Reflection**: This approach resonates with me as it aligns with how I prefer to learn new technologies. By actively engaging with the material, I was able to better understand and retain the information.
+- Farcic’s book emphasizes a hands-on approach, encouraging readers to learn by doing. This method helps solidify concepts and ensures that readers can apply what they learn in real-world scenarios.
+- This approach resonates with me as it aligns with how I prefer to learn new technologies. By actively engaging with the material, I was able to better understand and retain the information.
 
 ### **Key Takeaway 3: Extensible and Modular Design**
 
-- **Explanation**: Crossplane’s extensible architecture, through providers, configurations, and functions, allows for a highly modular and customizable cloud control plane. This flexibility is key to adapting to diverse and evolving infrastructure needs.
-- **Personal Reflection**: The modularity of Crossplane makes it a powerful tool for DevOps teams, allowing them to build tailored solutions that can evolve with their organization’s requirements.
+- Crossplane’s extensible architecture, through providers, configurations, and functions, allows for a highly modular and customizable cloud control plane. This flexibility is key to adapting to diverse and evolving infrastructure needs.
+- The modularity of Crossplane makes it a powerful tool for DevOps teams, allowing them to build tailored solutions that can evolve with their organization’s requirements.
 - **Quote**: “Providers, together with configurations and functions, are a type of package that extends Crossplane’s capabilities.” – Viktor Farcic
 
 ---

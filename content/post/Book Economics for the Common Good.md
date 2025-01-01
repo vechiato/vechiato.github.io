@@ -81,28 +81,28 @@ Tirole examines the role of regulation in various sectors, including telecommuni
 ## **Key Takeaways**
 
 ### **Key Takeaway 1:**
-- Explanation: Understanding economic principles is crucial for making informed decisions in both personal and public spheres. Economics provides tools to analyze and address societal challenges.
-- Personal Reflection: This takeaway reinforces the importance of economic literacy for everyone, not just policymakers and academics. It highlights the need for accessible economic education.
+- Understanding economic principles is crucial for making informed decisions in both personal and public spheres. Economics provides tools to analyse and address societal challenges.
+- This takeaway reinforces the importance of economic literacy for everyone, not just policymakers and academics. It highlights the need for accessible economic education.
 - Quote: “Economics concerns all of us in our everyday lives; it is not just for experts.” – Jean Tirole (Chapter 1, page 17).
 
 ### **Key Takeaway 2:**
-- Explanation: Market mechanisms alone cannot address all societal issues. Government intervention is necessary to correct market failures and promote social cohesion.
-- Personal Reflection: This point underscores the importance of balanced economic policies that incorporate both market and state interventions. It resonates with the need for ethical considerations in economic decision-making.
+- Market mechanisms alone cannot address all societal issues. Government intervention is necessary to correct market failures and promote social cohesion.
+- This point underscores the importance of balanced economic policies that incorporate both market and state interventions. It resonates with the need for ethical considerations in economic decision-making.
 - Quote: “The market has many defects that must be corrected.” – Jean Tirole (Chapter 6, page 157).
 
 ### **Key Takeaway 3:**
-- Explanation: Economists have a responsibility to engage with society and communicate their findings effectively. Their work can influence public policy and societal outcomes.
-- Personal Reflection: This takeaway highlights the ethical responsibilities of economists. It emphasizes the importance of transparency and effective communication in the dissemination of economic knowledge.
+- Economists have a responsibility to engage with society and communicate their findings effectively. Their work can influence public policy and societal outcomes.
+- This takeaway highlights the ethical responsibilities of economists. It emphasizes the importance of transparency and effective communication in the dissemination of economic knowledge.
 - Quote: “The role of economists is not to make decisions, but to identify the recurring patterns structuring our economies.” – Jean Tirole (Chapter 3, page 66).
 
 ### **Key Takeaway 4:**
-- Explanation: Climate change is a pressing economic challenge that requires international cooperation and economic incentives to address effectively.
-- Personal Reflection: This point underscores the interconnectedness of global challenges and the need for collaborative efforts to tackle climate change. It reinforces the role of economics in crafting sustainable solutions.
+- Climate change is a pressing economic challenge that requires international cooperation and economic incentives to address effectively.
+- This point underscores the interconnectedness of global challenges and the need for collaborative efforts to tackle climate change. It reinforces the role of economics in crafting sustainable solutions.
 - Quote: “Climate change may well compromise, in a dramatic and lasting way, the well-being of future generations.” – Jean Tirole (Chapter 8, page 195).
 
 ### **Key Takeaway 5:**
-- Explanation: Digitization and technological advancements are reshaping the economy, creating both opportunities and challenges that need to be addressed through thoughtful policies.
-- Personal Reflection: This takeaway emphasizes the need to adapt to technological changes while ensuring that the benefits are distributed equitably. It highlights the role of policy in managing the digital transformation.
+- Digitization and technological advancements are reshaping the economy, creating both opportunities and challenges that need to be addressed through thoughtful policies.
+- This takeaway emphasises the need to adapt to technological changes while ensuring that the benefits are distributed equitably. It highlights the role of policy in managing the digital transformation.
 - Quote: “The digital economy and employment: the new forms of employment in the twenty-first century.” – Jean Tirole (Chapter 15, page 414).
 
 ## **Personal Reflections**

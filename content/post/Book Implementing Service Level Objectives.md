@@ -97,32 +97,32 @@ The book concludes with guidance on reporting reliability metrics. Hidalgo expla
 
 ### **Key Takeaway 1: Think Like a User**
 
-- **Explanation:** Reliability should be measured from the perspective of the user, not internal metrics.
-- **Reflection:** This insight challenges traditional engineering mindsets and fosters user-centered design.
+- Reliability should be measured from the perspective of the user, not internal metrics.
+- This insight challenges traditional engineering mindsets and fosters user-centered design.
 - **Quote:** “How you appear to be operating to your users is what determines whether you’re being reliable or not.” (Chapter 1, 2)
 
 ### **Key Takeaway 2: Embrace Imperfection**
 
-- **Explanation:** Perfection is costly and unnecessary. Instead, focus on being "good enough" to meet user expectations.
-- **Reflection:** This mindset encourages pragmatic decision-making and resource optimization.
+- Perfection is costly and unnecessary. Instead, focus on being "good enough" to meet user expectations.
+- This mindset encourages pragmatic decision-making and resource optimisation.
 - **Quote:** "You don’t want your target to be perfect reliability, but you’ll need your service to do what it is supposed to well enough for it to be useful to your users." (Chapter 1, pg 13)
 
 ### **Key Takeaway 3: Use Error Budgets to Balance Priorities**
 
-- **Explanation:** Error budgets help teams balance reliability with feature development and innovation.
-- **Reflection:** This approach reduces conflicts between engineering and product teams, fostering alignment.
+- Error budgets help teams balance reliability with feature development and innovation.
+- This approach reduces conflicts between engineering and product teams, fostering alignment.
 - **Quote:** "If you’re out of error budget, you should take a step back and focus on making your service more reliable." (Chapter 5, pg 69)
 
 ### **Key Takeaway 4: SLOs Are a Process, Not a Project**
 
-- **Explanation:** SLOs require continuous iteration and refinement as systems and user needs evolve.
-- **Reflection:** This aligns with the agile principle of embracing change and improving incrementally.
+- SLOs require continuous iteration and refinement as systems and user needs evolve.
+- This aligns with the agile principle of embracing change and improving incrementally.
 - **Quote:** “The world is always changing, and you should be prepared to update and change your SLIs and SLOs.” (Chapter 14, pg 309)
 
 ### **Key Takeaway 5: Foster an SLO Culture**
 
-- **Explanation:** Successful SLO adoption depends on building a culture that prioritizes user experience and continuous improvement.
-- **Reflection:** This highlights the human element of reliability engineering, emphasizing collaboration and communication.
+- Successful SLO adoption depends on building a culture that prioritises user experience and continuous improvement.
+- This highlights the human element of reliability engineering, emphasizing collaboration and communication.
 - **Quote:** “SLO-based approaches encourage thinking about the reliability of your services in a different and more accurate way.” (Chapter 13, pg 283)
 
 ## **Personal Reflections**

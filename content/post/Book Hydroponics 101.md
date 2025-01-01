@@ -110,20 +110,20 @@ Brandi concludes with a call to action, encouraging readers to embrace hydroponi
 
 ### **Key Takeaway 1: Hydroponics Is Resource-Efficient**
 
-- **Explanation**: Hydroponics uses up to 90% less water than traditional farming and optimizes space through vertical systems.
-- **Personal Reflection**: This approach aligns perfectly with urban living, where space and resources are limited.
+- Hydroponics uses up to 90% less water than traditional farming and optimizes space through vertical systems.
+- This approach aligns perfectly with urban living, where space and resources are limited.
 - **Quote**: "Hydroponics is about growing more with less, and growing better." – Edson Brandi
 
 ### **Key Takeaway 2: Control Equals Quality**
 
-- **Explanation**: Hydroponics allows for precise control over factors like pH, nutrients, and light, leading to superior produce.
-- **Personal Reflection**: As someone interested in IoT, automating a hydroponic setup feels like the perfect project to merge tech with sustainability.
+- Hydroponics allows for precise control over factors like pH, nutrients, and light, leading to superior produce.
+- As someone interested in IoT, automating a hydroponic setup feels like the perfect project to merge tech with sustainability.
 - **Quote**: "Controlled environments turn precision into productivity." – Edson Brandi
 
 ### **Key Takeaway 3: Start Small, Dream Big**
 
-- **Explanation**: Systems like the Wick System or Kratky Method are perfect for beginners, enabling manageable entry into hydroponics.
-- **Personal Reflection**: This takeaway resonates with my DIY projects—starting simple paves the way for creativity and growth.
+- Systems like the Wick System or Kratky Method are perfect for beginners, enabling manageable entry into hydroponics.
+- This takeaway resonates with my DIY projects—starting simple paves the way for creativity and growth.
 - **Quote**: "Every journey begins with a single plant. Start simple, and let curiosity guide you." – Edson Brandi
 
 ---

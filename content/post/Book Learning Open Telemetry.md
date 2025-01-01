@@ -73,26 +73,25 @@ Rolling out OpenTelemetry isn’t just a technical challenge—it’s also an or
 
 ### **Key Takeaway 1: Observability Requires Unified Telemetry**
 
-- **Explanation:** OpenTelemetry unifies logs, metrics, and traces into a single framework, providing a vendor-neutral, standardized approach to observability.
-- **Personal Reflection:** This takeaway helped me recognize how fragmented tools hinder effective debugging and monitoring.
+- OpenTelemetry unifies logs, metrics, and traces into a single framework, providing a vendor-neutral, standardised approach to observability.
 - **Quote:** “Instead of three separate pillars, think of telemetry as a single braid of data.” –  (Chapter 1)
 
 ### **Key Takeaway 2: The Importance of Context**
 
-- **Explanation:** OpenTelemetry introduces "hard" (unique identifiers) and "soft" (metadata) contexts to correlate signals across systems effectively.
-- **Personal Reflection:** Context simplifies debugging by making it easier to link events and identify the root cause of issues.
+- OpenTelemetry introduces "hard" (unique identifiers) and "soft" (metadata) contexts to correlate signals across systems effectively.
+- Context simplifies debugging by making it easier to link events and identify the root cause of issues.
 - **Quote:** “Hard context defines relationships; soft context provides unique dimensions to explain signals.” – (Chapter 2)
 
 ### **Key Takeaway 3: Open Standards Future-Proof Observability**
 
-- **Explanation:** OpenTelemetry's use of open standards ensures compatibility across platforms and eliminates vendor lock-in.
-- **Personal Reflection:** Adopting open standards is crucial for organisations aiming to reduce costs and improve maintainability.
+- OpenTelemetry's use of open standards ensures compatibility across platforms and eliminates vendor lock-in.
+- Adopting open standards is crucial for organisations aiming to reduce costs and improve maintainability.
 - **Quote:** “OpenTelemetry isn’t just an emerging standard; it’s inevitable.” –  (Chapter 2)
 
 ### **Key Takeaway 4: Scalability Is Essential**
 
-- **Explanation:** OpenTelemetry’s Collector enables scalable telemetry pipelines, critical for handling the data demands of modern distributed systems.
-- **Personal Reflection:** This reinforced the need for robust, scalable infrastructure in any observability strategy.
+- OpenTelemetry’s Collector enables scalable telemetry pipelines, critical for handling the data demands of modern distributed systems.
+- This reinforced the need for robust, scalable infrastructure in any observability strategy.
 - **Quote:** “OpenTelemetry makes scalable observability pipelines achievable for any organisation.” –  (Chapter 8)
 
 ---

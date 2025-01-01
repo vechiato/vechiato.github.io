@@ -97,24 +97,24 @@ The ultimate goal is to build platforms that are loved by their users. This chap
 
 ### **Key Takeaway 1: Treat Platforms as Products**
 
-- **Explanation:** Platforms must be user-centric and designed like external products, focusing on developer experience.
+- Platforms must be user-centric and designed like external products, focusing on developer experience.
 - **Personal Reflection:** This approach elevates platforms from support roles to enablers of innovation.
 - **Quote:** “A platform is a foundation of self-service APIs, tools, services, knowledge, and support that are arranged as a compelling internal product.” – Camille Fournier & Ian Nowland (p. 4)
 
 ### **Key Takeaway 2: Simplify Glue Work**
 
-- **Explanation:** Reducing “glue” (custom integrations) prevents maintenance nightmares and speeds up development.
+- Reducing “glue” (custom integrations) prevents maintenance nightmares and speeds up development.
 - **Personal Reflection:** Glue work slows teams. This takeaway emphasizes building systems with clear abstractions.
 - **Quote:** “Platforms constrain the amount of glue needed by implementing the concepts of abstraction and encapsulation.” – Camille Fournier & Ian Nowland (p. 6)
 
 ### **Key Takeaway 3: Operational Excellence is Key**
 
-- **Explanation:** Platforms should simplify operations, enabling developers to focus on building features rather than fighting infrastructure issues.
+- Platforms should simplify operations, enabling developers to focus on building features rather than fighting infrastructure issues.
 - **Personal Reflection:** Simplifying operations makes developers more productive and happier.
 
 ### **Key Takeaway 4: Success Is Multi-Faceted**
 
-- **Explanation:** Success isn’t just about technical achievements. Platforms must align with goals, earn trust, manage complexity, and be loved.
+- Success isn’t just about technical achievements. Platforms must align with goals, earn trust, manage complexity, and be loved.
 - **Personal Reflection:** This holistic view resonates as I’ve seen technically sound systems fail due to poor alignment or lack of trust.
 
 ## **Personal Reflections**

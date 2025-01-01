@@ -91,28 +91,28 @@ The application of Chaos Engineering to security is explored here. The chapter h
 ## **Key Takeaways**
 
 ### Key Takeaway 1: Embrace Failure as Learning
-- Explanation: Chaos Engineering promotes the idea that failures are opportunities to learn and improve system resilience. By intentionally introducing failures, organizations can identify and address weaknesses before they cause major disruptions.
-- Personal Reflection: This perspective can transform how companies approach system design and maintenance, shifting from a reactive to a proactive stance. It encourages continuous improvement and adaptability.
+- Chaos Engineering promotes the idea that failures are opportunities to learn and improve system resilience. By intentionally introducing failures, organizations can identify and address weaknesses before they cause major disruptions.
+- This perspective can transform how companies approach system design and maintenance, shifting from a reactive to a proactive stance. It encourages continuous improvement and adaptability.
 - Quote: “If you’re not failing, you’re not learning.” – Casey Rosenthal and Nora Jones (Chapter 10, Page 150)
 
 ### Key Takeaway 2: Build a Hypothesis Around Steady-State Behavior
-- Explanation: Successful chaos experiments are built on hypotheses about what normal system behavior should look like. By understanding the steady state, engineers can better design experiments to test system limits and responses to failures.
-- Personal Reflection: This methodical approach ensures that chaos experiments are purposeful and yield actionable insights, rather than causing unnecessary disruption.
+- Successful chaos experiments are built on hypotheses about what normal system behavior should look like. By understanding the steady state, engineers can better design experiments to test system limits and responses to failures.
+- This methodical approach ensures that chaos experiments are purposeful and yield actionable insights, rather than causing unnecessary disruption.
 - Quote: “Build a hypothesis around steady-state behavior.” – Casey Rosenthal and Nora Jones (Chapter 3, Page 30)
 
 ### Key Takeaway 3: Automate and Continuously Run Experiments
-- Explanation: Automation is crucial for the continuous integration of chaos experiments into the development cycle. It allows for regular testing and validation of system resilience without manual intervention.
-- Personal Reflection: Automation makes Chaos Engineering scalable and sustainable, ensuring that resilience testing keeps pace with system changes and growth.
+- Automation is crucial for the continuous integration of chaos experiments into the development cycle. It allows for regular testing and validation of system resilience without manual intervention.
+- Automation makes Chaos Engineering scalable and sustainable, ensuring that resilience testing keeps pace with system changes and growth.
 - Quote: “Automate experiments to run continuously.” – Casey Rosenthal and Nora Jones (Chapter 3, Page 32)
 
 ### Key Takeaway 4: Focus on Human Factors
-- Explanation: Human factors play a significant role in the success of chaos experiments. Understanding organisational context, communication, and leadership dynamics is essential for implementing effective Chaos Engineering practices.
-- Personal Reflection: Acknowledging the human element can lead to more thoughtful and comprehensive approaches to system resilience, ensuring that teams are prepared and aligned.
+- Human factors play a significant role in the success of chaos experiments. Understanding organisational context, communication, and leadership dynamics is essential for implementing effective Chaos Engineering practices.
+- Acknowledging the human element can lead to more thoughtful and comprehensive approaches to system resilience, ensuring that teams are prepared and aligned.
 - Quote: “Organizations are a system of systems.” – Casey Rosenthal and Nora Jones (Chapter 10, Page 134)
 
 ### Key Takeaway 5: Measure ROI and Advocate for Open Practices
-- Explanation: Demonstrating the ROI of Chaos Engineering can help gain organisational buy-in and support. Additionally, adopting open science and open source practices can drive innovation and collaboration across industries.
-- Personal Reflection: Highlighting the tangible benefits of Chaos Engineering and fostering an open culture can lead to broader adoption and continuous improvement.
+- Demonstrating the ROI of Chaos Engineering can help gain organisational buy-in and support. Additionally, adopting open science and open source practices can drive innovation and collaboration across industries.
+- Highlighting the tangible benefits of Chaos Engineering and fostering an open culture can lead to broader adoption and continuous improvement.
 
 ## **Personal Reflections**
 Reading "Chaos Engineering: System Resiliency in Practice" has reshaped my understanding of system reliability and resilience. It has provided me with actionable strategies to anticipate and mitigate system failures proactively. Implementing these principles can lead to more robust systems and a culture that values continuous learning and improvement. This book has made me rethink how we approach system design and failure management, highlighting the importance of resilience in today’s complex, interconnected digital landscape.
