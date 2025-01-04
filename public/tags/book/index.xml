@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Mastering OpenTelemetry and Observability</title>
+      <link>https://blog.vechiato.cc/post/book-mastering-opentelemetry-and-observability/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-mastering-opentelemetry-and-observability/</guid>
+      <description>
+        
+          
+            &lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/book_mastering_otel.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2024 by Steve Flanders&lt;/p&gt;
+&lt;h1 id=&#34;mastering-opentelemetry-and-observability&#34;&gt;&lt;strong&gt;Mastering OpenTelemetry and Observability&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore &lt;em&gt;Mastering OpenTelemetry and Observability&lt;/em&gt; by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.&lt;/p&gt;
+&lt;p&gt;Written by a key contributor to OpenTelemetry, this book offers both technical expertise and actionable strategies for leveraging observability to improve system performance and reduce outages. It’s a must-read for anyone looking to enhance their understanding of telemetry data and system diagnostics.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Insights from Intro To Python Programming</title>
       <link>https://blog.vechiato.cc/post/book-intro-to-python/</link>

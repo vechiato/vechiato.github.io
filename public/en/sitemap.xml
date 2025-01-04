@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.vechiato.cc/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,23 +17,43 @@
                 href="https://blog.vechiato.cc/"
                 />
   </url><url>
-    <loc>https://blog.vechiato.cc/tags/code-club/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <loc>https://blog.vechiato.cc/tags/book/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/post/mastering-google-search/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <loc>https://blog.vechiato.cc/tags/devops/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/post/book-mastering-opentelemetry-and-observability/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/observability/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/otel/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.vechiato.cc/post/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/sre/</loc>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.vechiato.cc/tags/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -47,8 +67,13 @@
                 href="https://blog.vechiato.cc/tags/"
                 />
   </url><url>
-    <loc>https://blog.vechiato.cc/tags/book/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <loc>https://blog.vechiato.cc/tags/code-club/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/post/mastering-google-search/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -113,11 +138,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.vechiato.cc/post/book-implementing-service-level-objectives/</loc>
-    <lastmod>2024-11-19T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/sre/</loc>
     <lastmod>2024-11-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -187,11 +207,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/tags/devops/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://blog.vechiato.cc/tags/security/</loc>
     <lastmod>2024-06-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -237,17 +252,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/tags/observability/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://blog.vechiato.cc/post/book-learning-open-telemetry/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/otel/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
