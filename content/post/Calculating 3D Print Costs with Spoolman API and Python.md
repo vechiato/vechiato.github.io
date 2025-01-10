@@ -229,9 +229,7 @@ I hope you find this tool as useful as I have. Feel free to contribute to the pr
 ---
 ## **Acknowledgements**
 
-
 - **Spoolman API**: This script utilizes the Spoolman API for fetching spool data. [Spoolman API Documentation](https://donkie.github.io/Spoolman/)
-
 - **Contributors**: Thanks to everyone who has contributed to this project.
 
 ---
