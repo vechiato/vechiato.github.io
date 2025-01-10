@@ -98,13 +98,13 @@ At the end, the script provides a summary table:
 
    ```ini
    # Spoolman API URL (default is http://localhost:9712/api/v1 if not set)
-   SPOOLMAN_API_URL=http://your-spoolman-api-host:port/api/v1
+   SPOOLMAN_API_URL=http://your-spoolman-host:port/api/v1
 
    # Spoolman API Key (if required)
    SPOOLMAN_API_KEY=your_api_key_here
    ```
 
-   - Replace `http://your-spoolman-api-url/api/v1` with your Spoolman API URL.
+   - Replace `http://your-spoolman-host:port/api/v1` with your Spoolman API URL.
    - If you don't set `SPOOLMAN_API_URL`, the script defaults to `http://localhost:9712/api/v1`.
 
 ---
@@ -163,6 +163,51 @@ python calculate_filament_cost.py
 	Total Cost:                                                          3.40
    ```
 
+## Example Output
+
+```
+Available Spools:
+1. PLA Red (ID: 1) Price: $16.49 Material: PLA Color: ff0000
+2. PLA White (ID: 2) Price: $10.99 Material: PLA Color: ffffff
+3. NYLON GREY (ID: 3) Price: $28.99 Material: NYLON Color: 808080
+4. PETG BLACK (ID: 4) Price: $15.99 Material: PETG Color: 000000
+...
+
+Select a spool by number: 1
+
+Selected Spool: PLA Red
+Spool Cost: $16.49
+Remaining Filament Weight: 912.13 grams
+Material: PLA, Diameter: 1.75 mm, Density: 1.24 g/cm³
+
+Enter filament used for the print (e.g., '100g' or '1.5m'): 100.34g
+
+Cost for this spool: $1.65
+
+Do you want to add another spool? (y/n): y
+
+Select a spool by number: 2
+
+Selected Spool: PLA White
+Spool Cost: $10.99
+Remaining Filament Weight: 440.00 grams
+Material: PLA, Diameter: 1.75 mm, Density: 1.24 g/cm³
+
+Enter filament used for the print (e.g., '100g' or '1.5m'): 53.21m
+
+Cost for this spool: $1.74
+
+Do you want to add another spool? (y/n): n
+
+Summary of Filament Usage:
+Spool Name                             Filament Used        Unit    Cost
+---------------------------------------------------------------------------
+PLA Red                                    100.34             g      1.65
+PLA White                                   53.21             m      1.74
+---------------------------------------------------------------------------
+Total Cost:                                                          3.40
+```
+
 ---
 
 ## **Benefits of This Approach**
@@ -189,6 +234,14 @@ Accurately calculating the cost of your 3D prints is essential, whether for pers
 **Check out the project on GitHub:** [Spoolman Multi-Spool Cost Calculator](https://github.com/vechiato/spoolman-multi-spool-cost-calculator)
 
 I hope you find this tool as useful as I have. Feel free to contribute to the project or suggest enhancements!
+
+---
+## **Acknowledgements**
+
+
+- **Spoolman API**: This script utilizes the Spoolman API for fetching spool data. [Spoolman API Documentation](https://donkie.github.io/Spoolman/)
+
+- **Contributors**: Thanks to everyone who has contributed to this project.
 
 ---
 

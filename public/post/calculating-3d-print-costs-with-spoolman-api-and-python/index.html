@@ -188,7 +188,7 @@ As a 3D printing enthusiast, I&#39;ve often grappled with accurately calculating
 </span>
     <span class="post_date">
       Jan 10, 2025</span>
-    <span class="post_time"> · 5 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/3d-printing/' title="3d printing" class="post_tag button button_translucent">3d printing
+    <span class="post_time"> · 6 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/3d-printing/' title="3d printing" class="post_tag button button_translucent">3d printing
         </a><a href='https://blog.vechiato.cc/tags/python/' title="python" class="post_tag button button_translucent">python
         </a>
     </span>
@@ -299,12 +299,12 @@ In this blog post, I'll walk you through the motivation behind the project, the 
 <p><strong>Set Up Environment Variables</strong></p>
 <p>Create a <code>.env</code> file in the project directory:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-ini" data-lang="ini"><span class="line"><span class="ln">1</span><span class="cl"><span class="c1"># Spoolman API URL (default is http://localhost:9712/api/v1 if not set)</span>
-</span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="na">SPOOLMAN_API_URL</span><span class="o">=</span><span class="s">http://your-spoolman-api-host:port/api/v1</span>
+</span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="na">SPOOLMAN_API_URL</span><span class="o">=</span><span class="s">http://your-spoolman-host:port/api/v1</span>
 </span></span><span class="line"><span class="ln">3</span><span class="cl">
 </span></span><span class="line"><span class="ln">4</span><span class="cl"><span class="c1"># Spoolman API Key (if required)</span>
 </span></span><span class="line"><span class="ln">5</span><span class="cl"><span class="na">SPOOLMAN_API_KEY</span><span class="o">=</span><span class="s">your_api_key_here</span>
 </span></span></code></pre></div><ul>
-<li>Replace <code>http://your-spoolman-api-url/api/v1</code> with your Spoolman API URL.</li>
+<li>Replace <code>http://your-spoolman-host:port/api/v1</code> with your Spoolman API URL.</li>
 <li>If you don't set <code>SPOOLMAN_API_URL</code>, the script defaults to <code>http://localhost:9712/api/v1</code>.</li>
 </ul>
 </li>
@@ -347,7 +347,48 @@ In this blog post, I'll walk you through the motivation behind the project, the 
 </span></span><span class="line"><span class="ln">7</span><span class="cl"> Total Cost:                                                          3.40
 </span></span></code></pre></div></li>
 </ol>
-<hr>
+<h2 id="example-output">Example Output</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln"> 1</span><span class="cl">Available Spools:
+</span></span><span class="line"><span class="ln"> 2</span><span class="cl">1. PLA Red (ID: 1) Price: $16.49 Material: PLA Color: ff0000
+</span></span><span class="line"><span class="ln"> 3</span><span class="cl">2. PLA White (ID: 2) Price: $10.99 Material: PLA Color: ffffff
+</span></span><span class="line"><span class="ln"> 4</span><span class="cl">3. NYLON GREY (ID: 3) Price: $28.99 Material: NYLON Color: 808080
+</span></span><span class="line"><span class="ln"> 5</span><span class="cl">4. PETG BLACK (ID: 4) Price: $15.99 Material: PETG Color: 000000
+</span></span><span class="line"><span class="ln"> 6</span><span class="cl">...
+</span></span><span class="line"><span class="ln"> 7</span><span class="cl">
+</span></span><span class="line"><span class="ln"> 8</span><span class="cl">Select a spool by number: 1
+</span></span><span class="line"><span class="ln"> 9</span><span class="cl">
+</span></span><span class="line"><span class="ln">10</span><span class="cl">Selected Spool: PLA Red
+</span></span><span class="line"><span class="ln">11</span><span class="cl">Spool Cost: $16.49
+</span></span><span class="line"><span class="ln">12</span><span class="cl">Remaining Filament Weight: 912.13 grams
+</span></span><span class="line"><span class="ln">13</span><span class="cl">Material: PLA, Diameter: 1.75 mm, Density: 1.24 g/cm³
+</span></span><span class="line"><span class="ln">14</span><span class="cl">
+</span></span><span class="line"><span class="ln">15</span><span class="cl">Enter filament used for the print (e.g., &#39;100g&#39; or &#39;1.5m&#39;): 100.34g
+</span></span><span class="line"><span class="ln">16</span><span class="cl">
+</span></span><span class="line"><span class="ln">17</span><span class="cl">Cost for this spool: $1.65
+</span></span><span class="line"><span class="ln">18</span><span class="cl">
+</span></span><span class="line"><span class="ln">19</span><span class="cl">Do you want to add another spool? (y/n): y
+</span></span><span class="line"><span class="ln">20</span><span class="cl">
+</span></span><span class="line"><span class="ln">21</span><span class="cl">Select a spool by number: 2
+</span></span><span class="line"><span class="ln">22</span><span class="cl">
+</span></span><span class="line"><span class="ln">23</span><span class="cl">Selected Spool: PLA White
+</span></span><span class="line"><span class="ln">24</span><span class="cl">Spool Cost: $10.99
+</span></span><span class="line"><span class="ln">25</span><span class="cl">Remaining Filament Weight: 440.00 grams
+</span></span><span class="line"><span class="ln">26</span><span class="cl">Material: PLA, Diameter: 1.75 mm, Density: 1.24 g/cm³
+</span></span><span class="line"><span class="ln">27</span><span class="cl">
+</span></span><span class="line"><span class="ln">28</span><span class="cl">Enter filament used for the print (e.g., &#39;100g&#39; or &#39;1.5m&#39;): 53.21m
+</span></span><span class="line"><span class="ln">29</span><span class="cl">
+</span></span><span class="line"><span class="ln">30</span><span class="cl">Cost for this spool: $1.74
+</span></span><span class="line"><span class="ln">31</span><span class="cl">
+</span></span><span class="line"><span class="ln">32</span><span class="cl">Do you want to add another spool? (y/n): n
+</span></span><span class="line"><span class="ln">33</span><span class="cl">
+</span></span><span class="line"><span class="ln">34</span><span class="cl">Summary of Filament Usage:
+</span></span><span class="line"><span class="ln">35</span><span class="cl">Spool Name                             Filament Used        Unit    Cost
+</span></span><span class="line"><span class="ln">36</span><span class="cl">---------------------------------------------------------------------------
+</span></span><span class="line"><span class="ln">37</span><span class="cl">PLA Red                                    100.34             g      1.65
+</span></span><span class="line"><span class="ln">38</span><span class="cl">PLA White                                   53.21             m      1.74
+</span></span><span class="line"><span class="ln">39</span><span class="cl">---------------------------------------------------------------------------
+</span></span><span class="line"><span class="ln">40</span><span class="cl">Total Cost:                                                          3.40
+</span></span></code></pre></div><hr>
 <h2 id="benefits-of-this-approach"><strong>Benefits of This Approach</strong></h2>
 <ul>
 <li><strong>Accurate Cost Estimation</strong>: By considering actual spool prices and filament used, you get precise cost calculations.</li>
@@ -367,6 +408,16 @@ In this blog post, I'll walk you through the motivation behind the project, the 
 <p>Accurately calculating the cost of your 3D prints is essential, whether for personal budgeting, quoting clients, or managing resources. By leveraging the Spoolman API and this Python script, you can gain better insights into your printing costs and make informed decisions.</p>
 <p><strong>Check out the project on GitHub:</strong> <a href="https://github.com/vechiato/spoolman-multi-spool-cost-calculator">Spoolman Multi-Spool Cost Calculator</a></p>
 <p>I hope you find this tool as useful as I have. Feel free to contribute to the project or suggest enhancements!</p>
+<hr>
+<h2 id="acknowledgements"><strong>Acknowledgements</strong></h2>
+<ul>
+<li>
+<p><strong>Spoolman API</strong>: This script utilizes the Spoolman API for fetching spool data. <a href="https://donkie.github.io/Spoolman/">Spoolman API Documentation</a></p>
+</li>
+<li>
+<p><strong>Contributors</strong>: Thanks to everyone who has contributed to this project.</p>
+</li>
+</ul>
 <hr>
 <p><strong>Happy printing!</strong></p>
 
