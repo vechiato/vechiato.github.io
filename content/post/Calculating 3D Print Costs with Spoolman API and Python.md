@@ -13,7 +13,6 @@ As a 3D printing enthusiast, I've often grappled with accurately calculating the
 In this blog post, I'll walk you through the motivation behind the project, the features of the script, and how you can use it to accurately estimate your 3D printing costs.
 
 ---
-
 ## **The Challenge**
 
 Estimating the cost of a 3D print isn't straightforward when:
@@ -25,7 +24,6 @@ Estimating the cost of a 3D print isn't straightforward when:
 This led me to create a solution that considers the actual filament used from specific spools, providing a more accurate cost calculation.
 
 ---
-
 ## **Introducing the Filament Cost Calculator**
 
 The **Filament Cost Calculator** is a Python script that:
@@ -38,7 +36,6 @@ The **Filament Cost Calculator** is a Python script that:
 You can find the script on GitHub: [Spoolman Multi-Spool Cost Calculator](https://github.com/vechiato/spoolman-multi-spool-cost-calculator)
 
 ---
-
 ## **How It Works**
 
 ### **1. Fetching Spool Data**
@@ -69,7 +66,6 @@ At the end, the script provides a summary table:
 - **Cost**
 
 ---
-
 ## **Setting Up the Script**
 
 ### **Prerequisites**
@@ -207,7 +203,6 @@ Total Cost:                                                          3.40
 ```
 
 ---
-
 ## **Benefits of This Approach**
 
 - **Accurate Cost Estimation**: By considering actual spool prices and filament used, you get precise cost calculations.
@@ -216,7 +211,6 @@ Total Cost:                                                          3.40
 - **Customizable**: You can modify the script to suit your needs, such as integrating with your slicer's output or adjusting for different currencies.
 
 ---
-
 ## **Future Enhancements**
 
 - **Integration with Slicers**: Automating the extraction of filament usage directly from slicer output files.
@@ -224,7 +218,6 @@ Total Cost:                                                          3.40
 - **Exporting Reports**: Adding functionality to export the summary as a CSV or PDF for record-keeping.
 
 ---
-
 ## **Conclusion**
 
 Accurately calculating the cost of your 3D prints is essential, whether for personal budgeting, quoting clients, or managing resources. By leveraging the Spoolman API and this Python script, you can gain better insights into your printing costs and make informed decisions.
