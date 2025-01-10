@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d Printing on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/3d-printing/</link>
+    <description>Recent content in 3d Printing on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calculating 3D Print Costs with Spoolman API and Python</title>
+      <link>https://blog.vechiato.cc/post/calculating-3d-print-costs-with-spoolman-api-and-python/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/calculating-3d-print-costs-with-spoolman-api-and-python/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;calculating-3d-print-costs-with-spoolman-api-and-python&#34;&gt;Calculating 3D Print Costs with Spoolman API and Python&lt;/h1&gt;
+&lt;p&gt;As a 3D printing enthusiast, I&#39;ve often grappled with accurately calculating the cost of my prints. While slicers provide estimates of filament usage, they don&#39;t account for the actual cost of the filament used, especially when dealing with multiple spools or varying filament prices. To solve this, I developed a Python script that calculates the real cost of a 3D print by leveraging the Spoolman API.
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/3dp_thumb.jpeg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+In this blog post, I&#39;ll walk you through the motivation behind the project, the features of the script, and how you can use it to accurately estimate your 3D printing costs.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
