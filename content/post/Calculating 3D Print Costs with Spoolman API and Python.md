@@ -12,7 +12,6 @@ tags:
 # Calculating 3D Print Costs with Spoolman API and Python
 
 As a 3D printing enthusiast, I've often grappled with accurately calculating the cost of my prints. While slicers provide estimates of filament usage, they don't account for the actual cost of the filament used, especially when dealing with multiple spools or varying filament prices. To solve this, I developed a Python script that calculates the real cost of a 3D print by leveraging the Spoolman API.
-![image](/obsidian/3dp_thumb.jpeg)
 In this blog post, I'll walk you through the motivation behind the project, the features of the script, and how you can use it to accurately estimate your 3D printing costs.
 
 ---
@@ -139,7 +138,7 @@ python calculate_filament_cost.py
    When prompted, enter the amount of filament used with the unit:
 
    ```
-   Enter filament used for the print (e.g., '100g' or '1.5m'): 100g
+   Enter filament used for the print (e.g., '100g' or '1.5m'): 100.34g
    ```
 
 3. **Add Additional Spools**
