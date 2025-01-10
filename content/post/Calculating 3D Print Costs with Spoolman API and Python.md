@@ -9,8 +9,6 @@ tags:
   - python
 --- 
 
-# Calculating 3D Print Costs with Spoolman API and Python
-
 As a 3D printing enthusiast, I've often grappled with accurately calculating the cost of my prints. While slicers provide estimates of filament usage, they don't account for the actual cost of the filament used, especially when dealing with multiple spools or varying filament prices. To solve this, I developed a Python script that calculates the real cost of a 3D print by leveraging the Spoolman API.
 In this blog post, I'll walk you through the motivation behind the project, the features of the script, and how you can use it to accurately estimate your 3D printing costs.
 
