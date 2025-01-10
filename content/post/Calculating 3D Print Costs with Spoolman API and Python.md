@@ -176,7 +176,7 @@ Material: PLA, Diameter: 1.75 mm, Density: 1.24 g/cm³
 
 Enter filament used for the print (e.g., '100g' or '1.5m'): 100.34g
 
-Cost for this spool: $1.65
+Cost for this print: $1.65
 
 Do you want to add another spool? (y/n): y
 
@@ -189,7 +189,7 @@ Material: PLA, Diameter: 1.75 mm, Density: 1.24 g/cm³
 
 Enter filament used for the print (e.g., '100g' or '1.5m'): 53.21m
 
-Cost for this spool: $1.74
+Cost for this print: $1.74
 
 Do you want to add another spool? (y/n): n
 
