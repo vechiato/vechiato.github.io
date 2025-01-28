@@ -134,6 +134,8 @@ Once installed, you can test DeepSeek R1 using the Ollama CLI or the web-based u
     - User-friendly and intuitive interface.
     - Supports visualizing outputs and exploring data interactively.
 
+[open-web ui github](https://github.com/open-webui/open-webui)
+
 ### Using Docker Compose for the WebUI
 
 If you prefer to use Docker Compose to run the WebUI:
