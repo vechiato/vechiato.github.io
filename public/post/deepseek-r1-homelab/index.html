@@ -186,7 +186,7 @@
 </span>
     <span class="post_date">
       Jan 28, 2025</span>
-    <span class="post_time"> · 3 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/llm/' title="llm" class="post_tag button button_translucent">llm
+    <span class="post_time"> · 4 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/llm/' title="llm" class="post_tag button button_translucent">llm
         </a><a href='https://blog.vechiato.cc/tags/ollama/' title="ollama" class="post_tag button button_translucent">ollama
         </a><a href='https://blog.vechiato.cc/tags/deepseek/' title="deepseek" class="post_tag button button_translucent">deepseek
         </a><a href='https://blog.vechiato.cc/tags/homelab/' title="homelab" class="post_tag button button_translucent">homelab
@@ -271,19 +271,6 @@
 <p>To use DeepSeek R1 with Ollama:</p>
 <ol>
 <li>
-<p><strong>Search for DeepSeek R1</strong>:</p>
-<ul>
-<li>
-<p>Open the Ollama app or CLI.</p>
-</li>
-<li>
-<p>Use the command:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">ollama list
-</span></span></code></pre></div><p>This will display available models.</p>
-</li>
-</ul>
-</li>
-<li>
 <p><strong>Install DeepSeek R1</strong>:</p>
 <ul>
 <li>
@@ -309,7 +296,7 @@
 <hr>
 <h1 id="step-3-test-deepseek-r1">Step 3: Test DeepSeek R1</h1>
 <p>Once installed, you can test DeepSeek R1 using the Ollama CLI or the web-based user interface (WebUI):</p>
-<h3 id="using-the-cli">Using the CLI</h3>
+<h2 id="using-the-cli">Using the CLI</h2>
 <ol>
 <li>
 <p><strong>Run the Model</strong>:</p>
@@ -425,6 +412,80 @@
 <p>To stop the service, press <code>Ctrl+C</code> or run:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">docker compose down
 </span></span></code></pre></div></li>
+</ul>
+</li>
+</ol>
+<h1 id="step-4-deepseek-coder">Step 4: DeepSeek Coder</h1>
+<p>DeepSeek Coder is another powerful model in the DeepSeek series, specifically designed to assist with coding tasks, including code generation, debugging, and explaining complex logic. You can install and use it similarly to DeepSeek R1.</p>
+<h2 id="download-and-run-deepseek-coder">Download and Run DeepSeek Coder</h2>
+<ol>
+<li>
+<p><strong>Install DeepSeek Coder</strong>:</p>
+<ul>
+<li>
+<p>Run the command:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">ollama pull deepseek-coder
+</span></span></code></pre></div></li>
+<li>
+<p>This will download and set up DeepSeek Coder. The process may take a few minutes.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Verify Installation</strong>:</p>
+<ul>
+<li>
+<p>Confirm that the model is installed:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">ollama models
+</span></span></code></pre></div><p>Ensure <code>deepseek-coder</code> is listed.</p>
+</li>
+</ul>
+</li>
+</ol>
+<h3 id="test-deepseek-coder">Test DeepSeek Coder</h3>
+<ol>
+<li>
+<p><strong>Run the Model</strong>:</p>
+<ul>
+<li>
+<p>Start DeepSeek Coder with:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">ollama run deepseek-coder
+</span></span></code></pre></div></li>
+<li>
+<p>Input queries related to coding tasks.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Example Queries</strong>:</p>
+<ul>
+<li>
+<p>Code generation:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">Write a Python script to scrape data from a website.
+</span></span></code></pre></div></li>
+<li>
+<p>Debugging:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">Find the error in this code snippet: [paste code here]
+</span></span></code></pre></div></li>
+<li>
+<p>Code explanation:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">Explain what this function does: [paste function here]
+</span></span></code></pre></div></li>
+</ul>
+</li>
+</ol>
+<h3 id="using-deepseek-coder-in-the-webui">Using DeepSeek Coder in the WebUI</h3>
+<ol>
+<li>
+<p><strong>Select DeepSeek Coder</strong>:</p>
+<ul>
+<li>Open the WebUI and choose <code>DeepSeek Coder</code> from the model list.</li>
+</ul>
+</li>
+<li>
+<p><strong>Interact with the Model</strong>:</p>
+<ul>
+<li>Input your programming-related queries and get detailed responses directly in the WebUI.</li>
 </ul>
 </li>
 </ol>

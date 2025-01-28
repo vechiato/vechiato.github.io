@@ -49,17 +49,7 @@ If you haven’t installed Ollama yet, follow these steps:
 
 To use DeepSeek R1 with Ollama:
 
-1. **Search for DeepSeek R1**:
-    
-    - Open the Ollama app or CLI.
-    - Use the command:
-        
-        ```bash
-        ollama list
-        ```
-        
-        This will display available models.
-2. **Install DeepSeek R1**:
+1. **Install DeepSeek R1**:
     
     - Run the command:
         
@@ -68,7 +58,7 @@ To use DeepSeek R1 with Ollama:
         ```
         
     - The system will download the necessary files. This may take a few minutes depending on your internet speed.
-3. **Verify Installation**:
+2. **Verify Installation**:
     
     - After installation, confirm by running:
         
@@ -84,7 +74,7 @@ To use DeepSeek R1 with Ollama:
 
 Once installed, you can test DeepSeek R1 using the Ollama CLI or the web-based user interface (WebUI):
 
-### Using the CLI
+## Using the CLI
 
 1. **Run the Model**:
     
@@ -191,6 +181,76 @@ If you prefer to use Docker Compose to run the WebUI:
         docker compose down
         ```
         
+# Step 4: DeepSeek Coder
+
+DeepSeek Coder is another powerful model in the DeepSeek series, specifically designed to assist with coding tasks, including code generation, debugging, and explaining complex logic. You can install and use it similarly to DeepSeek R1.
+
+## Download and Run DeepSeek Coder
+
+1. **Install DeepSeek Coder**:
+    
+    - Run the command:
+        
+        ```
+        ollama pull deepseek-coder
+        ```
+        
+    - This will download and set up DeepSeek Coder. The process may take a few minutes.
+        
+3. **Verify Installation**:
+    
+    - Confirm that the model is installed:
+        
+        ```
+        ollama models
+        ```
+        
+        Ensure `deepseek-coder` is listed.
+        
+
+### Test DeepSeek Coder
+
+1. **Run the Model**:
+    
+    - Start DeepSeek Coder with:
+        
+        ```
+        ollama run deepseek-coder
+        ```
+        
+    - Input queries related to coding tasks.
+        
+2. **Example Queries**:
+    
+    - Code generation:
+        
+        ```
+        Write a Python script to scrape data from a website.
+        ```
+        
+    - Debugging:
+        
+        ```
+        Find the error in this code snippet: [paste code here]
+        ```
+        
+    - Code explanation:
+        
+        ```
+        Explain what this function does: [paste function here]
+        ```
+        
+
+### Using DeepSeek Coder in the WebUI
+
+1. **Select DeepSeek Coder**:
+    
+    - Open the WebUI and choose `DeepSeek Coder` from the model list.
+        
+2. **Interact with the Model**:
+    
+    - Input your programming-related queries and get detailed responses directly in the WebUI.
+
 
 ---
 
