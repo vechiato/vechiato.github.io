@@ -11,13 +11,11 @@ tags:
   - homelab
 --- 
 
-# How to Install and Test DeepSeek R1 Using Ollama
-
 DeepSeek R1 is a powerful AI model designed for advanced data analysis and insight extraction. Leveraging the simplicity and flexibility of Ollama, you can get DeepSeek R1 up and running in no time. This guide will walk you through the installation process and demonstrate how to test the model effectively.
 
 ---
 
-## Prerequisites
+# Prerequisites
 
 Before diving into the setup, ensure you have the following:
 
@@ -26,11 +24,10 @@ Before diving into the setup, ensure you have the following:
     - Minimum 16GB RAM
     - GPU (for optimal performance)
     - At least 10GB of free disk space
-3. **Stable Internet Connection**: Required for downloading the model files.
 
 ---
 
-## Step 1: Install Ollama
+# Step 1: Install Ollama
 
 If you haven’t installed Ollama yet, follow these steps:
 
@@ -48,7 +45,7 @@ If you haven’t installed Ollama yet, follow these steps:
 
 ---
 
-## Step 2: Download and Install DeepSeek R1
+# Step 2: Download and Install DeepSeek R1
 
 To use DeepSeek R1 with Ollama:
 
@@ -83,7 +80,7 @@ To use DeepSeek R1 with Ollama:
 
 ---
 
-## Step 3: Test DeepSeek R1
+# Step 3: Test DeepSeek R1
 
 Once installed, you can test DeepSeek R1 using the Ollama CLI or the web-based user interface (WebUI):
 
@@ -113,23 +110,9 @@ Once installed, you can test DeepSeek R1 using the Ollama CLI or the web-based u
         ```
         
 
-### Using the WebUI
+## Using the WebUI
 
-1. **Launch the WebUI**:
-    
-    - Open Ollama and navigate to the WebUI interface.
-    - Alternatively, start the WebUI via the CLI using:
-        
-        ```bash
-        ollama webui
-        ```
-        
-2. **Interact with DeepSeek R1**:
-    
-    - Once the WebUI is running, access it through your browser (typically at `http://localhost:3000` or a similar local address).
-    - Select DeepSeek R1 from the available models.
-    - Input queries directly into the interface and view results in real-time.
-3. **Benefits of the WebUI**:
+ **Benefits of the WebUI**:
     
     - User-friendly and intuitive interface.
     - Supports visualizing outputs and exploring data interactively.
@@ -195,10 +178,11 @@ If you prefer to use Docker Compose to run the WebUI:
         ```
         
     - This starts the Ollama WebUI, accessible at `http://localhost:3000`.
-4. **Access and Use the WebUI**:
+4. **Interact with DeepSeek R1**:
     
-    - Open your browser and go to `http://localhost:3000`.
-    - Follow the steps outlined above to install and interact with DeepSeek R1.
+    - Once the WebUI is running, access it through your browser (typically at `http://localhost:3000` or a similar local address).
+    - Select DeepSeek R1 from the available models.
+    - Input queries directly into the interface and view results in real-time.
 5. **Stop the WebUI**:
     
     - To stop the service, press `Ctrl+C` or run:
