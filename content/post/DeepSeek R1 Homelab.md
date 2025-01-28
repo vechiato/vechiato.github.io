@@ -202,7 +202,7 @@ DeepSeek Coder is another powerful model in the DeepSeek series, specifically de
     - Confirm that the model is installed:
         
         ```
-        ollama models
+        ollama list
         ```
         
         Ensure `deepseek-coder` is listed.
