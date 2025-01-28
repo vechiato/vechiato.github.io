@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ollama on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/ollama/</link>
+    <description>Recent content in Ollama on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/ollama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Install and Test DeepSeek R1 Using Ollama</title>
+      <link>https://blog.vechiato.cc/post/deepseek-r1-homelab/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/deepseek-r1-homelab/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;how-to-install-and-test-deepseek-r1-using-ollama&#34;&gt;How to Install and Test DeepSeek R1 Using Ollama&lt;/h1&gt;
+&lt;p&gt;DeepSeek R1 is a powerful AI model designed for advanced data analysis and insight extraction. Leveraging the simplicity and flexibility of Ollama, you can get DeepSeek R1 up and running in no time. This guide will walk you through the installation process and demonstrate how to test the model effectively.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h2&gt;
+&lt;p&gt;Before diving into the setup, ensure you have the following:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
