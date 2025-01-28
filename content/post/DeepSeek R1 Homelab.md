@@ -76,7 +76,7 @@ To use DeepSeek R1 with Ollama:
     - After installation, confirm by running:
         
         ```bash
-        ollama models
+        ollama list
         ```
         
         Ensure `deepseek-r1` is listed among the installed models.
