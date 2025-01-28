@@ -67,7 +67,7 @@ To use DeepSeek R1 with Ollama:
     - Run the command:
         
         ```bash
-        ollama install deepseek-r1
+        ollama pull deepseek-r1
         ```
         
     - The system will download the necessary files. This may take a few minutes depending on your internet speed.
