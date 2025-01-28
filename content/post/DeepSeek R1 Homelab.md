@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "How to Install and Test DeepSeek R1 Using Ollama"
+title: "How to Install and Run DeepSeek R1 and Coder Using Ollama"
 date: "2025-01-28"
 thumbnail: "/obsidian/code_club_thumb.jpeg"
 publish: true
