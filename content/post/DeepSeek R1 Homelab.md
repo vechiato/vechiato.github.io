@@ -70,9 +70,9 @@ To use DeepSeek R1 with Ollama:
 
 ---
 
-# Step 3: Test DeepSeek R1
+# Step 3: Run DeepSeek R1 Model
 
-Once installed, you can test DeepSeek R1 using the Ollama CLI or the web-based user interface (WebUI):
+Once installed, you can run DeepSeek R1 using the Ollama CLI or the web-based user interface (WebUI):
 
 ## Using the CLI
 
@@ -181,7 +181,7 @@ If you prefer to use Docker Compose to run the WebUI:
         docker compose down
         ```
         
-# Step 4: DeepSeek Coder
+# Step 4: DeepSeek Coder Model
 
 DeepSeek Coder is another powerful model in the DeepSeek series, specifically designed to assist with coding tasks, including code generation, debugging, and explaining complex logic. You can install and use it similarly to DeepSeek R1.
 
@@ -208,7 +208,7 @@ DeepSeek Coder is another powerful model in the DeepSeek series, specifically de
         Ensure `deepseek-coder` is listed.
         
 
-### Test DeepSeek Coder
+### Run DeepSeek Coder
 
 1. **Run the Model**:
     
