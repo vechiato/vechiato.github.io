@@ -183,7 +183,7 @@ If you prefer to use Docker Compose to run the WebUI:
         docker compose down
         ```
         
-# Step 4: DeepSeek Coder Model
+# Step 4: DeepSeek Coder Model V2
 
 DeepSeek Coder is another powerful model in the DeepSeek series, specifically designed to assist with coding tasks, including code generation, debugging, and explaining complex logic. You can install and use it similarly to DeepSeek R1.
 
