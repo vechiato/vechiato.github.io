@@ -192,7 +192,7 @@ DeepSeek Coder is another powerful model in the DeepSeek series, specifically de
     - Run the command:
         
         ```
-        ollama pull deepseek-coder
+        ollama pull deepseek-coder-v2
         ```
         
     - This will download and set up DeepSeek Coder. The process may take a few minutes.
@@ -215,7 +215,7 @@ DeepSeek Coder is another powerful model in the DeepSeek series, specifically de
     - Start DeepSeek Coder with:
         
         ```
-        ollama run deepseek-coder
+        ollama run deepseek-coder-v2
         ```
         
     - Input queries related to coding tasks.
