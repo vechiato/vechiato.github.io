@@ -2,7 +2,7 @@
 author: "Marcus Vechiato"
 title: "How to Install and Run DeepSeek R1 and Coder Models Using Ollama"
 date: "2025-01-28"
-thumbnail: "/obsidian/code_club_thumb.jpeg"
+thumbnail: "/obsidian/homelab_thumb.jpeg"
 publish: true
 tags: 
   - llm
@@ -12,6 +12,8 @@ tags:
 --- 
 
 DeepSeek R1 is a powerful AI model designed for advanced data analysis and insight extraction. Leveraging the simplicity and flexibility of Ollama, you can get DeepSeek R1 up and running in no time. This guide will walk you through the installation process and demonstrate how to test the model effectively.
+
+![image](/obsidian/homelab_thumb.jpeg)
 
 ---
 
