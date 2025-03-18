@@ -14,6 +14,7 @@ A few years ago, I found myself increasingly drawn into the world of AI engineer
 The book provides a structured, practical guide to building AI applications using foundation models. It’s not about developing new AI models from scratch but about leveraging existing ones effectively. Whether you’re an engineer, a product manager, or a technical leader, the book offers insights into planning, deploying, and maintaining AI systems in production.
 
 ![image](/obsidian/book_ai_engineering.jpg)
+2025 by  Chip Huyen
 
 # **Summary**
 
