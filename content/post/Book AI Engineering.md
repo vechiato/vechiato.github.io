@@ -9,7 +9,7 @@ tags:
   - llm
 --- 
 
-A few years ago, I found myself increasingly drawn into the world of AI engineering, especially with the rise of foundation models like GPT, BERT, and Stable Diffusion. These models were no longer just research curiosities—they were powering real-world applications at an unprecedented scale. When I came across _AI Engineering: Building Applications with Foundation Models_ by Chip Huyen, I knew it was a must-read.
+A few years ago, I found myself increasingly drawn into the world of AI engineering, especially with the rise of foundation models like GPT, BERT, and Stable Diffusion. These models were no longer just research curiosities they were powering real-world applications at an unprecedented scale. When I came across _AI Engineering: Building Applications with Foundation Models_ by Chip Huyen, I knew it was a must-read.
 
 The book provides a structured, practical guide to building AI applications using foundation models. It’s not about developing new AI models from scratch but about leveraging existing ones effectively. Whether you’re an engineer, a product manager, or a technical leader, the book offers insights into planning, deploying, and maintaining AI systems in production.
 
@@ -36,7 +36,7 @@ Beyond traditional evaluation, comparative methods help assess different models 
 
 ## **Chapter 5: Prompt Engineering**
 
-One of the most practical chapters, this section delves into prompt engineering—an increasingly important skill in AI development. Huyen discusses best practices for structuring prompts to get the best results from foundation models. She also explores defensive prompt engineering techniques to guard against adversarial inputs.
+One of the most practical chapters, this section delves into prompt engineering an increasingly important skill in AI development. Huyen discusses best practices for structuring prompts to get the best results from foundation models. She also explores defensive prompt engineering techniques to guard against adversarial inputs.
 
 ## **Chapter 6: Retrieval-Augmented Generation (RAG) and Agents**
 
@@ -66,7 +66,8 @@ The final chapter brings everything together by walking through an AI applicatio
     
 - Personal Reflection: This insight is critical for organizations transitioning into AI-powered systems. Instead of focusing on training models, companies should invest in infrastructure, APIs, and deployment pipelines.
     
-- Quote: “AI engineering is just software engineering with AI models thrown in the stack.” – Chip Huyen
+- Quote: “AI engineering is just software engineering with AI models thrown in the stack.” 
+
     
 
 ## **Key Takeaway 2: Prompt Engineering is a Skill Worth Mastering**
@@ -75,7 +76,7 @@ The final chapter brings everything together by walking through an AI applicatio
     
 - Personal Reflection: This takeaway highlights the growing importance of designing optimal interactions between humans and AI. As a DevOps engineer, I see parallels with infrastructure-as-code principles—both require careful input design to ensure reliable outputs.
     
-- Quote: “The right instructions can get a model to perform the task you want, in the format of your choice.” – Chip Huyen
+- Quote: “The right instructions can get a model to perform the task you want, in the format of your choice.” 
     
 
 ## **Key Takeaway 3: AI Applications Require Continuous Monitoring and Feedback Loops**
@@ -84,12 +85,12 @@ The final chapter brings everything together by walking through an AI applicatio
     
 - Personal Reflection: This resonates with the challenges of maintaining large-scale software systems. AI applications need observability, just like any production service.
     
-- Quote: “Without a way to quality control AI outputs, the risk of AI might outweigh its benefits for many applications.” – Chip Huyen
+- Quote: “Without a way to quality control AI outputs, the risk of AI might outweigh its benefits for many applications.” 
     
 
 # **Personal Reflections**
 
-One of the biggest takeaways from _AI Engineering_ is the shift in mindset it encourages. Rather than treating AI models as black boxes, Huyen provides a framework for understanding their inner workings and how they can be optimized for real-world use. The book has also reinforced my belief that AI engineering is fundamentally about system design, user experience, and continuous iteration—similar to DevOps and platform engineering.
+One of the biggest takeaways from _AI Engineering_ is the shift in mindset it encourages. Rather than treating AI models as black boxes, Huyen provides a framework for understanding their inner workings and how they can be optimized for real-world use. The book has also reinforced my belief that AI engineering is fundamentally about system design, user experience, and continuous iteration similar to DevOps and platform engineering.
 
 # **Conclusion**
 
