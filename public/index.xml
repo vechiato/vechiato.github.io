@@ -192,6 +192,13 @@
       <description>&lt;p&gt;Hi, I’m Marcus, an experienced engineering leader with a passion for building scalable, reliable platforms. Over the years, I’ve had the privilege of working with diverse teams to solve complex infrastructure challenges, helping businesses deliver impactful products at scale. My journey in tech has taken me from hands-on development to leading teams in DevOps and Infrastructure Engineering.&lt;/p&gt;&#xA;&lt;p&gt;I also volunteer at a &lt;strong&gt;Code Club&lt;/strong&gt; for young children, where most are having their first experience with coding. We introduce them to programming through tools like &lt;strong&gt;Scratch&lt;/strong&gt;, beginner-friendly &lt;strong&gt;HTML &amp;amp; CSS&lt;/strong&gt; and &lt;strong&gt;Python&lt;/strong&gt; projects. It’s rewarding to help foster curiosity and creativity in the next generation of tech enthusiasts.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Insights from AI Engineering: Building Applications with Foundation Models</title>
+      <link>https://blog.vechiato.cc/post/book-ai-engineering/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/post/book-ai-engineering/</guid>
+      <description>&lt;p&gt;A few years ago, I found myself increasingly drawn into the world of AI engineering, especially with the rise of foundation models like GPT, BERT, and Stable Diffusion. These models were no longer just research curiosities—they were powering real-world applications at an unprecedented scale. When I came across &lt;em&gt;AI Engineering: Building Applications with Foundation Models&lt;/em&gt; by Chip Huyen, I knew it was a must-read.&lt;/p&gt;&#xA;&lt;p&gt;The book provides a structured, practical guide to building AI applications using foundation models. It’s not about developing new AI models from scratch but about leveraging existing ones effectively. Whether you’re an engineer, a product manager, or a technical leader, the book offers insights into planning, deploying, and maintaining AI systems in production.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Insights from Misbelief</title>
       <link>https://blog.vechiato.cc/post/book-misbelif/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>

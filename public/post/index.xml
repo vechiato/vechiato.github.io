@@ -185,6 +185,13 @@
       <description>&lt;h1 id=&#34;flask-web-development&#34;&gt;&lt;strong&gt;Flask Web Development&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;I picked up &amp;quot;Flask Web Development&amp;quot; by Miguel Grinberg as part of my journey to deepen my understanding of web application development with Python. Having some experience with Django, I was curious to explore the micro-framework approach offered by Flask, known for its simplicity and flexibility. This book promised a hands-on guide to building web applications using Flask, which I hoped would help me apply these concepts in real-world projects.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Insights from AI Engineering: Building Applications with Foundation Models</title>
+      <link>https://blog.vechiato.cc/post/book-ai-engineering/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/post/book-ai-engineering/</guid>
+      <description>&lt;p&gt;A few years ago, I found myself increasingly drawn into the world of AI engineering, especially with the rise of foundation models like GPT, BERT, and Stable Diffusion. These models were no longer just research curiosities—they were powering real-world applications at an unprecedented scale. When I came across &lt;em&gt;AI Engineering: Building Applications with Foundation Models&lt;/em&gt; by Chip Huyen, I knew it was a must-read.&lt;/p&gt;&#xA;&lt;p&gt;The book provides a structured, practical guide to building AI applications using foundation models. It’s not about developing new AI models from scratch but about leveraging existing ones effectively. Whether you’re an engineer, a product manager, or a technical leader, the book offers insights into planning, deploying, and maintaining AI systems in production.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Insights from Misbelief</title>
       <link>https://blog.vechiato.cc/post/book-misbelif/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
