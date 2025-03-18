@@ -4,26 +4,17 @@
     <title>Meetup on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/meetup/</link>
     <description>Recent content in Meetup on Marcus Vechiato</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.vechiato.cc/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflecting on My Presentation at the London SRE Meetup</title>
       <link>https://blog.vechiato.cc/post/london-sre-meetup/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/london-sre-meetup/</guid>
-      <description>
-        
-          
-            &lt;p&gt;I recently had the wonderful opportunity to present at the London SRE Meetup, and I&#39;m excited to share the experience with you all. The presentation, titled &amp;quot;Working Together: SRE and Platform Engineering,&amp;quot; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.&lt;/p&gt;
-&lt;p&gt;I am pleased to have engaged with so many knowledgeable professionals and enthusiasts who are passionate about improving systems and operations. The discussions and interactions were enlightening, and I hope they were as beneficial for attendees as they were for me.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;p&gt;I recently had the wonderful opportunity to present at the London SRE Meetup, and I&#39;m excited to share the experience with you all. The presentation, titled &amp;quot;Working Together: SRE and Platform Engineering,&amp;quot; focused on the synergy between site reliability engineering and platform engineering to enhance operational efficiencies and reliability.&lt;/p&gt;&#xA;&lt;p&gt;I am pleased to have engaged with so many knowledgeable professionals and enthusiasts who are passionate about improving systems and operations. The discussions and interactions were enlightening, and I hope they were as beneficial for attendees as they were for me.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
