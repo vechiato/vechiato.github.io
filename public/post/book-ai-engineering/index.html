@@ -9,7 +9,7 @@
   
   >
   <head>
-<title>Insights from Mastering OpenTelemetry and Observability | Marcus Vechiato</title>
+<title>Insights from AI Engineering: Building Applications with Foundation Models | Marcus Vechiato</title>
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -27,37 +27,35 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="Mastering OpenTelemetry and Observability
-In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability …" />
+<meta name="description" content="A few years ago, I found myself increasingly drawn into the world of AI engineering, especially with the rise of foundation models like GPT, BERT, and Stable …" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@vechiato">
-<meta name="twitter:title" content="Insights from Mastering OpenTelemetry and Observability" />
-<meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/book_mastering_otel.jpg"/>
-<meta property="og:url" content="https://blog.vechiato.cc/post/book-mastering-opentelemetry-and-observability/" />
-<meta property="og:title" content="Insights from Mastering OpenTelemetry and Observability" />
-<meta property="og:description" content="Mastering OpenTelemetry and Observability
-In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability …" />
-<meta property="og:image" content="https://blog.vechiato.cc/obsidian/book_mastering_otel.jpg" />
-  <meta name="keywords" content="blog,technology,otel,observability,devops,book,sre" />
+<meta name="twitter:title" content="Insights from AI Engineering: Building Applications with Foundation Models" />
+<meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/book_ai_engineering.jpg"/>
+<meta property="og:url" content="https://blog.vechiato.cc/post/book-ai-engineering/" />
+<meta property="og:title" content="Insights from AI Engineering: Building Applications with Foundation Models" />
+<meta property="og:description" content="A few years ago, I found myself increasingly drawn into the world of AI engineering, especially with the rise of foundation models like GPT, BERT, and Stable …" />
+<meta property="og:image" content="https://blog.vechiato.cc/obsidian/book_ai_engineering.jpg" />
+  <meta name="keywords" content="blog,technology,book,llm" />
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
       "@type": "BlogPosting",
-      "mainEntityOfPage":"https:\/\/blog.vechiato.cc\/post\/book-mastering-opentelemetry-and-observability\/",
+      "mainEntityOfPage":"https:\/\/blog.vechiato.cc\/post\/book-ai-engineering\/",
       "name": "Marcus Vechiato",
-      "headline": "Insights from Mastering OpenTelemetry and Observability",
-      "description": "\u003ch1 id=\"mastering-opentelemetry-and-observability\"\u003e\u003cstrong\u003eMastering OpenTelemetry and Observability\u003c/strong\u003e\u003c/h1\u003e\n\u003cp\u003eIn the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability …\u003c/p\u003e",
-      "url": "https:\/\/blog.vechiato.cc\/post\/book-mastering-opentelemetry-and-observability\/",
-      "datePublished": "2025-01-04T00:00:00Z",
-      "dateModified": "2025-01-04T00:00:00Z",
-      "keywords": ["blog","technology","otel","observability","devops","book","sre"],
+      "headline": "Insights from AI Engineering: Building Applications with Foundation Models",
+      "description": "\u003cp\u003eA few years ago, I found myself increasingly drawn into the world of AI engineering, especially with the rise of foundation models like GPT, BERT, and Stable …\u003c/p\u003e",
+      "url": "https:\/\/blog.vechiato.cc\/post\/book-ai-engineering\/",
+      "datePublished": "2025-03-14T00:00:00Z",
+      "dateModified": "2025-03-14T00:00:00Z",
+      "keywords": ["blog","technology","book","llm"],
       "author": {
         "@type": "Person",
         "name": "map[name:Marcus Vechiato]"
       },
       "image":{
         "@type":"ImageObject",
-        "url": "https:\/\/blog.vechiato.cc\/obsidian\/book_mastering_otel.jpg"
+        "url": "https:\/\/blog.vechiato.cc\/obsidian\/book_ai_engineering.jpg"
       },
       "publisher": {
         "@type": "Organization",
@@ -74,7 +72,7 @@ In the fast-paced era of cloud-native systems and distributed architectures, mai
 <link rel="icon" type="image/png" sizes="32x32" href="https://blog.vechiato.cc/icons/favicon-32x32.png">
 <link rel="manifest" href="https://blog.vechiato.cc/icons/site.webmanifest">
 
-<link rel="canonical" href="https://blog.vechiato.cc/post/book-mastering-opentelemetry-and-observability/">
+<link rel="canonical" href="https://blog.vechiato.cc/post/book-ai-engineering/">
 
 
 
@@ -179,7 +177,7 @@ In the fast-paced era of cloud-native systems and distributed architectures, mai
   
 <div class="grid-inverse wrap content">
   <article class="post_content">
-    <h1 class="post_title">Insights from Mastering OpenTelemetry and Observability</h1>
+    <h1 class="post_title">Insights from AI Engineering: Building Applications with Foundation Models</h1>
   <div class="post_meta">
     <span><svg class="icon">
   <title>calendar</title>
@@ -187,25 +185,22 @@ In the fast-paced era of cloud-native systems and distributed architectures, mai
 </svg>
 </span>
     <span class="post_date">
-      Jan 4, 2025</span>
-    <span class="post_time"> · 4 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/otel/' title="otel" class="post_tag button button_translucent">otel
-        </a><a href='https://blog.vechiato.cc/tags/observability/' title="observability" class="post_tag button button_translucent">observability
-        </a><a href='https://blog.vechiato.cc/tags/devops/' title="devops" class="post_tag button button_translucent">devops
-        </a><a href='https://blog.vechiato.cc/tags/book/' title="book" class="post_tag button button_translucent">book
-        </a><a href='https://blog.vechiato.cc/tags/sre/' title="sre" class="post_tag button button_translucent">sre
+      Mar 14, 2025</span>
+    <span class="post_time"> · 5 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/book/' title="book" class="post_tag button button_translucent">book
+        </a><a href='https://blog.vechiato.cc/tags/llm/' title="llm" class="post_tag button button_translucent">llm
         </a>
     </span>
     <span class="page_only">&nbsp;·
   <div class="post_share">
     Share on:
-    <a href="https://twitter.com/intent/tweet?text=Insights%20from%20Mastering%20OpenTelemetry%20and%20Observability&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbook-mastering-opentelemetry-and-observability%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+    <a href="https://twitter.com/intent/tweet?text=Insights%20from%20AI%20Engineering%3a%20Building%20Applications%20with%20Foundation%20Models&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbook-ai-engineering%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>twitter</title>
   <use xlink:href="#twitter"></use>
 </svg>
 
     </a>
-    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbook-mastering-opentelemetry-and-observability%2f&t=Insights%20from%20Mastering%20OpenTelemetry%20and%20Observability" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbook-ai-engineering%2f&t=Insights%20from%20AI%20Engineering%3a%20Building%20Applications%20with%20Foundation%20Models" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>facebook</title>
   <use xlink:href="#facebook"></use>
@@ -219,7 +214,7 @@ In the fast-paced era of cloud-native systems and distributed architectures, mai
 </svg>
 
     </a>
-    <a href="https://blog.vechiato.cc/post/book-mastering-opentelemetry-and-observability/" title="Copy Link" class="link link_yank">
+    <a href="https://blog.vechiato.cc/post/book-ai-engineering/" title="Copy Link" class="link link_yank">
       <svg class="icon">
   <title>copy</title>
   <use xlink:href="#copy"></use>
@@ -230,9 +225,8 @@ In the fast-paced era of cloud-native systems and distributed architectures, mai
   </span>
   </div>
 
-    <div class="post_body"><h1 id="mastering-opentelemetry-and-observability"><strong>Mastering OpenTelemetry and Observability</strong></h1>
-<p>In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore <em>Mastering OpenTelemetry and Observability</em> by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.</p>
-<p>Written by a key contributor to OpenTelemetry, this book offers both technical expertise and actionable strategies for leveraging observability to improve system performance and reduce outages. It’s a must-read for anyone looking to enhance their understanding of telemetry data and system diagnostics.</p>
+    <div class="post_body"><p>A few years ago, I found myself increasingly drawn into the world of AI engineering, especially with the rise of foundation models like GPT, BERT, and Stable Diffusion. These models were no longer just research curiosities—they were powering real-world applications at an unprecedented scale. When I came across <em>AI Engineering: Building Applications with Foundation Models</em> by Chip Huyen, I knew it was a must-read.</p>
+<p>The book provides a structured, practical guide to building AI applications using foundation models. It’s not about developing new AI models from scratch but about leveraging existing ones effectively. Whether you’re an engineer, a product manager, or a technical leader, the book offers insights into planning, deploying, and maintaining AI systems in production.</p>
 <p><figure>
   <picture>
 
@@ -250,7 +244,7 @@ In the fast-paced era of cloud-native systems and distributed architectures, mai
       alt="image"
       
         class="image_figure image_internal image_unprocessed"
-        src="https://blog.vechiato.cc/obsidian/book_mastering_otel.jpg"
+        src="https://blog.vechiato.cc/obsidian/book_ai_engineering.jpg"
       
       
     />
@@ -258,61 +252,69 @@ In the fast-paced era of cloud-native systems and distributed architectures, mai
     </picture>
 </figure>
 
-2024 by Steve Flanders</p>
-<h2 id="summary"><strong>Summary</strong></h2>
-<h3 id="chapter-1-what-is-observability"><strong>Chapter 1: What Is Observability?</strong></h3>
-<p>This introductory chapter defines observability and explains its significance in the cloud-native era. It contrasts observability with traditional monitoring, emphasizing that while monitoring handles predefined scenarios, observability helps tackle the unknown. Key concepts like dimensionality, cardinality, and semantic conventions are introduced, highlighting their roles in telemetry data analysis.</p>
-<p>Quote: &quot;Observability is about making systems understandable through the data they emit.&quot; – Steve Flanders (Page 5)</p>
-<h3 id="chapter-2-introducing-opentelemetry"><strong>Chapter 2: Introducing OpenTelemetry!</strong></h3>
-<p>The chapter discusses the evolution of open-source observability tools and introduces OpenTelemetry as a unified standard. It explains how OpenTelemetry simplifies data collection through its components: APIs, SDKs, and collectors. Readers also get a glimpse of the roadmap for OpenTelemetry's continued development.</p>
-<h3 id="chapter-3-getting-started-with-the-astronomy-shop"><strong>Chapter 3: Getting Started with the Astronomy Shop</strong></h3>
-<p>Here, the book takes a hands-on approach, walking readers through setting up a sample application (the Astronomy Shop) for exploring OpenTelemetry's capabilities. It covers architecture design, telemetry data access, and advanced configurations like load generation and feature flags.</p>
-<h3 id="chapter-4-understanding-the-opentelemetry-specification"><strong>Chapter 4: Understanding the OpenTelemetry Specification</strong></h3>
-<p>This chapter delves into the technical specifications of OpenTelemetry, including its APIs, SDKs, and data models. It also emphasizes semantic conventions and compatibility considerations, providing a solid foundation for developers looking to contribute to or adopt OpenTelemetry.</p>
-<h3 id="chapter-5-managing-the-opentelemetry-collector"><strong>Chapter 5: Managing the OpenTelemetry Collector</strong></h3>
-<p>The focus here is on the OpenTelemetry Collector, a critical component for processing and exporting telemetry data. It discusses deployment modes, reference architectures, and configuration details, offering practical guidance for managing complex telemetry pipelines.</p>
-<h3 id="chapter-6-leveraging-opentelemetry-instrumentation"><strong>Chapter 6: Leveraging OpenTelemetry Instrumentation</strong></h3>
-<p>This chapter offers practical guidance on setting up OpenTelemetry for Python applications. It covers automatic, manual, and programmatic instrumentation techniques, demonstrating how to capture comprehensive telemetry data.</p>
-<h3 id="chapter-7-scaling-observability"><strong>Chapter 7: Scaling Observability</strong></h3>
-<p>Scaling observability for large systems is addressed here, with discussions on managing high-cardinality data and ensuring performance. The chapter highlights strategies for scaling OpenTelemetry deployments in dynamic environments.</p>
-<h3 id="chapter-8-observability-in-distributed-systems"><strong>Chapter 8: Observability in Distributed Systems</strong></h3>
-<p>The focus shifts to challenges specific to distributed systems, such as ensuring traceability across services. The chapter discusses OpenTelemetry’s role in addressing these challenges through distributed tracing and contextual propagation.</p>
-<h3 id="chapter-9-advanced-instrumentation-techniques"><strong>Chapter 9: Advanced Instrumentation Techniques</strong></h3>
-<p>This chapter dives into advanced techniques for customizing telemetry data, such as enhancing traces with metadata and dynamically configuring instrumentation.</p>
-<h3 id="chapter-10-troubleshooting-with-observability"><strong>Chapter 10: Troubleshooting with Observability</strong></h3>
-<p>The chapter provides strategies for diagnosing and resolving system issues using observability tools. Case studies demonstrate how OpenTelemetry data can uncover root causes of performance bottlenecks and failures.</p>
-<h3 id="chapter-11-observability-in-practice"><strong>Chapter 11: Observability in Practice</strong></h3>
-<p>Here, the author shares real-world examples of implementing observability in various industries. Readers gain insights into tailoring observability practices to meet specific organizational needs.</p>
-<h3 id="chapter-12-the-future-of-observability"><strong>Chapter 12: The Future of Observability</strong></h3>
-<p>The final chapter explores emerging trends in observability, such as AI-driven insights and automation. It also discusses how OpenTelemetry is poised to evolve as the standard for telemetry data collection.</p>
-<h2 id="key-takeaways"><strong>Key Takeaways</strong></h2>
-<h3 id="key-takeaway-1-observability-is-critical-for-modern-systems"><strong>Key Takeaway 1: Observability Is Critical for Modern Systems</strong></h3>
+2025 by  Chip Huyen</p>
+<h1 id="summary"><strong>Summary</strong></h1>
+<h2 id="chapter-1-introduction-to-building-ai-applications-with-foundation-models"><strong>Chapter 1: Introduction to Building AI Applications with Foundation Models</strong></h2>
+<p>This chapter sets the stage by defining AI engineering and differentiating it from traditional ML and software engineering. It highlights the shift from model development to application development and introduces key AI engineering challenges.</p>
+<h2 id="chapter-2-understanding-foundation-models"><strong>Chapter 2: Understanding Foundation Models</strong></h2>
+<p>Huyen explores the architecture and training of foundation models, emphasizing the importance of training data, model alignment, and inference strategies. The discussion on sampling strategies was particularly enlightening, as it explains why models sometimes produce inconsistent responses.</p>
+<h2 id="chapter-3-evaluating-foundation-models"><strong>Chapter 3: Evaluating Foundation Models</strong></h2>
+<p>Evaluation remains one of the biggest challenges in AI engineering. This chapter discusses different evaluation techniques, including benchmark tests and real-world validation, and how to build a systematic evaluation pipeline.</p>
+<h2 id="chapter-4-comparative-evaluation"><strong>Chapter 4: Comparative Evaluation</strong></h2>
+<p>Beyond traditional evaluation, comparative methods help assess different models for a given application. This chapter delves into human feedback loops and automated scoring techniques.</p>
+<h2 id="chapter-5-prompt-engineering"><strong>Chapter 5: Prompt Engineering</strong></h2>
+<p>One of the most practical chapters, this section delves into prompt engineering—an increasingly important skill in AI development. Huyen discusses best practices for structuring prompts to get the best results from foundation models. She also explores defensive prompt engineering techniques to guard against adversarial inputs.</p>
+<h2 id="chapter-6-retrieval-augmented-generation-rag-and-agents"><strong>Chapter 6: Retrieval-Augmented Generation (RAG) and Agents</strong></h2>
+<p>For applications that need real-time or domain-specific knowledge, retrieval-augmented generation (RAG) is a game-changer. Huyen explains how combining retrieval mechanisms with generative models improves accuracy and reliability. The chapter also covers AI agents and their capabilities, including planning, tool usage, and memory handling.</p>
+<h2 id="chapter-7-fine-tuning-foundation-models"><strong>Chapter 7: Fine-Tuning Foundation Models</strong></h2>
+<p>Fine-tuning allows developers to adapt models to specific tasks. This chapter explains various fine-tuning methods, including LoRA and PEFT, and compares fine-tuning with prompt-based adaptation techniques.</p>
+<h2 id="chapter-8-data-for-ai-applications"><strong>Chapter 8: Data for AI Applications</strong></h2>
+<p>High-quality data is essential for effective AI applications. Huyen covers data acquisition, labeling, augmentation, and quality control. The discussion on synthetic data and its potential applications was particularly intriguing.</p>
+<h2 id="chapter-9-inference-optimization"><strong>Chapter 9: Inference Optimization</strong></h2>
+<p>Deploying AI models at scale requires careful optimization to balance cost, latency, and performance. Huyen details various techniques such as quantization, pruning, and model distillation. A particularly useful insight is how AI accelerators, such as GPUs and TPUs, impact inference efficiency.</p>
+<h2 id="chapter-10-end-to-end-ai-application-development"><strong>Chapter 10: End-to-End AI Application Development</strong></h2>
+<p>The final chapter brings everything together by walking through an AI application development process, including design considerations, user feedback collection, and iterative improvements.</p>
+<h1 id="key-takeaways"><strong>Key Takeaways</strong></h1>
+<h2 id="key-takeaway-1-ai-engineering-is-about-system-integration-not-just-model-development"><strong>Key Takeaway 1: AI Engineering is About System Integration, Not Just Model Development</strong></h2>
 <ul>
-<li>Observability enables diagnosing unknown issues, setting it apart from traditional monitoring.</li>
-<li>This takeaway reinforces my belief in proactive system management as a cornerstone of effective engineering.</li>
+<li>
+<p>Explanation: Many engineers assume that AI development is about training models from scratch. In reality, the key challenge is integrating existing models into robust, scalable applications.</p>
+</li>
+<li>
+<p>Personal Reflection: This insight is critical for organizations transitioning into AI-powered systems. Instead of focusing on training models, companies should invest in infrastructure, APIs, and deployment pipelines.</p>
+</li>
+<li>
+<p>Quote: “AI engineering is just software engineering with AI models thrown in the stack.” – Chip Huyen</p>
+</li>
 </ul>
-<h3 id="key-takeaway-2-opentelemetry-standardizes-observability"><strong>Key Takeaway 2: OpenTelemetry Standardizes Observability</strong></h3>
+<h2 id="key-takeaway-2-prompt-engineering-is-a-skill-worth-mastering"><strong>Key Takeaway 2: Prompt Engineering is a Skill Worth Mastering</strong></h2>
 <ul>
-<li>OpenTelemetry consolidates observability practices into a unified framework, reducing complexity.</li>
+<li>
+<p>Explanation: Effective prompt engineering can dramatically improve the quality of AI outputs without modifying the model itself.</p>
+</li>
+<li>
+<p>Personal Reflection: This takeaway highlights the growing importance of designing optimal interactions between humans and AI. As a DevOps engineer, I see parallels with infrastructure-as-code principles—both require careful input design to ensure reliable outputs.</p>
+</li>
+<li>
+<p>Quote: “The right instructions can get a model to perform the task you want, in the format of your choice.” – Chip Huyen</p>
+</li>
 </ul>
-<h3 id="key-takeaway-3-scaling-requires-strategic-planning"><strong>Key Takeaway 3: Scaling Requires Strategic Planning</strong></h3>
+<h2 id="key-takeaway-3-ai-applications-require-continuous-monitoring-and-feedback-loops"><strong>Key Takeaway 3: AI Applications Require Continuous Monitoring and Feedback Loops</strong></h2>
 <ul>
-<li>Successful observability in large systems depends on managing cardinality, optimizing performance, and using semantic conventions.</li>
-<li>This takeaway resonates with my experience in platform engineering and large scale operations, where scaling observability often determines success.</li>
+<li>
+<p>Explanation: AI systems are never truly “finished.” They require ongoing evaluation, user feedback, and iterative improvements to remain effective.</p>
+</li>
+<li>
+<p>Personal Reflection: This resonates with the challenges of maintaining large-scale software systems. AI applications need observability, just like any production service.</p>
+</li>
+<li>
+<p>Quote: “Without a way to quality control AI outputs, the risk of AI might outweigh its benefits for many applications.” – Chip Huyen</p>
+</li>
 </ul>
-<h3 id="key-takeaway-4-collaboration-improves-outcomes"><strong>Key Takeaway 4: Collaboration Improves Outcomes</strong></h3>
-<ul>
-<li>Semantic conventions and shared tooling foster better collaboration among engineering teams.</li>
-</ul>
-<h3 id="key-takeaway-5-the-collector-is-the-backbone"><strong>Key Takeaway 5: The Collector Is the Backbone</strong></h3>
-<ul>
-<li>The OpenTelemetry Collector acts as a versatile middleman for telemetry data, ensuring reliable ingestion and export.</li>
-<li>This component reminds me of the importance of robust intermediaries in any system architecture.</li>
-</ul>
-<h2 id="personal-reflections"><strong>Personal Reflections</strong></h2>
-<p>This book has reshaped how I approach observability, emphasizing its role as a tool for both system reliability and collaboration. It has inspired me to incorporate OpenTelemetry into my projects and to explore advanced instrumentation techniques. The focus on community and open standards aligns with my passion for contributing to open-source initiatives.</p>
-<h2 id="conclusion"><strong>Conclusion</strong></h2>
-<p><em>Mastering OpenTelemetry and Observability</em> is a definitive guide for anyone involved in modern system management. Steve Flanders combines technical expertise with actionable insights, making this book essential for engineers, architects, and managers. Whether you're new to observability or seeking to refine your practices, this book is an invaluable resource.</p>
+<h1 id="personal-reflections"><strong>Personal Reflections</strong></h1>
+<p>One of the biggest takeaways from <em>AI Engineering</em> is the shift in mindset it encourages. Rather than treating AI models as black boxes, Huyen provides a framework for understanding their inner workings and how they can be optimized for real-world use. The book has also reinforced my belief that AI engineering is fundamentally about system design, user experience, and continuous iteration—similar to DevOps and platform engineering.</p>
+<h1 id="conclusion"><strong>Conclusion</strong></h1>
+<p><em>AI Engineering: Building Applications with Foundation Models</em> is an essential read for anyone looking to build AI-powered products. It balances technical depth with practical advice, making it suitable for both engineers and decision-makers. If you’re working with AI in any capacity, this book will help you navigate the challenges of deploying foundation models effectively. Highly recommended!</p>
 
     </div>
 <div class="post_comments">

@@ -4,17 +4,25 @@
     <title>Technical Debt on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/technical-debt/</link>
     <description>Recent content in Technical Debt on Marcus Vechiato</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/technical-debt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seven Books on Managing Technical Debt</title>
       <link>https://blog.vechiato.cc/post/7-books-managing-technical-debt/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/7-books-managing-technical-debt/</guid>
-      <description>&lt;p&gt;Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&#39;s important to recognise that technical debt encompasses not only software but also infrastructure, security, and organisational processes. Addressing technical debt holistically ensures that an organisation can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&#39;ve compiled a list of  books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&#39;s important to recognise that technical debt encompasses not only software but also infrastructure, security, and organisational processes. Addressing technical debt holistically ensures that an organisation can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&#39;ve compiled a list of  books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>
