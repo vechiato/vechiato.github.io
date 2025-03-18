@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 28 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.vechiato.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>https://blog.vechiato.cc/tags/book/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llm</title>
+      <link>https://blog.vechiato.cc/tags/llm/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/llm/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Deepseek</title>
       <link>https://blog.vechiato.cc/tags/deepseek/</link>
@@ -21,13 +35,6 @@
       <link>https://blog.vechiato.cc/tags/homelab/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/tags/homelab/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Llm</title>
-      <link>https://blog.vechiato.cc/tags/llm/</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/tags/llm/</guid>
       <description></description>
     </item>
     <item>
@@ -49,13 +56,6 @@
       <link>https://blog.vechiato.cc/tags/python/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Book</title>
-      <link>https://blog.vechiato.cc/tags/book/</link>
-      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/tags/book/</guid>
       <description></description>
     </item>
     <item>

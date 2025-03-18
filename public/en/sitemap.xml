@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.vechiato.cc/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +15,41 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.vechiato.cc/"
+                />
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/book/</loc>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/post/book-ai-engineering/</loc>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/llm/</loc>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/post/</loc>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/</loc>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://blog.vechiato.cc/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.vechiato.cc/tags/"
                 />
   </url><url>
     <loc>https://blog.vechiato.cc/tags/deepseek/</loc>
@@ -32,35 +67,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/tags/llm/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://blog.vechiato.cc/tags/ollama/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/post/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/</loc>
-    <lastmod>2025-01-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://blog.vechiato.cc/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.vechiato.cc/tags/"
-                />
   </url><url>
     <loc>https://blog.vechiato.cc/tags/3d-printing/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
@@ -74,11 +84,6 @@
   </url><url>
     <loc>https://blog.vechiato.cc/tags/python/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/book/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -299,11 +304,6 @@
   </url><url>
     <loc>https://blog.vechiato.cc/about/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/post/book-ai-engineering/</loc>
-    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

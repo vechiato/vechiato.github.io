@@ -1,7 +1,7 @@
 ---
 author: "Marcus Vechiato"
 title: "Insights from AI Engineering: Building Applications with Foundation Models"
-date: "2024-03-14"
+date: "2025-03-14"
 thumbnail: "/obsidian/book_ai_engineering.jpg"
 publish: true
 tags:
