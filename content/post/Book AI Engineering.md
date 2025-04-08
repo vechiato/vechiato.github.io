@@ -58,6 +58,8 @@ Deploying AI models at scale requires careful optimization to balance cost, late
 
 The final chapter brings everything together by walking through an AI application development process, including design considerations, user feedback collection, and iterative improvements.
 
+[Chapter summaries by the Author](https://github.com/chiphuyen/aie-book/blob/main/chapter-summaries.md)
+
 # **Key Takeaways**
 
 ## **Key Takeaway 1: AI Engineering is About System Integration, Not Just Model Development**
@@ -74,7 +76,7 @@ The final chapter brings everything together by walking through an AI applicatio
 
 - Explanation: Effective prompt engineering can dramatically improve the quality of AI outputs without modifying the model itself.
     
-- Personal Reflection: This takeaway highlights the growing importance of designing optimal interactions between humans and AI. As a DevOps engineer, I see parallels with infrastructure-as-code principles—both require careful input design to ensure reliable outputs.
+- Personal Reflection: This takeaway highlights the growing importance of designing optimal interactions between humans and AI. As a Platform engineer, I see parallels with infrastructure-as-code principles—both require careful input design to ensure reliable outputs.
     
 - Quote: “The right instructions can get a model to perform the task you want, in the format of your choice.” 
     

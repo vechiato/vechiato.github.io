@@ -4,219 +4,52 @@
     <title>K8s on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/k8s/</link>
     <description>Recent content in K8s on Marcus Vechiato</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.vechiato.cc/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Multi-Cloud Mastery</title>
       <link>https://blog.vechiato.cc/post/book-multi-cloud-mastery/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-multi-cloud-mastery/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;multi-cloud-mastery-architecting-secure-and-scalable-kubernetes-systems-and-infrastructures&#34;&gt;&lt;strong&gt;Multi-Cloud Mastery: Architecting Secure and Scalable Kubernetes Systems and Infrastructures&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;While managing my own projects that rely on Kubernetes clusters, I often encountered challenges involving scalability, security, and cost optimisation across various cloud providers. These obstacles made me curious about how industry experts approach multi-cloud Kubernetes environments. That’s when I stumbled upon &lt;em&gt;Multi-Cloud Mastery&lt;/em&gt; by Adam Robertson.&lt;/p&gt;
-&lt;p&gt;This book dives into the complexities of building and managing Kubernetes clusters across multiple cloud platforms. It offers practical advice for architects, platform engineers, and cloud enthusiasts seeking to harness the potential of multi-cloud strategies. I chose this book to gain deeper insights into a topic that lies at the heart of modern cloud computing—balancing resilience, performance, and cost in a multi-cloud Kubernetes environment.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;multi-cloud-mastery-architecting-secure-and-scalable-kubernetes-systems-and-infrastructures&#34;&gt;&lt;strong&gt;Multi-Cloud Mastery: Architecting Secure and Scalable Kubernetes Systems and Infrastructures&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;While managing my own projects that rely on Kubernetes clusters, I often encountered challenges involving scalability, security, and cost optimisation across various cloud providers. These obstacles made me curious about how industry experts approach multi-cloud Kubernetes environments. That’s when I stumbled upon &lt;em&gt;Multi-Cloud Mastery&lt;/em&gt; by Adam Robertson.&lt;/p&gt;&#xA;&lt;p&gt;This book dives into the complexities of building and managing Kubernetes clusters across multiple cloud platforms. It offers practical advice for architects, platform engineers, and cloud enthusiasts seeking to harness the potential of multi-cloud strategies. I chose this book to gain deeper insights into a topic that lies at the heart of modern cloud computing—balancing resilience, performance, and cost in a multi-cloud Kubernetes environment.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from Crossplane: The Cloud Native Control Plane</title>
       <link>https://blog.vechiato.cc/post/book-crossplane-the-cloud-native-control-plane/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-crossplane-the-cloud-native-control-plane/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;crossplane-the-cloud-native-control-plane&#34;&gt;&lt;strong&gt;Crossplane: The Cloud Native Control Plane&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;As a Platform Engineering enthusiast, I&#39;ve always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &amp;quot;Crossplane: The Cloud Native Control Plane&amp;quot; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers. By abstracting away complexity and allowing for custom control planes, Crossplane stands out as a transformative tool for modern infrastructure management. I chose this book to deepen my understanding of how Crossplane can help create a seamless, scalable, and efficient cloud infrastructure tailored to specific organizational needs.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;crossplane-the-cloud-native-control-plane&#34;&gt;&lt;strong&gt;Crossplane: The Cloud Native Control Plane&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;As a Platform Engineering enthusiast, I&#39;ve always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &amp;quot;Crossplane: The Cloud Native Control Plane&amp;quot; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers. By abstracting away complexity and allowing for custom control planes, Crossplane stands out as a transformative tool for modern infrastructure management. I chose this book to deepen my understanding of how Crossplane can help create a seamless, scalable, and efficient cloud infrastructure tailored to specific organizational needs.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from Platform Engineering on Kubernetes</title>
       <link>https://blog.vechiato.cc/post/book-platform-engineering-on-kubernetes/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-platform-engineering-on-kubernetes/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;platform-engineering-on-kubernetes&#34;&gt;Platform Engineering on Kubernetes&lt;/h1&gt;
-&lt;p&gt;&amp;quot;Platform Engineering on Kubernetes&amp;quot; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_platform_engineering_kubernetes.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2022 by Mauricio Salatino&lt;/p&gt;
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_platform_engineering_k8s.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;chapter-1-the-rise-of-platforms-on-top-of-kubernetes&#34;&gt;Chapter 1: The Rise of Platforms on Top of Kubernetes&lt;/h3&gt;
-&lt;p&gt;This chapter introduces the concept of platforms and their significance. It explains why platforms are essential for organisations and discusses the advantages of building platforms on top of Kubernetes. The chapter also outlines the challenges associated with platform engineering and the need for a &amp;quot;walking skeleton&amp;quot; to demonstrate platform concepts.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;platform-engineering-on-kubernetes&#34;&gt;Platform Engineering on Kubernetes&lt;/h1&gt;&#xA;&lt;p&gt;&amp;quot;Platform Engineering on Kubernetes&amp;quot; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/book_platform_engineering_kubernetes.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2022 by Mauricio Salatino&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/mindmap_platform_engineering_k8s.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;chapter-1-the-rise-of-platforms-on-top-of-kubernetes&#34;&gt;Chapter 1: The Rise of Platforms on Top of Kubernetes&lt;/h3&gt;&#xA;&lt;p&gt;This chapter introduces the concept of platforms and their significance. It explains why platforms are essential for organisations and discusses the advantages of building platforms on top of Kubernetes. The chapter also outlines the challenges associated with platform engineering and the need for a &amp;quot;walking skeleton&amp;quot; to demonstrate platform concepts.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from Kubernetes Up and Running, 3rd Edition</title>
       <link>https://blog.vechiato.cc/post/book-kubernetes-up-and-running/</link>
       <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-kubernetes-up-and-running/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;kubernetes-up-and-running&#34;&gt;&lt;strong&gt;Kubernetes: Up and Running&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Kubernetes: Up and Running&lt;/em&gt; by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It&#39;s an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/kubernetes_up_and_running.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2022 by Brendan Burns, Joe Beda, Kelsey Hightower &amp;amp; Lachlan Evenson&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;kubernetes-up-and-running&#34;&gt;&lt;strong&gt;Kubernetes: Up and Running&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Kubernetes: Up and Running&lt;/em&gt; by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It&#39;s an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/kubernetes_up_and_running.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2022 by Brendan Burns, Joe Beda, Kelsey Hightower &amp;amp; Lachlan Evenson&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from End-to-End Automation with Kubernetes and Crossplane</title>
       <link>https://blog.vechiato.cc/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-end-to-end-automation-with-kubernetes-and-crossplane/</guid>
-      <description>
-        
-          
-            &lt;p&gt;This book is an essential read for cloud architects, platform engineers, infrastructure operators, and Kubernetes enthusiasts. Arun Ramakani expertly navigates the intricate world of infrastructure automation, providing readers with a comprehensive understanding of Crossplane and its integration with Kubernetes.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/end2end_automation_k8s_crossplane.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2022 by Arun Ramakani&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B09ZJ1NZRB&#34;&gt;End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionising the way organisations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In &amp;quot;End-to-End Automation with Kubernetes and Crossplane,&amp;quot; Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;p&gt;This book is an essential read for cloud architects, platform engineers, infrastructure operators, and Kubernetes enthusiasts. Arun Ramakani expertly navigates the intricate world of infrastructure automation, providing readers with a comprehensive understanding of Crossplane and its integration with Kubernetes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/end2end_automation_k8s_crossplane.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2022 by Arun Ramakani&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B09ZJ1NZRB&#34;&gt;End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionising the way organisations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In &amp;quot;End-to-End Automation with Kubernetes and Crossplane,&amp;quot; Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from Learning Helm: Managing Apps on Kubernetes</title>
       <link>https://blog.vechiato.cc/post/book-learning-helm/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-learning-helm/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;learning-helm-managing-apps-on-kubernetes&#34;&gt;&lt;strong&gt;Learning Helm: Managing Apps on Kubernetes&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;I remember the first time I dived into Kubernetes; it felt like stepping into a new world. There were so many moving parts, and I quickly realised the need for effective tools to manage it all. This is where &amp;quot;Learning Helm&amp;quot; by Matt Butcher, Matt Farina, and Josh Dolitsky comes in. The book serves as a comprehensive guide to using Helm, the package manager for Kubernetes. I chose helm because it promised to simplify the complexity of Kubernetes management, and it certainly delivered. Readers can expect to gain a solid understanding of Helm&#39;s capabilities, its architecture, and practical ways to manage Kubernetes applications efficiently.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;learning-helm-managing-apps-on-kubernetes&#34;&gt;&lt;strong&gt;Learning Helm: Managing Apps on Kubernetes&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;I remember the first time I dived into Kubernetes; it felt like stepping into a new world. There were so many moving parts, and I quickly realised the need for effective tools to manage it all. This is where &amp;quot;Learning Helm&amp;quot; by Matt Butcher, Matt Farina, and Josh Dolitsky comes in. The book serves as a comprehensive guide to using Helm, the package manager for Kubernetes. I chose helm because it promised to simplify the complexity of Kubernetes management, and it certainly delivered. Readers can expect to gain a solid understanding of Helm&#39;s capabilities, its architecture, and practical ways to manage Kubernetes applications efficiently.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

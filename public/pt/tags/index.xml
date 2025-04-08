@@ -4,8 +4,9 @@
     <title>Tags on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/pt/tags/</link>
     <description>Recent content in Tags on Marcus Vechiato</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt</language>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://blog.vechiato.cc/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <atom:link href="https://blog.vechiato.cc/pt/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
