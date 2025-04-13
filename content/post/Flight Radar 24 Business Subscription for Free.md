@@ -2,7 +2,7 @@
 ---
 author: "Marcus Vechiato"
 title: "Setting Up ADS-B Monitoring with Docker and FlightRadar24"
-date: "2025-04-13"
+date: "2025-04-12"
 thumbnail: "/obsidian/ogo_text_Flightradar24.png"
 publish: true
 tags: 
