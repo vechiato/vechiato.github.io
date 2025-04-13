@@ -168,7 +168,7 @@ volumes:
 ### ✅ `fr24feed`
 
 - **Purpose**: Submits your decoded data to FlightRadar24
-- **Port**: `8754` (Check your feed and receiver status here
+- **Port**: `8754` - Check your feed and receiver status here
 - **Key Variable**: `FR24KEY`: Your personal sharing token
     
 
