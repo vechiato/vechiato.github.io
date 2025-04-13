@@ -9,7 +9,7 @@
   
   >
   <head>
-<title>Setting Up ADS-B Monitoring with Docker and FlightRadar24 | Marcus Vechiato</title>
+<title>How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver | Marcus Vechiato</title>
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -27,52 +27,30 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="Setting Up ADS-B Monitoring with Docker and FlightRadar24
-
-  
-
-    
-      
-        
-        
-        
-        
-        
-        
-    " />
+<meta name="description" content="✈️ Why Monitor ADS-B Data?
+Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, …" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@vechiato">
-<meta name="twitter:title" content="Setting Up ADS-B Monitoring with Docker and FlightRadar24" />
+<meta name="twitter:title" content="How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver" />
 <meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/Flightradar24-Logo-PNG2.png"/>
 <meta property="og:url" content="https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/" />
-<meta property="og:title" content="Setting Up ADS-B Monitoring with Docker and FlightRadar24" />
-<meta property="og:description" content="Setting Up ADS-B Monitoring with Docker and FlightRadar24
-
-  
-
-    
-      
-        
-        
-        
-        
-        
-        
-    " />
+<meta property="og:title" content="How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver" />
+<meta property="og:description" content="✈️ Why Monitor ADS-B Data?
+Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, …" />
 <meta property="og:image" content="https://blog.vechiato.cc/obsidian/Flightradar24-Logo-PNG2.png" />
-  <meta name="keywords" content="blog,technology,docker,homelab" />
+  <meta name="keywords" content="blog,technology,docker,homelab,aviation,ads-b" />
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
       "@type": "BlogPosting",
       "mainEntityOfPage":"https:\/\/blog.vechiato.cc\/post\/flight-radar-24-business-subscription-for-free\/",
       "name": "Marcus Vechiato",
-      "headline": "Setting Up ADS-B Monitoring with Docker and FlightRadar24",
-      "description": "\u003ch1 id=\"setting-up-ads-b-monitoring-with-docker-and-flightradar24\"\u003eSetting Up ADS-B Monitoring with Docker and FlightRadar24\u003c/h1\u003e\n\u003cp\u003e\u003cfigure\u003e\n  \u003cpicture\u003e\n\n    \n      \n        \n        \n        \n        \n        \n        \n    \u003cimg\n      loading=\"lazy\" …\u003c/picture\u003e\u003c/figure\u003e\u003c/p\u003e",
+      "headline": "How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver",
+      "description": "\u003ch2 id=\"-why-monitor-ads-b-data\"\u003e✈️ Why Monitor ADS-B Data?\u003c/h2\u003e\n\u003cp\u003eAutomatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, …\u003c/p\u003e",
       "url": "https:\/\/blog.vechiato.cc\/post\/flight-radar-24-business-subscription-for-free\/",
       "datePublished": "2025-04-12T00:00:00Z",
       "dateModified": "2025-04-12T00:00:00Z",
-      "keywords": ["blog","technology","docker","homelab"],
+      "keywords": ["blog","technology","docker","homelab","aviation","ads-b"],
       "author": {
         "@type": "Person",
         "name": "map[name:Marcus Vechiato]"
@@ -201,7 +179,7 @@
   
 <div class="grid-inverse wrap content">
   <article class="post_content">
-    <h1 class="post_title">Setting Up ADS-B Monitoring with Docker and FlightRadar24</h1>
+    <h1 class="post_title">How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver</h1>
   <div class="post_meta">
     <span><svg class="icon">
   <title>calendar</title>
@@ -210,21 +188,23 @@
 </span>
     <span class="post_date">
       Apr 12, 2025</span>
-    <span class="post_time"> · 5 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/docker/' title="docker" class="post_tag button button_translucent">docker
+    <span class="post_time"> · 4 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/docker/' title="docker" class="post_tag button button_translucent">docker
         </a><a href='https://blog.vechiato.cc/tags/homelab/' title="homelab" class="post_tag button button_translucent">homelab
+        </a><a href='https://blog.vechiato.cc/tags/aviation/' title="aviation" class="post_tag button button_translucent">aviation
+        </a><a href='https://blog.vechiato.cc/tags/ads-b/' title="ads-b" class="post_tag button button_translucent">ads-b
         </a>
     </span>
     <span class="page_only">&nbsp;·
   <div class="post_share">
     Share on:
-    <a href="https://twitter.com/intent/tweet?text=Setting%20Up%20ADS-B%20Monitoring%20with%20Docker%20and%20FlightRadar24&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fflight-radar-24-business-subscription-for-free%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+    <a href="https://twitter.com/intent/tweet?text=How%20to%20Get%20a%20Free%20FlightRadar24%20Business%20Subscription%20with%20Your%20Own%20ADS-B%20Receiver&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fflight-radar-24-business-subscription-for-free%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>twitter</title>
   <use xlink:href="#twitter"></use>
 </svg>
 
     </a>
-    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fflight-radar-24-business-subscription-for-free%2f&t=Setting%20Up%20ADS-B%20Monitoring%20with%20Docker%20and%20FlightRadar24" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fflight-radar-24-business-subscription-for-free%2f&t=How%20to%20Get%20a%20Free%20FlightRadar24%20Business%20Subscription%20with%20Your%20Own%20ADS-B%20Receiver" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>facebook</title>
   <use xlink:href="#facebook"></use>
@@ -249,100 +229,66 @@
   </span>
   </div>
 
-    <div class="post_body"><h1 id="setting-up-ads-b-monitoring-with-docker-and-flightradar24">Setting Up ADS-B Monitoring with Docker and FlightRadar24</h1>
-<p><figure>
-  <picture>
-
-    
-      
-        
-        
-        
-        
-        
-        
-    <img
-      loading="lazy"
-      decoding="async"
-      alt="image"
-      
-        class="image_figure image_internal image_unprocessed"
-        src="https://blog.vechiato.cc/obsidian/Flightradar24-Logo-PNG2.png"
-      
-      
-    />
-
-    </picture>
-</figure>
-
-ADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation enthusiasts and hobbyists to track live aircraft data. FlightRadar24 (FR24) is a popular platform for this, and setting it up with Docker is efficient and straightforward. In this post, we’ll guide you through deploying an ADS-B monitoring setup using <code>docker-compose</code> and two key services: <code>fr24feed</code> and <code>readsb</code>.
-<figure>
-  <picture>
-
-    
-      
-        
-        
-        
-        
-        
-        
-    <img
-      loading="lazy"
-      decoding="async"
-      alt="image"
-      
-        class="image_figure image_internal image_unprocessed"
-        src="https://blog.vechiato.cc/obsidian/Logo_text_Flightradar24.png"
-      
-      
-    />
-
-    </picture>
-</figure>
-
-RTL-SDR (Radio Television Software Defined Radio) is a low-cost USB device originally designed for TV reception, but it's widely used by hobbyists and professionals to receive a wide range of radio signals using software-defined radio technology. It can tune into frequencies from about 500 kHz to 1.7 GHz, making it ideal for applications like weather satellite reception, radio astronomy, and aircraft tracking. One popular use is for receiving ADS-B (Automatic Dependent Surveillance–Broadcast) signals transmitted by aircraft. With RTL-SDR, users can decode these signals to track real-time flight information such as position, altitude, speed, and identification. This data can then be shared with online flight tracking networks like FlightAware or ADS-B Exchange, contributing to global aircraft monitoring.</p>
+    <div class="post_body"><h2 id="-why-monitor-ads-b-data">✈️ Why Monitor ADS-B Data?</h2>
+<p>Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, and other flight data in real time. Enthusiasts and aviation hobbyists around the world use software-defined radios (SDRs) to receive these signals — and contribute data to platforms like <strong><a href="https://www.flightradar24.com/">FlightRadar24</a></strong>.</p>
+<p>The best part? If you share your ADS-B data with FlightRadar24, they’ll reward you with a <strong>free Business account subscription</strong> (normally $499.99/year), which includes:</p>
+<ul>
+<li>Up to <strong>3 years of flight history</strong></li>
+<li>Access to <strong>weather layers</strong>, <strong>airspace boundaries</strong>, and detailed <strong>aircraft photos</strong></li>
+<li>A full-featured <strong>web and mobile experience</strong></li>
+<li><strong>Premium customer support</strong></li>
+</ul>
+<p>All you need is some basic hardware, a little technical setup, and a love for aviation data. Let's dive in.</p>
 <hr>
-<h2 id="why-monitor-ads-b-data">Why Monitor ADS-B Data?</h2>
-<p>ADS-B data provides real-time information about aircraft, including location, altitude, and speed. By running your own receiver, you contribute data to platforms like FlightRadar24 and enjoy access to premium features while supporting global flight tracking efforts.</p>
-<hr>
-<h2 id="prerequisites">Prerequisites</h2>
-<p>Before we dive into the setup, ensure you have the following:</p>
+<h2 id="-what-you-need-prerequisites">🧰 What You Need (Prerequisites)</h2>
+<p>To get started with your own ADS-B monitoring setup, you'll need:</p>
 <ol>
-<li><strong>RTL-SDR Device</strong>: A USB software-defined radio receiver capable of receiving ADS-B signals.</li>
-<li><strong>Docker and Docker Compose</strong>: Installed on your host machine.</li>
-<li><strong>FlightRadar24 Account</strong>: To obtain your FR24 key.</li>
-<li><strong>Location Coordinates</strong>: Latitude and longitude of your receiver.</li>
+<li><strong>RTL-SDR Dongle</strong> – A USB device capable of receiving 1090 MHz signals from aircraft.</li>
+<li><strong>Antenna</strong> – Ideally one that’s placed high and unobstructed for best reception</li>
+<li><strong>A Raspberry Pi or Linux Machine</strong> – We'll be running our setup using Docker.</li>
+<li><strong>Docker and Docker Compose</strong> – Installed on your host machine.</li>
+<li><strong>FlightRadar24 Account</strong> – To get your unique sharing key (FR24KEY).</li>
+<li><strong>Latitude and Longitude</strong> – Your receiver’s exact location.</li>
 </ol>
+<blockquote>
+<p>Tip: If you don’t have an FR24 key yet, register your hardware at <a href="https://www.flightradar24.com/share-your-data">fr24.com/share-your-data</a> and request one.</p></blockquote>
 <hr>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">mkdir fr24 
-</span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="nb">cd</span> fr24 
-</span></span><span class="line"><span class="ln">3</span><span class="cl">touch .enc
-</span></span><span class="line"><span class="ln">4</span><span class="cl">touch docker-compose.yaml
-</span></span></code></pre></div><h2 id="env-file-configuration">.env File Configuration</h2>
-<p>Create a <code>.env</code> file in the same directory as your <code>docker-compose.yaml</code> and add the following:</p>
+<h2 id="-setup-overview">📦 Setup Overview</h2>
+<p>We're going to set up two services using Docker:</p>
+<ul>
+<li><strong><code>readsb</code></strong>: Listens to ADS-B signals from your SDR and decodes them.</li>
+<li><strong><code>fr24feed</code></strong>: Sends the decoded aircraft data to FlightRadar24.</li>
+</ul>
+<hr>
+<h2 id="-create-your-project-folder">📁 Create Your Project Folder</h2>
+<p>Open a terminal and run:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">mkdir fr24 <span class="o">&amp;&amp;</span> <span class="nb">cd</span> fr24
+</span></span><span class="line"><span class="ln">2</span><span class="cl">touch .env docker-compose.yaml
+</span></span></code></pre></div><hr>
+<h2 id="-configure-env-file">📝 Configure <code>.env</code> File</h2>
+<p>Edit the <code>.env</code> file with your details:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-env" data-lang="env"><span class="line"><span class="ln">1</span><span class="cl"><span class="nv">FR24KEY</span><span class="o">=</span>your-fr24-key
 </span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="nv">LATITUDE</span><span class="o">=</span>your-latitude
 </span></span><span class="line"><span class="ln">3</span><span class="cl"><span class="nv">LONGITUDE</span><span class="o">=</span>your-longitude
-</span></span></code></pre></div><p>Replace <code>your-fr24-key</code> with your FlightRadar24 key and set the <code>LATITUDE</code> and <code>LONGITUDE</code> to your receiver's location.</p>
+</span></span></code></pre></div><p>Make sure to replace those placeholders with your actual info.</p>
 <hr>
-<h2 id="docker-compose-configuration">Docker Compose Configuration</h2>
-<p>Below is the <code>docker-compose.yaml</code> configuration for running the <code>fr24feed</code> and <code>readsb</code> services. Copy and paste this into a file named <code>docker-compose.yaml</code>.</p>
+<h2 id="-docker-compose-setup">⚙️ Docker Compose Setup</h2>
+<p>Paste this into your <code>docker-compose.yaml</code>:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="ln"> 1</span><span class="cl"><span class="nt">services</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="ln"> 2</span><span class="cl"><span class="w">  </span><span class="nt">fr24feed</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="ln"> 3</span><span class="cl"><span class="w">    </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l">ghcr.io/sdr-enthusiasts/docker-flightradar24:latest</span><span class="w">
-</span></span></span><span class="line"><span class="ln"> 4</span><span class="cl"><span class="w">    </span><span class="nt">tty</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
-</span></span></span><span class="line"><span class="ln"> 5</span><span class="cl"><span class="w">    </span><span class="nt">container_name</span><span class="p">:</span><span class="w"> </span><span class="l">fr24feed</span><span class="w">
-</span></span></span><span class="line"><span class="ln"> 6</span><span class="cl"><span class="w">    </span><span class="nt">restart</span><span class="p">:</span><span class="w"> </span><span class="l">always</span><span class="w">
+</span></span></span><span class="line"><span class="ln"> 4</span><span class="cl"><span class="w">    </span><span class="nt">container_name</span><span class="p">:</span><span class="w"> </span><span class="l">fr24feed</span><span class="w">
+</span></span></span><span class="line"><span class="ln"> 5</span><span class="cl"><span class="w">    </span><span class="nt">restart</span><span class="p">:</span><span class="w"> </span><span class="l">always</span><span class="w">
+</span></span></span><span class="line"><span class="ln"> 6</span><span class="cl"><span class="w">    </span><span class="nt">tty</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
 </span></span></span><span class="line"><span class="ln"> 7</span><span class="cl"><span class="w">    </span><span class="nt">ports</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="ln"> 8</span><span class="cl"><span class="w">      </span>- <span class="m">8754</span><span class="p">:</span><span class="m">8754</span><span class="w">
 </span></span></span><span class="line"><span class="ln"> 9</span><span class="cl"><span class="w">    </span><span class="nt">environment</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="ln">10</span><span class="cl"><span class="w">      </span>- <span class="l">FR24KEY=${FR24KEY}</span><span class="w">
 </span></span></span><span class="line"><span class="ln">11</span><span class="cl"><span class="w">    </span><span class="nt">depends_on</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="ln">12</span><span class="cl"><span class="w">      </span><span class="nt">readsb</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="ln">13</span><span class="cl"><span class="w">          </span><span class="nt">condition</span><span class="p">:</span><span class="w"> </span><span class="l">service_healthy</span><span class="w">
+</span></span></span><span class="line"><span class="ln">13</span><span class="cl"><span class="w">        </span><span class="nt">condition</span><span class="p">:</span><span class="w"> </span><span class="l">service_healthy</span><span class="w">
 </span></span></span><span class="line"><span class="ln">14</span><span class="cl"><span class="w">    </span><span class="nt">links</span><span class="p">:</span><span class="w">
-</span></span></span><span class="line"><span class="ln">15</span><span class="cl"><span class="w">        </span>- <span class="l">readsb</span><span class="w">
+</span></span></span><span class="line"><span class="ln">15</span><span class="cl"><span class="w">      </span>- <span class="l">readsb</span><span class="w">
 </span></span></span><span class="line"><span class="ln">16</span><span class="cl"><span class="w">    </span><span class="nt">deploy</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="ln">17</span><span class="cl"><span class="w">      </span><span class="nt">resources</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="ln">18</span><span class="cl"><span class="w">        </span><span class="nt">limits</span><span class="p">:</span><span class="w">
@@ -351,10 +297,10 @@ RTL-SDR (Radio Television Software Defined Radio) is a low-cost USB device origi
 </span></span></span><span class="line"><span class="ln">21</span><span class="cl"><span class="w">
 </span></span></span><span class="line"><span class="ln">22</span><span class="cl"><span class="w">  </span><span class="nt">readsb</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="ln">23</span><span class="cl"><span class="w">    </span><span class="nt">image</span><span class="p">:</span><span class="w"> </span><span class="l">ghcr.io/sdr-enthusiasts/docker-readsb-protobuf:latest</span><span class="w">
-</span></span></span><span class="line"><span class="ln">24</span><span class="cl"><span class="w">    </span><span class="nt">tty</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
-</span></span></span><span class="line"><span class="ln">25</span><span class="cl"><span class="w">    </span><span class="nt">container_name</span><span class="p">:</span><span class="w"> </span><span class="l">readsb</span><span class="w">
-</span></span></span><span class="line"><span class="ln">26</span><span class="cl"><span class="w">    </span><span class="nt">hostname</span><span class="p">:</span><span class="w"> </span><span class="l">readsb</span><span class="w">
-</span></span></span><span class="line"><span class="ln">27</span><span class="cl"><span class="w">    </span><span class="nt">restart</span><span class="p">:</span><span class="w"> </span><span class="l">always</span><span class="w">
+</span></span></span><span class="line"><span class="ln">24</span><span class="cl"><span class="w">    </span><span class="nt">container_name</span><span class="p">:</span><span class="w"> </span><span class="l">readsb</span><span class="w">
+</span></span></span><span class="line"><span class="ln">25</span><span class="cl"><span class="w">    </span><span class="nt">hostname</span><span class="p">:</span><span class="w"> </span><span class="l">readsb</span><span class="w">
+</span></span></span><span class="line"><span class="ln">26</span><span class="cl"><span class="w">    </span><span class="nt">restart</span><span class="p">:</span><span class="w"> </span><span class="l">always</span><span class="w">
+</span></span></span><span class="line"><span class="ln">27</span><span class="cl"><span class="w">    </span><span class="nt">tty</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
 </span></span></span><span class="line"><span class="ln">28</span><span class="cl"><span class="w">    </span><span class="nt">devices</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="ln">29</span><span class="cl"><span class="w">      </span>- <span class="l">/dev/bus/usb:/dev/bus/usb</span><span class="w">
 </span></span></span><span class="line"><span class="ln">30</span><span class="cl"><span class="w">    </span><span class="nt">ports</span><span class="p">:</span><span class="w">
@@ -389,96 +335,62 @@ RTL-SDR (Radio Television Software Defined Radio) is a low-cost USB device origi
 </span></span></span><span class="line"><span class="ln">59</span><span class="cl"><span class="w">  </span><span class="nt">readsbpb_rrd</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="ln">60</span><span class="cl"><span class="w">  </span><span class="nt">readsbpb_autogain</span><span class="p">:</span><span class="w">
 </span></span></span></code></pre></div><hr>
-<h2 id="configuration-details">Configuration Details</h2>
-<h3 id="readsb"><code>readsb</code></h3>
+<h2 id="-what-each-service-does">🖥️ What Each Service Does</h2>
+<h3 id="-readsb">✅ <code>readsb</code></h3>
 <ul>
-<li><strong>Purpose</strong>: Decodes ADS-B signals from your SDR device.</li>
-<li><strong>Environment Variables</strong>:
+<li>
+<p><strong>Purpose</strong>: Captures and decodes signals from your RTL-SDR device.</p>
+</li>
+<li>
+<p><strong>Ports</strong>:</p>
 <ul>
-<li><code>LATITUDE</code> and <code>LONGITUDE</code>: Your receiver's latitude and longitude (sourced from <code>.env</code>).</li>
-<li><code>READSB_GAIN</code>: Set to <code>autogain</code> for automatic adjustment.</li>
+<li><code>8080</code>: Web UI for live stats</li>
+<li><code>30005</code>: Feeds data to <code>fr24feed</code></li>
 </ul>
 </li>
-<li><strong>Ports</strong>:
+<li>
+<p><strong>Key Environment Variables</strong>:</p>
 <ul>
-<li><code>8088</code>: Web interface for signal statistics.</li>
-<li><code>30005</code>: Data stream for the <code>fr24feed</code> service.</li>
+<li><code>READSB_LAT</code>, <code>READSB_LON</code>: Your location</li>
+<li><code>READSB_GAIN=autogain</code>: Auto-optimized SDR signal gain</li>
 </ul>
 </li>
 </ul>
-<h3 id="fr24feed"><code>fr24feed</code></h3>
+<h3 id="-fr24feed">✅ <code>fr24feed</code></h3>
 <ul>
-<li><strong>Purpose</strong>: Sends the decoded ADS-B data to FlightRadar24.</li>
-<li><strong>Environment Variables</strong>:
-<ul>
-<li><code>FR24KEY</code>: Your unique FlightRadar24 key (sourced from <code>.env</code>).</li>
-</ul>
-</li>
-<li><strong>Ports</strong>:
-<ul>
-<li><code>8754</code>: Local web interface for monitoring feed status.</li>
-</ul>
-</li>
+<li><strong>Purpose</strong>: Submits your decoded data to FlightRadar24</li>
+<li><strong>Port</strong>: <code>8754</code> (Check your feed and receiver status here</li>
+<li><strong>Key Variable</strong>: <code>FR24KEY</code>: Your personal sharing token</li>
 </ul>
 <hr>
-<h2 id="steps-to-deploy">Steps to Deploy</h2>
-<ol>
-<li>
-<p><strong>Connect the SDR Device</strong>: Plug in your RTL-SDR device to the host machine.</p>
-</li>
-<li>
-<p><strong>Start the Services</strong>:</p>
+<h2 id="-start-your-setup">🚀 Start Your Setup</h2>
+<p>With everything configured, launch the containers:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">docker compose up -d
-</span></span></code></pre></div></li>
-<li>
-<p><strong>Verify the Setup</strong>:</p>
+</span></span></code></pre></div><p>Check the logs to confirm everything is running smoothly:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">docker compose logs -f readsb
+</span></span><span class="line"><span class="ln">2</span><span class="cl">docker compose logs -f fr24feed
+</span></span></code></pre></div><hr>
+<h2 id="-web-interfaces">🔍 Web Interfaces</h2>
 <ul>
-<li>Visit <code>http://localhost:8754</code> to check the <code>fr24feed</code> status.</li>
-<li>Visit <code>http://localhost:8080</code> for <code>readsb</code> statistics.</li>
-</ul>
-</li>
-<li>
-<p><strong>Monitor Logs</strong>:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">docker compose logs -f fr24feed
-</span></span></code></pre></div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">docker compose logs -f readsb
-</span></span></code></pre></div></li>
-</ol>
-<hr>
-<p>test</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">docker exec -it readsb viewadsb
-</span></span></code></pre></div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln"> 1</span><span class="cl"> Hex    Mode  Sqwk  Flight   Alt    Spd  Hdg    Lat      Long   RSSI  Msgs  Ti /
-</span></span><span class="line"><span class="ln"> 2</span><span class="cl">────────────────────────────────────────────────────────────────────────────────
-</span></span><span class="line"><span class="ln"> 3</span><span class="cl"> 4B1803 S                     5325  218   51                   -35.6     6  3
-</span></span><span class="line"><span class="ln"> 4</span><span class="cl"> 010209 S     7516  MSR783    3325  164   90   51.476   -0.717 -28.9   289  0
-</span></span><span class="line"><span class="ln"> 5</span><span class="cl"> 4D2223 S     5357  RYR59AR  40000  460    4   51.232   -0.980 -23.7   414  0
-</span></span><span class="line"><span class="ln"> 6</span><span class="cl"> 39D2A3 S                                                      -42.6     2 11
-</span></span><span class="line"><span class="ln"> 7</span><span class="cl"> 4D22D0 S     7475  HYP025   38575  496    6   51.612   -0.978 -34.3    48  0
-</span></span><span class="line"><span class="ln"> 8</span><span class="cl"> AB4C1D S     6312  DAL74    36000  527   73   51.639   -0.392 -34.6   218  3
-</span></span><span class="line"><span class="ln"> 9</span><span class="cl"> 406C3A S     7650            8025  253  308                   -32.6   109  0
-</span></span><span class="line"><span class="ln">10</span><span class="cl"> 407C6D S     6343  EXS8WJ   35000  422  144   51.211   -0.645 -21.1   304  0
-</span></span><span class="line"><span class="ln">11</span><span class="cl"> 407573 S     6344  EZY62GA  29000  392  145   51.466   -0.652 -30.1   274  0
-</span></span><span class="line"><span class="ln">12</span><span class="cl"> 3C65C2 S     2505  DLH900    4525  174  113   51.498   -0.807 -34.5   157  0
-</span></span><span class="line"><span class="ln">13</span><span class="cl"> 407DC5 S     1465  VIR221    9025  282  286   51.430   -0.821 -28.5   201  1
-</span></span><span class="line"><span class="ln">14</span><span class="cl"> 4075FE S     2753  BAW561L   8000  231  273   51.359   -0.592 -29.8   358  0
-</span></span></code></pre></div><p>http://192.168.0.117:8080/ to see the map
-http://192.168.0.117:8754/
-http://192.168.0.117:8080/graphs/
-<a href="https://www.flightradar24.com/blog/inside-flightradar24/how-to-get-a-flightradar24-business-subscription-for-free/">https://www.flightradar24.com/blog/inside-flightradar24/how-to-get-a-flightradar24-business-subscription-for-free/</a>
-<a href="https://github.com/sdr-enthusiasts/docker-flightradar24/pkgs/container/docker-flightradar24">https://github.com/sdr-enthusiasts/docker-flightradar24/pkgs/container/docker-flightradar24</a></p>
-<h2 id="optimizations">Optimizations</h2>
-<ul>
-<li><strong>Gain Adjustment</strong>: Fine-tune the SDR gain setting to improve reception quality.</li>
-<li><strong>Device Placement</strong>: Place the antenna in an open area, preferably near a window or outside.</li>
-<li><strong>System Resources</strong>: Ensure the host has sufficient CPU and memory for smooth operation.</li>
+<li><strong>readsb UI</strong>: <a href="http://localhost:8080">http://localhost:8080</a> — Live aircraft and signal data</li>
+<li><strong>FR24 Feed Status</strong>: <a href="http://localhost:8754">http://localhost:8754</a> — Feed performance and stats</li>
 </ul>
 <hr>
-<h2 id="benefits-of-running-your-own-ads-b-receiver">Benefits of Running Your Own ADS-B Receiver</h2>
+<h2 id="-bonus-test-live-aircraft-feed">🧪 Bonus: Test Live Aircraft Feed</h2>
+<p>Want to peek inside the raw feed? Run:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">docker <span class="nb">exec</span> -it readsb viewadsb
+</span></span></code></pre></div><p>You'll see live aircraft data like this:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">Hex     Flight   Alt    Spd  Lat      Long     RSSI  Msgs
+</span></span><span class="line"><span class="ln">2</span><span class="cl">4D2223  RYR59AR  40000  460  51.232   -0.980   -23.7   414
+</span></span><span class="line"><span class="ln">3</span><span class="cl">AB4C1D  DAL74    36000  527  51.639   -0.392   -34.6   218
+</span></span></code></pre></div><hr>
+<h2 id="-additional-resources">🧠 Additional Resources</h2>
 <ul>
-<li><strong>Contribute to FlightRadar24</strong>: Share data and help enhance global coverage.</li>
-<li><strong>Access Premium Features</strong>: Enjoy advanced tracking tools as a contributor.</li>
-<li><strong>Learn and Experiment</strong>: Gain insights into aviation technology and ADS-B protocols.</li>
+<li><a href="https://www.flightradar24.com/share-your-data">FlightRadar24 Data Sharing Guide</a></li>
+<li><a href="https://www.flightradar24.com/build-your-own">Build a DIY Receiver (Official Guide)</a></li>
+<li><a href="https://github.com/sdr-enthusiasts/docker-readsb-protobuf">Docker-Readsb GitHub</a></li>
+<li><a href="https://github.com/sdr-enthusiasts/docker-flightradar24">Docker-Flightradar24 GitHub</a></li>
 </ul>
-<hr>
 <p>By following this guide, you can easily set up your own ADS-B monitoring station. Whether you're a hobbyist or an aviation enthusiast, this project is a great way to combine technology with a love for flight tracking. Happy monitoring!</p>
 
     </div>
@@ -533,7 +445,7 @@ http://192.168.0.117:8080/graphs/
         <a href="https://blog.vechiato.cc/post/book-developer-relations-playbook/" class="nav-link" title="Insights from The Developer Relations Playbook">Insights from The Developer Relations Playbook</a>
       </li>
       <li>
-        <a href="https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/" class="nav-link" title="Setting Up ADS-B Monitoring with Docker and FlightRadar24">Setting Up ADS-B Monitoring with Docker and FlightRadar24</a>
+        <a href="https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/" class="nav-link" title="How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver">How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver</a>
       </li>
       <li>
         <a href="https://blog.vechiato.cc/post/book-ai-engineering/" class="nav-link" title="Insights from AI Engineering: Building Applications with Foundation Models">Insights from AI Engineering: Building Applications with Foundation Models</a>
@@ -637,7 +549,15 @@ http://192.168.0.117:8080/graphs/
             </a>
             
             
+            <a href='https://blog.vechiato.cc/tags/ads-b/' class=" post_tag button button_translucent" data-position=1 title="ads-b">ADS-B<span class="button_tally">1</span>
+            </a>
+            
+            
             <a href='https://blog.vechiato.cc/tags/argo/' class=" post_tag button button_translucent" data-position=1 title="argo">ARGO<span class="button_tally">1</span>
+            </a>
+            
+            
+            <a href='https://blog.vechiato.cc/tags/aviation/' class=" post_tag button button_translucent" data-position=1 title="aviation">AVIATION<span class="button_tally">1</span>
             </a>
             
             
