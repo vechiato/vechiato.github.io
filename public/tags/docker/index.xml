@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/docker/</link>
+    <description>Recent content in Docker on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up ADS-B Monitoring with Docker and FlightRadar24</title>
+      <link>https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;setting-up-ads-b-monitoring-with-docker-and-flightradar24&#34;&gt;Setting Up ADS-B Monitoring with Docker and FlightRadar24&lt;/h1&gt;
+&lt;p&gt;ADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation enthusiasts and hobbyists to track live aircraft data. FlightRadar24 (FR24) is a popular platform for this, and setting it up with Docker is efficient and straightforward. In this post, we’ll guide you through deploying an ADS-B monitoring setup using &lt;code&gt;docker-compose&lt;/code&gt; and two key services: &lt;code&gt;fr24feed&lt;/code&gt; and &lt;code&gt;readsb&lt;/code&gt;.
+&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/Logo_text_Flightradar24.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+RTL-SDR (Radio Television Software Defined Radio) is a low-cost USB device originally designed for TV reception, but it&#39;s widely used by hobbyists and professionals to receive a wide range of radio signals using software-defined radio technology. It can tune into frequencies from about 500 kHz to 1.7 GHz, making it ideal for applications like weather satellite reception, radio astronomy, and aircraft tracking. One popular use is for receiving ADS-B (Automatic Dependent Surveillance–Broadcast) signals transmitted by aircraft. With RTL-SDR, users can decode these signals to track real-time flight information such as position, altitude, speed, and identification. This data can then be shared with online flight tracking networks like FlightAware or ADS-B Exchange, contributing to global aircraft monitoring.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
