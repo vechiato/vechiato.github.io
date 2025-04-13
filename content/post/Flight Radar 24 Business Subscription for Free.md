@@ -3,7 +3,7 @@
 author: "Marcus Vechiato"
 title: "Setting Up ADS-B Monitoring with Docker and FlightRadar24"
 date: "2025-04-12"
-thumbnail: "/obsidian/ogo_text_Flightradar24.png"
+thumbnail: "/obsidian/Flightradar24-Logo-PNG2.png"
 publish: true
 tags: 
   - docker
@@ -11,7 +11,7 @@ tags:
 --- 
 
 # Setting Up ADS-B Monitoring with Docker and FlightRadar24
-
+![image](/obsidian/Flightradar24-Logo-PNG2.png)
 ADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation enthusiasts and hobbyists to track live aircraft data. FlightRadar24 (FR24) is a popular platform for this, and setting it up with Docker is efficient and straightforward. In this post, we’ll guide you through deploying an ADS-B monitoring setup using `docker-compose` and two key services: `fr24feed` and `readsb`.
 ![image](/obsidian/Logo_text_Flightradar24.png)
 RTL-SDR (Radio Television Software Defined Radio) is a low-cost USB device originally designed for TV reception, but it's widely used by hobbyists and professionals to receive a wide range of radio signals using software-defined radio technology. It can tune into frequencies from about 500 kHz to 1.7 GHz, making it ideal for applications like weather satellite reception, radio astronomy, and aircraft tracking. One popular use is for receiving ADS-B (Automatic Dependent Surveillance–Broadcast) signals transmitted by aircraft. With RTL-SDR, users can decode these signals to track real-time flight information such as position, altitude, speed, and identification. This data can then be shared with online flight tracking networks like FlightAware or ADS-B Exchange, contributing to global aircraft monitoring.

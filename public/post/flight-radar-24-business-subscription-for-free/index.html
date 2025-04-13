@@ -28,16 +28,38 @@
 
 <meta property="og:type" content="article">
 <meta name="description" content="Setting Up ADS-B Monitoring with Docker and FlightRadar24
-ADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation enthusiasts and …" />
+
+  
+
+    
+      
+        
+        
+        
+        
+        
+        
+    " />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@vechiato">
 <meta name="twitter:title" content="Setting Up ADS-B Monitoring with Docker and FlightRadar24" />
-<meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/ogo_text_Flightradar24.png"/>
+<meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/Flightradar24-Logo-PNG2.png"/>
 <meta property="og:url" content="https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/" />
 <meta property="og:title" content="Setting Up ADS-B Monitoring with Docker and FlightRadar24" />
 <meta property="og:description" content="Setting Up ADS-B Monitoring with Docker and FlightRadar24
-ADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation enthusiasts and …" />
-<meta property="og:image" content="https://blog.vechiato.cc/obsidian/ogo_text_Flightradar24.png" />
+
+  
+
+    
+      
+        
+        
+        
+        
+        
+        
+    " />
+<meta property="og:image" content="https://blog.vechiato.cc/obsidian/Flightradar24-Logo-PNG2.png" />
   <meta name="keywords" content="blog,technology,docker,homelab" />
   <script type="application/ld+json">
     {
@@ -46,7 +68,7 @@ ADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation en
       "mainEntityOfPage":"https:\/\/blog.vechiato.cc\/post\/flight-radar-24-business-subscription-for-free\/",
       "name": "Marcus Vechiato",
       "headline": "Setting Up ADS-B Monitoring with Docker and FlightRadar24",
-      "description": "\u003ch1 id=\"setting-up-ads-b-monitoring-with-docker-and-flightradar24\"\u003eSetting Up ADS-B Monitoring with Docker and FlightRadar24\u003c/h1\u003e\n\u003cp\u003eADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation enthusiasts and …\u003c/p\u003e",
+      "description": "\u003ch1 id=\"setting-up-ads-b-monitoring-with-docker-and-flightradar24\"\u003eSetting Up ADS-B Monitoring with Docker and FlightRadar24\u003c/h1\u003e\n\u003cp\u003e\u003cfigure\u003e\n  \u003cpicture\u003e\n\n    \n      \n        \n        \n        \n        \n        \n        \n    \u003cimg\n      loading=\"lazy\" …\u003c/picture\u003e\u003c/figure\u003e\u003c/p\u003e",
       "url": "https:\/\/blog.vechiato.cc\/post\/flight-radar-24-business-subscription-for-free\/",
       "datePublished": "2025-04-12T00:00:00Z",
       "dateModified": "2025-04-12T00:00:00Z",
@@ -57,7 +79,7 @@ ADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation en
       },
       "image":{
         "@type":"ImageObject",
-        "url": "https:\/\/blog.vechiato.cc\/obsidian\/ogo_text_Flightradar24.png"
+        "url": "https:\/\/blog.vechiato.cc\/obsidian\/Flightradar24-Logo-PNG2.png"
       },
       "publisher": {
         "@type": "Organization",
@@ -228,7 +250,32 @@ ADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation en
   </div>
 
     <div class="post_body"><h1 id="setting-up-ads-b-monitoring-with-docker-and-flightradar24">Setting Up ADS-B Monitoring with Docker and FlightRadar24</h1>
-<p>ADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation enthusiasts and hobbyists to track live aircraft data. FlightRadar24 (FR24) is a popular platform for this, and setting it up with Docker is efficient and straightforward. In this post, we’ll guide you through deploying an ADS-B monitoring setup using <code>docker-compose</code> and two key services: <code>fr24feed</code> and <code>readsb</code>.
+<p><figure>
+  <picture>
+
+    
+      
+        
+        
+        
+        
+        
+        
+    <img
+      loading="lazy"
+      decoding="async"
+      alt="image"
+      
+        class="image_figure image_internal image_unprocessed"
+        src="https://blog.vechiato.cc/obsidian/Flightradar24-Logo-PNG2.png"
+      
+      
+    />
+
+    </picture>
+</figure>
+
+ADS-B (Automatic Dependent Surveillance-Broadcast) monitoring allows aviation enthusiasts and hobbyists to track live aircraft data. FlightRadar24 (FR24) is a popular platform for this, and setting it up with Docker is efficient and straightforward. In this post, we’ll guide you through deploying an ADS-B monitoring setup using <code>docker-compose</code> and two key services: <code>fr24feed</code> and <code>readsb</code>.
 <figure>
   <picture>
 
