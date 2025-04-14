@@ -1,7 +1,7 @@
 ---
 author: "Marcus Vechiato"
 title: "Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?"
-date: "2025-04-15"
+date: "2025-04-14"
 thumbnail: "/obsidian/effective-sre-scope.png"
 publish: true
 tags: 

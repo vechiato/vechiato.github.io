@@ -7,8 +7,36 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.vechiato.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Error Budget</title>
+      <link>https://blog.vechiato.cc/tags/error-budget/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/error-budget/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sla</title>
+      <link>https://blog.vechiato.cc/tags/sla/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/sla/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slo</title>
+      <link>https://blog.vechiato.cc/tags/slo/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/slo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sre</title>
+      <link>https://blog.vechiato.cc/tags/sre/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/sre/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Book</title>
       <link>https://blog.vechiato.cc/tags/book/</link>
@@ -105,13 +133,6 @@
       <link>https://blog.vechiato.cc/tags/otel/</link>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.vechiato.cc/tags/otel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sre</title>
-      <link>https://blog.vechiato.cc/tags/sre/</link>
-      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/tags/sre/</guid>
       <description></description>
     </item>
     <item>
