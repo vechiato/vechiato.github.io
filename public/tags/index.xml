@@ -4,9 +4,374 @@
     <title>Tags on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/</link>
     <description>Recent content in Tags on Marcus Vechiato</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.vechiato.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>https://blog.vechiato.cc/tags/book/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devrel</title>
+      <link>https://blog.vechiato.cc/tags/devrel/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/devrel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ads-B</title>
+      <link>https://blog.vechiato.cc/tags/ads-b/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/ads-b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aviation</title>
+      <link>https://blog.vechiato.cc/tags/aviation/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/aviation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://blog.vechiato.cc/tags/docker/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homelab</title>
+      <link>https://blog.vechiato.cc/tags/homelab/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/homelab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llm</title>
+      <link>https://blog.vechiato.cc/tags/llm/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deepseek</title>
+      <link>https://blog.vechiato.cc/tags/deepseek/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/deepseek/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ollama</title>
+      <link>https://blog.vechiato.cc/tags/ollama/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/ollama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3d Printing</title>
+      <link>https://blog.vechiato.cc/tags/3d-printing/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/3d-printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://blog.vechiato.cc/tags/python/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devops</title>
+      <link>https://blog.vechiato.cc/tags/devops/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Observability</title>
+      <link>https://blog.vechiato.cc/tags/observability/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/observability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Otel</title>
+      <link>https://blog.vechiato.cc/tags/otel/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/otel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sre</title>
+      <link>https://blog.vechiato.cc/tags/sre/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/sre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code Club</title>
+      <link>https://blog.vechiato.cc/tags/code-club/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/code-club/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>https://blog.vechiato.cc/tags/cloud/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K8s</title>
+      <link>https://blog.vechiato.cc/tags/k8s/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/k8s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iot</title>
+      <link>https://blog.vechiato.cc/tags/iot/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/iot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://blog.vechiato.cc/tags/raspberry-pi/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Platform Engineering</title>
+      <link>https://blog.vechiato.cc/tags/platform-engineering/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/platform-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>https://blog.vechiato.cc/tags/git/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leadership</title>
+      <link>https://blog.vechiato.cc/tags/leadership/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/leadership/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lean</title>
+      <link>https://blog.vechiato.cc/tags/lean/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/lean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product Development</title>
+      <link>https://blog.vechiato.cc/tags/product-development/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/product-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metrics</title>
+      <link>https://blog.vechiato.cc/tags/metrics/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/metrics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crossplane</title>
+      <link>https://blog.vechiato.cc/tags/crossplane/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/crossplane/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://blog.vechiato.cc/tags/security/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technical Debt</title>
+      <link>https://blog.vechiato.cc/tags/technical-debt/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/technical-debt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chaos Engineering</title>
+      <link>https://blog.vechiato.cc/tags/chaos-engineering/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/chaos-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ebpf</title>
+      <link>https://blog.vechiato.cc/tags/ebpf/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/ebpf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Certification</title>
+      <link>https://blog.vechiato.cc/tags/certification/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/certification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gitops</title>
+      <link>https://blog.vechiato.cc/tags/gitops/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/gitops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cicd</title>
+      <link>https://blog.vechiato.cc/tags/cicd/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/cicd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Argo</title>
+      <link>https://blog.vechiato.cc/tags/argo/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/argo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Helm</title>
+      <link>https://blog.vechiato.cc/tags/helm/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/helm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hydroponics</title>
+      <link>https://blog.vechiato.cc/tags/hydroponics/</link>
+      <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/hydroponics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finops</title>
+      <link>https://blog.vechiato.cc/tags/finops/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/finops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meetup</title>
+      <link>https://blog.vechiato.cc/tags/meetup/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/meetup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microservices</title>
+      <link>https://blog.vechiato.cc/tags/microservices/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems Design</title>
+      <link>https://blog.vechiato.cc/tags/systems-design/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/systems-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes Management</title>
+      <link>https://blog.vechiato.cc/tags/notes-management/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/notes-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time Management</title>
+      <link>https://blog.vechiato.cc/tags/time-management/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/time-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Team Topologies</title>
+      <link>https://blog.vechiato.cc/tags/team-topologies/</link>
+      <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/team-topologies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netflix</title>
+      <link>https://blog.vechiato.cc/tags/netflix/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/netflix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Operating Systems</title>
+      <link>https://blog.vechiato.cc/tags/operating-systems/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/operating-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems Performance</title>
+      <link>https://blog.vechiato.cc/tags/systems-performance/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/systems-performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dora</title>
+      <link>https://blog.vechiato.cc/tags/dora/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/dora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devsecops</title>
+      <link>https://blog.vechiato.cc/tags/devsecops/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/devsecops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dbre</title>
+      <link>https://blog.vechiato.cc/tags/dbre/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/dbre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>https://blog.vechiato.cc/tags/data/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://blog.vechiato.cc/tags/linux/</link>
+      <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/tags/linux/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
