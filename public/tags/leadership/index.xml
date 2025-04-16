@@ -4,319 +4,80 @@
     <title>Leadership on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/leadership/</link>
     <description>Recent content in Leadership on Marcus Vechiato</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.vechiato.cc/tags/leadership/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Leading Effective Engineering Teams</title>
       <link>https://blog.vechiato.cc/post/book-leading-effective-engineering-teams/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-leading-effective-engineering-teams/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;leading-effective-engineering-teams&#34;&gt;&lt;strong&gt;Leading Effective Engineering Teams&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Years ago, when I found myself managing an engineering team for the first time. The transition from being an individual contributor to a leader was filled with challenges and uncertainties. I wished for a guide that could provide practical advice and real-world examples to navigate this new role effectively. &amp;quot;Leading Effective Engineering Teams&amp;quot; by Addy Osmani is one of the few guides covering this subject. Drawing from over a decade of experience at Google, Osmani uncovers the secrets to engineering effectiveness, efficiency, and team success. This book is a treasure trove of insights for anyone looking to lead a thriving engineering team.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;leading-effective-engineering-teams&#34;&gt;&lt;strong&gt;Leading Effective Engineering Teams&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Years ago, when I found myself managing an engineering team for the first time. The transition from being an individual contributor to a leader was filled with challenges and uncertainties. I wished for a guide that could provide practical advice and real-world examples to navigate this new role effectively. &amp;quot;Leading Effective Engineering Teams&amp;quot; by Addy Osmani is one of the few guides covering this subject. Drawing from over a decade of experience at Google, Osmani uncovers the secrets to engineering effectiveness, efficiency, and team success. This book is a treasure trove of insights for anyone looking to lead a thriving engineering team.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from The Staff Engineer&#39;s Path</title>
       <link>https://blog.vechiato.cc/post/book-the-staff-engineers-path/</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-the-staff-engineers-path/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;the-staff-engineers-path&#34;&gt;&lt;strong&gt;The Staff Engineer&#39;s Path&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. &amp;quot;The Staff Engineer&#39;s Path: A Guide for Individual Contributors Navigating Growth and Change&amp;quot; by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management. This book is an essential guide for engineers looking to elevate their impact and influence within their organizations.
-&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/the_staff_enginners_path.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2022 by Tanya Reilly&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;the-staff-engineers-path&#34;&gt;&lt;strong&gt;The Staff Engineer&#39;s Path&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. &amp;quot;The Staff Engineer&#39;s Path: A Guide for Individual Contributors Navigating Growth and Change&amp;quot; by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management. This book is an essential guide for engineers looking to elevate their impact and influence within their organizations.&#xA;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/the_staff_enginners_path.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2022 by Tanya Reilly&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Insights from The CTO Field Guide (for the First 90 Days)</title>
+      <link>https://blog.vechiato.cc/post/book-field-cto/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/post/book-field-cto/</guid>
+      <description>&lt;p&gt;I remember vividly the chaos of my first leadership role in tech — a mix of excitement, confusion, and imposter syndrome. You want to prove yourself immediately, yet everything seems like a moving target. That’s why &lt;em&gt;The CTO Field Guide&lt;/em&gt; hit home in a powerful way. Written with raw honesty and practical wisdom, this guide is a must-read for anyone stepping into a tech leadership role — especially for the first time, or stepping into a new organization.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Insights from Working Backwards: Insights, Stories, and Secrets from Inside Amazon</title>
       <link>https://blog.vechiato.cc/post/book-working-backwards/</link>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-working-backwards/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;working-backwards&#34;&gt;&lt;strong&gt;Working Backwards&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&amp;quot;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;quot; by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon&#39;s success. The authors, both former Amazon executives, provide a detailed account of how the company&#39;s culture and methodologies can be applied to achieve extraordinary results in any organisation.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/working_backwards.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2021 by Colin Bryar &amp;amp; Bill Carr&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;working-backwards&#34;&gt;&lt;strong&gt;Working Backwards&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&amp;quot;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;quot; by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon&#39;s success. The authors, both former Amazon executives, provide a detailed account of how the company&#39;s culture and methodologies can be applied to achieve extraordinary results in any organisation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/working_backwards.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2021 by Colin Bryar &amp;amp; Bill Carr&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;part-one-being-amazonian&#34;&gt;&lt;strong&gt;Part One: Being Amazonian&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;chapter-1-building-blocks-leadership-principles-and-mechanisms&#34;&gt;&lt;strong&gt;Chapter 1: Building Blocks: Leadership Principles and Mechanisms&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;This chapter introduces Amazon&#39;s 14 Leadership Principles, which are central to the company&#39;s culture and decision-making processes. The principles include Customer Obsession, Ownership, Invent and Simplify, and Bias for Action, among others. The authors explain how these principles are not just corporate slogans but are deeply embedded in every aspect of Amazon&#39;s operations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business</title>
       <link>https://blog.vechiato.cc/post/book-ego-free-leadership/</link>
       <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-ego-free-leadership/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;ego-free-leadership-ending-the-unconscious-habits-that-hijack-your-business&#34;&gt;&lt;strong&gt;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Ego Free Leadership&lt;/em&gt; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;ego-free-leadership-ending-the-unconscious-habits-that-hijack-your-business&#34;&gt;&lt;strong&gt;Ego Free Leadership: Ending the Unconscious Habits that Hijack Your Business&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Ego Free Leadership&lt;/em&gt; by Brandon Black and Shayne Hughes provides a powerful exploration into how ego-driven behaviours can derail leadership and organisational success. Through the story of Brandon Black’s tenure as CEO of Encore Capital and his collaboration with executive coach Shayne Hughes, the book offers profound insights into overcoming ego to foster a culture of authenticity and high performance.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from No rules rules: Netflix and the culture of reinvention</title>
       <link>https://blog.vechiato.cc/post/book-no-rules-rules/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-no-rules-rules/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;no-rules-rules&#34;&gt;&lt;strong&gt;No Rules Rules&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In &amp;quot;No Rules Rules: Netflix and the Culture of Reinvention,&amp;quot; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/no_rules_rules.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2020 by Reed Hastings and Erin Meyer&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;no-rules-rules&#34;&gt;&lt;strong&gt;No Rules Rules&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In &amp;quot;No Rules Rules: Netflix and the Culture of Reinvention,&amp;quot; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/no_rules_rules.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2020 by Reed Hastings and Erin Meyer&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from Ask Your Developer</title>
       <link>https://blog.vechiato.cc/post/book-ask-your-developer/</link>
       <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-ask-your-developer/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;ask-your-developer&#34;&gt;&lt;strong&gt;Ask Your Developer&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the digital age, businesses need to adapt quickly to remain competitive. &amp;quot;Ask Your Developer&amp;quot; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&#39; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/ask_your_developer.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2021 by Jeff Lawson&lt;/p&gt;
-&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_ask_your_dev.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;ask-your-developer&#34;&gt;&lt;strong&gt;Ask Your Developer&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In the digital age, businesses need to adapt quickly to remain competitive. &amp;quot;Ask Your Developer&amp;quot; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&#39; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/ask_your_developer.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2021 by Jeff Lawson&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/mindmap_ask_your_dev.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;part-i-why-developers-matter-more-than-ever&#34;&gt;&lt;strong&gt;Part I: Why Developers Matter More Than Ever&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;chapter-1-build-vs-die&#34;&gt;&lt;strong&gt;Chapter 1: Build vs. Die&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Lawson starts by explaining the necessity for companies to evolve into software-centric organizations to survive in the digital era. He shares insights from his experience at Amazon, highlighting how software became the backbone of the company&#39;s operations, leading to its tremendous success.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from The Manager&#39;s Path</title>
       <link>https://blog.vechiato.cc/post/book-the-managers-path/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-the-managers-path/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;the-managers-path&#34;&gt;&lt;strong&gt;The Manager&#39;s Path&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;The Manager&#39;s Path&lt;/em&gt; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/the_managers_path.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
-2017 by Camile Fournier&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/1491973897&#34;&gt;The Manager&#39;s Path: A Guide for Tech Leaders Navigating&lt;/a&gt;&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;the-managers-path&#34;&gt;&lt;strong&gt;The Manager&#39;s Path&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;The Manager&#39;s Path&lt;/em&gt; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/the_managers_path.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2017 by Camile Fournier&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/1491973897&#34;&gt;The Manager&#39;s Path: A Guide for Tech Leaders Navigating&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from Remote: Office not Required</title>
       <link>https://blog.vechiato.cc/post/book-remote/</link>
       <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-remote/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;remote-office-not-required&#34;&gt;&lt;strong&gt;Remote: Office Not Required&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;I remember the days when working from home was a rare privilege, reserved for special circumstances. Fast forward to today, remote work has become a norm, a necessity even, due to technological advancements and recent global events. This shift intrigued me, and it was a recommendation from my friend Eduardo that led me to &amp;quot;Remote: Office Not Required&amp;quot; by Jason Fried and David Heinemeier Hansson. This book explores the phenomenon of remote work, its challenges, and its unexpected benefits. Eduardo&#39;s recommendation was timely as I sought to understand how remote work could be effectively implemented and its impact on workplace culture and productivity.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;remote-office-not-required&#34;&gt;&lt;strong&gt;Remote: Office Not Required&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;I remember the days when working from home was a rare privilege, reserved for special circumstances. Fast forward to today, remote work has become a norm, a necessity even, due to technological advancements and recent global events. This shift intrigued me, and it was a recommendation from my friend Eduardo that led me to &amp;quot;Remote: Office Not Required&amp;quot; by Jason Fried and David Heinemeier Hansson. This book explores the phenomenon of remote work, its challenges, and its unexpected benefits. Eduardo&#39;s recommendation was timely as I sought to understand how remote work could be effectively implemented and its impact on workplace culture and productivity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from The Five Dysfunctions of a Team</title>
       <link>https://blog.vechiato.cc/post/book-the-five-dysfunctions-of-a-team/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-the-five-dysfunctions-of-a-team/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;the-five-dysfunctions-of-a-team&#34;&gt;&lt;strong&gt;The Five Dysfunctions of a Team&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;This book, presented as a leadership fable, delves into the core issues that impede teamwork and provides actionable insights to overcome these challenges. I chose this book to gain a deeper understanding of team dynamics and to find practical strategies to foster a more collaborative environment. You can expect to gain a comprehensive framework for identifying and addressing the common pitfalls that teams face, ultimately leading to improved performance and unity.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;the-five-dysfunctions-of-a-team&#34;&gt;&lt;strong&gt;The Five Dysfunctions of a Team&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;This book, presented as a leadership fable, delves into the core issues that impede teamwork and provides actionable insights to overcome these challenges. I chose this book to gain a deeper understanding of team dynamics and to find practical strategies to foster a more collaborative environment. You can expect to gain a comprehensive framework for identifying and addressing the common pitfalls that teams face, ultimately leading to improved performance and unity.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
