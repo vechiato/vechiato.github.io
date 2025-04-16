@@ -4,24 +4,568 @@
     <title>Hydroponics on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/hydroponics/</link>
     <description>Recent content in Hydroponics on Marcus Vechiato</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/hydroponics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/hydroponics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tower Sep-Nov2023</title>
       <link>https://blog.vechiato.cc/post/tower-sep2023/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/tower-sep2023/</guid>
-      <description>&lt;p&gt;Dive into my journey of experimenting with hydroponics! Over the past few months, I&#39;ve tracked the key metric: pH, PPM, and growth stages for cultivating lettuce. This post outlines my progress, adjustments, and outcomes, complete with a timeline of photos and data.&lt;/p&gt;&#xA;&lt;p&gt;Lettuce&#x9;ideal PH 5.5 – 6.5 PPM 560 – 840&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;PH&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;PPM&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;Photo&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;11/11/23&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;6.4&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;580&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/tower231111.jpg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;04/11/23&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;5.89&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;332-640&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/tower231104.jpg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;29/10/23&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;450&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/tower231029.jpeg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;22/10/23&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;6.04&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;640&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/tower231022.jpg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;14/10/23&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;6.05&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;650&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/tower231014.jpg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;07/10/23&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;5.81&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;680&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/tower231007.jpeg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;30/09/23&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;5.95&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;770&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/tower230930.jpg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;22/09/23&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;770&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/tower230922.jpg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;17/09/23&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/tower230917.png&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10/09/23&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/tower230923.png&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Dive into my journey of experimenting with hydroponics! Over the past few months, I&#39;ve tracked the key metric: pH, PPM, and growth stages for cultivating lettuce. This post outlines my progress, adjustments, and outcomes, complete with a timeline of photos and data.&lt;/p&gt;
+&lt;p&gt;Lettuce	ideal PH 5.5 – 6.5 PPM 560 – 840&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;PH&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;PPM&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Photo&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;11/11/23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;580&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/tower231111.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;04/11/23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.89&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;332-640&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/tower231104.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;29/10/23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;450&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/tower231029.jpeg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;22/10/23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.04&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;640&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/tower231022.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14/10/23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.05&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;650&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/tower231014.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;07/10/23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.81&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;680&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/tower231007.jpeg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;30/09/23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.95&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;770&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/tower230930.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;22/09/23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;770&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/tower230922.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17/09/23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/tower230917.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/09/23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;n/a&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/tower230923.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Seedling Aug-Sep23</title>
       <link>https://blog.vechiato.cc/post/seedling-aug23/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/seedling-aug23/</guid>
-      <description>&lt;p&gt;Join me as I explore the initial stages of my hydroponics journey! This post captures the progress of lettuce and rocket seedlings over several weeks, with updates on their growth, adjustments to the setup, and visual highlights.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date&lt;/th&gt;&#xA;          &lt;th&gt;what&lt;/th&gt;&#xA;          &lt;th&gt;Photo&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10/09/23&lt;/td&gt;&#xA;          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/seedling230910.png&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;05/09/23&lt;/td&gt;&#xA;          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/seedling230923.jpeg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;27/08/23&lt;/td&gt;&#xA;          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/seedling230827.png&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;25/08/23&lt;/td&gt;&#xA;          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/seedling230825.jpg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;20/08/23&lt;/td&gt;&#xA;          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/seedling230823.png&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;17/08/23&lt;/td&gt;&#xA;          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/seedling230817.jpg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;14/08/23&lt;/td&gt;&#xA;          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/seedling230814.jpeg&#34; alt=&#34;image&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;Join me as I explore the initial stages of my hydroponics journey! This post captures the progress of lettuce and rocket seedlings over several weeks, with updates on their growth, adjustments to the setup, and visual highlights.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Date&lt;/th&gt;
+          &lt;th&gt;what&lt;/th&gt;
+          &lt;th&gt;Photo&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;10/09/23&lt;/td&gt;
+          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/seedling230910.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;05/09/23&lt;/td&gt;
+          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/seedling230923.jpeg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;27/08/23&lt;/td&gt;
+          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/seedling230827.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;25/08/23&lt;/td&gt;
+          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/seedling230825.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;20/08/23&lt;/td&gt;
+          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/seedling230823.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;17/08/23&lt;/td&gt;
+          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/seedling230817.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;14/08/23&lt;/td&gt;
+          &lt;td&gt;Lettuce/Rocket&lt;/td&gt;
+          &lt;td&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/seedling230814.jpeg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>
