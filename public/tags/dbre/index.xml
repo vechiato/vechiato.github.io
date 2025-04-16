@@ -19,31 +19,7 @@
           
             &lt;h1 id=&#34;database-reliability-engineering-designing-and-operating-resilient-database-systems&#34;&gt;&lt;strong&gt;Database Reliability Engineering: Designing and Operating Resilient Database Systems&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Database Reliability Engineering&lt;/em&gt; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasises the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_database_reliability.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[book_database_reliability.jpg]]
 2017 by Laine Campbell &amp;amp; Charity Majors&lt;/p&gt;
           
           

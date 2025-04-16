@@ -98,58 +98,13 @@
           
             &lt;h1 id=&#34;learning-github-actions-automation-and-integration-of-cicd-with-github&#34;&gt;&lt;strong&gt;Learning GitHub Actions: Automation and Integration of CI/CD with GitHub&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/learning_github_actions.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[learning_github_actions.jpg]]
 2023 by Brent Laster&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_learning_github_actions.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;![[mindmap_learning_github_actions.png]]&lt;/p&gt;
+&lt;h3 id=&#34;part-i-foundations&#34;&gt;&lt;strong&gt;Part I: Foundations&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-the-basics&#34;&gt;&lt;strong&gt;Chapter 1: The Basics&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance. GitHub Actions provides a GitHub-centric end-to-end automation platform that integrates seamlessly with your existing GitHub repositories. The chapter discusses the core components of GitHub Actions, such as workflows, jobs, steps, and runners. One key point that stood out was the emphasis on how GitHub Actions allows for automations to be stored alongside the code, facilitating easier management and version control.&lt;/p&gt;
           
           
         
@@ -201,31 +156,7 @@
           
             &lt;h1 id=&#34;observability-engineering&#34;&gt;&lt;strong&gt;Observability Engineering&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/observability_engineering.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[observability_engineering.png]]
 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&lt;/p&gt;
           
           
@@ -244,31 +175,7 @@
           
             &lt;h1 id=&#34;accelerate-the-science-of-lean-software-and-devops&#34;&gt;&lt;strong&gt;Accelerate: The Science of Lean Software and DevOps&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_accelerate.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[book_accelerate.jpg]]
 2018 by Nicole Forsgren, Jez Humble and Gene Kim&lt;/p&gt;
           
           
@@ -287,58 +194,10 @@
           
             &lt;h1 id=&#34;devsecops&#34;&gt;&lt;strong&gt;DevSecOps&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_DevSecOps.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[book_DevSecOps.jpg]]
 2020 by Glenn Wilson&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_devsecops.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;![[mindmap_devsecops.png]]&lt;/p&gt;
 &lt;h3 id=&#34;part-i-foundations-of-devsecops&#34;&gt;&lt;strong&gt;Part I: Foundations of DevSecOps&lt;/strong&gt;&lt;/h3&gt;
 &lt;h4 id=&#34;chapter-1-devops-explained&#34;&gt;&lt;strong&gt;Chapter 1: DevOps Explained&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models. Key concepts include the three ways (left-to-right process flow, right-to-left feedback, and continuous improvement) and the five ideals (locality and simplicity, focus, flow and joy, improvement of daily work, psychological safety, and customer focus).&lt;/p&gt;
@@ -359,32 +218,10 @@
           
             &lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;&lt;strong&gt;Domain-Driven Design Distilled&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s &amp;quot;Domain-Driven Design Distilled&amp;quot; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/domain_drive_desing.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[domain_drive_desing.jpg]]
 2016 by Vaughn Vernon&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;![[mindmap_ddd.png]]&lt;/p&gt;
           
           
         
@@ -402,31 +239,7 @@
           
             &lt;h1 id=&#34;continuous-delivery&#34;&gt;&lt;strong&gt;Continuous Delivery&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;quot;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;quot; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively. This book is part of the Addison-Wesley Signature Series and offers detailed insights into achieving efficient, low-risk software deployments.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/continuous_delivery.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[continuous_delivery.jpg]]
 2010 by David Farley and Jez Humble&lt;/p&gt;
           
           

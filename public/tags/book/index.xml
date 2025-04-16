@@ -295,58 +295,10 @@
           
             &lt;h1 id=&#34;platform-engineering-on-kubernetes&#34;&gt;Platform Engineering on Kubernetes&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Platform Engineering on Kubernetes&amp;quot; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_platform_engineering_kubernetes.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[book_platform_engineering_kubernetes.jpg]]
 2022 by Mauricio Salatino&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_platform_engineering_k8s.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;![[mindmap_platform_engineering_k8s.png]]&lt;/p&gt;
 &lt;h3 id=&#34;chapter-1-the-rise-of-platforms-on-top-of-kubernetes&#34;&gt;Chapter 1: The Rise of Platforms on Top of Kubernetes&lt;/h3&gt;
 &lt;p&gt;This chapter introduces the concept of platforms and their significance. It explains why platforms are essential for organisations and discusses the advantages of building platforms on top of Kubernetes. The chapter also outlines the challenges associated with platform engineering and the need for a &amp;quot;walking skeleton&amp;quot; to demonstrate platform concepts.&lt;/p&gt;
           
@@ -451,58 +403,13 @@
           
             &lt;h1 id=&#34;learning-github-actions-automation-and-integration-of-cicd-with-github&#34;&gt;&lt;strong&gt;Learning GitHub Actions: Automation and Integration of CI/CD with GitHub&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/learning_github_actions.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[learning_github_actions.jpg]]
 2023 by Brent Laster&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_learning_github_actions.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;![[mindmap_learning_github_actions.png]]&lt;/p&gt;
+&lt;h3 id=&#34;part-i-foundations&#34;&gt;&lt;strong&gt;Part I: Foundations&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-the-basics&#34;&gt;&lt;strong&gt;Chapter 1: The Basics&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance. GitHub Actions provides a GitHub-centric end-to-end automation platform that integrates seamlessly with your existing GitHub repositories. The chapter discusses the core components of GitHub Actions, such as workflows, jobs, steps, and runners. One key point that stood out was the emphasis on how GitHub Actions allows for automations to be stored alongside the code, facilitating easier management and version control.&lt;/p&gt;
           
           
         
@@ -520,31 +427,7 @@
           
             &lt;h1 id=&#34;kubernetes-up-and-running&#34;&gt;&lt;strong&gt;Kubernetes: Up and Running&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Kubernetes: Up and Running&lt;/em&gt; by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It&#39;s an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/kubernetes_up_and_running.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[kubernetes_up_and_running.jpg]]
 2022 by Brendan Burns, Joe Beda, Kelsey Hightower &amp;amp; Lachlan Evenson&lt;/p&gt;
           
           
@@ -562,31 +445,7 @@
         
           
             &lt;p&gt;&amp;quot;Adopting InnerSource: Principles and Case Studies&amp;quot; by Danese Cooper and Klaas-Jan Stol explores how companies can leverage the principles of open-source software development within their own organisations. InnerSource adapts the collaborative, transparent, and community-driven practices of open-source to a corporate environment, fostering innovation and efficiency. This book presents various case studies from companies that have successfully adopted InnerSource, providing practical insights and lessons learned.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_adopting_innersource.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[book_adopting_innersource.jpg]]
 2018 by Danese Cooper &amp;amp; Klaas-Jan Stol&lt;/p&gt;
           
           
@@ -604,31 +463,7 @@
         
           
             &lt;p&gt;This book is an essential read for cloud architects, platform engineers, infrastructure operators, and Kubernetes enthusiasts. Arun Ramakani expertly navigates the intricate world of infrastructure automation, providing readers with a comprehensive understanding of Crossplane and its integration with Kubernetes.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/end2end_automation_k8s_crossplane.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[end2end_automation_k8s_crossplane.jpg]]
 2022 by Arun Ramakani&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B09ZJ1NZRB&#34;&gt;End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionising the way organisations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In &amp;quot;End-to-End Automation with Kubernetes and Crossplane,&amp;quot; Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.&lt;/p&gt;
@@ -700,31 +535,7 @@
           
             &lt;h1 id=&#34;the-staff-engineers-path&#34;&gt;&lt;strong&gt;The Staff Engineer&#39;s Path&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. &amp;quot;The Staff Engineer&#39;s Path: A Guide for Individual Contributors Navigating Growth and Change&amp;quot; by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management. This book is an essential guide for engineers looking to elevate their impact and influence within their organizations.
-&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/the_staff_enginners_path.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+![[the_staff_enginners_path.jpg]]
 2022 by Tanya Reilly&lt;/p&gt;
           
           
@@ -776,31 +587,7 @@
           
             &lt;h1 id=&#34;building-microservices-designing-fine-grained-systems&#34;&gt;&lt;strong&gt;Building Microservices: Designing Fine-Grained Systems&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Building Microservices&lt;/em&gt; by Sam Newman provides a structured, pragmatic exploration of the subject, with real-world examples and balanced perspectives. The book covers the nuances of adopting microservices, from foundational principles to advanced topics like observability, security, and organizational structure. For anyone navigating the complexities of microservices, this book is a definitive guide.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_building_microservices.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[book_building_microservices.jpg]]
 2021 by Sam Newman&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;part-i-foundation&#34;&gt;&lt;strong&gt;Part I: Foundation&lt;/strong&gt;&lt;/h3&gt;
@@ -840,33 +627,13 @@
           
             &lt;h1 id=&#34;the-innovators-dilemma&#34;&gt;&lt;strong&gt;The Innovators Dilemma&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;The Innovator&#39;s Dilemma&lt;/em&gt; by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/innovators_dilemma.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[innovators_dilemma.jpg]]
 2016 by Clayton M. Christensen
 &lt;a href=&#34;https://www.amazon.co.uk/dp/1633691780&#34;&gt;The Innovator&#39;s Dilemma: When New Technologies Cause Great Firms to Fail&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;part-one-why-great-companies-can-fail&#34;&gt;&lt;strong&gt;Part One: Why Great Companies Can Fail&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-how-can-great-firms-fail-insights-from-the-hard-disk-drive-industry&#34;&gt;&lt;strong&gt;Chapter 1: How Can Great Firms Fail? Insights from the Hard Disk Drive Industry&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Christensen begins by examining the hard disk drive industry, a field characterised by rapid technological changes. He introduces the concept of disruptive technologies—innovations that initially offer lower performance but eventually surpass existing technologies. Established firms often fail because they focus on sustaining technologies that improve existing products for their current customers.&lt;/p&gt;
           
           
         
@@ -901,58 +668,12 @@
           
             &lt;h1 id=&#34;establishing-sre-foundations&#34;&gt;&lt;strong&gt;Establishing SRE Foundations&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Establishing SRE Foundations: A Step-by-Step Guide&amp;quot; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/sre_foundations.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;![[sre_foundations.jpg]]&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/0137424604&#34;&gt;Establishing SRE Foundations: A Step-by-Step Guide to Introducing Site Reliability Engineering in Software Delivery Organizations&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_establishing_sre.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;![[mindmap_establishing_sre.png]]&lt;/p&gt;
+&lt;h3 id=&#34;chapter-1-introduction-to-sre&#34;&gt;&lt;strong&gt;Chapter 1: Introduction to SRE&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development. Ukis discusses the evolution of SRE, comparing it with other IT management frameworks such as ITIL, COBIT, and DevOps. The chapter sets the stage by explaining why SRE is crucial for aligning development and operations towards a common goal of reliability.&lt;/p&gt;
           
           
         
@@ -970,31 +691,7 @@
           
             &lt;h1 id=&#34;observability-engineering&#34;&gt;&lt;strong&gt;Observability Engineering&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/observability_engineering.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[observability_engineering.png]]
 2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&lt;/p&gt;
           
           
@@ -1048,31 +745,7 @@
           
             &lt;h1 id=&#34;team-topologies&#34;&gt;&lt;strong&gt;Team Topologies&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Team Topologies: Organising Business and Technology Teams for Fast Flow&amp;quot; by Matthew Skelton and Manuel Pais offers a novel approach to structuring technology teams to achieve high performance and rapid delivery. The authors present practical frameworks and insights to help organisations navigate the complexities of modern software development by optimising team interactions and responsibilities.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/team_topologies_book.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[team_topologies_book.jpg]]
 2019 by Matthew Skelton and Manuel Pais&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B07W1667D7&#34;&gt;Team Topologies: Organizing Business and Technology Teams for Fast&lt;/a&gt;&lt;/p&gt;
           
@@ -1092,32 +765,12 @@
           
             &lt;h1 id=&#34;working-backwards&#34;&gt;&lt;strong&gt;Working Backwards&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Working Backwards: Insights, Stories, and Secrets from Inside Amazon&amp;quot; by Colin Bryar and Bill Carr offers an insider’s perspective on the unique principles and processes that have driven Amazon&#39;s success. The authors, both former Amazon executives, provide a detailed account of how the company&#39;s culture and methodologies can be applied to achieve extraordinary results in any organisation.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/working_backwards.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[working_backwards.jpg]]
 2021 by Colin Bryar &amp;amp; Bill Carr&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;part-one-being-amazonian&#34;&gt;&lt;strong&gt;Part One: Being Amazonian&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-building-blocks-leadership-principles-and-mechanisms&#34;&gt;&lt;strong&gt;Chapter 1: Building Blocks: Leadership Principles and Mechanisms&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;This chapter introduces Amazon&#39;s 14 Leadership Principles, which are central to the company&#39;s culture and decision-making processes. The principles include Customer Obsession, Ownership, Invent and Simplify, and Bias for Action, among others. The authors explain how these principles are not just corporate slogans but are deeply embedded in every aspect of Amazon&#39;s operations.&lt;/p&gt;
           
           
         
@@ -1152,31 +805,7 @@
           
             &lt;h1 id=&#34;no-rules-rules&#34;&gt;&lt;strong&gt;No Rules Rules&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In &amp;quot;No Rules Rules: Netflix and the Culture of Reinvention,&amp;quot; Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/no_rules_rules.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[no_rules_rules.jpg]]
 2020 by Reed Hastings and Erin Meyer&lt;/p&gt;
           
           
@@ -1195,31 +824,7 @@
           
             &lt;h1 id=&#34;systems-performance&#34;&gt;&lt;strong&gt;Systems Performance&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Systems Performance: Enterprise and the Cloud&amp;quot; by Brendan Gregg is a comprehensive guide to understanding and improving the performance of computer systems. The book covers a wide range of topics, from the fundamentals of systems performance to advanced techniques for optimizing various system components. It provides practical methodologies and tools for performance analysis, making it an essential resource for system administrators, developers, and performance engineers.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/systems_performance.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[systems_performance.jpg]]
 2020 by Brendan Gregg&lt;/p&gt;
           
           
@@ -1238,31 +843,7 @@
           
             &lt;h1 id=&#34;accelerate-the-science-of-lean-software-and-devops&#34;&gt;&lt;strong&gt;Accelerate: The Science of Lean Software and DevOps&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_accelerate.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[book_accelerate.jpg]]
 2018 by Nicole Forsgren, Jez Humble and Gene Kim&lt;/p&gt;
           
           
@@ -1281,58 +862,13 @@
           
             &lt;h1 id=&#34;ask-your-developer&#34;&gt;&lt;strong&gt;Ask Your Developer&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the digital age, businesses need to adapt quickly to remain competitive. &amp;quot;Ask Your Developer&amp;quot; by Jeff Lawson, the CEO of Twilio, provides a roadmap for leveraging software developers&#39; expertise to drive innovation and success. Lawson emphasizes the importance of integrating developers into business decision-making processes and creating an environment that fosters creativity and experimentation.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/ask_your_developer.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[ask_your_developer.jpg]]
 2021 by Jeff Lawson&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_ask_your_dev.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;![[mindmap_ask_your_dev.png]]&lt;/p&gt;
+&lt;h3 id=&#34;part-i-why-developers-matter-more-than-ever&#34;&gt;&lt;strong&gt;Part I: Why Developers Matter More Than Ever&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-build-vs-die&#34;&gt;&lt;strong&gt;Chapter 1: Build vs. Die&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Lawson starts by explaining the necessity for companies to evolve into software-centric organizations to survive in the digital era. He shares insights from his experience at Amazon, highlighting how software became the backbone of the company&#39;s operations, leading to its tremendous success.&lt;/p&gt;
           
           
         
@@ -1350,58 +886,10 @@
           
             &lt;h1 id=&#34;devsecops&#34;&gt;&lt;strong&gt;DevSecOps&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_DevSecOps.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[book_DevSecOps.jpg]]
 2020 by Glenn Wilson&lt;/p&gt;
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_devsecops.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;![[mindmap_devsecops.png]]&lt;/p&gt;
 &lt;h3 id=&#34;part-i-foundations-of-devsecops&#34;&gt;&lt;strong&gt;Part I: Foundations of DevSecOps&lt;/strong&gt;&lt;/h3&gt;
 &lt;h4 id=&#34;chapter-1-devops-explained&#34;&gt;&lt;strong&gt;Chapter 1: DevOps Explained&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models. Key concepts include the three ways (left-to-right process flow, right-to-left feedback, and continuous improvement) and the five ideals (locality and simplicity, focus, flow and joy, improvement of daily work, psychological safety, and customer focus).&lt;/p&gt;
@@ -1422,31 +910,7 @@
           
             &lt;h1 id=&#34;database-reliability-engineering-designing-and-operating-resilient-database-systems&#34;&gt;&lt;strong&gt;Database Reliability Engineering: Designing and Operating Resilient Database Systems&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Database Reliability Engineering&lt;/em&gt; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasises the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/book_database_reliability.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[book_database_reliability.jpg]]
 2017 by Laine Campbell &amp;amp; Charity Majors&lt;/p&gt;
           
           
@@ -1482,31 +946,7 @@
           
             &lt;h1 id=&#34;the-managers-path&#34;&gt;&lt;strong&gt;The Manager&#39;s Path&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;The Manager&#39;s Path&lt;/em&gt; by Camille Fournier is a comprehensive guide for those pursuing a career in engineering management. Fournier, drawing from her experiences, provides a structured roadmap for transitioning from an engineer to a manager and beyond. This book is a valuable resource not only for new managers but also for seasoned leaders seeking to refine their skills.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/the_managers_path.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[the_managers_path.jpg]]
 2017 by Camile Fournier&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/1491973897&#34;&gt;The Manager&#39;s Path: A Guide for Tech Leaders Navigating&lt;/a&gt;&lt;/p&gt;
           
@@ -1543,32 +983,10 @@
           
             &lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;&lt;strong&gt;Domain-Driven Design Distilled&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s &amp;quot;Domain-Driven Design Distilled&amp;quot; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/domain_drive_desing.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[domain_drive_desing.jpg]]
 2016 by Vaughn Vernon&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;![[mindmap_ddd.png]]&lt;/p&gt;
           
           
         
@@ -1620,31 +1038,7 @@
           
             &lt;h1 id=&#34;continuous-delivery&#34;&gt;&lt;strong&gt;Continuous Delivery&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;quot;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;quot; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively. This book is part of the Addison-Wesley Signature Series and offers detailed insights into achieving efficient, low-risk software deployments.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/continuous_delivery.jpg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-
+&lt;p&gt;![[continuous_delivery.jpg]]
 2010 by David Farley and Jez Humble&lt;/p&gt;
           
           

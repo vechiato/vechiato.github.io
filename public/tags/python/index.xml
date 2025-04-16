@@ -55,31 +55,7 @@ In this blog post, I&#39;ll walk you through the motivation behind the project, 
 &lt;p&gt;Here&#39;s a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.&lt;/p&gt;
 &lt;h2 id=&#34;objective&#34;&gt;&lt;strong&gt;Objective:&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Create a Python-based LED game where players answer questions. Correct answers turn on a green LED, while wrong answers flash a red LED multiple times.&lt;/p&gt;
-&lt;h2 id=&#34;image&#34;&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/code_club_thumb.jpeg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/h2&gt;
+&lt;h2 id=&#34;code_club_thumbjpeg&#34;&gt;![[code_club_thumb.jpeg]]&lt;/h2&gt;
 &lt;h2 id=&#34;requirements&#34;&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;hardware&#34;&gt;&lt;strong&gt;Hardware:&lt;/strong&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -117,31 +93,7 @@ The game ends with a score summary.&lt;/li&gt;
 &lt;li&gt;Use resistors to protect the LEDs.&lt;/li&gt;
 &lt;li&gt;Connect the cathode (short leg) of each LED to the ground (negative -).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/ledquiz_boardbred.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;![[ledquiz_boardbred.png]]&lt;/p&gt;
           
           
         
