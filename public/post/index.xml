@@ -494,9 +494,9 @@
     </item>
     <item>
       <title>Search and identify bad sectors on a storage device using badblocks</title>
-      <link>https://blog.vechiato.cc/post/badblocks/</link>
+      <link>https://blog.vechiato.cc/post/bad-blocks/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/post/badblocks/</guid>
+      <guid>https://blog.vechiato.cc/post/bad-blocks/</guid>
       <description>&lt;h1 id=&#34;badblocks&#34;&gt;&lt;code&gt;Badblocks&lt;/code&gt;&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;code&gt;badblocks&lt;/code&gt; command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can help detect damaged or faulty sectors that may affect the reliability of the disk and the data stored on it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-it-works&#34;&gt;How it works:&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;code&gt;badblocks&lt;/code&gt; command scans a disk for bad sectors by writing test patterns (usually zeros or ones) to the disk and then reading them back. If the data cannot be read correctly after being written, the sector is considered &amp;quot;bad.&amp;quot; The command then reports the location of these bad sectors.&lt;/p&gt;</description>
     </item>
     <item>
