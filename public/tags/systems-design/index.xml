@@ -4,49 +4,24 @@
     <title>Systems Design on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/systems-design/</link>
     <description>Recent content in Systems Design on Marcus Vechiato</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/systems-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.vechiato.cc/tags/systems-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Building Microservices by Sam Newman</title>
       <link>https://blog.vechiato.cc/post/book-building-microservices/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-building-microservices/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;building-microservices-designing-fine-grained-systems&#34;&gt;&lt;strong&gt;Building Microservices: Designing Fine-Grained Systems&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Building Microservices&lt;/em&gt; by Sam Newman provides a structured, pragmatic exploration of the subject, with real-world examples and balanced perspectives. The book covers the nuances of adopting microservices, from foundational principles to advanced topics like observability, security, and organizational structure. For anyone navigating the complexities of microservices, this book is a definitive guide.&lt;/p&gt;
-&lt;p&gt;![[book_building_microservices.jpg]]
-2021 by Sam Newman&lt;/p&gt;
-&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;part-i-foundation&#34;&gt;&lt;strong&gt;Part I: Foundation&lt;/strong&gt;&lt;/h3&gt;
-&lt;h4 id=&#34;chapter-1-what-are-microservices&#34;&gt;&lt;strong&gt;Chapter 1: What Are Microservices?&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;Microservices are independently deployable services modeled around business domains. They prioritise flexibility, technology agnosticism, and clear service boundaries while avoiding shared databases. Newman underscores the importance of independent deployability, arguing that it is the most critical characteristic of microservices.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;building-microservices-designing-fine-grained-systems&#34;&gt;&lt;strong&gt;Building Microservices: Designing Fine-Grained Systems&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Building Microservices&lt;/em&gt; by Sam Newman provides a structured, pragmatic exploration of the subject, with real-world examples and balanced perspectives. The book covers the nuances of adopting microservices, from foundational principles to advanced topics like observability, security, and organizational structure. For anyone navigating the complexities of microservices, this book is a definitive guide.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/book_building_microservices.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2021 by Sam Newman&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;part-i-foundation&#34;&gt;&lt;strong&gt;Part I: Foundation&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;chapter-1-what-are-microservices&#34;&gt;&lt;strong&gt;Chapter 1: What Are Microservices?&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Microservices are independently deployable services modeled around business domains. They prioritise flexibility, technology agnosticism, and clear service boundaries while avoiding shared databases. Newman underscores the importance of independent deployability, arguing that it is the most critical characteristic of microservices.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from Designing Data-Intensive Applications</title>
       <link>https://blog.vechiato.cc/post/book-designing-data-intensive-applications/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-designing-data-intensive-applications/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems&#34;&gt;&lt;strong&gt;Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable and Maintainable Systems&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Designing Data-Intensive Applications&lt;/em&gt; by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;h1 id=&#34;designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems&#34;&gt;&lt;strong&gt;Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable and Maintainable Systems&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Designing Data-Intensive Applications&lt;/em&gt; by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

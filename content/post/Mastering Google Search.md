@@ -41,6 +41,7 @@ The internet is like a giant library, and Google Search is the tool that helps y
 
 	- Use a minus sign `-` to exclude specific words. For example:
         - `"Python tutorials -Django"` will exclude results related to Django.
+        - `"car paint -green -red"` will display image results related to car paint, excluding those in green or red.
 
 3. **Search for File Types**:
 
