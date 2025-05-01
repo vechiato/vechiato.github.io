@@ -9,7 +9,7 @@
   
   >
   <head>
-<title>About Hugo | Marcus Vechiato</title>
+<title>Search and identify bad sectors on a storage device using badblocks | Marcus Vechiato</title>
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -26,25 +26,55 @@
   
 <meta property="og:locale" content="en" />
 
-<meta property="og:locale:alternate" content="pt" />
-
 <meta property="og:type" content="article">
-<meta name="description" content="Hugo, the world&#39;s fastest framework for building websites" />
+<meta name="description" content="Badblocks
+The badblocks command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can …" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@vechiato">
-<meta name="twitter:title" content="About Hugo" />
-<meta name="twitter:image" content="https://blog.vechiato.cc/images/thumbnail.png"/>
-<meta property="og:url" content="https://blog.vechiato.cc/about-hugo/" />
-<meta property="og:title" content="About Hugo" />
-<meta property="og:description" content="Hugo, the world&#39;s fastest framework for building websites" />
-<meta property="og:image" content="https://blog.vechiato.cc/images/thumbnail.png" />
-  <meta name="keywords" content="blog,technology" />
+<meta name="twitter:title" content="Search and identify bad sectors on a storage device using badblocks" />
+<meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/linux_thumb.jpeg"/>
+<meta property="og:url" content="https://blog.vechiato.cc/post/bad-blocks/" />
+<meta property="og:title" content="Search and identify bad sectors on a storage device using badblocks" />
+<meta property="og:description" content="Badblocks
+The badblocks command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can …" />
+<meta property="og:image" content="https://blog.vechiato.cc/obsidian/linux_thumb.jpeg" />
+  <meta name="keywords" content="blog,technology,linux" />
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "mainEntityOfPage":"https:\/\/blog.vechiato.cc\/post\/bad-blocks\/",
+      "name": "Marcus Vechiato",
+      "headline": "Search and identify bad sectors on a storage device using badblocks",
+      "description": "\u003ch1 id=\"badblocks\"\u003e\u003ccode\u003eBadblocks\u003c/code\u003e\u003c/h1\u003e\n\u003cp\u003eThe \u003ccode\u003ebadblocks\u003c/code\u003e command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can …\u003c/p\u003e",
+      "url": "https:\/\/blog.vechiato.cc\/post\/bad-blocks\/",
+      "datePublished": "2015-11-03T00:00:00Z",
+      "dateModified": "2015-11-03T00:00:00Z",
+      "keywords": ["blog","technology","linux"],
+      "author": {
+        "@type": "Person",
+        "name": "map[name:Marcus Vechiato]"
+      },
+      "image":{
+        "@type":"ImageObject",
+        "url": "https:\/\/blog.vechiato.cc\/obsidian\/linux_thumb.jpeg"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "logo": {
+          "@type":"ImageObject",
+          "url": "https:\/\/blog.vechiato.cc\/"
+        },
+        "name": "Marcus Vechiato"
+      }
+    }
+  </script>
 
 <link rel="apple-touch-icon" sizes="180x180" href="https://blog.vechiato.cc/icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://blog.vechiato.cc/icons/favicon-32x32.png">
 <link rel="manifest" href="https://blog.vechiato.cc/icons/site.webmanifest">
 
-<link rel="canonical" href="https://blog.vechiato.cc/about-hugo/">
+<link rel="canonical" href="https://blog.vechiato.cc/post/bad-blocks/">
 
 
 
@@ -149,7 +179,7 @@
   
 <div class="grid-inverse wrap content">
   <article class="post_content">
-    <h1 class="post_title">About Hugo</h1>
+    <h1 class="post_title">Search and identify bad sectors on a storage device using badblocks</h1>
   <div class="post_meta">
     <span><svg class="icon">
   <title>calendar</title>
@@ -157,19 +187,21 @@
 </svg>
 </span>
     <span class="post_date">
-      Feb 28, 2019</span>
-    <span class="post_time"> · 1 min read</span>
+      Nov 3, 2015</span>
+    <span class="post_time"> · 3 min read</span><span>&nbsp;· <a href='https://blog.vechiato.cc/tags/linux/' title="linux" class="post_tag button button_translucent">linux
+        </a>
+    </span>
     <span class="page_only">&nbsp;·
   <div class="post_share">
     Share on:
-    <a href="https://twitter.com/intent/tweet?text=About%20Hugo&url=https%3a%2f%2fblog.vechiato.cc%2fabout-hugo%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+    <a href="https://twitter.com/intent/tweet?text=Search%20and%20identify%20bad%20sectors%20on%20a%20storage%20device%20using%20badblocks&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbad-blocks%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>twitter</title>
   <use xlink:href="#twitter"></use>
 </svg>
 
     </a>
-    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fabout-hugo%2f&t=About%20Hugo" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fbad-blocks%2f&t=Search%20and%20identify%20bad%20sectors%20on%20a%20storage%20device%20using%20badblocks" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>facebook</title>
   <use xlink:href="#facebook"></use>
@@ -183,7 +215,7 @@
 </svg>
 
     </a>
-    <a href="https://blog.vechiato.cc/about-hugo/" title="Copy Link" class="link link_yank">
+    <a href="https://blog.vechiato.cc/post/bad-blocks/" title="Copy Link" class="link link_yank">
       <svg class="icon">
   <title>copy</title>
   <use xlink:href="#copy"></use>
@@ -194,19 +226,48 @@
   </span>
   </div>
 
-    <div class="post_body"><p>Written in Go, Hugo is an open source static site generator available under the <a href="https://github.com/gohugoio/hugo/blob/master/LICENSE">Apache Licence 2.0.</a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</p>
-<p>Hugo makes use of a variety of open source projects including:</p>
+    <div class="post_body"><h1 id="badblocks"><code>Badblocks</code></h1>
+<p>The <code>badblocks</code> command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can help detect damaged or faulty sectors that may affect the reliability of the disk and the data stored on it.</p>
+<h2 id="how-it-works">How it works:</h2>
+<p>The <code>badblocks</code> command scans a disk for bad sectors by writing test patterns (usually zeros or ones) to the disk and then reading them back. If the data cannot be read correctly after being written, the sector is considered &quot;bad.&quot; The command then reports the location of these bad sectors.</p>
+<h2 id="syntax">Syntax:</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">badblocks <span class="o">[</span>options<span class="o">]</span> &lt;device&gt;
+</span></span></code></pre></div><p>Where <code>&lt;device&gt;</code> is the path to the disk, e.g., <code>/dev/sdb</code>.</p>
+<h2 id="common-options">Common Options:</h2>
 <ul>
-<li><a href="https://github.com/yuin/goldmark">https://github.com/yuin/goldmark</a></li>
-<li><a href="https://github.com/alecthomas/chroma">https://github.com/alecthomas/chroma</a></li>
-<li><a href="https://github.com/muesli/smartcrop">https://github.com/muesli/smartcrop</a></li>
-<li><a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra</a></li>
-<li><a href="https://github.com/spf13/viper">https://github.com/spf13/viper</a></li>
+<li><strong><code>-v</code></strong>: Verbose mode; provides more detailed output.</li>
+<li><strong><code>-n</code></strong>: Non-destructive read-write test. This option writes test patterns to the disk but does not overwrite your data.</li>
+<li><strong><code>-s</code></strong>: Shows the progress of the test.</li>
+<li><strong><code>-w</code></strong>: Performs a destructive write-test, which writes to every block on the disk to check for errors. This will overwrite any data on the disk.</li>
+<li><strong><code>-l &lt;file&gt;</code></strong>: Outputs a list of bad blocks to the specified file.</li>
+<li><strong><code>-b &lt;block_size&gt;</code></strong>: Specifies the block size (in bytes) to use during testing.</li>
+<li><strong><code>-p &lt;passes&gt;</code></strong>: Specifies the number of passes to make during testing.</li>
+<li><strong><code>-f</code></strong>: Forces badblock detection even if the disk is already in use (dangerous in some cases).</li>
 </ul>
-<p>Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</p>
-<p>Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</p>
-<p>Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.</p>
-<p>Learn more and contribute on <a href="https://github.com/gohugoio">GitHub</a>.</p>
+<h2 id="example-usage">Example Usage:</h2>
+<ol>
+<li><strong>Check for bad blocks (non-destructive)</strong>:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">badblocks -n -v /dev/sdb
+</span></span></code></pre></div><ol start="2">
+<li><strong>Destructive write test</strong>:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl">badblocks -w -v /dev/sdb
+</span></span></code></pre></div><p>This command will write test patterns to the entire disk and check for bad sectors, but it will overwrite all data on the disk.</p>
+<h2 id="important-notes">Important Notes:</h2>
+<ul>
+<li><strong>Destructive Testing</strong>: The <code>-w</code> option overwrites all data on the disk, so it is recommended to back up any important data before using this option.</li>
+<li><strong>Time-Consuming</strong>: Running <code>badblocks</code> can take a long time, especially on large disks, because it reads and writes to every block of the device.</li>
+<li><strong>Not Always Accurate</strong>: While <code>badblocks</code> is a useful tool, it doesn't always catch all possible hardware failures, and it may not detect all types of issues, such as wear on an SSD.</li>
+<li><strong>SMART Monitoring</strong>: For more advanced disk health monitoring, it's also a good idea to use tools like <code>smartctl</code> (part of the <code>smartmontools</code> package) to check the SMART status of the drive.</li>
+</ul>
+<h2 id="use-cases">Use Cases:</h2>
+<ul>
+<li><strong>Preventive Maintenance</strong>: Running <code>badblocks</code> periodically can help detect failing drives early, potentially avoiding data loss.</li>
+<li><strong>After Data Recovery</strong>: If you've recovered data from a damaged disk, running <code>badblocks</code> can help identify additional issues before using the disk again.</li>
+<li><strong>Drive Health Assessment</strong>: For drives showing signs of failure (slow performance, errors), <code>badblocks</code> can help pinpoint the extent of damage.</li>
+</ul>
+<p>In summary, <code>badblocks</code> is a helpful tool for identifying bad sectors and assessing the health of a storage device, but care must be taken when using it, especially with destructive options.</p>
 
     </div>
 <div class="post_comments">
@@ -237,16 +298,6 @@
   
 </div>
 
-
-<div class="post_i18n">
-  <h3 class="mb-0">Translations:</h3>
-  <nav class="tags_nav">
-    
-      <a href="https://blog.vechiato.cc/pt/about-hugo/" class="post_tag button button_translucent"></a> 
-      
-    
-    </nav>
-</div>
 
 
 

@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Docker on Marcus Vechiato</title>
-    <link>https://blog.vechiato.cc/tags/docker/</link>
-    <description>Recent content in Docker on Marcus Vechiato</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/docker/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver</title>
-      <link>https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/</link>
-      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/</guid>
-      <description>&lt;h2 id=&#34;-why-monitor-ads-b-data&#34;&gt;✈️ Why Monitor ADS-B Data?&lt;/h2&gt;&#xA;&lt;p&gt;Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, and other flight data in real time. Enthusiasts and aviation hobbyists around the world use software-defined radios (SDRs) to receive these signals — and contribute data to platforms like &lt;strong&gt;&lt;a href=&#34;https://www.flightradar24.com/&#34;&gt;FlightRadar24&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The best part? If you share your ADS-B data with FlightRadar24, they’ll reward you with a &lt;strong&gt;free Business account subscription&lt;/strong&gt; (normally $499.99/year), which includes:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docker on Marcus Vechiato</title><link>https://blog.vechiato.cc/tags/docker/</link><description>Recent content in Docker on Marcus Vechiato</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/docker/index.xml" rel="self" type="application/rss+xml"/><item><title>How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver</title><link>https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/</link><pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/</guid><description>
+&lt;h2 id="-why-monitor-ads-b-data">✈️ Why Monitor ADS-B Data?&lt;/h2>
+&lt;p>Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, and other flight data in real time. Enthusiasts and aviation hobbyists around the world use software-defined radios (SDRs) to receive these signals — and contribute data to platforms like &lt;strong>&lt;a href="https://www.flightradar24.com/">FlightRadar24&lt;/a>&lt;/strong>.&lt;/p>
+&lt;p>The best part? If you share your ADS-B data with FlightRadar24, they’ll reward you with a &lt;strong>free Business account subscription&lt;/strong> (normally $499.99/year), which includes:&lt;/p></description></item></channel></rss>

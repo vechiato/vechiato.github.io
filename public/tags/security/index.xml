@@ -1,41 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Security on Marcus Vechiato</title>
-    <link>https://blog.vechiato.cc/tags/security/</link>
-    <description>Recent content in Security on Marcus Vechiato</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/security/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Seven Books on Managing Technical Debt</title>
-      <link>https://blog.vechiato.cc/post/7-books-managing-technical-debt/</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/post/7-books-managing-technical-debt/</guid>
-      <description>&lt;p&gt;Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It&#39;s important to recognise that technical debt encompasses not only software but also infrastructure, security, and organisational processes. Addressing technical debt holistically ensures that an organisation can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I&#39;ve compiled a list of  books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Insights from Learning eBPF</title>
-      <link>https://blog.vechiato.cc/post/book-learning-ebpf/</link>
-      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/post/book-learning-ebpf/</guid>
-      <description>&lt;h1 id=&#34;learning-ebpf-programmatically-extend-the-linux-kernel&#34;&gt;&lt;strong&gt;Learning eBPF: Programmatically Extend the Linux Kernel&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CNCF Falco Graduation - Another step in your Shift-Left Journey</title>
-      <link>https://blog.vechiato.cc/post/cncf-falco-graduation---another-step-in-your-shift-left-journey/</link>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/post/cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid>
-      <description>&lt;h1 id=&#34;falco-enhances-container-security-with-real-time-threat-detection&#34;&gt;Falco Enhances Container Security with Real-time Threat Detection&lt;/h1&gt;&#xA;&lt;p&gt;In today&#39;s digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Insights from DevSecOps</title>
-      <link>https://blog.vechiato.cc/post/book-devsecops/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/post/book-devsecops/</guid>
-      <description>&lt;h1 id=&#34;devsecops&#34;&gt;&lt;strong&gt;DevSecOps&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/book_DevSecOps.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2020 by Glenn Wilson&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/mindmap_devsecops.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;part-i-foundations-of-devsecops&#34;&gt;&lt;strong&gt;Part I: Foundations of DevSecOps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;chapter-1-devops-explained&#34;&gt;&lt;strong&gt;Chapter 1: DevOps Explained&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models. Key concepts include the three ways (left-to-right process flow, right-to-left feedback, and continuous improvement) and the five ideals (locality and simplicity, focus, flow and joy, improvement of daily work, psychological safety, and customer focus).&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on Marcus Vechiato</title><link>https://blog.vechiato.cc/tags/security/</link><description>Recent content in Security on Marcus Vechiato</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/security/index.xml" rel="self" type="application/rss+xml"/><item><title>Seven Books on Managing Technical Debt</title><link>https://blog.vechiato.cc/post/7-books-managing-technical-debt/</link><pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/7-books-managing-technical-debt/</guid><description>
+&lt;p>Managing technical debt is crucial for maintaining the efficiency, security, and scalability of IT systems. It's important to recognise that technical debt encompasses not only software but also infrastructure, security, and organisational processes. Addressing technical debt holistically ensures that an organisation can innovate effectively while maintaining robust and secure operations. To help you navigate the complexities of technical debt, I've compiled a list of books that offer valuable insights and practical strategies for managing technical debt across various aspects of IT, including infrastructure and security.&lt;/p></description></item><item><title>Insights from Learning eBPF</title><link>https://blog.vechiato.cc/post/book-learning-ebpf/</link><pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/book-learning-ebpf/</guid><description>
+&lt;h1 id="learning-ebpf-programmatically-extend-the-linux-kernel">&lt;strong>Learning eBPF: Programmatically Extend the Linux Kernel&lt;/strong>&lt;/h1>
+&lt;p>In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p></description></item><item><title>CNCF Falco Graduation - Another step in your Shift-Left Journey</title><link>https://blog.vechiato.cc/post/cncf-falco-graduation---another-step-in-your-shift-left-journey/</link><pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/cncf-falco-graduation---another-step-in-your-shift-left-journey/</guid><description>
+&lt;h1 id="falco-enhances-container-security-with-real-time-threat-detection">Falco Enhances Container Security with Real-time Threat Detection&lt;/h1>
+&lt;p>In today's digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.&lt;/p></description></item><item><title>Insights from DevSecOps</title><link>https://blog.vechiato.cc/post/book-devsecops/</link><pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/book-devsecops/</guid><description>
+&lt;h1 id="devsecops">&lt;strong>DevSecOps&lt;/strong>&lt;/h1>
+&lt;p>In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson's &lt;em>DevSecOps&lt;/em> offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p>
+&lt;p>![[book_DevSecOps.jpg]]
+2020 by Glenn Wilson&lt;/p>
+&lt;h2 id="summary">Summary&lt;/h2>
+&lt;p>![[mindmap_devsecops.png]]&lt;/p>
+&lt;h3 id="part-i-foundations-of-devsecops">&lt;strong>Part I: Foundations of DevSecOps&lt;/strong>&lt;/h3>
+&lt;h4 id="chapter-1-devops-explained">&lt;strong>Chapter 1: DevOps Explained&lt;/strong>&lt;/h4>
+&lt;p>Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models. Key concepts include the three ways (left-to-right process flow, right-to-left feedback, and continuous improvement) and the five ideals (locality and simplicity, focus, flow and joy, improvement of daily work, psychological safety, and customer focus).&lt;/p></description></item></channel></rss>

@@ -1,20 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Slo on Marcus Vechiato</title>
-    <link>https://blog.vechiato.cc/tags/slo/</link>
-    <description>Recent content in Slo on Marcus Vechiato</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/slo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?</title>
-      <link>https://blog.vechiato.cc/post/maintenance-windows/</link>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/post/maintenance-windows/</guid>
-      <description>&lt;h1 id=&#34;-do-slas-error-budgets-and-availability-metrics-include-maintenance-windows&#34;&gt;🔧 Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?&lt;/h1&gt;&#xA;&lt;p&gt;When it comes to service reliability, maintenance windows can be a gray area. Whether you&#39;re tracking uptime, setting SLOs, or managing customer expectations through SLAs, the question often comes up:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;“Should scheduled maintenance count against our SLA? What about our error budget or availability metrics?”&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations — and what best practices look like.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slo on Marcus Vechiato</title><link>https://blog.vechiato.cc/tags/slo/</link><description>Recent content in Slo on Marcus Vechiato</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/slo/index.xml" rel="self" type="application/rss+xml"/><item><title>Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?</title><link>https://blog.vechiato.cc/post/maintenance-windows/</link><pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/maintenance-windows/</guid><description>
+&lt;h1 id="-do-slas-error-budgets-and-availability-metrics-include-maintenance-windows">🔧 Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?&lt;/h1>
+&lt;p>When it comes to service reliability, maintenance windows can be a gray area. Whether you're tracking uptime, setting SLOs, or managing customer expectations through SLAs, the question often comes up:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>“Should scheduled maintenance count against our SLA? What about our error budget or availability metrics?”&lt;/em>&lt;/p>&lt;/blockquote>
+&lt;p>Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations — and what best practices look like.&lt;/p></description></item></channel></rss>

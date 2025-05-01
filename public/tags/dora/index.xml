@@ -1,20 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dora on Marcus Vechiato</title>
-    <link>https://blog.vechiato.cc/tags/dora/</link>
-    <description>Recent content in Dora on Marcus Vechiato</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/dora/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Insights from Accelerate</title>
-      <link>https://blog.vechiato.cc/post/book-accelerate/</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://blog.vechiato.cc/post/book-accelerate/</guid>
-      <description>&lt;h1 id=&#34;accelerate-the-science-of-lean-software-and-devops&#34;&gt;&lt;strong&gt;Accelerate: The Science of Lean Software and DevOps&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/book_accelerate.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2018 by Nicole Forsgren, Jez Humble and Gene Kim&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dora on Marcus Vechiato</title><link>https://blog.vechiato.cc/tags/dora/</link><description>Recent content in Dora on Marcus Vechiato</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/dora/index.xml" rel="self" type="application/rss+xml"/><item><title>Insights from Accelerate</title><link>https://blog.vechiato.cc/post/book-accelerate/</link><pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/book-accelerate/</guid><description>
+&lt;h1 id="accelerate-the-science-of-lean-software-and-devops">&lt;strong>Accelerate: The Science of Lean Software and DevOps&lt;/strong>&lt;/h1>
+&lt;p>&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p>
+&lt;p>![[book_accelerate.jpg]]
+2018 by Nicole Forsgren, Jez Humble and Gene Kim&lt;/p></description></item></channel></rss>
