@@ -1,14 +1,124 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Observability on Marcus Vechiato</title><link>https://blog.vechiato.cc/tags/observability/</link><description>Recent content in Observability on Marcus Vechiato</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/observability/index.xml" rel="self" type="application/rss+xml"/><item><title>Insights from Mastering OpenTelemetry and Observability</title><link>https://blog.vechiato.cc/post/book-mastering-opentelemetry-and-observability/</link><pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/book-mastering-opentelemetry-and-observability/</guid><description>
-&lt;h1 id="mastering-opentelemetry-and-observability">&lt;strong>Mastering OpenTelemetry and Observability&lt;/strong>&lt;/h1>
-&lt;p>In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore &lt;em>Mastering OpenTelemetry and Observability&lt;/em> by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.&lt;/p>
-&lt;p>Written by a key contributor to OpenTelemetry, this book offers both technical expertise and actionable strategies for leveraging observability to improve system performance and reduce outages. It’s a must-read for anyone looking to enhance their understanding of telemetry data and system diagnostics.&lt;/p></description></item><item><title>Insights from Learning eBPF</title><link>https://blog.vechiato.cc/post/book-learning-ebpf/</link><pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/book-learning-ebpf/</guid><description>
-&lt;h1 id="learning-ebpf-programmatically-extend-the-linux-kernel">&lt;strong>Learning eBPF: Programmatically Extend the Linux Kernel&lt;/strong>&lt;/h1>
-&lt;p>In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p></description></item><item><title>Insights from Learning Open Telemetry</title><link>https://blog.vechiato.cc/post/book-learning-open-telemetry/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/book-learning-open-telemetry/</guid><description>
-&lt;h1 id="learning-opentelemetry-setting-up-and-operating-a-modern-observability-system">&lt;strong>Learning OpenTelemetry: Setting Up and Operating a Modern Observability System&lt;/strong>&lt;/h1>
-&lt;p>As someone who has spent countless hours troubleshooting distributed systems, I understand the struggle of trying to untangle metrics, logs, and traces spread across multiple tools. That’s why &lt;em>Learning OpenTelemetry&lt;/em> by Austin Parker and Ted Young resonated with me. This book introduces OpenTelemetry, a game-changing framework for observability that unifies these disparate signals into a cohesive system. Whether you're new to observability or a seasoned developer looking to adopt modern practices, this book provides the tools and insights to make your systems more transparent and easier to debug.&lt;/p></description></item><item><title>Insights from Prometheus Up &amp; Running</title><link>https://blog.vechiato.cc/post/book-prometheus-up-and-running-2nd-ed/</link><pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/book-prometheus-up-and-running-2nd-ed/</guid><description>
-&lt;h1 id="prometheus-up--running-infrastructure-and-application-performance-monitoring-2nd-ed">&lt;strong>Prometheus Up &amp;amp; Running: Infrastructure and Application Performance Monitoring, 2nd Ed&lt;/strong>&lt;/h1>
-&lt;p>When managing modern systems, effective monitoring can make or break your application’s reliability and performance. My own journey with monitoring tools has been one of trial and error, searching for a solution that balances simplicity and power. That’s why I picked up &lt;em>Prometheus: Up &amp;amp; Running (Second Edition)&lt;/em> by Julien Pivotto and Brian Brazil. This book dives deep into Prometheus, an open-source, metrics-based monitoring system, which has become a cornerstone for DevOps teams worldwide. If you're curious about scaling your infrastructure monitoring or learning Prometheus from scratch, this book provides a comprehensive guide.&lt;/p></description></item><item><title>Insights from Observability Engineering: Achieving Production Excellence</title><link>https://blog.vechiato.cc/post/book-observability-engineering-2022/</link><pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/book-observability-engineering-2022/</guid><description>
-&lt;h1 id="observability-engineering">&lt;strong>Observability Engineering&lt;/strong>&lt;/h1>
-&lt;p>In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p>
-&lt;p>![[observability_engineering.png]]
-2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observability on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/observability/</link>
+    <description>Recent content in Observability on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/observability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Mastering OpenTelemetry and Observability</title>
+      <link>https://blog.vechiato.cc/post/book-mastering-opentelemetry-and-observability/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-mastering-opentelemetry-and-observability/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;mastering-opentelemetry-and-observability&#34;&gt;&lt;strong&gt;Mastering OpenTelemetry and Observability&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore &lt;em&gt;Mastering OpenTelemetry and Observability&lt;/em&gt; by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.&lt;/p&gt;
+&lt;p&gt;Written by a key contributor to OpenTelemetry, this book offers both technical expertise and actionable strategies for leveraging observability to improve system performance and reduce outages. It’s a must-read for anyone looking to enhance their understanding of telemetry data and system diagnostics.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Insights from Learning eBPF</title>
+      <link>https://blog.vechiato.cc/post/book-learning-ebpf/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-learning-ebpf/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;learning-ebpf-programmatically-extend-the-linux-kernel&#34;&gt;&lt;strong&gt;Learning eBPF: Programmatically Extend the Linux Kernel&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Insights from Learning Open Telemetry</title>
+      <link>https://blog.vechiato.cc/post/book-learning-open-telemetry/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-learning-open-telemetry/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;learning-opentelemetry-setting-up-and-operating-a-modern-observability-system&#34;&gt;&lt;strong&gt;Learning OpenTelemetry: Setting Up and Operating a Modern Observability System&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;As someone who has spent countless hours troubleshooting distributed systems, I understand the struggle of trying to untangle metrics, logs, and traces spread across multiple tools. That’s why &lt;em&gt;Learning OpenTelemetry&lt;/em&gt; by Austin Parker and Ted Young resonated with me. This book introduces OpenTelemetry, a game-changing framework for observability that unifies these disparate signals into a cohesive system. Whether you&#39;re new to observability or a seasoned developer looking to adopt modern practices, this book provides the tools and insights to make your systems more transparent and easier to debug.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Insights from Prometheus Up &amp; Running</title>
+      <link>https://blog.vechiato.cc/post/book-prometheus-up-and-running-2nd-ed/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-prometheus-up-and-running-2nd-ed/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;prometheus-up--running-infrastructure-and-application-performance-monitoring-2nd-ed&#34;&gt;&lt;strong&gt;Prometheus Up &amp;amp; Running: Infrastructure and Application Performance Monitoring, 2nd Ed&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;When managing modern systems, effective monitoring can make or break your application’s reliability and performance. My own journey with monitoring tools has been one of trial and error, searching for a solution that balances simplicity and power. That’s why I picked up &lt;em&gt;Prometheus: Up &amp;amp; Running (Second Edition)&lt;/em&gt; by Julien Pivotto and Brian Brazil. This book dives deep into Prometheus, an open-source, metrics-based monitoring system, which has become a cornerstone for DevOps teams worldwide. If you&#39;re curious about scaling your infrastructure monitoring or learning Prometheus from scratch, this book provides a comprehensive guide.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Insights from Observability Engineering: Achieving Production Excellence</title>
+      <link>https://blog.vechiato.cc/post/book-observability-engineering-2022/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-observability-engineering-2022/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;observability-engineering&#34;&gt;&lt;strong&gt;Observability Engineering&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/observability_engineering.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2022 by Charity Majors &amp;amp; Liz Fong-Jones &amp;amp; George Miranda&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

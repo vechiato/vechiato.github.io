@@ -1,9 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Microservices on Marcus Vechiato</title><link>https://blog.vechiato.cc/tags/microservices/</link><description>Recent content in Microservices on Marcus Vechiato</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/microservices/index.xml" rel="self" type="application/rss+xml"/><item><title>Insights from Building Microservices by Sam Newman</title><link>https://blog.vechiato.cc/post/book-building-microservices/</link><pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/book-building-microservices/</guid><description>
-&lt;h1 id="building-microservices-designing-fine-grained-systems">&lt;strong>Building Microservices: Designing Fine-Grained Systems&lt;/strong>&lt;/h1>
-&lt;p>&lt;em>Building Microservices&lt;/em> by Sam Newman provides a structured, pragmatic exploration of the subject, with real-world examples and balanced perspectives. The book covers the nuances of adopting microservices, from foundational principles to advanced topics like observability, security, and organizational structure. For anyone navigating the complexities of microservices, this book is a definitive guide.&lt;/p>
-&lt;p>![[book_building_microservices.jpg]]
-2021 by Sam Newman&lt;/p>
-&lt;h2 id="summary">&lt;strong>Summary&lt;/strong>&lt;/h2>
-&lt;h3 id="part-i-foundation">&lt;strong>Part I: Foundation&lt;/strong>&lt;/h3>
-&lt;h4 id="chapter-1-what-are-microservices">&lt;strong>Chapter 1: What Are Microservices?&lt;/strong>&lt;/h4>
-&lt;p>Microservices are independently deployable services modeled around business domains. They prioritise flexibility, technology agnosticism, and clear service boundaries while avoiding shared databases. Newman underscores the importance of independent deployability, arguing that it is the most critical characteristic of microservices.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microservices on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/microservices/</link>
+    <description>Recent content in Microservices on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from Building Microservices by Sam Newman</title>
+      <link>https://blog.vechiato.cc/post/book-building-microservices/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-building-microservices/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;building-microservices-designing-fine-grained-systems&#34;&gt;&lt;strong&gt;Building Microservices: Designing Fine-Grained Systems&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Building Microservices&lt;/em&gt; by Sam Newman provides a structured, pragmatic exploration of the subject, with real-world examples and balanced perspectives. The book covers the nuances of adopting microservices, from foundational principles to advanced topics like observability, security, and organizational structure. For anyone navigating the complexities of microservices, this book is a definitive guide.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/book_building_microservices.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2021 by Sam Newman&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;part-i-foundation&#34;&gt;&lt;strong&gt;Part I: Foundation&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-what-are-microservices&#34;&gt;&lt;strong&gt;Chapter 1: What Are Microservices?&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Microservices are independently deployable services modeled around business domains. They prioritise flexibility, technology agnosticism, and clear service boundaries while avoiding shared databases. Newman underscores the importance of independent deployability, arguing that it is the most critical characteristic of microservices.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,3 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Devrel on Marcus Vechiato</title><link>https://blog.vechiato.cc/tags/devrel/</link><description>Recent content in Devrel on Marcus Vechiato</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/devrel/index.xml" rel="self" type="application/rss+xml"/><item><title>Insights from The Developer Relations Playbook</title><link>https://blog.vechiato.cc/post/book-developer-relations-playbook/</link><pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate><guid>https://blog.vechiato.cc/post/book-developer-relations-playbook/</guid><description>
-&lt;h1 id="the-developer-relations-playbook">&lt;strong>The Developer Relations Playbook&lt;/strong>&lt;/h1>
-&lt;p>This book is a practical, insightful guide into the growing discipline of Developer Relations (DevRel), an intersection of marketing, engineering, community building, and empathy. I chose this book because the field of DevRel is no longer a niche. It’s becoming essential for tech companies building platforms, APIs, and tools. If you're in tech and work with developers in any capacity, this book will give you the frameworks, language, and confidence to build a world-class DevRel program.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devrel on Marcus Vechiato</title>
+    <link>https://blog.vechiato.cc/tags/devrel/</link>
+    <description>Recent content in Devrel on Marcus Vechiato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/devrel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from The Developer Relations Playbook</title>
+      <link>https://blog.vechiato.cc/post/book-developer-relations-playbook/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-developer-relations-playbook/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;the-developer-relations-playbook&#34;&gt;&lt;strong&gt;The Developer Relations Playbook&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;This book is a practical, insightful guide into the growing discipline of Developer Relations (DevRel), an intersection of marketing, engineering, community building, and empathy. I chose this book because the field of DevRel is no longer a niche. It’s becoming essential for tech companies building platforms, APIs, and tools. If you&#39;re in tech and work with developers in any capacity, this book will give you the frameworks, language, and confidence to build a world-class DevRel program.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
