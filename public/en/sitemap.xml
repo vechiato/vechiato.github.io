@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.vechiato.cc/</loc>
-    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,17 +17,42 @@
                 href="https://blog.vechiato.cc/"
                 />
   </url><url>
+    <loc>https://blog.vechiato.cc/tags/code-club/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/post/mobile-plan-challenge/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/post/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://blog.vechiato.cc/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.vechiato.cc/tags/"
+                />
+  </url><url>
     <loc>https://blog.vechiato.cc/post/maintenance-windows/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://blog.vechiato.cc/tags/error-budget/</loc>
-    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/post/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -46,21 +71,6 @@
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/</loc>
-    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://blog.vechiato.cc/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.vechiato.cc/tags/"
-                />
   </url><url>
     <loc>https://blog.vechiato.cc/tags/book/</loc>
     <lastmod>2025-04-13T00:00:00+00:00</lastmod>
@@ -159,11 +169,6 @@
   </url><url>
     <loc>https://blog.vechiato.cc/tags/otel/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://blog.vechiato.cc/tags/code-club/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
