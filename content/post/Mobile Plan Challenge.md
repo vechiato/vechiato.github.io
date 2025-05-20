@@ -66,10 +66,10 @@ Example: If you save us £29 a month, you could earn **up to £87 over 6 months!
 
 ## 🧑‍💻 Where to Look
 
-- Mobile company websites: *giffgaff, Smarty, Vodafone, EE, Three*
+- Mobile company websites: *giffgaff, Smarty, Vodafone, EE, Three and others*
 - Plan comparison sites: *Uswitch, MoneySuperMarket, Which?*
 - Make your presentation in Google Slides/Docs 
-- the website can be hosted using Cloudflare pages as used before - [link for instructions](https://blog.vechiato.cc/post/cloudflare-pages/)
+- The website can be hosted using Cloudflare pages as used before - [link for instructions](https://blog.vechiato.cc/post/cloudflare-pages/)
 
 ---
 
