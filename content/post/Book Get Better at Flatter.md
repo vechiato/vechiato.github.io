@@ -8,7 +8,7 @@ tags:
   - book
   - leadership
 --- 
-# **Insights from _Get Better at Flatter_ A guide to shaping and leading organizations with less hierarchy**
+# **Insights from Get Better at Flatter: A Guide to Shaping and Leading Organizations with Less Hierarchy**
 
 
 Years ago, I found myself in a team where decision-making felt chaotic. There were no managers, just “owners” of tasks and projects. It felt empowering until it didn’t. Deadlines slipped, no one seemed accountable, and team members quietly longed for someone to just decide. That experience made me curious: is flat really better?
