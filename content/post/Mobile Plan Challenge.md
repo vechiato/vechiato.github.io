@@ -8,7 +8,6 @@ tags:
   - code club
 ---
 
-
 # 💸 Code Club Mobile Plan Challenge: Can You Beat our Family's Phone Bill?
 
 Hey Code Club! Want to use your coding and research skills to help your family **save real money**? Here’s a fun challenge for you (and yes, you can earn a reward too)!
@@ -102,7 +101,6 @@ That means your reward would be:
 - **£87.00 over 6 months** (Level 4)
 
 Not bad for a bit of smart shopping!
-
 
 ---
 
