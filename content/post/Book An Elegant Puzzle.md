@@ -2,25 +2,28 @@
 author: "Marcus Vechiato"
 title: "Insights from An Elegant Puzzle"
 date: "2025-06-28"
-thumbnail: "/obsidian/book_ansible_for_devops.jpg"
+thumbnail: "/obsidian/book_an_elegant_puzzle.png"
 publish: true
 tags: 
   - book
   - leadership
 --- 
-# **Insights from _An Elegant Puzzle_ Systems of Engineering Management**
+# **Insights from An Elegant Puzzle: Systems of Engineering Management**
 
 ## **Overview**
 
-When I began managing engineers, I quickly realized that success wasn't just about solving technical problems—it was about designing systems, enabling people, and managing complexity at scale. But with every new challenge, I felt like I was piecing together a puzzle with missing corners.
+When I began managing engineers, I quickly realized that success wasn't just about solving technical problems it was about designing systems, enabling people, and managing complexity at scale. But with every new challenge, I felt like I was piecing together a puzzle with missing corners.
 
-Will Larson’s _An Elegant Puzzle: Systems of Engineering Management_ offers more than advice—it provides a systems-thinking approach to organizational design, career development, and technical leadership. It became my go-to manual not because it had all the answers, but because it gave me better questions. If you’re an engineering leader—or aspiring to be one—this book delivers deeply practical tools for tackling the human and structural challenges that come with scale.
+Will Larson’s _An Elegant Puzzle: Systems of Engineering Management_ offers more than advice it provides a systems-thinking approach to organizational design, career development, and technical leadership. It became my go-to manual not because it had all the answers, but because it gave me better questions. If you’re an engineering leader or aspiring to be one this book delivers deeply practical tools for tackling the human and structural challenges that come with scale.
+
+![image](/obsidian/book_an_elegant_puzzle.png)
+2019 by Will Larson
 
 ## **Summary**
 
 ### **Chapter 1: Introduction**
 
-Larson introduces his perspective—engineering management is a systems design discipline. He outlines the purpose of the book: not as a step-by-step guide, but as a set of frameworks that can be applied depending on context.
+Larson introduces his perspective engineering management is a systems design discipline. He outlines the purpose of the book: not as a step-by-step guide, but as a set of frameworks that can be applied depending on context.
 
 ### **Chapter 2: Sizing Teams**
 
@@ -40,11 +43,11 @@ Hypergrowth creates drag: onboarding slows velocity, hiring creates load, and sy
 
 ### **Chapter 6: Organizational Debt**
 
-Organizational debt is like technical debt—it quietly builds up and can eventually break things. Examples include unscalable processes, poorly defined roles, and compensation inconsistencies.
+Organizational debt is like technical debt it quietly builds up and can eventually break things. Examples include unscalable processes, poorly defined roles, and compensation inconsistencies.
 
 ### **Chapter 7: Succession Planning**
 
-A rare but powerful chapter that explains how to proactively prepare for transitions—by documenting responsibilities, distributing decision-making, and building leadership capacity early.
+A rare but powerful chapter that explains how to proactively prepare for transitions by documenting responsibilities, distributing decision-making, and building leadership capacity early.
 
 ### **Chapter 8: Designing Your Organization**
 
@@ -52,7 +55,7 @@ Here, Larson details strategies for planning org structures, including building 
 
 ### **Chapter 9: Career Ladders**
 
-This chapter argues for clear, fair, and actionable career ladders—not as bureaucracy, but as motivation and fairness tools. He also explores the difference between levels and scope.
+This chapter argues for clear, fair, and actionable career ladders not as bureaucracy, but as motivation and fairness tools. He also explores the difference between levels and scope.
 
 ### **Chapter 10: Performance Management**
 
@@ -68,11 +71,11 @@ Larson explains compensation as a system with leverage points: pay bands, benchm
 
 ### **Chapter 13: Measuring Teams**
 
-Metrics like velocity or code churn are limited. He instead encourages using metrics as signals—not absolute truth—and focusing on feedback loops to improve team health.
+Metrics like velocity or code churn are limited. He instead encourages using metrics as signals not absolute truth and focusing on feedback loops to improve team health.
 
 ### **Chapter 14: Technical Strategy**
 
-In this chapter, Larson shares how to guide architecture and tech direction as a leader—emphasizing documentation, review rituals, and strategy documents like RFCs or vision memos.
+In this chapter, Larson shares how to guide architecture and tech direction as a leader emphasizing documentation, review rituals, and strategy documents like RFCs or vision memos.
 
 ### **Chapter 15: Holding the Door**
 
@@ -82,11 +85,11 @@ The final chapter is deeply personal. It discusses mentorship, sponsorship, and 
 
 ### **Key Takeaway 1: Teams are Systems, Not Just People**
 
-- **Explanation:** High-functioning teams emerge from thoughtful design—right size, right scope, right rituals.
+- **Explanation:** High-functioning teams emerge from thoughtful design right size, right scope, right rituals.
     
 - **Personal Reflection:** This reframed my work from “managing people” to “designing systems that support people.”
     
-- **Quote:** “Small teams are not teams; they are collections of individuals.” – Will Larson
+- **Quote:** “Small teams are not teams; they are collections of individuals.”  Will Larson
     
 
 ### **Key Takeaway 2: Use Frameworks to Diagnose Team Health**
@@ -95,7 +98,7 @@ The final chapter is deeply personal. It discusses mentorship, sponsorship, and 
     
 - **Personal Reflection:** It gave me language to explain what I intuitively knew but couldn’t articulate.
     
-- **Quote:** “Every team state has a system-level intervention that enables forward motion.” – Will Larson
+- **Quote:** “Every team state has a system-level intervention that enables forward motion.”  Will Larson
     
 
 ### **Key Takeaway 3: Avoid Breaking What Works**
@@ -104,7 +107,7 @@ The final chapter is deeply personal. It discusses mentorship, sponsorship, and 
     
 - **Personal Reflection:** I’ve seen this mistake made under pressure Larson gives a thoughtful alternative.
     
-- **Quote:** “Optimizing scope, not people, is the more effective path.” Will Larson
+- **Quote:** “Optimizing scope, not people, is the more effective path.”  Will Larson
     
 
 ### **Key Takeaway 4: Growth Creates Friction**
@@ -113,7 +116,7 @@ The final chapter is deeply personal. It discusses mentorship, sponsorship, and 
     
 - **Personal Reflection:** This insight helped me slow down and invest in systems, not just headcount.
     
-- **Quote:** “Without a system to integrate new hires, growth reduces velocity.” Will Larson
+- **Quote:** “Without a system to integrate new hires, growth reduces velocity.”  Will Larson
     
 
 ### **Key Takeaway 5: Fairness is Designed**
