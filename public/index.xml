@@ -84,7 +84,7 @@
 &lt;p&gt;When it comes to service reliability, maintenance windows can be a gray area. Whether you&#39;re tracking uptime, setting SLOs, or managing customer expectations through SLAs, the question often comes up:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;“Should scheduled maintenance count against our SLA? What about our error budget or availability metrics?”&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations — and what best practices look like.&lt;/p&gt;
+&lt;p&gt;Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations   and what best practices look like.&lt;/p&gt;
           
           
         
@@ -118,7 +118,7 @@
         
           
             &lt;h2 id=&#34;-why-monitor-ads-b-data&#34;&gt;✈️ Why Monitor ADS-B Data?&lt;/h2&gt;
-&lt;p&gt;Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, and other flight data in real time. Enthusiasts and aviation hobbyists around the world use software-defined radios (SDRs) to receive these signals — and contribute data to platforms like &lt;strong&gt;&lt;a href=&#34;https://www.flightradar24.com/&#34;&gt;FlightRadar24&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, and other flight data in real time. Enthusiasts and aviation hobbyists around the world use software-defined radios (SDRs) to receive these signals   and contribute data to platforms like &lt;strong&gt;&lt;a href=&#34;https://www.flightradar24.com/&#34;&gt;FlightRadar24&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;The best part? If you share your ADS-B data with FlightRadar24, they’ll reward you with a &lt;strong&gt;free Business account subscription&lt;/strong&gt; (normally $499.99/year), which includes:&lt;/p&gt;
           
           
@@ -260,7 +260,7 @@ In this blog post, I&#39;ll walk you through the motivation behind the project, 
           
             &lt;h1 id=&#34;multi-cloud-mastery-architecting-secure-and-scalable-kubernetes-systems-and-infrastructures&#34;&gt;&lt;strong&gt;Multi-Cloud Mastery: Architecting Secure and Scalable Kubernetes Systems and Infrastructures&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;While managing my own projects that rely on Kubernetes clusters, I often encountered challenges involving scalability, security, and cost optimisation across various cloud providers. These obstacles made me curious about how industry experts approach multi-cloud Kubernetes environments. That’s when I stumbled upon &lt;em&gt;Multi-Cloud Mastery&lt;/em&gt; by Adam Robertson.&lt;/p&gt;
-&lt;p&gt;This book dives into the complexities of building and managing Kubernetes clusters across multiple cloud platforms. It offers practical advice for architects, platform engineers, and cloud enthusiasts seeking to harness the potential of multi-cloud strategies. I chose this book to gain deeper insights into a topic that lies at the heart of modern cloud computing—balancing resilience, performance, and cost in a multi-cloud Kubernetes environment.&lt;/p&gt;
+&lt;p&gt;This book dives into the complexities of building and managing Kubernetes clusters across multiple cloud platforms. It offers practical advice for architects, platform engineers, and cloud enthusiasts seeking to harness the potential of multi-cloud strategies. I chose this book to gain deeper insights into a topic that lies at the heart of modern cloud computing balancing resilience, performance, and cost in a multi-cloud Kubernetes environment.&lt;/p&gt;
           
           
         
@@ -419,7 +419,7 @@ The game ends with a score summary.&lt;/li&gt;
         
           
             &lt;h1 id=&#34;python-basics-a-practical-introduction-to-python-3&#34;&gt;&lt;strong&gt;Python Basics: A Practical introduction to Python 3&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;When my son expressed interest in coding, it reignited my passion for introducing Python to others. This book, &lt;em&gt;Python Basics: A Practical Introduction to Python 3&lt;/em&gt;, is now part of the &amp;quot;Code Club&amp;quot; learning list—a collection of resources aimed at helping children at the club (and my son) discover the joy of Python.&lt;/p&gt;
+&lt;p&gt;When my son expressed interest in coding, it reignited my passion for introducing Python to others. This book, &lt;em&gt;Python Basics: A Practical Introduction to Python 3&lt;/em&gt;, is now part of the &amp;quot;Code Club&amp;quot; learning list a collection of resources aimed at helping children at the club (and my son) discover the joy of Python.&lt;/p&gt;
 &lt;p&gt;Written by the Real Python team, this book serves as an excellent entry point for anyone new to programming. It breaks down Python’s fundamentals into digestible lessons, providing real-world examples and coding exercises. Whether you&#39;re a complete beginner or brushing up on basics, this book offers the tools to transform curiosity into skill. Readers can expect to learn the essentials of Python programming and gain confidence in solving practical problems.&lt;/p&gt;
           
           
@@ -1041,7 +1041,7 @@ The watermelon effect occurs when surface-level indicators show success while de
 
 2022 by Arun Ramakani&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B09ZJ1NZRB&#34;&gt;End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionising the way organisations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In &amp;quot;End-to-End Automation with Kubernetes and Crossplane,&amp;quot; Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.&lt;/p&gt;
+&lt;p&gt;In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionising the way organisations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In &amp;quot;End-to-End Automation with Kubernetes and Crossplane,&amp;quot; Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.&lt;/p&gt;
           
           
         
@@ -1727,7 +1727,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;p&gt;I remember vividly the chaos of my first leadership role in tech — a mix of excitement, confusion, and imposter syndrome. You want to prove yourself immediately, yet everything seems like a moving target. That’s why &lt;em&gt;The CTO Field Guide&lt;/em&gt; hit home in a powerful way. Written with raw honesty and practical wisdom, this guide is a must-read for anyone stepping into a tech leadership role — especially for the first time, or stepping into a new organization.&lt;/p&gt;
+            &lt;p&gt;I remember vividly the chaos of my first leadership role in tech   a mix of excitement, confusion, and imposter syndrome. You want to prove yourself immediately, yet everything seems like a moving target. That’s why &lt;em&gt;The CTO Field Guide&lt;/em&gt; hit home in a powerful way. Written with raw honesty and practical wisdom, this guide is a must-read for anyone stepping into a tech leadership role   especially for the first time, or stepping into a new organization.&lt;/p&gt;
           
           
         

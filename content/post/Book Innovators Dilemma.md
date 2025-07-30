@@ -23,7 +23,7 @@ _The Innovator's Dilemma_ by Clayton M. Christensen is a seminal work that explo
 
 #### **Chapter 1: How Can Great Firms Fail? Insights from the Hard Disk Drive Industry**
 
-Christensen begins by examining the hard disk drive industry, a field characterised by rapid technological changes. He introduces the concept of disruptive technologies—innovations that initially offer lower performance but eventually surpass existing technologies. Established firms often fail because they focus on sustaining technologies that improve existing products for their current customers.
+Christensen begins by examining the hard disk drive industry, a field characterised by rapid technological changes. He introduces the concept of disruptive technologies innovations that initially offer lower performance but eventually surpass existing technologies. Established firms often fail because they focus on sustaining technologies that improve existing products for their current customers.
 
 #### **Chapter 2: Value Networks and the Impetus to Innovate**
 Value networks define the context within which a firm identifies and responds to customers' needs, solves problems, procures input, reacts to competitors, and strives for profit. Companies operate within their existing value networks, which makes it challenging to adopt disruptive technologies that fall outside these networks.

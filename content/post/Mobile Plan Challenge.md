@@ -85,7 +85,7 @@ Example: If you save us £29 a month, you could earn **up to £87 over 6 months!
 - **How to use the internet to find deals**
 - **How to compare options and pick the best one**
 - **Presentation & maybe coding skills**
-- (Plus—you’ll get paid for being smart!)
+- (Plus you’ll get paid for being smart!)
 
 ---
 

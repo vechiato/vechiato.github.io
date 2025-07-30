@@ -19,7 +19,7 @@ This book is an essential read for cloud architects, platform engineers, infrast
 
 [End-to-End Automation with Kubernetes and Crossplane: Develop a control plane-based platform for unified infrastructure, services, and application automation](https://www.amazon.co.uk/dp/B09ZJ1NZRB)
 
-In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionising the way organisations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane—a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In "End-to-End Automation with Kubernetes and Crossplane," Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.
+In the ever-evolving landscape of cloud-native infrastructure, Kubernetes has emerged as a dominant force, revolutionising the way organisations deploy and manage applications. However, the complexity of infrastructure automation has often been a bottleneck. Enter Crossplane a powerful extension of Kubernetes designed to bring the same level of automation to infrastructure provisioning and management. In "End-to-End Automation with Kubernetes and Crossplane," Arun Ramakani guides us through building a control plane-based platform for unified infrastructure, services, and application automation.
 
 ---
 ## **Key Concepts**

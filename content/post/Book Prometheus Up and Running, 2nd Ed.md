@@ -95,7 +95,7 @@ Prometheus’ flexibility comes from its integrations with tools like Kubernetes
 ### **Key Takeaway 3: PromQL is Essential**
 
 - PromQL enables complex queries like calculating error rates or analyzing trends over time. Mastering PromQL is crucial to unlocking Prometheus' potential.
-- **Personal Reflection:** It’s like SQL for system metrics—a must-learn for DevOps engineers.
+- **Personal Reflection:** It’s like SQL for system metrics a must-learn for DevOps engineers.
 - **Quote:** “If you can graph it, you can alert on it.” – Page 36
 
 ### **Key Takeaway 4: Scalability Requires Strategy**

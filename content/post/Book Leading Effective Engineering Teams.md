@@ -15,7 +15,7 @@ tags:
 
  Years ago, when I found myself managing an engineering team for the first time. The transition from being an individual contributor to a leader was filled with challenges and uncertainties. I wished for a guide that could provide practical advice and real-world examples to navigate this new role effectively. "Leading Effective Engineering Teams" by Addy Osmani is one of the few guides covering this subject. Drawing from over a decade of experience at Google, Osmani uncovers the secrets to engineering effectiveness, efficiency, and team success. This book is a treasure trove of insights for anyone looking to lead a thriving engineering team.
 
-"In the end, don’t lose sight of what makes a good leader: they achieve organisational goals. But what makes a great leader? They do it in a way that inspires and motivates the team." — Gergely Orosz 
+"In the end, don’t lose sight of what makes a good leader: they achieve organisational goals. But what makes a great leader? They do it in a way that inspires and motivates the team."   Gergely Orosz 
 
 ![image](/obsidian/leading_effective_engineering.jpg)
 2024 by Addy Osmani

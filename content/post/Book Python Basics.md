@@ -13,7 +13,7 @@ tags:
 
 # **Python Basics: A Practical introduction to Python 3**
 
-When my son expressed interest in coding, it reignited my passion for introducing Python to others. This book, _Python Basics: A Practical Introduction to Python 3_, is now part of the "Code Club" learning list—a collection of resources aimed at helping children at the club (and my son) discover the joy of Python.
+When my son expressed interest in coding, it reignited my passion for introducing Python to others. This book, _Python Basics: A Practical Introduction to Python 3_, is now part of the "Code Club" learning list a collection of resources aimed at helping children at the club (and my son) discover the joy of Python.
 
 Written by the Real Python team, this book serves as an excellent entry point for anyone new to programming. It breaks down Python’s fundamentals into digestible lessons, providing real-world examples and coding exercises. Whether you're a complete beginner or brushing up on basics, this book offers the tools to transform curiosity into skill. Readers can expect to learn the essentials of Python programming and gain confidence in solving practical problems.
 

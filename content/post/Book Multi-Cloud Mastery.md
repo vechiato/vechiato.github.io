@@ -14,7 +14,7 @@ tags:
 
 While managing my own projects that rely on Kubernetes clusters, I often encountered challenges involving scalability, security, and cost optimisation across various cloud providers. These obstacles made me curious about how industry experts approach multi-cloud Kubernetes environments. That’s when I stumbled upon _Multi-Cloud Mastery_ by Adam Robertson.
 
-This book dives into the complexities of building and managing Kubernetes clusters across multiple cloud platforms. It offers practical advice for architects, platform engineers, and cloud enthusiasts seeking to harness the potential of multi-cloud strategies. I chose this book to gain deeper insights into a topic that lies at the heart of modern cloud computing—balancing resilience, performance, and cost in a multi-cloud Kubernetes environment.
+This book dives into the complexities of building and managing Kubernetes clusters across multiple cloud platforms. It offers practical advice for architects, platform engineers, and cloud enthusiasts seeking to harness the potential of multi-cloud strategies. I chose this book to gain deeper insights into a topic that lies at the heart of modern cloud computing balancing resilience, performance, and cost in a multi-cloud Kubernetes environment.
 
 ![image](/obsidian/book_multicloud_mastery.jpg)
 2024 by Adam Robertson
@@ -103,7 +103,7 @@ The book concludes with a real-world case study, showcasing the deployment of hi
 
 - Meticulous planning is emphasised as crucial for successful multi-cloud Kubernetes implementations. This includes defining objectives, selecting tools, and assessing infrastructure.
 - Planning upfront prevents scope creep and ensures alignment with broader goals.
-- **Quote:** “A multi-cloud strategy is not just about avoiding vendor lock-in—it’s about leveraging the best tools from multiple providers to maximize your organization’s agility and resilience.” – Adam Robertson, p. 17
+- **Quote:** “A multi-cloud strategy is not just about avoiding vendor lock-in it’s about leveraging the best tools from multiple providers to maximize your organization’s agility and resilience.” – Adam Robertson, p. 17
 
 ### **Key Takeaway 2: Service Mesh as a Backbone**
 

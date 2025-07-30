@@ -18,7 +18,7 @@ When it comes to service reliability, maintenance windows can be a gray area. Wh
 
 > _“Should scheduled maintenance count against our SLA? What about our error budget or availability metrics?”_
 
-Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations — and what best practices look like.
+Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations   and what best practices look like.
 
 ![image](/obsidian/effective-sre-scope.png)
 
@@ -62,11 +62,11 @@ However, if:
 
 #### 🚫 **Planned Maintenance Usually Doesn’t Burn Budget**
 
-If maintenance is pre-approved and doesn't disrupt users, it’s typically excluded from the error budget — especially in SRE frameworks that prioritize **user-perceived reliability**.
+If maintenance is pre-approved and doesn't disrupt users, it’s typically excluded from the error budget   especially in SRE frameworks that prioritize **user-perceived reliability**.
 
 #### ✅ **User-Impacting Events Do Burn Budget**
 
-If users are affected — even during scheduled maintenance — some orgs choose to count it against the error budget. The key question is:
+If users are affected   even during scheduled maintenance   some orgs choose to count it against the error budget. The key question is:
 
 > _“Would a user notice or be blocked?”_
 
@@ -76,7 +76,7 @@ If yes, it probably burns error budget. If no, it likely doesn't.
 
 ### 📈 Availability: Does Maintenance Affect It?
 
-**Availability** is the actual **measured uptime** of your service over a specific period — typically expressed as a percentage like 99.95%.
+**Availability** is the actual **measured uptime** of your service over a specific period   typically expressed as a percentage like 99.95%.
 
 Whether maintenance counts against it depends on **how you define availability** in your metrics.
 
@@ -86,7 +86,7 @@ If your availability metric reflects **user impact**, planned maintenance that�
 
 #### 🔹 **System-Level (Strict) Availability**
 
-If you're measuring raw service uptime (e.g., pings, monitoring checks), all downtime — including planned maintenance — **might be included**.
+If you're measuring raw service uptime (e.g., pings, monitoring checks), all downtime   including planned maintenance   **might be included**.
 
 ---
 

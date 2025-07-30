@@ -33,7 +33,7 @@ This chapter sets the stage by discussing the challenges of monitoring distribut
 
 #### **Chapter 2: Why Use OpenTelemetry?**
 
-The authors delve into the "why" of OpenTelemetry. By standardising telemetry data and providing both "hard" and "soft" context, OpenTelemetry enables developers to correlate signals across systems efficiently. The discussion of limitations in traditional telemetry and OpenTelemetry’s advantages—especially for dynamic environments like Kubernetes—stood out.
+The authors delve into the "why" of OpenTelemetry. By standardising telemetry data and providing both "hard" and "soft" context, OpenTelemetry enables developers to correlate signals across systems efficiently. The discussion of limitations in traditional telemetry and OpenTelemetry’s advantages especially for dynamic environments like Kubernetes stood out.
 
 ---
 
@@ -41,7 +41,7 @@ The authors delve into the "why" of OpenTelemetry. By standardising telemetry da
 
 #### **Chapter 3: OpenTelemetry Overview**
 
-This chapter introduces OpenTelemetry’s core components, including its ability to emit traces, metrics, and logs, and the protocols for collecting and transmitting telemetry data. The authors emphasize how OpenTelemetry integrates seamlessly with cloud-native ecosystems. I found the explanation of "semantic telemetry" particularly insightful—it’s a game-changer for unifying data analysis across systems.
+This chapter introduces OpenTelemetry’s core components, including its ability to emit traces, metrics, and logs, and the protocols for collecting and transmitting telemetry data. The authors emphasize how OpenTelemetry integrates seamlessly with cloud-native ecosystems. I found the explanation of "semantic telemetry" particularly insightful it’s a game-changer for unifying data analysis across systems.
 
 #### **Chapter 4: Hands-On with the OpenTelemetry Demo**
 
@@ -65,7 +65,7 @@ OpenTelemetry’s Collector is at the center of this chapter, which explores bui
 
 #### **Chapter 9: Deploying OpenTelemetry Across an Organization**
 
-Rolling out OpenTelemetry isn’t just a technical challenge—it’s also an organizational one. This chapter provides strategies for successful adoption, including ways to align cross-team efforts and avoid common pitfalls during implementation.
+Rolling out OpenTelemetry isn’t just a technical challenge it’s also an organizational one. This chapter provides strategies for successful adoption, including ways to align cross-team efforts and avoid common pitfalls during implementation.
 
 ---
 

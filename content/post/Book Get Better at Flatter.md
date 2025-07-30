@@ -49,7 +49,7 @@ Many assume employees naturally step up when managers leave. Reitzig dismantles 
 
 ### **Part III: Designing the Right Structure**
 
-#### **Chapter 5: Structure Isn’t Everything—but It’s Not Nothing**
+#### **Chapter 5: Structure Isn’t Everything but It’s Not Nothing**
 
 This chapter argues that while culture matters, structure strongly influences behavior. Reitzig critiques the “culture-only” approach to org design and provides a balanced view: structure sets boundaries, culture drives behaviors within them.
 

@@ -39,7 +39,7 @@ This chapter delves into the relationship between caloric intake and longevity. 
 #### **Chapter 6: The Crisis of Abundance: Can Our Ancient Genes Cope with Our Modern Diet?**
 Attia discusses the mismatch between our ancient genetic makeup and modern dietary habits. He explores how the abundance of food in contemporary society has led to various health issues, and offers insights into how we can adapt our eating patterns to align better with our biology.
 
-#### **Chapter 7: The Ticker: Confronting—and Preventing—Heart Disease, the Deadliest Killer on the Planet**
+#### **Chapter 7: The Ticker: Confronting and Preventing Heart Disease, the Deadliest Killer on the Planet**
 This chapter focuses on heart disease, the leading cause of death globally. Attia examines the risk factors and preventive measures for heart disease, emphasizing the importance of early detection and lifestyle modifications to mitigate risks.
 
 #### **Chapter 8: The Runaway Cell: New Ways to Address the Killer That Is Cancer**

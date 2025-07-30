@@ -41,7 +41,7 @@ The Working Backwards process starts with the desired customer experience and th
 
 #### **Chapter 6: Metrics: Manage Your Inputs, Not Your Outputs**
 
-Amazon focuses on managing input metrics—actions and behaviours that drive desired outcomes—rather than output metrics. This approach allows the company to proactively manage its performance and adapt quickly.
+Amazon focuses on managing input metrics actions and behaviours that drive desired outcomes rather than output metrics. This approach allows the company to proactively manage its performance and adapt quickly.
 
 ### **Part Two: The Invention Machine at Work**
 

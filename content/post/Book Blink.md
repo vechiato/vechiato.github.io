@@ -39,7 +39,7 @@ This chapter highlights how experienced professionals, like military commander P
 
 ### **Part III: The Limits of Snap Judgments**
 
-#### **Chapter 5: Kenna’s Dilemma: The Right—and Wrong—Way to Ask People What They Want**
+#### **Chapter 5: Kenna’s Dilemma: The Right and Wrong Way to Ask People What They Want**
 
 Gladwell discusses how traditional market research failed musician Kenna, whose unique style did not fit into conventional categories. This chapter underscores the limitations of snap judgments in understanding complex preferences.
 

@@ -23,7 +23,7 @@ A few years ago, I found myself overwhelmed by the sheer volume of information I
 ### **Part One: The Foundation**
 
 #### **Chapter 1: Where It All Started**
-Tiago Forte begins by sharing his personal journey, detailing how a persistent health issue led him to develop a system for managing information. Unable to find relief from his condition, Forte began meticulously documenting his symptoms and treatments. This process of capturing and organizing information not only helped him manage his health but also sparked the idea of a "Second Brain"—a reliable, external system for storing and processing information. This concept underscores the importance of offloading mental tasks to free up cognitive resources for more creative and strategic thinking.
+Tiago Forte begins by sharing his personal journey, detailing how a persistent health issue led him to develop a system for managing information. Unable to find relief from his condition, Forte began meticulously documenting his symptoms and treatments. This process of capturing and organizing information not only helped him manage his health but also sparked the idea of a "Second Brain" a reliable, external system for storing and processing information. This concept underscores the importance of offloading mental tasks to free up cognitive resources for more creative and strategic thinking.
 
 #### **Chapter 2: What Is a Second Brain?**
 Forte explains the concept of the Second Brain, a digital repository for thoughts, ideas, and knowledge. He emphasizes that our brains are not designed to remember every detail of our lives and that by outsourcing this task to a digital system, we can enhance our mental clarity and creativity.
@@ -33,16 +33,16 @@ This chapter outlines the mechanics of a Second Brain, highlighting its capabili
 
 ### **Part Two: The Method**
 
-#### **Chapter 4: Capture—Keep What Resonates**
+#### **Chapter 4: Capture Keep What Resonates**
 The first step in the CODE method is capturing information that resonates with you. This includes notes, ideas, quotes, and other content that you find valuable. By doing this, you ensure that no important piece of information is lost.
 
-#### **Chapter 5: Organize—Save for Actionability**
+#### **Chapter 5: Organize Save for Actionability**
 Once captured, information needs to be organised in a way that makes it easily retrievable and actionable. This involves categorizing notes by projects, themes, or goals.
 
-#### **Chapter 6: Distill—Find the Essence**
+#### **Chapter 6: Distill Find the Essence**
 The distillation process involves summarizing and condensing your notes to their essence. This makes the information more digestible and easier to apply when needed.
 
-#### **Chapter 7: Express—Show Your Work**
+#### **Chapter 7: Express Show Your Work**
 The final step is to express and share your ideas. This can be through writing, presentations, or any other medium that allows you to communicate your insights and knowledge to others.
 
 ### Part Three: The Shift

@@ -26,17 +26,17 @@ That’s why _The Developer Relations Playbook_ by Caroline Lewko and James Part
 
 #### **Chapter 1: Overview of the Four Pillars**
 
-The authors introduce the foundational framework of DevRel through four interconnected pillars: **Developer Marketing, Developer Enablement, Developer Experience, and Developer Community**. These aren’t isolated functions—they overlap and influence each other. For any DevRel program to be successful, it needs to balance efforts across all four. This idea sets the tone for the entire book.
+The authors introduce the foundational framework of DevRel through four interconnected pillars: **Developer Marketing, Developer Enablement, Developer Experience, and Developer Community**. These aren’t isolated functions they overlap and influence each other. For any DevRel program to be successful, it needs to balance efforts across all four. This idea sets the tone for the entire book.
 
 > “The Four Pillars Framework creates the foundation for building, managing, and scaling a successful Developer Program.” (p. 17)
 
 #### **Chapter 2: Developer Marketing**
 
-This chapter challenges the traditional marketing mindset. Developers dislike being marketed to in conventional ways. Instead, DevRel practitioners must build trust, provide value, and meet developers where they are—whether through authentic content, developer evangelism, or hands-on code examples.
+This chapter challenges the traditional marketing mindset. Developers dislike being marketed to in conventional ways. Instead, DevRel practitioners must build trust, provide value, and meet developers where they are whether through authentic content, developer evangelism, or hands-on code examples.
 
 #### **Chapter 3: Developer Enablement**
 
-Documentation, SDKs, APIs, tutorials—this is where Developer Enablement lives. It’s about reducing friction and helping developers quickly reach success. The authors stress that enablement is not just support; it’s empowerment. One standout tip: treat documentation as a product, not an afterthought.
+Documentation, SDKs, APIs, tutorials this is where Developer Enablement lives. It’s about reducing friction and helping developers quickly reach success. The authors stress that enablement is not just support; it’s empowerment. One standout tip: treat documentation as a product, not an afterthought.
 
 #### **Chapter 4: Developer Experience**
 
@@ -64,7 +64,7 @@ One size does _not_ fit all. DevRel starts with understanding your audience: who
 
 #### **Chapter 9: Internal Alignment**
 
-Internal buy-in is key. Product, support, sales, and execs all need to understand DevRel’s value—and be part of it.
+Internal buy-in is key. Product, support, sales, and execs all need to understand DevRel’s value and be part of it.
 
 ---
 
@@ -72,7 +72,7 @@ Internal buy-in is key. Product, support, sales, and execs all need to understan
 
 #### **Chapter 10: Metrics and ROI**
 
-You can’t manage what you don’t measure. This chapter defines metrics that matter—usage, engagement, satisfaction—and how to link them to business impact.
+You can’t manage what you don’t measure. This chapter defines metrics that matter usage, engagement, satisfaction and how to link them to business impact.
 
 #### **Chapter 11: Org Structure and Team Design**
 
@@ -80,7 +80,7 @@ How do you structure a DevRel team? Centralized? Embedded? Hybrid? This chapter 
 
 #### **Chapter 12: Budgeting and Resourcing**
 
-Time, money, and people—DevRel needs all three. Learn how to build a budget, argue for resources, and avoid getting stuck in “free labor” mode.
+Time, money, and people DevRel needs all three. Learn how to build a budget, argue for resources, and avoid getting stuck in “free labor” mode.
 
 #### **Chapter 13: Tools and Infrastructure**
 
@@ -96,7 +96,7 @@ Before they build, they have to know you exist. This chapter discusses content, 
 
 #### **Chapter 15: Interest**
 
-Curiosity isn’t commitment. This chapter is about giving developers a reason to take the next step—engaging docs, demos, and clear value props.
+Curiosity isn’t commitment. This chapter is about giving developers a reason to take the next step engaging docs, demos, and clear value props.
 
 #### **Chapter 16: Evaluation**
 
@@ -108,7 +108,7 @@ Now they’re in. This chapter shares how to deepen engagement, turn usage into 
 
 #### **Chapter 18: Growth**
 
-From solo devs to teams and integrations—this chapter shows how to grow adoption and expand reach.
+From solo devs to teams and integrations this chapter shows how to grow adoption and expand reach.
 
 #### **Chapter 19: Advocacy**
 
@@ -120,7 +120,7 @@ Happy developers become champions. Learn how to support, reward, and spotlight y
 
 #### **Chapter 20: Common Challenges**
 
-Burnout, internal politics, scaling pains—this chapter is refreshingly honest about what can go wrong.
+Burnout, internal politics, scaling pains this chapter is refreshingly honest about what can go wrong.
 
 #### **Chapter 21: Managing Up**
 
@@ -132,7 +132,7 @@ DevRel and Marketing need each other. Here’s how to collaborate without losing
 
 #### **Chapter 23: Working with Product**
 
-Product teams are DevRel’s best partners—and worst blockers. This chapter explains how to influence roadmap and share user insights.
+Product teams are DevRel’s best partners and worst blockers. This chapter explains how to influence roadmap and share user insights.
 
 #### **Chapter 24: Working with Support**
 
@@ -144,7 +144,7 @@ DevRel can’t succeed without Engineering. Here’s how to align, share code, a
 
 #### **Chapter 26: Working with Sales**
 
-Sales can seem like DevRel’s opposite—but they share a goal: value. This chapter offers ways to partner without being salesy.
+Sales can seem like DevRel’s opposite but they share a goal: value. This chapter offers ways to partner without being salesy.
 
 #### **Chapter 27: Developer Events**
 
@@ -152,7 +152,7 @@ Events are high-touch, high-cost, high-impact. From meetups to hackathons to con
 
 #### **Chapter 28: Building a DevRel Culture**
 
-Culture is everything. This chapter covers trust, openness, and sustainability—and why swag isn’t a substitute for values.
+Culture is everything. This chapter covers trust, openness, and sustainability and why swag isn’t a substitute for values.
 
 #### **Chapter 29: The Future of DevRel**
 
@@ -186,7 +186,7 @@ The final chapter looks ahead. DevRel is growing, evolving, becoming more data-d
     
 - **Reflection:** I started tracking metrics like time-to-first-success and saw engagement skyrocket.
     
-- Quote: “Measure what matters—and make sure others understand what you’re measuring.”
+- Quote: “Measure what matters and make sure others understand what you’re measuring.”
     
 
 ---

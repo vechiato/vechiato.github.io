@@ -14,7 +14,7 @@ tags:
 
 ## ✈️ Why Monitor ADS-B Data?
 
-Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, and other flight data in real time. Enthusiasts and aviation hobbyists around the world use software-defined radios (SDRs) to receive these signals — and contribute data to platforms like **[FlightRadar24](https://www.flightradar24.com/)**.
+Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, and other flight data in real time. Enthusiasts and aviation hobbyists around the world use software-defined radios (SDRs) to receive these signals   and contribute data to platforms like **[FlightRadar24](https://www.flightradar24.com/)**.
 
 The best part? If you share your ADS-B data with FlightRadar24, they’ll reward you with a **free Business account subscription** (normally $499.99/year), which includes:
 
@@ -193,8 +193,8 @@ docker compose logs -f fr24feed
 
 ## 🔍 Web Interfaces
 
-- **readsb UI**: [http://localhost:8080](http://localhost:8080) — Live aircraft and signal data
-- **FR24 Feed Status**: [http://localhost:8754](http://localhost:8754) — Feed performance and stats
+- **readsb UI**: [http://localhost:8080](http://localhost:8080)   Live aircraft and signal data
+- **FR24 Feed Status**: [http://localhost:8754](http://localhost:8754)   Feed performance and stats
     
 
 ---

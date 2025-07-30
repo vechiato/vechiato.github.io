@@ -233,7 +233,7 @@ When it comes to service reliability, maintenance windows can be a gray area. �
 <p>When it comes to service reliability, maintenance windows can be a gray area. Whether you're tracking uptime, setting SLOs, or managing customer expectations through SLAs, the question often comes up:</p>
 <blockquote>
 <p><em>“Should scheduled maintenance count against our SLA? What about our error budget or availability metrics?”</em></p></blockquote>
-<p>Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations — and what best practices look like.</p>
+<p>Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations   and what best practices look like.</p>
 <p><figure>
   <picture>
 
@@ -294,20 +294,20 @@ When it comes to service reliability, maintenance windows can be a gray area. �
 <h3 id="-error-budgets-are-they-affected-by-maintenance">🎯 Error Budgets: Are They Affected by Maintenance?</h3>
 <p><strong>Error budgets</strong> represent the amount of failure or unreliability tolerated over a period, based on an <strong>SLO</strong> (Service Level Objective). If your SLO is 99.9% uptime per month, your error budget is about <strong>43.2 minutes</strong> of allowed downtime.</p>
 <h4 id="planned-maintenance-usually-doesnt-burn-budget">🚫 <strong>Planned Maintenance Usually Doesn’t Burn Budget</strong></h4>
-<p>If maintenance is pre-approved and doesn't disrupt users, it’s typically excluded from the error budget — especially in SRE frameworks that prioritize <strong>user-perceived reliability</strong>.</p>
+<p>If maintenance is pre-approved and doesn't disrupt users, it’s typically excluded from the error budget   especially in SRE frameworks that prioritize <strong>user-perceived reliability</strong>.</p>
 <h4 id="user-impacting-events-do-burn-budget">✅ <strong>User-Impacting Events Do Burn Budget</strong></h4>
-<p>If users are affected — even during scheduled maintenance — some orgs choose to count it against the error budget. The key question is:</p>
+<p>If users are affected   even during scheduled maintenance   some orgs choose to count it against the error budget. The key question is:</p>
 <blockquote>
 <p><em>“Would a user notice or be blocked?”</em></p></blockquote>
 <p>If yes, it probably burns error budget. If no, it likely doesn't.</p>
 <hr>
 <h3 id="-availability-does-maintenance-affect-it">📈 Availability: Does Maintenance Affect It?</h3>
-<p><strong>Availability</strong> is the actual <strong>measured uptime</strong> of your service over a specific period — typically expressed as a percentage like 99.95%.</p>
+<p><strong>Availability</strong> is the actual <strong>measured uptime</strong> of your service over a specific period   typically expressed as a percentage like 99.95%.</p>
 <p>Whether maintenance counts against it depends on <strong>how you define availability</strong> in your metrics.</p>
 <h4 id="user-facing-availability">🔸 <strong>User-Facing Availability</strong></h4>
 <p>If your availability metric reflects <strong>user impact</strong>, planned maintenance that’s properly communicated is <strong>often excluded</strong>.</p>
 <h4 id="system-level-strict-availability">🔹 <strong>System-Level (Strict) Availability</strong></h4>
-<p>If you're measuring raw service uptime (e.g., pings, monitoring checks), all downtime — including planned maintenance — <strong>might be included</strong>.</p>
+<p>If you're measuring raw service uptime (e.g., pings, monitoring checks), all downtime   including planned maintenance   <strong>might be included</strong>.</p>
 <hr>
 <h3 id="-summary-table">📌 Summary Table</h3>
 <table>
