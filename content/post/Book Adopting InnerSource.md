@@ -24,7 +24,7 @@ The first chapter introduces InnerSource as a strategy that enables developers t
 
 ### **Chapter 2: The Apache Way and InnerSource**
 
-This chapter, contributed by Jim Jagielski, co-founder of the Apache Software Foundation, outlines the core principles of "The Apache Way" — meritocracy, transparency, and community. These principles have been pivotal in the success of open-source projects and serve as a foundation for InnerSource. By prioritising community health and transparent decision-making, organisations can foster a more inclusive and productive environment.
+This chapter, contributed by Jim Jagielski, co-founder of the Apache Software Foundation, outlines the core principles of "The Apache Way" meritocracy, transparency, and community. These principles have been pivotal in the success of open-source projects and serve as a foundation for InnerSource. By prioritising community health and transparent decision-making, organisations can foster a more inclusive and productive environment.
 
 ### **Chapter 3: From Corporate Open Source to InnerSource: A Serendipitous Journey at Bell Laboratories**
 

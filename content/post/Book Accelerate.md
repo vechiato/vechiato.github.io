@@ -35,7 +35,7 @@ The authors introduce four key metrics for measuring software delivery performan
 
 #### **Chapter 3: Measuring and Changing Culture**
 
-The importance of organisational culture is explored in this chapter. The authors adopt Ron Westrum's typology of organisational cultures—pathological, bureaucratic, and generative—to measure and understand the impact of culture on performance. They demonstrate that a generative culture with high cooperation and trust significantly enhances software delivery performance.
+The importance of organisational culture is explored in this chapter. The authors adopt Ron Westrum's typology of organisational cultures pathological, bureaucratic, and generative to measure and understand the impact of culture on performance. They demonstrate that a generative culture with high cooperation and trust significantly enhances software delivery performance.
 
 #### **Chapter 4: Technical Practices**
 
