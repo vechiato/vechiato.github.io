@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Plaftform Engineering"
+title: "Insights from Plaftform Engineering: A Guide for Technical, Product, and People Leaders"
 date: "2024-12-03"
 thumbnail: "/obsidian/book_platform_engineering.jpg"
 publish: true
@@ -8,8 +8,6 @@ tags:
   - book
   - platform engineering
 --- 
-
-# **Platform Engineering: A Guide for Technical, Product, and People Leaders**
 
 When I first came across the idea of platform engineering, I realised how critical it is for scaling organisations to manage shared infrastructure and tools effectively. Camille Fournier and Ian Nowland's _Platform Engineering_ goes beyond theory, offering actionable strategies for building cohesive, user-centric platforms.
 

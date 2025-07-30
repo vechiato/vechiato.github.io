@@ -10,8 +10,6 @@ tags:
   - k8s
 --- 
 
-# **Learning Helm: Managing Apps on Kubernetes**
-
 I remember the first time I dived into Kubernetes; it felt like stepping into a new world. There were so many moving parts, and I quickly realised the need for effective tools to manage it all. This is where "Learning Helm" by Matt Butcher, Matt Farina, and Josh Dolitsky comes in. The book serves as a comprehensive guide to using Helm, the package manager for Kubernetes. I chose helm because it promised to simplify the complexity of Kubernetes management, and it certainly delivered. Readers can expect to gain a solid understanding of Helm's capabilities, its architecture, and practical ways to manage Kubernetes applications efficiently. 
 
 ![image](/obsidian/learning_helm.jpg)

@@ -10,7 +10,6 @@ tags:
   - git
 --- 
 
-# **GitHub For Dummies, 2nd Ed**
 
 GitHub has always been a cornerstone of my tinkering projects, whether it’s managing configurations or collaborating on open-source initiatives. When my son asked about contributing to coding projects, I thought of this book: _GitHub For Dummies_ by Sarah Guthals. Its approachable style and step-by-step tutorials make it an excellent resource, especially for beginners navigating the complexities of version control and collaboration. For anyone curious about starting with GitHub or refining their workflows, this book promises clarity and practical advice.
 

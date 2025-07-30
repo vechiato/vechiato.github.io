@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Fluent Python, second edition"
+title: "Insights from Fluent Python: Clear, Concise, and Effective Programming, second edition"
 thumbnail: "/obsidian/fluent_python.jpg"
 date: "2022-11-01"
 publish: true
@@ -8,7 +8,6 @@ tags:
   - python
   - book
 --- 
-# **Fluent Python: Clear, Concise, and Effective Programming**
 
 Welcome to our deep dive into _Fluent Python_ by Luciano Ramalho. In this post, we'll explore key concepts and insights from the book that will help you master Python programming. Whether you're a beginner or an experienced developer, this book offers valuable lessons on writing idiomatic Python code.
 

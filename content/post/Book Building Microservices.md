@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Building Microservices by Sam Newman"
+title: "Insights from Building Microservices: Designing Fine-Grained Systems**"
 date: "2023-05-21"
 publish: true
 thumbnail: "/obsidian/book_building_microservices.jpg"
@@ -9,8 +9,6 @@ tags:
   - book
   - microservices
 --- 
-
-# **Building Microservices: Designing Fine-Grained Systems**
 
  _Building Microservices_ by Sam Newman provides a structured, pragmatic exploration of the subject, with real-world examples and balanced perspectives. The book covers the nuances of adopting microservices, from foundational principles to advanced topics like observability, security, and organizational structure. For anyone navigating the complexities of microservices, this book is a definitive guide.
 

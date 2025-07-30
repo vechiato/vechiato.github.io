@@ -13,8 +13,6 @@ tags:
   - platform engineering
 --- 
 
-# **Crossplane: The Cloud Native Control Plane**
-
 As a Platform Engineering enthusiast, I've always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up "Crossplane: The Cloud Native Control Plane" by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers. By abstracting away complexity and allowing for custom control planes, Crossplane stands out as a transformative tool for modern infrastructure management. I chose this book to deepen my understanding of how Crossplane can help create a seamless, scalable, and efficient cloud infrastructure tailored to specific organizational needs.
 
 ![image](/obsidian/book_crossplane.png)

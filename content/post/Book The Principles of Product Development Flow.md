@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from The Principles of Product Development Flow"
+title: "Insights from The Principles of Product Development Flow: Second Generation Lean Product Development"
 date: "2024-07-09"
 thumbnail: "/obsidian/product_development_flow.jpg"
 publish: true
@@ -9,8 +9,6 @@ tags:
   - product development
   - lean
 --- 
-
-# **The Principles of Product Development Flow: Second Generation Lean Product Development**
 
 In today's fast-paced and highly competitive market, understanding and optimizing product development processes is crucial. "The Principles of Product Development Flow" by Donald G. Reinertsen offers a comprehensive guide to mastering lean product development. This book provides actionable insights into managing queues, reducing batch sizes, and applying economic principles to enhance product development efficiency. This book is a game-changer for anyone involved in product development. It goes beyond high-level theory and delves into practical, real-life examples, providing a comprehensive approach to achieving efficient and effective product development processes. If you're looking to transform your product development practices, this book is a must-read.
 

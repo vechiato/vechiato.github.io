@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Learning eBPF"
+title: "Insights from Learning eBPF: Programmatically Extend the Linux Kernel"
 date: "2024-05-12"
 publish: true
 thumbnail: "/obsidian/book_learning_ebpf.jpg"
@@ -12,7 +12,6 @@ tags:
   - sre
 --- 
 
-# **Learning eBPF: Programmatically Extend the Linux Kernel**
 
 In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In "Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security," Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.
 

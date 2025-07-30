@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Learning GitHub Actions"
+title: "Insights from Learning GitHub Actions: Automation and Integration of CI/CD with GitHub"
 date: "2024-02-28"
 publish: true
 thumbnail: "/obsidian/learning_github_actions.jpg"
@@ -11,7 +11,6 @@ tags:
   - book
 --- 
 
-# **Learning GitHub Actions: Automation and Integration of CI/CD with GitHub**
 
 This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.
 

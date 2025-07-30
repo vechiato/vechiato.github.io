@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from An Elegant Puzzle"
+title: "Insights from An Elegant Puzzle: Systems of Engineering Management"
 date: "2025-06-28"
 thumbnail: "/obsidian/book_an_elegant_puzzle.png"
 publish: true
@@ -8,9 +8,6 @@ tags:
   - book
   - leadership
 --- 
-# **Insights from An Elegant Puzzle: Systems of Engineering Management**
-
-## **Overview**
 
 When I began managing engineers, I quickly realized that success wasn't just about solving technical problems it was about designing systems, enabling people, and managing complexity at scale. But with every new challenge, I felt like I was piecing together a puzzle with missing corners.
 

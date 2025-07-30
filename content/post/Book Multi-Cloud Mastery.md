@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Multi-Cloud Mastery"
+title: "Insights from Multi-Cloud Mastery: Architecting Secure and Scalable Kubernetes Systems and Infrastructures"
 date: "2024-12-13"
 thumbnail: "/obsidian/book_multicloud_mastery.jpg"
 publish: true
@@ -10,7 +10,6 @@ tags:
   - cloud
 --- 
 
-# **Multi-Cloud Mastery: Architecting Secure and Scalable Kubernetes Systems and Infrastructures**
 
 While managing my own projects that rely on Kubernetes clusters, I often encountered challenges involving scalability, security, and cost optimisation across various cloud providers. These obstacles made me curious about how industry experts approach multi-cloud Kubernetes environments. That’s when I stumbled upon _Multi-Cloud Mastery_ by Adam Robertson.
 

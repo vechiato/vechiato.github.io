@@ -11,7 +11,7 @@ tags:
   - sre
   - otel
 --- 
-# **Observability Engineering**
+
 
 In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. "Observability Engineering" by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).
 

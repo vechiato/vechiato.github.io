@@ -8,7 +8,6 @@ tags:
   - book
 --- 
 
-# **Economics for the Common Good**
 
 Reading "Economics for the Common Good" by Jean Tirole has been a transformative experience for me. As someone who is deeply interested in the intersection of economics and society, this book provided a comprehensive and nuanced exploration of how economic principles can be applied to achieve the common good. Tirole, a Nobel Prize-winning economist, delves into various economic theories and their implications for policy-making, societal well-being, and global challenges. I chose this book because of its relevance to contemporary economic issues and its potential to offer valuable insights into how economics can be harnessed for societal benefit.
 

@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from The Innovator's Dilemma"
+title: "Insights from The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail"
 date: "2023-02-11"
 publish: true
 thumbnail: "/obsidian/innovators_dilemma.jpg"
@@ -8,8 +8,6 @@ tags:
   - book
 --- 
 
-
-# **The Innovators Dilemma**
 
 _The Innovator's Dilemma_ by Clayton M. Christensen is a seminal work that explores why successful companies often fail when confronted with disruptive technological change. Christensen, through extensive research and real-world examples, provides a framework for understanding the principles of disruptive innovation and offers strategies for managing technological transitions.
 

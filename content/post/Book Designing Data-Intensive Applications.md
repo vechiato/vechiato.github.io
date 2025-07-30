@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Designing Data-Intensive Applications"
+title: "Insights from Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable and Maintainable Systems"
 date: "2019-11-18"
 thumbnail: "/obsidian/data_intensive_apps.jpg"
 publish: true
@@ -9,9 +9,6 @@ tags:
   - data
   - systems design
 --- 
-
-
-# **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable and Maintainable Systems**
 
 _Designing Data-Intensive Applications_ by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.
 

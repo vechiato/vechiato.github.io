@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Get Better at Flatter"
+title: "Insights from Get Better at Flatter: A Guide to Shaping and Leading Organizations with Less Hierarchy"
 date: "2025-07-29"
 thumbnail: "/obsidian/book_get_better_at_flatter.png"
 publish: true
@@ -8,8 +8,6 @@ tags:
   - book
   - leadership
 --- 
-# **Insights from Get Better at Flatter: A Guide to Shaping and Leading Organizations with Less Hierarchy**
-
 
 Years ago, I found myself in a team where decision-making felt chaotic. There were no managers, just “owners” of tasks and projects. It felt empowering until it didn’t. Deadlines slipped, no one seemed accountable, and team members quietly longed for someone to just decide. That experience made me curious: is flat really better?
 

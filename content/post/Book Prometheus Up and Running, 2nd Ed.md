@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Prometheus Up & Running"
+title: "Insights from Prometheus Up & Running: Infrastructure and Application Performance Monitoring, 2nd Ed"
 date: "2023-07-23"
 thumbnail: "/obsidian/book_prometheus_up_and_running.jpg"
 publish: true
@@ -9,7 +9,6 @@ tags:
   - observability
 --- 
 
-# **Prometheus Up & Running: Infrastructure and Application Performance Monitoring, 2nd Ed**
 
 When managing modern systems, effective monitoring can make or break your application’s reliability and performance. My own journey with monitoring tools has been one of trial and error, searching for a solution that balances simplicity and power. That’s why I picked up _Prometheus: Up & Running (Second Edition)_ by Julien Pivotto and Brian Brazil. This book dives deep into Prometheus, an open-source, metrics-based monitoring system, which has become a cornerstone for DevOps teams worldwide. If you're curious about scaling your infrastructure monitoring or learning Prometheus from scratch, this book provides a comprehensive guide.
 

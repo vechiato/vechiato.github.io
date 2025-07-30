@@ -1,14 +1,12 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Blink"
+title: "Insights from Blink: The Power of Thinking Without Thinking"
 date: "2023-02-03"
 thumbnail: "/obsidian/blink.jpg"
 publish: true
 tags:
   - book
 --- 
-
-# **Blink: The Power of Thinking Without Thinking**
 
 In a world where decisions are often made in the blink of an eye, understanding the power of these snap judgments is crucial. Malcolm Gladwell's "Blink: The Power of Thinking Without Thinking" delves into the science and psychology behind these rapid decisions, revealing how they can be both incredibly accurate and dangerously flawed. This book is a fascinating exploration of the unconscious mind and its role in our everyday choices.
 

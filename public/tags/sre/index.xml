@@ -37,8 +37,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;mastering-opentelemetry-and-observability&#34;&gt;&lt;strong&gt;Mastering OpenTelemetry and Observability&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore &lt;em&gt;Mastering OpenTelemetry and Observability&lt;/em&gt; by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.&lt;/p&gt;
+            &lt;p&gt;In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore &lt;em&gt;Mastering OpenTelemetry and Observability&lt;/em&gt; by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.&lt;/p&gt;
 &lt;p&gt;Written by a key contributor to OpenTelemetry, this book offers both technical expertise and actionable strategies for leveraging observability to improve system performance and reduce outages. It’s a must-read for anyone looking to enhance their understanding of telemetry data and system diagnostics.&lt;/p&gt;
           
           
@@ -47,7 +46,7 @@
     </item>
     
     <item>
-      <title>Insights from Implementing Service Level Objectives</title>
+      <title>Insights from Implementing Service Level Objectives: A Practical Guide to SLIs, SLOs &amp; Error Budgets</title>
       <link>https://blog.vechiato.cc/post/book-implementing-service-level-objectives/</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
       
@@ -55,8 +54,8 @@
       <description>
         
           
-            &lt;h1 id=&#34;implementing-service-level-objectives-a-practical-guide-to-slis-slos--error-budgets&#34;&gt;&lt;strong&gt;Implementing Service Level Objectives: A Practical Guide to SLIs, SLOs &amp;amp; Error Budgets&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Reliability is a cornerstone of successful services, but how do we define and measure it effectively? Implementing Service Level Objectives by Alex Hidalgo provides a practical guide to adopting SLO-based approaches, allowing teams to balance user expectations and operational constraints. With its insights into SLIs (Service Level Indicators), SLOs (Service Level Objectives), and error budgets, the book helps bridge the gap between abstract goals and actionable strategies.&lt;/p&gt;
+            &lt;p&gt;Reliability is a cornerstone of successful services, but how do we define and measure it effectively? Implementing Service Level Objectives by Alex Hidalgo provides a practical guide to adopting SLO-based approaches, allowing teams to balance user expectations and operational constraints. With its insights into SLIs (Service Level Indicators), SLOs (Service Level Objectives), and error budgets, the book helps bridge the gap between abstract goals and actionable strategies.&lt;/p&gt;
+&lt;p&gt;I chose this book because it offers a structured way to think about reliability, a critical aspect of any service, especially in today’s complex systems. Readers can expect to gain an in-depth understanding of how to define, measure, and act upon reliability metrics while fostering a culture of continuous improvement.&lt;/p&gt;
           
           
         
@@ -72,8 +71,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;chaos-engineering-system-resiliency-in-practice&#34;&gt;&lt;strong&gt;Chaos Engineering: System Resiliency in Practice&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency. This book delves into the principles and practices of Chaos Engineering, a methodology designed to improve system reliability by intentionally introducing failures. I chose this book to understand how we can better prepare for the unexpected and ensure our systems can withstand and recover from disruptions.&lt;/p&gt;
+            &lt;p&gt;I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency. This book delves into the principles and practices of Chaos Engineering, a methodology designed to improve system reliability by intentionally introducing failures. I chose this book to understand how we can better prepare for the unexpected and ensure our systems can withstand and recover from disruptions.&lt;/p&gt;
           
           
         
@@ -81,7 +79,7 @@
     </item>
     
     <item>
-      <title>Insights from Learning eBPF</title>
+      <title>Insights from Learning eBPF: Programmatically Extend the Linux Kernel</title>
       <link>https://blog.vechiato.cc/post/book-learning-ebpf/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
@@ -89,8 +87,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;learning-ebpf-programmatically-extend-the-linux-kernel&#34;&gt;&lt;strong&gt;Learning eBPF: Programmatically Extend the Linux Kernel&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p&gt;
+            &lt;p&gt;In the realm of cloud-native infrastructure, eBPF (extended Berkeley Packet Filter) has emerged as a revolutionary technology. By allowing developers to write custom code that dynamically changes kernel behavior, eBPF has paved the way for a new generation of security, observability, and networking tools. In &amp;quot;Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security,&amp;quot; Liz Rice provides a comprehensive guide to understanding and utilizing eBPF. This book is essential for developers, system administrators, operators, and students who seek to harness the power of eBPF.&lt;/p&gt;
           
           
         
@@ -98,7 +95,7 @@
     </item>
     
     <item>
-      <title>Insights from Learning Open Telemetry</title>
+      <title>Insights from Learning Open Telemetry: Setting Up and Operating a Modern Observability System</title>
       <link>https://blog.vechiato.cc/post/book-learning-open-telemetry/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
@@ -106,8 +103,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;learning-opentelemetry-setting-up-and-operating-a-modern-observability-system&#34;&gt;&lt;strong&gt;Learning OpenTelemetry: Setting Up and Operating a Modern Observability System&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;As someone who has spent countless hours troubleshooting distributed systems, I understand the struggle of trying to untangle metrics, logs, and traces spread across multiple tools. That’s why &lt;em&gt;Learning OpenTelemetry&lt;/em&gt; by Austin Parker and Ted Young resonated with me. This book introduces OpenTelemetry, a game-changing framework for observability that unifies these disparate signals into a cohesive system. Whether you&#39;re new to observability or a seasoned developer looking to adopt modern practices, this book provides the tools and insights to make your systems more transparent and easier to debug.&lt;/p&gt;
+            &lt;p&gt;As someone who has spent countless hours troubleshooting distributed systems, I understand the struggle of trying to untangle metrics, logs, and traces spread across multiple tools. That’s why &lt;em&gt;Learning OpenTelemetry&lt;/em&gt; by Austin Parker and Ted Young resonated with me. This book introduces OpenTelemetry, a game-changing framework for observability that unifies these disparate signals into a cohesive system. Whether you&#39;re new to observability or a seasoned developer looking to adopt modern practices, this book provides the tools and insights to make your systems more transparent and easier to debug.&lt;/p&gt;
           
           
         
@@ -140,8 +136,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;establishing-sre-foundations&#34;&gt;&lt;strong&gt;Establishing SRE Foundations&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&amp;quot;Establishing SRE Foundations: A Step-by-Step Guide&amp;quot; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&lt;/p&gt;
+            &lt;p&gt;&amp;quot;Establishing SRE Foundations: A Step-by-Step Guide&amp;quot; by Vladyslav Ukis provides a comprehensive framework for implementing Site Reliability Engineering (SRE) in software delivery organisations. Drawing from his extensive experience, Ukis outlines practical steps and methodologies to enhance reliability and operational efficiency in software systems.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -194,6 +189,8 @@
     &lt;/picture&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
+&lt;h3 id=&#34;chapter-1-introduction-to-sre&#34;&gt;&lt;strong&gt;Chapter 1: Introduction to SRE&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The first chapter introduces the concept of Site Reliability Engineering (SRE) and its importance in modern software development. Ukis discusses the evolution of SRE, comparing it with other IT management frameworks such as ITIL, COBIT, and DevOps. The chapter sets the stage by explaining why SRE is crucial for aligning development and operations towards a common goal of reliability.&lt;/p&gt;
           
           
         
@@ -209,8 +206,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;observability-engineering&#34;&gt;&lt;strong&gt;Observability Engineering&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
+            &lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -252,8 +248,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;database-reliability-engineering-designing-and-operating-resilient-database-systems&#34;&gt;&lt;strong&gt;Database Reliability Engineering: Designing and Operating Resilient Database Systems&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Database Reliability Engineering&lt;/em&gt; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasises the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.&lt;/p&gt;
+            &lt;p&gt;&lt;em&gt;Database Reliability Engineering&lt;/em&gt; by Laine Campbell and Charity Majors is a comprehensive guide on how to design, build, and manage resilient database systems. The book emphasises the importance of reliability in database operations and introduces the role of a Database Reliability Engineer (DBRE) who combines database expertise with software engineering principles to ensure robust data management.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -280,6 +275,32 @@
 &lt;/figure&gt;
 
 2017 by Laine Campbell &amp;amp; Charity Majors&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_dbre.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
           
           
         
@@ -295,8 +316,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;seeking-sre&#34;&gt;&lt;strong&gt;Seeking SRE&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;quot;Seeking SRE: Conversations About Running Production Systems at Scale&amp;quot; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.&lt;/p&gt;
+            &lt;p&gt;Site Reliability Engineering (SRE) has become a fundamental practice in ensuring the reliability and efficiency of large-scale production systems. &amp;quot;Seeking SRE: Conversations About Running Production Systems at Scale&amp;quot; by David N. Blank-Edelman offers a comprehensive exploration of SRE practices through a series of insightful essays and interviews. This book serves as an invaluable resource for anyone involved in managing complex systems, from seasoned SREs to those new to the field.&lt;/p&gt;
           
           
         

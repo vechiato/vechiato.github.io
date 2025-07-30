@@ -9,7 +9,6 @@ tags:
   - book
 --- 
 
-# **Kubernetes: Up and Running**
 
 _Kubernetes: Up and Running_ by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It's an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.
 

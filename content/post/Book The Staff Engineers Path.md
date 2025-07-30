@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from The Staff Engineer's Path"
+title: "Insights from The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change"
 date: "2023-08-11"
 publish: true
 thumbnail: "/obsidian/the_staff_enginners_path.jpg"
@@ -9,9 +9,9 @@ tags:
   - book
 --- 
 
-# **The Staff Engineer's Path**
 
 In the world of technology, career paths often lead to management roles. However, many engineers prefer to remain as individual contributors while advancing their careers. "The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change" by Tanya Reilly provides a roadmap for those aiming to excel as senior technical leaders without transitioning into management. This book is an essential guide for engineers looking to elevate their impact and influence within their organizations.
+
 ![image](/obsidian/the_staff_enginners_path.jpg)
 2022 by Tanya Reilly
 

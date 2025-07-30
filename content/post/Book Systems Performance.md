@@ -10,7 +10,6 @@ tags:
   - book
 --- 
 
-# **Systems Performance**
 
 "Systems Performance: Enterprise and the Cloud" by Brendan Gregg is a comprehensive guide to understanding and improving the performance of computer systems. The book covers a wide range of topics, from the fundamentals of systems performance to advanced techniques for optimizing various system components. It provides practical methodologies and tools for performance analysis, making it an essential resource for system administrators, developers, and performance engineers.
 

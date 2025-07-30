@@ -17,8 +17,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;mastering-opentelemetry-and-observability&#34;&gt;&lt;strong&gt;Mastering OpenTelemetry and Observability&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore &lt;em&gt;Mastering OpenTelemetry and Observability&lt;/em&gt; by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.&lt;/p&gt;
+            &lt;p&gt;In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore &lt;em&gt;Mastering OpenTelemetry and Observability&lt;/em&gt; by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.&lt;/p&gt;
 &lt;p&gt;Written by a key contributor to OpenTelemetry, this book offers both technical expertise and actionable strategies for leveraging observability to improve system performance and reduce outages. It’s a must-read for anyone looking to enhance their understanding of telemetry data and system diagnostics.&lt;/p&gt;
           
           
@@ -27,7 +26,7 @@
     </item>
     
     <item>
-      <title>Insights from Learning Open Telemetry</title>
+      <title>Insights from Learning Open Telemetry: Setting Up and Operating a Modern Observability System</title>
       <link>https://blog.vechiato.cc/post/book-learning-open-telemetry/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
@@ -35,8 +34,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;learning-opentelemetry-setting-up-and-operating-a-modern-observability-system&#34;&gt;&lt;strong&gt;Learning OpenTelemetry: Setting Up and Operating a Modern Observability System&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;As someone who has spent countless hours troubleshooting distributed systems, I understand the struggle of trying to untangle metrics, logs, and traces spread across multiple tools. That’s why &lt;em&gt;Learning OpenTelemetry&lt;/em&gt; by Austin Parker and Ted Young resonated with me. This book introduces OpenTelemetry, a game-changing framework for observability that unifies these disparate signals into a cohesive system. Whether you&#39;re new to observability or a seasoned developer looking to adopt modern practices, this book provides the tools and insights to make your systems more transparent and easier to debug.&lt;/p&gt;
+            &lt;p&gt;As someone who has spent countless hours troubleshooting distributed systems, I understand the struggle of trying to untangle metrics, logs, and traces spread across multiple tools. That’s why &lt;em&gt;Learning OpenTelemetry&lt;/em&gt; by Austin Parker and Ted Young resonated with me. This book introduces OpenTelemetry, a game-changing framework for observability that unifies these disparate signals into a cohesive system. Whether you&#39;re new to observability or a seasoned developer looking to adopt modern practices, this book provides the tools and insights to make your systems more transparent and easier to debug.&lt;/p&gt;
           
           
         
@@ -52,8 +50,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;observability-engineering&#34;&gt;&lt;strong&gt;Observability Engineering&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
+            &lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 

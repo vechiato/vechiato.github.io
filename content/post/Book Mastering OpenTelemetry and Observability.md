@@ -12,7 +12,6 @@ tags:
   - sre
 --- 
 
-# **Mastering OpenTelemetry and Observability**
 
 In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore _Mastering OpenTelemetry and Observability_ by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.
 

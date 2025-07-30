@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Misbelief"
+title: "Insights from Misbelief: What Makes Rational People Believe Irrational Things"
 date: "2024-03-13"
 thumbnail: "/obsidian/misbelief.jpg"
 publish: true
@@ -8,7 +8,6 @@ tags:
   - book
 --- 
 
-# **Misbelief: What Makes Rational People Believe Irrational Things**
 
 I remember the first time I stumbled upon a friend’s social media post that seemed utterly detached from reality. It wasn’t just a quirky opinion or an eccentric idea, but a full-blown conspiracy theory. This experience piqued my interest in understanding how rational individuals could come to hold such irrational beliefs. This curiosity led me to Dan Ariely’s book, *Misbelief: What Makes Rational People Believe Irrational Things*. Ariely, a renowned behavioral economist, delves into the psychological underpinnings that drive people down the path of misbelief. This book offers a comprehensive look into the factors that shape our beliefs and why some individuals are more susceptible to false narratives. Readers can expect to gain a deeper understanding of the emotional, cognitive, personality, and social elements that contribute to the formation and persistence of misbeliefs.
 

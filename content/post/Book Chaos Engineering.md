@@ -9,7 +9,6 @@ tags:
   - sre
   - book
 --- 
-# **Chaos Engineering: System Resiliency in Practice**
 
 I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency. This book delves into the principles and practices of Chaos Engineering, a methodology designed to improve system reliability by intentionally introducing failures. I chose this book to understand how we can better prepare for the unexpected and ensure our systems can withstand and recover from disruptions.
 

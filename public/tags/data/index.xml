@@ -9,7 +9,7 @@
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/data/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Insights from Designing Data-Intensive Applications</title>
+      <title>Insights from Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable and Maintainable Systems</title>
       <link>https://blog.vechiato.cc/post/book-designing-data-intensive-applications/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
@@ -17,8 +17,33 @@
       <description>
         
           
-            &lt;h1 id=&#34;designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-systems&#34;&gt;&lt;strong&gt;Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable and Maintainable Systems&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Designing Data-Intensive Applications&lt;/em&gt; by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.&lt;/p&gt;
+            &lt;p&gt;&lt;em&gt;Designing Data-Intensive Applications&lt;/em&gt; by Martin Kleppmann is a comprehensive guide to understanding the principles and architectures behind building reliable, scalable, and maintainable data systems. The book delves into the fundamental concepts of data processing and storage, offering in-depth analysis and practical insights into how to handle data at scale. This book is essential for software engineers, architects, and technical managers who want to build robust data-intensive applications.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/data_intensive_apps.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2017 by Martin Kleppmann&lt;/p&gt;
           
           
         

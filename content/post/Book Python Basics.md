@@ -11,7 +11,6 @@ tags:
   - code club
 --- 
 
-# **Python Basics: A Practical introduction to Python 3**
 
 When my son expressed interest in coding, it reignited my passion for introducing Python to others. This book, _Python Basics: A Practical Introduction to Python 3_, is now part of the "Code Club" learning list a collection of resources aimed at helping children at the club (and my son) discover the joy of Python.
 

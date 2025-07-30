@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from The CTO Field Guide (for the First 90 Days)"
+title: "Insights from The CTO Field Guide: How to get started and suceed as a tech leader"
 date: "2023-07-07"
 thumbnail: "/obsidian/book_cto_field.jpg"
 publish: true

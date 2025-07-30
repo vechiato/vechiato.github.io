@@ -9,7 +9,7 @@
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Fri, 13 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/k8s/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Insights from Multi-Cloud Mastery</title>
+      <title>Insights from Multi-Cloud Mastery: Architecting Secure and Scalable Kubernetes Systems and Infrastructures</title>
       <link>https://blog.vechiato.cc/post/book-multi-cloud-mastery/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       
@@ -17,8 +17,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;multi-cloud-mastery-architecting-secure-and-scalable-kubernetes-systems-and-infrastructures&#34;&gt;&lt;strong&gt;Multi-Cloud Mastery: Architecting Secure and Scalable Kubernetes Systems and Infrastructures&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;While managing my own projects that rely on Kubernetes clusters, I often encountered challenges involving scalability, security, and cost optimisation across various cloud providers. These obstacles made me curious about how industry experts approach multi-cloud Kubernetes environments. That’s when I stumbled upon &lt;em&gt;Multi-Cloud Mastery&lt;/em&gt; by Adam Robertson.&lt;/p&gt;
+            &lt;p&gt;While managing my own projects that rely on Kubernetes clusters, I often encountered challenges involving scalability, security, and cost optimisation across various cloud providers. These obstacles made me curious about how industry experts approach multi-cloud Kubernetes environments. That’s when I stumbled upon &lt;em&gt;Multi-Cloud Mastery&lt;/em&gt; by Adam Robertson.&lt;/p&gt;
 &lt;p&gt;This book dives into the complexities of building and managing Kubernetes clusters across multiple cloud platforms. It offers practical advice for architects, platform engineers, and cloud enthusiasts seeking to harness the potential of multi-cloud strategies. I chose this book to gain deeper insights into a topic that lies at the heart of modern cloud computing balancing resilience, performance, and cost in a multi-cloud Kubernetes environment.&lt;/p&gt;
           
           
@@ -35,8 +34,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;crossplane-the-cloud-native-control-plane&#34;&gt;&lt;strong&gt;Crossplane: The Cloud Native Control Plane&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;As a Platform Engineering enthusiast, I&#39;ve always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &amp;quot;Crossplane: The Cloud Native Control Plane&amp;quot; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers. By abstracting away complexity and allowing for custom control planes, Crossplane stands out as a transformative tool for modern infrastructure management. I chose this book to deepen my understanding of how Crossplane can help create a seamless, scalable, and efficient cloud infrastructure tailored to specific organizational needs.&lt;/p&gt;
+            &lt;p&gt;As a Platform Engineering enthusiast, I&#39;ve always been fascinated by the potential of cloud-native technologies to streamline and enhance our workflows. Recently, I picked up &amp;quot;Crossplane: The Cloud Native Control Plane&amp;quot; by Viktor Farcic, and it has been an enlightening journey. This book delves into the intricacies of Crossplane, a project that democratizes the powerful capabilities traditionally reserved for major cloud providers. By abstracting away complexity and allowing for custom control planes, Crossplane stands out as a transformative tool for modern infrastructure management. I chose this book to deepen my understanding of how Crossplane can help create a seamless, scalable, and efficient cloud infrastructure tailored to specific organizational needs.&lt;/p&gt;
           
           
         
@@ -52,8 +50,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;platform-engineering-on-kubernetes&#34;&gt;Platform Engineering on Kubernetes&lt;/h1&gt;
-&lt;p&gt;&amp;quot;Platform Engineering on Kubernetes&amp;quot; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&lt;/p&gt;
+            &lt;p&gt;&amp;quot;Platform Engineering on Kubernetes&amp;quot; by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -123,8 +120,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;kubernetes-up-and-running&#34;&gt;&lt;strong&gt;Kubernetes: Up and Running&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Kubernetes: Up and Running&lt;/em&gt; by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It&#39;s an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.&lt;/p&gt;
+            &lt;p&gt;&lt;em&gt;Kubernetes: Up and Running&lt;/em&gt; by Brendan Burns, Joe Beda, and Kelsey Hightower is a comprehensive guide to understanding and deploying Kubernetes, the leading platform for container orchestration. This book provides a thorough introduction to Kubernetes, covering its architecture, deployment, and management, along with practical examples and use cases. It&#39;s an essential resource for anyone looking to leverage Kubernetes for scalable, resilient, and manageable applications.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -210,8 +206,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;learning-helm-managing-apps-on-kubernetes&#34;&gt;&lt;strong&gt;Learning Helm: Managing Apps on Kubernetes&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;I remember the first time I dived into Kubernetes; it felt like stepping into a new world. There were so many moving parts, and I quickly realised the need for effective tools to manage it all. This is where &amp;quot;Learning Helm&amp;quot; by Matt Butcher, Matt Farina, and Josh Dolitsky comes in. The book serves as a comprehensive guide to using Helm, the package manager for Kubernetes. I chose helm because it promised to simplify the complexity of Kubernetes management, and it certainly delivered. Readers can expect to gain a solid understanding of Helm&#39;s capabilities, its architecture, and practical ways to manage Kubernetes applications efficiently.&lt;/p&gt;
+            &lt;p&gt;I remember the first time I dived into Kubernetes; it felt like stepping into a new world. There were so many moving parts, and I quickly realised the need for effective tools to manage it all. This is where &amp;quot;Learning Helm&amp;quot; by Matt Butcher, Matt Farina, and Josh Dolitsky comes in. The book serves as a comprehensive guide to using Helm, the package manager for Kubernetes. I chose helm because it promised to simplify the complexity of Kubernetes management, and it certainly delivered. Readers can expect to gain a solid understanding of Helm&#39;s capabilities, its architecture, and practical ways to manage Kubernetes applications efficiently.&lt;/p&gt;
           
           
         

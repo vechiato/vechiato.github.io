@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Intro To Python Programming"
+title: "Insights from Intro To Python Programming: Beginners Guide Series"
 date: "2024-12-21"
 publish: true
 thumbnail: "/obsidian/book_intro_to_python.png"
@@ -10,7 +10,6 @@ tags:
   - code club
 --- 
 
-# **Intro To Python Programming: Beginners Guide Series**
 
 As a parent and mentor, I’m always on the lookout for resources to inspire and educate young minds. My son recently expressed an interest in learning Python, and I also help kids at a coding club take their first steps into programming. These two motivations led me to John Elder’s _Intro to Python Programming_. This book promises to make coding approachable and fun for beginners, which aligns perfectly with my goals. Elder’s conversational tone and hands-on approach provide an excellent foundation for young learners and anyone embarking on their coding journey.
 

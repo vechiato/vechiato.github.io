@@ -9,7 +9,6 @@ tags:
   - book
   - netflix
 --- 
-# **No Rules Rules**
 
 In "No Rules Rules: Netflix and the Culture of Reinvention," Reed Hastings and Erin Meyer explore the unique and unconventional management philosophies that have made Netflix one of the most innovative and successful companies in the world. By prioritising freedom and responsibility over traditional corporate controls, Netflix has continuously reinvented itself to adapt to the changing needs of its global audience.
 

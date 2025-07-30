@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Learning Open Telemetry"
+title: "Insights from Learning Open Telemetry: Setting Up and Operating a Modern Observability System"
 date: "2024-05-01"
 publish: true
 thumbnail: "/obsidian/book_learning_otel.jpg"
@@ -12,7 +12,6 @@ tags:
   - sre
 --- 
 
-# **Learning OpenTelemetry: Setting Up and Operating a Modern Observability System**
 
 As someone who has spent countless hours troubleshooting distributed systems, I understand the struggle of trying to untangle metrics, logs, and traces spread across multiple tools. That’s why _Learning OpenTelemetry_ by Austin Parker and Ted Young resonated with me. This book introduces OpenTelemetry, a game-changing framework for observability that unifies these disparate signals into a cohesive system. Whether you're new to observability or a seasoned developer looking to adopt modern practices, this book provides the tools and insights to make your systems more transparent and easier to debug.
 

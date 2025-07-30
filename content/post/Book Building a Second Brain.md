@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Building a Second Brain"
+title: "Insights from Building a Second Brain: A Proven Method to Organise Your Digital Life and Unlock Your Creative Potential"
 date: "2022-09-18"
 thumbnail: "/obsidian/second_brain.jpg"
 publish: true
@@ -9,9 +9,6 @@ tags:
   - time management
   - notes management
 --- 
-
-
-# **Building a Second Brain**
 
 A few years ago, I found myself overwhelmed by the sheer volume of information I was trying to manage daily. Articles, books, emails, and notes piled up, creating a chaotic mental space that hindered my productivity and creativity. When I came across Tiago Forte’s *Building a Second Brain*, it felt like a lifeline. This book promises to help readers organize their digital lives and unlock their creative potential through a methodical approach to personal knowledge management. Intrigued by the idea of creating a digital system to support my thinking and memory, I dived in. This book offers a structured method to capture, organize, distill, and express information, ultimately transforming how we interact with and leverage our knowledge.
 

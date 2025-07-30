@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Insights from Implementing Service Level Objectives"
+title: "Insights from Implementing Service Level Objectives: A Practical Guide to SLIs, SLOs & Error Budgets"
 date: "2024-11-19"
 thumbnail: "/obsidian/implementing service level objectives.jpg"
 publish: true
@@ -8,7 +8,6 @@ tags:
   - book
   - sre
 --- 
-# **Implementing Service Level Objectives: A Practical Guide to SLIs, SLOs & Error Budgets**
 
 Reliability is a cornerstone of successful services, but how do we define and measure it effectively? Implementing Service Level Objectives by Alex Hidalgo provides a practical guide to adopting SLO-based approaches, allowing teams to balance user expectations and operational constraints. With its insights into SLIs (Service Level Indicators), SLOs (Service Level Objectives), and error budgets, the book helps bridge the gap between abstract goals and actionable strategies.
 

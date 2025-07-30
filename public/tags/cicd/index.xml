@@ -9,7 +9,7 @@
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/cicd/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Insights from Learning GitHub Actions</title>
+      <title>Insights from Learning GitHub Actions: Automation and Integration of CI/CD with GitHub</title>
       <link>https://blog.vechiato.cc/post/book-learning-github-actions/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
@@ -17,8 +17,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;learning-github-actions-automation-and-integration-of-cicd-with-github&#34;&gt;&lt;strong&gt;Learning GitHub Actions: Automation and Integration of CI/CD with GitHub&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.&lt;/p&gt;
+            &lt;p&gt;This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -71,6 +70,9 @@
     &lt;/picture&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
+&lt;h3 id=&#34;part-i-foundations&#34;&gt;&lt;strong&gt;Part I: Foundations&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-the-basics&#34;&gt;&lt;strong&gt;Chapter 1: The Basics&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance. GitHub Actions provides a GitHub-centric end-to-end automation platform that integrates seamlessly with your existing GitHub repositories. The chapter discusses the core components of GitHub Actions, such as workflows, jobs, steps, and runners. One key point that stood out was the emphasis on how GitHub Actions allows for automations to be stored alongside the code, facilitating easier management and version control.&lt;/p&gt;
           
           
         

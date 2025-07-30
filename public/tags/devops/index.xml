@@ -17,8 +17,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;mastering-opentelemetry-and-observability&#34;&gt;&lt;strong&gt;Mastering OpenTelemetry and Observability&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore &lt;em&gt;Mastering OpenTelemetry and Observability&lt;/em&gt; by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.&lt;/p&gt;
+            &lt;p&gt;In the fast-paced era of cloud-native systems and distributed architectures, maintaining visibility and reliability across complex infrastructures has become crucial. This led me to explore &lt;em&gt;Mastering OpenTelemetry and Observability&lt;/em&gt; by Steve Flanders. The book is a deep dive into the tools, techniques, and methodologies for achieving robust observability using OpenTelemetry, a leading open-source framework.&lt;/p&gt;
 &lt;p&gt;Written by a key contributor to OpenTelemetry, this book offers both technical expertise and actionable strategies for leveraging observability to improve system performance and reduce outages. It’s a must-read for anyone looking to enhance their understanding of telemetry data and system diagnostics.&lt;/p&gt;
           
           
@@ -43,7 +42,7 @@
     </item>
     
     <item>
-      <title>Insights from Learning Open Telemetry</title>
+      <title>Insights from Learning Open Telemetry: Setting Up and Operating a Modern Observability System</title>
       <link>https://blog.vechiato.cc/post/book-learning-open-telemetry/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
@@ -51,8 +50,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;learning-opentelemetry-setting-up-and-operating-a-modern-observability-system&#34;&gt;&lt;strong&gt;Learning OpenTelemetry: Setting Up and Operating a Modern Observability System&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;As someone who has spent countless hours troubleshooting distributed systems, I understand the struggle of trying to untangle metrics, logs, and traces spread across multiple tools. That’s why &lt;em&gt;Learning OpenTelemetry&lt;/em&gt; by Austin Parker and Ted Young resonated with me. This book introduces OpenTelemetry, a game-changing framework for observability that unifies these disparate signals into a cohesive system. Whether you&#39;re new to observability or a seasoned developer looking to adopt modern practices, this book provides the tools and insights to make your systems more transparent and easier to debug.&lt;/p&gt;
+            &lt;p&gt;As someone who has spent countless hours troubleshooting distributed systems, I understand the struggle of trying to untangle metrics, logs, and traces spread across multiple tools. That’s why &lt;em&gt;Learning OpenTelemetry&lt;/em&gt; by Austin Parker and Ted Young resonated with me. This book introduces OpenTelemetry, a game-changing framework for observability that unifies these disparate signals into a cohesive system. Whether you&#39;re new to observability or a seasoned developer looking to adopt modern practices, this book provides the tools and insights to make your systems more transparent and easier to debug.&lt;/p&gt;
           
           
         
@@ -88,7 +86,7 @@
     </item>
     
     <item>
-      <title>Insights from Learning GitHub Actions</title>
+      <title>Insights from Learning GitHub Actions: Automation and Integration of CI/CD with GitHub</title>
       <link>https://blog.vechiato.cc/post/book-learning-github-actions/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
@@ -96,8 +94,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;learning-github-actions-automation-and-integration-of-cicd-with-github&#34;&gt;&lt;strong&gt;Learning GitHub Actions: Automation and Integration of CI/CD with GitHub&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.&lt;/p&gt;
+            &lt;p&gt;This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -150,6 +147,9 @@
     &lt;/picture&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
+&lt;h3 id=&#34;part-i-foundations&#34;&gt;&lt;strong&gt;Part I: Foundations&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-the-basics&#34;&gt;&lt;strong&gt;Chapter 1: The Basics&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance. GitHub Actions provides a GitHub-centric end-to-end automation platform that integrates seamlessly with your existing GitHub repositories. The chapter discusses the core components of GitHub Actions, such as workflows, jobs, steps, and runners. One key point that stood out was the emphasis on how GitHub Actions allows for automations to be stored alongside the code, facilitating easier management and version control.&lt;/p&gt;
           
           
         
@@ -165,8 +165,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;the-devops-handbook&#34;&gt;&lt;strong&gt;The DevOps Handbook&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organisations striving to enhance their productivity, efficiency, and overall business success. &amp;quot;The DevOps Handbook: Second Edition&amp;quot; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices. This book provides valuable insights into the principles, methodologies, and case studies that illustrate the transformative power of DevOps in modern enterprises.&lt;/p&gt;
+            &lt;p&gt;In the rapidly evolving landscape of software development and IT operations, the principles of DevOps have become essential for organisations striving to enhance their productivity, efficiency, and overall business success. &amp;quot;The DevOps Handbook: Second Edition&amp;quot; by Gene Kim, Jez Humble, Patrick Debois, and John Willis offers a comprehensive guide to implementing DevOps practices. This book provides valuable insights into the principles, methodologies, and case studies that illustrate the transformative power of DevOps in modern enterprises.&lt;/p&gt;
           
           
         
@@ -199,8 +198,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;observability-engineering&#34;&gt;&lt;strong&gt;Observability Engineering&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
+            &lt;p&gt;In the rapidly evolving landscape of software development and IT operations, ensuring system reliability and performance is paramount. &amp;quot;Observability Engineering&amp;quot; by Charity Majors, Liz Fong-Jones, and George Miranda provides a comprehensive guide to achieving production excellence through observability. This book explores the principles, practices, and tools necessary to understand and improve system behavior, making it an essential read for software engineers and site reliability engineers (SREs).&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -234,7 +232,7 @@
     </item>
     
     <item>
-      <title>Insights from Accelerate</title>
+      <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
       <link>https://blog.vechiato.cc/post/book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       
@@ -242,8 +240,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;accelerate-the-science-of-lean-software-and-devops&#34;&gt;&lt;strong&gt;Accelerate: The Science of Lean Software and DevOps&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;
+            &lt;p&gt;&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -270,6 +267,7 @@
 &lt;/figure&gt;
 
 2018 by Nicole Forsgren, Jez Humble and Gene Kim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B07BLYJ4HR&#34;&gt;Accelerate: Building and Scaling High Performing Technology Organizations&lt;/a&gt;&lt;/p&gt;
           
           
         
@@ -285,8 +283,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;devsecops&#34;&gt;&lt;strong&gt;DevSecOps&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
+            &lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -357,8 +354,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;domain-driven-design-distilled&#34;&gt;&lt;strong&gt;Domain-Driven Design Distilled&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s &amp;quot;Domain-Driven Design Distilled&amp;quot; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&lt;/p&gt;
+            &lt;p&gt;In the complex world of software development, mastering effective design principles is key to success. Vaughn Vernon&#39;s &amp;quot;Domain-Driven Design Distilled&amp;quot; simplifies the intricate concepts of Domain-Driven Design (DDD), providing a clear path to creating software that truly aligns with business needs. This book breaks down strategic and tactical modeling tools that can transform how software projects are approached and executed.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -385,6 +381,32 @@
 &lt;/figure&gt;
 
 2016 by Vaughn Vernon&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_ddd.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
           
           
         
@@ -400,8 +422,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;continuous-delivery&#34;&gt;&lt;strong&gt;Continuous Delivery&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;quot;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;quot; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively. This book is part of the Addison-Wesley Signature Series and offers detailed insights into achieving efficient, low-risk software deployments.&lt;/p&gt;
+            &lt;p&gt;Continuous Delivery (CD) has revolutionised the way software is developed and deployed, aiming to make software releases a reliable, predictable process. In &amp;quot;Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation,&amp;quot; authors David Farley and Jez Humble provide a comprehensive guide to implementing CD practices effectively. This book is part of the Addison-Wesley Signature Series and offers detailed insights into achieving efficient, low-risk software deployments.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -443,8 +464,33 @@
       <description>
         
           
-            &lt;h1 id=&#34;the-phoenix-project&#34;&gt;&lt;strong&gt;The Phoenix Project&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;&amp;quot;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;quot; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.&lt;/p&gt;
+            &lt;p&gt;&amp;quot;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win&amp;quot; by Gene Kim, Kevin Behr, and George Spafford is a revolutionary book that uses a narrative style to illustrate the principles of DevOps and how they can transform IT operations to drive business success. Through the story of Parts Unlimited, the authors demonstrate the challenges and triumphs of implementing DevOps practices in a real-world setting.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/phoenix_project.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2013 by Gene Kim, Kevin Behr, and George Spafford&lt;/p&gt;
           
           
         

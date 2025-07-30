@@ -9,8 +9,6 @@ tags:
   - book
 --- 
 
-# **The Developer Relations Playbook**
-
 This book is a practical, insightful guide into the growing discipline of Developer Relations (DevRel), an intersection of marketing, engineering, community building, and empathy. I chose this book because the field of DevRel is no longer a niche. It’s becoming essential for tech companies building platforms, APIs, and tools. If you're in tech and work with developers in any capacity, this book will give you the frameworks, language, and confidence to build a world-class DevRel program.
 
 That’s why _The Developer Relations Playbook_ by Caroline Lewko and James Parton immediately resonated with me.

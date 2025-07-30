@@ -10,7 +10,6 @@ tags:
   - book
   - crossplane
 --- 
-# Platform Engineering on Kubernetes 
 
 "Platform Engineering on Kubernetes" by Mauricio Salatino provides a comprehensive guide to leveraging Kubernetes for platform engineering. This book explores the intricacies of building and maintaining platforms on top of Kubernetes, focusing on the needs of development teams and the challenges of cloud-native environments.
 
