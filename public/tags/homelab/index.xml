@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.vechiato.cc/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backing Up Proxmox VMs to an External USB Drive On-Demand</title>
+      <link>https://blog.vechiato.cc/post/backing-up-proxmox/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.vechiato.cc/post/backing-up-proxmox/</guid>
+      <description>&lt;h1 id=&#34;backing-up-proxmox-vms-to-an-external-usb-drive-on-demand&#34;&gt;Backing Up Proxmox VMs to an External USB Drive On-Demand&lt;/h1&gt;&#xA;&lt;p&gt;I&#39;ll guide you through setting up an on-demand backup solution for your Proxmox VMs using an external USB drive. This approach will allow you to perform backups only when you explicitly want to, rather than on an automated schedule.&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-1-prepare-your-usb-drive&#34;&gt;Step 1: Prepare Your USB Drive&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Connect your USB drive&lt;/strong&gt; to the Proxmox host&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Identify the drive&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;ls -la /dev/disk/by-id/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Format the drive&lt;/strong&gt; (if needed):&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver</title>
       <link>https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/</link>
