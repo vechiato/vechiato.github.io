@@ -4,24 +4,59 @@
     <title>Homelab on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/homelab/</link>
     <description>Recent content in Homelab on Marcus Vechiato</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Get a Free FlightRadar24 Business Subscription with Your Own ADS-B Receiver</title>
       <link>https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/flight-radar-24-business-subscription-for-free/</guid>
-      <description>&lt;h2 id=&#34;-why-monitor-ads-b-data&#34;&gt;✈️ Why Monitor ADS-B Data?&lt;/h2&gt;&#xA;&lt;p&gt;Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, and other flight data in real time. Enthusiasts and aviation hobbyists around the world use software-defined radios (SDRs) to receive these signals   and contribute data to platforms like &lt;strong&gt;&lt;a href=&#34;https://www.flightradar24.com/&#34;&gt;FlightRadar24&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The best part? If you share your ADS-B data with FlightRadar24, they’ll reward you with a &lt;strong&gt;free Business account subscription&lt;/strong&gt; (normally $499.99/year), which includes:&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;h2 id=&#34;-why-monitor-ads-b-data&#34;&gt;✈️ Why Monitor ADS-B Data?&lt;/h2&gt;
+&lt;p&gt;Automatic Dependent Surveillance–Broadcast (ADS-B) is a surveillance technology used by aircraft to broadcast their position, speed, and other flight data in real time. Enthusiasts and aviation hobbyists around the world use software-defined radios (SDRs) to receive these signals   and contribute data to platforms like &lt;strong&gt;&lt;a href=&#34;https://www.flightradar24.com/&#34;&gt;FlightRadar24&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The best part? If you share your ADS-B data with FlightRadar24, they’ll reward you with a &lt;strong&gt;free Business account subscription&lt;/strong&gt; (normally $499.99/year), which includes:&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>How to Install and Run DeepSeek R1 and DeepSeek Coder Models Using Ollama</title>
       <link>https://blog.vechiato.cc/post/deepseek-r1-homelab/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/deepseek-r1-homelab/</guid>
-      <description>&lt;p&gt;DeepSeek R1 is a powerful AI model designed for advanced data analysis and insight extraction. Leveraging the simplicity and flexibility of Ollama, you can get DeepSeek R1 up and running in no time. This guide will walk you through the installation process and demonstrate how to test the model effectively.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h1&gt;&#xA;&lt;p&gt;Before diving into the setup, ensure you have the following:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ollama Installed&lt;/strong&gt;: Ollama is a platform for running AI models locally. &lt;a href=&#34;https://ollama.com/download&#34;&gt;Download Ollama&lt;/a&gt; and follow the installation instructions for your operating system.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;System Requirements&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Minimum 16GB RAM&lt;/li&gt;&#xA;&lt;li&gt;GPU (for optimal performance)&lt;/li&gt;&#xA;&lt;li&gt;At least 10GB of free disk space&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;step-1-install-ollama&#34;&gt;Step 1: Install Ollama&lt;/h1&gt;&#xA;&lt;p&gt;If you haven’t installed Ollama yet, follow these steps:&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;DeepSeek R1 is a powerful AI model designed for advanced data analysis and insight extraction. Leveraging the simplicity and flexibility of Ollama, you can get DeepSeek R1 up and running in no time. This guide will walk you through the installation process and demonstrate how to test the model effectively.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;prerequisites&#34;&gt;Prerequisites&lt;/h1&gt;
+&lt;p&gt;Before diving into the setup, ensure you have the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Ollama Installed&lt;/strong&gt;: Ollama is a platform for running AI models locally. &lt;a href=&#34;https://ollama.com/download&#34;&gt;Download Ollama&lt;/a&gt; and follow the installation instructions for your operating system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;System Requirements&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Minimum 16GB RAM&lt;/li&gt;
+&lt;li&gt;GPU (for optimal performance)&lt;/li&gt;
+&lt;li&gt;At least 10GB of free disk space&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;step-1-install-ollama&#34;&gt;Step 1: Install Ollama&lt;/h1&gt;
+&lt;p&gt;If you haven’t installed Ollama yet, follow these steps:&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
 author: "Marcus Vechiato"
 title: "Insights from Tiny Habits: The Small Changes That Change Everything"
-date: "2022-07-11"
+date: "2021-07-11"
 publish: true
 thumbnail: "/obsidian/book_tiny_habits.png"
 tags:

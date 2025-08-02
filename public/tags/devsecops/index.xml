@@ -4,17 +4,80 @@
     <title>Devsecops on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/devsecops/</link>
     <description>Recent content in Devsecops on Marcus Vechiato</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/devsecops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/devsecops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from DevSecOps</title>
       <link>https://blog.vechiato.cc/post/book-devsecops/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/book-devsecops/</guid>
-      <description>&lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/book_DevSecOps.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2020 by Glenn Wilson&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/mindmap_devsecops.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;part-i-foundations-of-devsecops&#34;&gt;&lt;strong&gt;Part I: Foundations of DevSecOps&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;chapter-1-devops-explained&#34;&gt;&lt;strong&gt;Chapter 1: DevOps Explained&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models. Key concepts include the three ways (left-to-right process flow, right-to-left feedback, and continuous improvement) and the five ideals (locality and simplicity, focus, flow and joy, improvement of daily work, psychological safety, and customer focus).&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;In the evolving landscape of software development, integrating security within the DevOps framework is crucial. Glenn Wilson&#39;s &lt;em&gt;DevSecOps&lt;/em&gt; offers a comprehensive guide on how to embed security practices into DevOps, ensuring robust and secure software delivery. This book emphasizes a layered approach to DevSecOps, aiming to align security with agile and continuous delivery methodologies.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/book_DevSecOps.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2020 by Glenn Wilson&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_devsecops.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;part-i-foundations-of-devsecops&#34;&gt;&lt;strong&gt;Part I: Foundations of DevSecOps&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-devops-explained&#34;&gt;&lt;strong&gt;Chapter 1: DevOps Explained&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Wilson begins by explaining the origins and principles of DevOps, highlighting its evolution from traditional waterfall methodologies to more agile, continuous delivery models. Key concepts include the three ways (left-to-right process flow, right-to-left feedback, and continuous improvement) and the five ideals (locality and simplicity, focus, flow and joy, improvement of daily work, psychological safety, and customer focus).&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>

@@ -4,17 +4,52 @@
     <title>Dora on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/dora/</link>
     <description>Recent content in Dora on Marcus Vechiato</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/dora/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/dora/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Accelerate: The Science of Lean Software and DevOps</title>
       <link>https://blog.vechiato.cc/post/book-accelerate/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/book-accelerate/</guid>
-      <description>&lt;p&gt;&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/book_accelerate.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2018 by Nicole Forsgren, Jez Humble and Gene Kim&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B07BLYJ4HR&#34;&gt;Accelerate: Building and Scaling High Performing Technology Organizations&lt;/a&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;&amp;quot;Accelerate: The Science of Lean Software and DevOps&amp;quot; by Nicole Forsgren, Jez Humble, and Gene Kim is a pivotal book that delves into the principles of Lean and DevOps to improve software delivery and organisational performance. The authors combine rigorous academic research with practical insights, presenting a comprehensive guide for technology leaders to drive performance improvements.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/book_accelerate.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2018 by Nicole Forsgren, Jez Humble and Gene Kim&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.uk/dp/B07BLYJ4HR&#34;&gt;Accelerate: Building and Scaling High Performing Technology Organizations&lt;/a&gt;&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>

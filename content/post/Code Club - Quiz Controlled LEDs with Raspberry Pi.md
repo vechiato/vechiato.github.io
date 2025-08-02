@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Code Club - Quiz Controlled LEDs with Raspberry Pi"
+title: "Code Club - Quiz Controlled LEDs"
 date: "2024-12-11"
 thumbnail: "/obsidian/code_club_thumb.jpeg"
 publish: true
@@ -10,7 +10,7 @@ tags:
   - iot
   - raspberry pi
 --- 
-
+# **Quiz Controlled LEDs with Raspberry Pi**
 
 Here's a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.
 

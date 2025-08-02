@@ -4,38 +4,166 @@
     <title>Git on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/git/</link>
     <description>Recent content in Git on Marcus Vechiato</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from GitHub For Dummies, 2nd Ed</title>
       <link>https://blog.vechiato.cc/post/book-github-for-dummies/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/book-github-for-dummies/</guid>
-      <description>&lt;p&gt;GitHub has always been a cornerstone of my tinkering projects, whether it’s managing configurations or collaborating on open-source initiatives. When my son asked about contributing to coding projects, I thought of this book: &lt;em&gt;GitHub For Dummies&lt;/em&gt; by Sarah Guthals. Its approachable style and step-by-step tutorials make it an excellent resource, especially for beginners navigating the complexities of version control and collaboration. For anyone curious about starting with GitHub or refining their workflows, this book promises clarity and practical advice.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;GitHub has always been a cornerstone of my tinkering projects, whether it’s managing configurations or collaborating on open-source initiatives. When my son asked about contributing to coding projects, I thought of this book: &lt;em&gt;GitHub For Dummies&lt;/em&gt; by Sarah Guthals. Its approachable style and step-by-step tutorials make it an excellent resource, especially for beginners navigating the complexities of version control and collaboration. For anyone curious about starting with GitHub or refining their workflows, this book promises clarity and practical advice.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>GitOps Certification</title>
       <link>https://blog.vechiato.cc/post/certified-gitops-associate-cgoa/</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/certified-gitops-associate-cgoa/</guid>
-      <description>&lt;p&gt;The CGOA certification was announced in 2023 can now be purchased as of February 21, 2024, but the ability to schedule a CGOA exam will not be available until the end of March 2024.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/&#34;&gt;Certified GitOps Associate (CGOA)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Experience Level:&lt;/strong&gt; Beginner&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Online&lt;/li&gt;&#xA;&lt;li&gt;Multiple-choice Exam&lt;/li&gt;&#xA;&lt;li&gt;Duration of Exam 90 Minutes&lt;/li&gt;&#xA;&lt;li&gt;Certification Valid for 3 Years&lt;/li&gt;&#xA;&lt;li&gt;Includes 12 Month Exam Eligibility&lt;/li&gt;&#xA;&lt;li&gt;One Retake&lt;/li&gt;&#xA;&lt;li&gt;PDF Certificate and Digital Badge&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cost:&lt;/strong&gt; $ 250 (USD)&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;The CGOA certification was announced in 2023 can now be purchased as of February 21, 2024, but the ability to schedule a CGOA exam will not be available until the end of March 2024.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://training.linuxfoundation.org/certification/certified-gitops-associate-cgoa/&#34;&gt;Certified GitOps Associate (CGOA)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Experience Level:&lt;/strong&gt; Beginner&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Online&lt;/li&gt;
+&lt;li&gt;Multiple-choice Exam&lt;/li&gt;
+&lt;li&gt;Duration of Exam 90 Minutes&lt;/li&gt;
+&lt;li&gt;Certification Valid for 3 Years&lt;/li&gt;
+&lt;li&gt;Includes 12 Month Exam Eligibility&lt;/li&gt;
+&lt;li&gt;One Retake&lt;/li&gt;
+&lt;li&gt;PDF Certificate and Digital Badge&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Cost:&lt;/strong&gt; $ 250 (USD)&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Insights from Learning GitHub Actions: Automation and Integration of CI/CD with GitHub</title>
       <link>https://blog.vechiato.cc/post/book-learning-github-actions/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/book-learning-github-actions/</guid>
-      <description>&lt;p&gt;This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/learning_github_actions.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2023 by Brent Laster&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/mindmap_learning_github_actions.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;part-i-foundations&#34;&gt;&lt;strong&gt;Part I: Foundations&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;chapter-1-the-basics&#34;&gt;&lt;strong&gt;Chapter 1: The Basics&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance. GitHub Actions provides a GitHub-centric end-to-end automation platform that integrates seamlessly with your existing GitHub repositories. The chapter discusses the core components of GitHub Actions, such as workflows, jobs, steps, and runners. One key point that stood out was the emphasis on how GitHub Actions allows for automations to be stored alongside the code, facilitating easier management and version control.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;This book is a comprehensive guide on how to leverage GitHub Actions to simplify and automate your continuous integration and continuous delivery (CI/CD) pipelines. Brent Laster does an excellent job of breaking down complex concepts into digestible parts, making this a must-read for anyone looking to enhance their software development workflow.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/learning_github_actions.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2023 by Brent Laster&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/mindmap_learning_github_actions.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;part-i-foundations&#34;&gt;&lt;strong&gt;Part I: Foundations&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;chapter-1-the-basics&#34;&gt;&lt;strong&gt;Chapter 1: The Basics&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;In this introductory chapter, Laster lays the groundwork by explaining what GitHub Actions is and its importance. GitHub Actions provides a GitHub-centric end-to-end automation platform that integrates seamlessly with your existing GitHub repositories. The chapter discusses the core components of GitHub Actions, such as workflows, jobs, steps, and runners. One key point that stood out was the emphasis on how GitHub Actions allows for automations to be stored alongside the code, facilitating easier management and version control.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Insights from Adopting InnerSource</title>
       <link>https://blog.vechiato.cc/post/book-adopting-innersource/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/book-adopting-innersource/</guid>
-      <description>&lt;p&gt;&amp;quot;Adopting InnerSource: Principles and Case Studies&amp;quot; by Danese Cooper and Klaas-Jan Stol explores how companies can leverage the principles of open-source software development within their own organisations. InnerSource adapts the collaborative, transparent, and community-driven practices of open-source to a corporate environment, fostering innovation and efficiency. This book presents various case studies from companies that have successfully adopted InnerSource, providing practical insights and lessons learned.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/book_adopting_innersource.jpg&#34; alt=&#34;image&#34;&gt;&#xA;2018 by Danese Cooper &amp;amp; Klaas-Jan Stol&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;&amp;quot;Adopting InnerSource: Principles and Case Studies&amp;quot; by Danese Cooper and Klaas-Jan Stol explores how companies can leverage the principles of open-source software development within their own organisations. InnerSource adapts the collaborative, transparent, and community-driven practices of open-source to a corporate environment, fostering innovation and efficiency. This book presents various case studies from companies that have successfully adopted InnerSource, providing practical insights and lessons learned.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/book_adopting_innersource.jpg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+
+2018 by Danese Cooper &amp;amp; Klaas-Jan Stol&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>

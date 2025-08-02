@@ -4,24 +4,51 @@
     <title>Linux on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/linux/</link>
     <description>Recent content in Linux on Marcus Vechiato</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Feb 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using screen for Persistent Terminal Sessions</title>
       <link>https://blog.vechiato.cc/post/screen/</link>
       <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/screen/</guid>
-      <description>&lt;h1 id=&#34;screen&#34;&gt;&lt;code&gt;screen&lt;/code&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;screen&lt;/code&gt; is a terminal multiplexer that allows you to start a session, run commands, and detach from it, keeping the session running in the background. You can later reattach to the session even if the original terminal connection was lost, which is useful for remote tasks that need resilience against disconnections.&lt;/p&gt;&#xA;&lt;h3 id=&#34;basic-commands&#34;&gt;Basic Commands&lt;/h3&gt;&#xA;&lt;h4 id=&#34;start-a-new-session&#34;&gt;Start a New Session&lt;/h4&gt;&#xA;&lt;p&gt;To start a new session with a custom name (e.g., &lt;code&gt;my_session&lt;/code&gt;):&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;screen -S my_session&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;run-a-command&#34;&gt;Run a Command&lt;/h4&gt;&#xA;&lt;p&gt;Inside the screen session, run any long-running command:&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;h1 id=&#34;screen&#34;&gt;&lt;code&gt;screen&lt;/code&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;screen&lt;/code&gt; is a terminal multiplexer that allows you to start a session, run commands, and detach from it, keeping the session running in the background. You can later reattach to the session even if the original terminal connection was lost, which is useful for remote tasks that need resilience against disconnections.&lt;/p&gt;
+&lt;h3 id=&#34;basic-commands&#34;&gt;Basic Commands&lt;/h3&gt;
+&lt;h4 id=&#34;start-a-new-session&#34;&gt;Start a New Session&lt;/h4&gt;
+&lt;p&gt;To start a new session with a custom name (e.g., &lt;code&gt;my_session&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;screen -S my_session
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;run-a-command&#34;&gt;Run a Command&lt;/h4&gt;
+&lt;p&gt;Inside the screen session, run any long-running command:&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Search and identify bad sectors on a storage device using badblocks</title>
       <link>https://blog.vechiato.cc/post/bad-blocks/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/bad-blocks/</guid>
-      <description>&lt;h1 id=&#34;badblocks&#34;&gt;&lt;code&gt;Badblocks&lt;/code&gt;&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;code&gt;badblocks&lt;/code&gt; command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can help detect damaged or faulty sectors that may affect the reliability of the disk and the data stored on it.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-it-works&#34;&gt;How it works:&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;code&gt;badblocks&lt;/code&gt; command scans a disk for bad sectors by writing test patterns (usually zeros or ones) to the disk and then reading them back. If the data cannot be read correctly after being written, the sector is considered &amp;quot;bad.&amp;quot; The command then reports the location of these bad sectors.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;h1 id=&#34;badblocks&#34;&gt;&lt;code&gt;Badblocks&lt;/code&gt;&lt;/h1&gt;
+&lt;p&gt;The &lt;code&gt;badblocks&lt;/code&gt; command in Linux is used to search for and identify bad sectors on a storage device, such as a hard drive or solid-state drive. It can help detect damaged or faulty sectors that may affect the reliability of the disk and the data stored on it.&lt;/p&gt;
+&lt;h2 id=&#34;how-it-works&#34;&gt;How it works:&lt;/h2&gt;
+&lt;p&gt;The &lt;code&gt;badblocks&lt;/code&gt; command scans a disk for bad sectors by writing test patterns (usually zeros or ones) to the disk and then reading them back. If the data cannot be read correctly after being written, the sector is considered &amp;quot;bad.&amp;quot; The command then reports the location of these bad sectors.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>

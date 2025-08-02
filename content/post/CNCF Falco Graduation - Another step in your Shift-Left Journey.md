@@ -8,6 +8,7 @@ tags:
   - ebpf
 --- 
 
+# Falco Enhances Container Security with Real-time Threat Detection
 
 In today's digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.
 

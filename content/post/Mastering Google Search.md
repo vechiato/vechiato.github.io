@@ -1,14 +1,14 @@
 ---
-author: Marcus Vechiato
-title: "Mastering Google Search: A Guide for Kids (and Adults!)"
-date: 2024-12-23
-thumbnail: /obsidian/code_club_thumb.jpeg
+author: "Marcus Vechiato"
+title: "Mastering Google Search"
+date: "2024-12-23"
+thumbnail: "/obsidian/code_club_thumb.jpeg"
 publish: true
 tags:
-  - code
-  - club
+  - code club
 ---
 
+# Mastering Google Search: A Guide for Kids (and Adults!)
 
 The internet is like a giant library, and Google Search is the tool that helps you find the books you need. Whether you're coding, solving homework, or just curious about the world, knowing how to use Google effectively is a superpower. Let's dive into some essential tips and advanced tricks to make your searches smart, precise, and powerful.
 

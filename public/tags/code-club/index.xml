@@ -4,45 +4,246 @@
     <title>Code Club on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/code-club/</link>
     <description>Recent content in Code Club on Marcus Vechiato</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.vechiato.cc/tags/code-club/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/code-club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Club Mobile Plan Challenge</title>
+      <link>https://blog.vechiato.cc/post/mobile-plan-challenge/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/mobile-plan-challenge/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;-code-club-mobile-plan-challenge-can-you-beat-our-familys-phone-bill&#34;&gt;💸 Code Club Mobile Plan Challenge: Can You Beat our Family&#39;s Phone Bill?&lt;/h1&gt;
+&lt;p&gt;Hey Code Club! Want to use your coding and research skills to help your family &lt;strong&gt;save real money&lt;/strong&gt;? Here’s a fun challenge for you (and yes, you can earn a reward too)!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-problem&#34;&gt;🧩 The Problem&lt;/h2&gt;
+&lt;p&gt;Our family pays &lt;strong&gt;way too much&lt;/strong&gt; for our phone plans! Here’s what we have right now:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;3 SIM cards with 10GB of data each&lt;/strong&gt;: £67/month&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1 SIM card with 20GB of data&lt;/strong&gt;: £10/month&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TOTAL:&lt;/strong&gt; £77/month for 4 phones!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But I know there are &lt;strong&gt;cheaper deals out there&lt;/strong&gt; with more data.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Mastering Google Search</title>
+      <link>https://blog.vechiato.cc/post/mastering-google-search/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/mastering-google-search/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;mastering-google-search-a-guide-for-kids-and-adults&#34;&gt;Mastering Google Search: A Guide for Kids (and Adults!)&lt;/h1&gt;
+&lt;p&gt;The internet is like a giant library, and Google Search is the tool that helps you find the books you need. Whether you&#39;re coding, solving homework, or just curious about the world, knowing how to use Google effectively is a superpower. Let&#39;s dive into some essential tips and advanced tricks to make your searches smart, precise, and powerful.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-basics&#34;&gt;&lt;strong&gt;The Basics&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Choose Your Keywords Wisely&lt;/strong&gt;:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Insights from Intro To Python Programming: Beginners Guide Series</title>
       <link>https://blog.vechiato.cc/post/book-intro-to-python/</link>
       <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/book-intro-to-python/</guid>
-      <description>&lt;p&gt;As a parent and mentor, I’m always on the lookout for resources to inspire and educate young minds. My son recently expressed an interest in learning Python, and I also help kids at a coding club take their first steps into programming. These two motivations led me to John Elder’s &lt;em&gt;Intro to Python Programming&lt;/em&gt;. This book promises to make coding approachable and fun for beginners, which aligns perfectly with my goals. Elder’s conversational tone and hands-on approach provide an excellent foundation for young learners and anyone embarking on their coding journey.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;As a parent and mentor, I’m always on the lookout for resources to inspire and educate young minds. My son recently expressed an interest in learning Python, and I also help kids at a coding club take their first steps into programming. These two motivations led me to John Elder’s &lt;em&gt;Intro to Python Programming&lt;/em&gt;. This book promises to make coding approachable and fun for beginners, which aligns perfectly with my goals. Elder’s conversational tone and hands-on approach provide an excellent foundation for young learners and anyone embarking on their coding journey.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
-      <title>Code Club - Quiz Controlled LEDs with Raspberry Pi</title>
+      <title>Code Club - Quiz Controlled LEDs</title>
       <link>https://blog.vechiato.cc/post/code-club---quiz-controlled-leds-with-raspberry-pi/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/code-club---quiz-controlled-leds-with-raspberry-pi/</guid>
-      <description>&lt;p&gt;Here&#39;s a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;objective&#34;&gt;&lt;strong&gt;Objective:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Create a Python-based LED game where players answer questions. Correct answers turn on a green LED, while wrong answers flash a red LED multiple times.&lt;/p&gt;&#xA;&lt;h2 id=&#34;image&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/code_club_thumb.jpeg&#34; alt=&#34;image&#34;&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;requirements&#34;&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;hardware&#34;&gt;&lt;strong&gt;Hardware:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Raspberry Pi (with GPIO capabilities)&lt;/li&gt;&#xA;&lt;li&gt;1 green LED for correct answers&lt;/li&gt;&#xA;&lt;li&gt;1 red LED for incorrect answers&lt;/li&gt;&#xA;&lt;li&gt;2 330Ω resistors&lt;/li&gt;&#xA;&lt;li&gt;Breadboard and jumper wires&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;python-concepts&#34;&gt;&lt;strong&gt;Python Concepts:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;if&lt;/code&gt;/&lt;code&gt;else&lt;/code&gt; statements&lt;/li&gt;&#xA;&lt;li&gt;Loops&lt;/li&gt;&#xA;&lt;li&gt;Functions&lt;/li&gt;&#xA;&lt;li&gt;Basic GPIO control&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;challenge-overview&#34;&gt;&lt;strong&gt;Challenge Overview:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;game-rules&#34;&gt;Game Rules:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The game asks 5 multiple-choice questions.&lt;/li&gt;&#xA;&lt;li&gt;Players respond by entering the correct letter (e.g., A, B, C).&#xA;If the answer is correct:&#xA;The green LED lights up for 1 second.&#xA;The player gets a congratulatory message.&#xA;If the answer is incorrect:&#xA;The red LED flashes 3 times.&#xA;A message tells the player the correct answer.&#xA;The game ends with a score summary.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;steps&#34;&gt;&lt;strong&gt;Steps:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;1-setup-the-leds&#34;&gt;1. &lt;strong&gt;Setup the LEDs&lt;/strong&gt;:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Connect the LEDs to two GPIO pins (e.g., GPIO17 and GPIO18).&lt;/li&gt;&#xA;&lt;li&gt;Use resistors to protect the LEDs.&lt;/li&gt;&#xA;&lt;li&gt;Connect the cathode (short leg) of each LED to the ground (negative -).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/ledquiz_boardbred.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;h1 id=&#34;quiz-controlled-leds-with-raspberry-pi&#34;&gt;&lt;strong&gt;Quiz Controlled LEDs with Raspberry Pi&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Here&#39;s a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.&lt;/p&gt;
+&lt;h2 id=&#34;objective&#34;&gt;&lt;strong&gt;Objective:&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Create a Python-based LED game where players answer questions. Correct answers turn on a green LED, while wrong answers flash a red LED multiple times.&lt;/p&gt;
+&lt;h2 id=&#34;image&#34;&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/code_club_thumb.jpeg&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/h2&gt;
+&lt;h2 id=&#34;requirements&#34;&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;hardware&#34;&gt;&lt;strong&gt;Hardware:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Raspberry Pi (with GPIO capabilities)&lt;/li&gt;
+&lt;li&gt;1 green LED for correct answers&lt;/li&gt;
+&lt;li&gt;1 red LED for incorrect answers&lt;/li&gt;
+&lt;li&gt;2 330Ω resistors&lt;/li&gt;
+&lt;li&gt;Breadboard and jumper wires&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;python-concepts&#34;&gt;&lt;strong&gt;Python Concepts:&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;if&lt;/code&gt;/&lt;code&gt;else&lt;/code&gt; statements&lt;/li&gt;
+&lt;li&gt;Loops&lt;/li&gt;
+&lt;li&gt;Functions&lt;/li&gt;
+&lt;li&gt;Basic GPIO control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;challenge-overview&#34;&gt;&lt;strong&gt;Challenge Overview:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;game-rules&#34;&gt;Game Rules:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The game asks 5 multiple-choice questions.&lt;/li&gt;
+&lt;li&gt;Players respond by entering the correct letter (e.g., A, B, C).
+If the answer is correct:
+The green LED lights up for 1 second.
+The player gets a congratulatory message.
+If the answer is incorrect:
+The red LED flashes 3 times.
+A message tells the player the correct answer.
+The game ends with a score summary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;steps&#34;&gt;&lt;strong&gt;Steps:&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;1-setup-the-leds&#34;&gt;1. &lt;strong&gt;Setup the LEDs&lt;/strong&gt;:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Connect the LEDs to two GPIO pins (e.g., GPIO17 and GPIO18).&lt;/li&gt;
+&lt;li&gt;Use resistors to protect the LEDs.&lt;/li&gt;
+&lt;li&gt;Connect the cathode (short leg) of each LED to the ground (negative -).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/ledquiz_boardbred.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Insights from 20 Easy Raspberry Pi Projects</title>
       <link>https://blog.vechiato.cc/post/book-20-easy-raspberry-pi-projects/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/book-20-easy-raspberry-pi-projects/</guid>
-      <description>&lt;p&gt;When I first discovered the Raspberry Pi, its versatility felt like a door to endless possibilities. &lt;em&gt;20 Easy Raspberry Pi Projects&lt;/em&gt; by Rui and Sara Santos exemplifies this sentiment by transforming this tiny computer into a toolkit for creativity. The book is packed with practical and entertaining projects, each designed to enhance your programming and electronics skills.&lt;/p&gt;&#xA;&lt;p&gt;I chose this book to explore ways to improve IoT experiments and to inspire ideas for the code club and my son. Whether you’re new to electronics or an experienced maker, the projects in this book will leave you brimming with ideas. Here&#39;s an in-depth look at each project.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;When I first discovered the Raspberry Pi, its versatility felt like a door to endless possibilities. &lt;em&gt;20 Easy Raspberry Pi Projects&lt;/em&gt; by Rui and Sara Santos exemplifies this sentiment by transforming this tiny computer into a toolkit for creativity. The book is packed with practical and entertaining projects, each designed to enhance your programming and electronics skills.&lt;/p&gt;
+&lt;p&gt;I chose this book to explore ways to improve IoT experiments and to inspire ideas for the code club and my son. Whether you’re new to electronics or an experienced maker, the projects in this book will leave you brimming with ideas. Here&#39;s an in-depth look at each project.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
+    <item>
+      <title>Insights from Python Basics</title>
+      <link>https://blog.vechiato.cc/post/book-python-basics/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-python-basics/</guid>
+      <description>
+        
+          
+            &lt;p&gt;When my son expressed interest in coding, it reignited my passion for introducing Python to others. This book, &lt;em&gt;Python Basics: A Practical Introduction to Python 3&lt;/em&gt;, is now part of the &amp;quot;Code Club&amp;quot; learning list a collection of resources aimed at helping children at the club (and my son) discover the joy of Python.&lt;/p&gt;
+&lt;p&gt;Written by the Real Python team, this book serves as an excellent entry point for anyone new to programming. It breaks down Python’s fundamentals into digestible lessons, providing real-world examples and coding exercises. Whether you&#39;re a complete beginner or brushing up on basics, this book offers the tools to transform curiosity into skill. Readers can expect to learn the essentials of Python programming and gain confidence in solving practical problems.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>How to Host Your Website for Free as friendly as possible for beginners</title>
       <link>https://blog.vechiato.cc/post/cloudflare-pages/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/cloudflare-pages/</guid>
-      <description>&lt;p&gt;if you’ve just learned HTML and CSS and are eager to put your website online, Cloudflare Pages is an excellent, beginner-friendly way to host your site for free. This post was inspired by my own son, who recently asked me for a way to publish his site that looked a bit more professional than the usual coding platform links. Like him, you might be looking for something simple yet polished to showcase your work. This guide will walk you through the process without needing to know Git or any advanced setups.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;h1 id=&#34;how-to-host-your-website-for-free-no-git-required&#34;&gt;&lt;strong&gt;How to Host Your Website for Free No Git required!&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;if you’ve just learned HTML and CSS and are eager to put your website online, Cloudflare Pages is an excellent, beginner-friendly way to host your site for free. This post was inspired by my own son, who recently asked me for a way to publish his site that looked a bit more professional than the usual coding platform links. Like him, you might be looking for something simple yet polished to showcase your work. This guide will walk you through the process without needing to know Git or any advanced setups.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
     <item>
       <title>Insights from GitHub For Dummies, 2nd Ed</title>
       <link>https://blog.vechiato.cc/post/book-github-for-dummies/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://blog.vechiato.cc/post/book-github-for-dummies/</guid>
-      <description>&lt;p&gt;GitHub has always been a cornerstone of my tinkering projects, whether it’s managing configurations or collaborating on open-source initiatives. When my son asked about contributing to coding projects, I thought of this book: &lt;em&gt;GitHub For Dummies&lt;/em&gt; by Sarah Guthals. Its approachable style and step-by-step tutorials make it an excellent resource, especially for beginners navigating the complexities of version control and collaboration. For anyone curious about starting with GitHub or refining their workflows, this book promises clarity and practical advice.&lt;/p&gt;</description>
+      <description>
+        
+          
+            &lt;p&gt;GitHub has always been a cornerstone of my tinkering projects, whether it’s managing configurations or collaborating on open-source initiatives. When my son asked about contributing to coding projects, I thought of this book: &lt;em&gt;GitHub For Dummies&lt;/em&gt; by Sarah Guthals. Its approachable style and step-by-step tutorials make it an excellent resource, especially for beginners navigating the complexities of version control and collaboration. For anyone curious about starting with GitHub or refining their workflows, this book promises clarity and practical advice.&lt;/p&gt;
+          
+          
+        
+      </description>
     </item>
+    
   </channel>
 </rss>
