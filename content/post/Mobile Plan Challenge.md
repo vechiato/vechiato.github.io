@@ -1,14 +1,14 @@
 ---
-author: "Marcus Vechiato"
-title: "Code Club Mobile Plan Challenge"
-date: "2025-05-20"
-thumbnail: "/obsidian/code_club_thumb.jpeg"
+author: Marcus Vechiato
+title: "Code Club Mobile Plan Challenge: Can You Beat your Family's Phone Bill?"
+date: 2025-05-20
+thumbnail: /obsidian/code_club_thumb.jpeg
 publish: true
 tags:
-  - code club
+  - code
+  - club
 ---
 
-# 💸 Code Club Mobile Plan Challenge: Can You Beat our Family's Phone Bill?
 
 Hey Code Club! Want to use your coding and research skills to help your family **save real money**? Here’s a fun challenge for you (and yes, you can earn a reward too)!
 

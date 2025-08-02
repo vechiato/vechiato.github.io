@@ -9,7 +9,7 @@
   
   >
   <head>
-<title>Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows? | Marcus Vechiato</title>
+<title>SLA, Error Budget, Uptime: Where Do Maintenance Windows Fit? | Marcus Vechiato</title>
 <meta charset="utf-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -27,16 +27,14 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="🔧 Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?
-When it comes to service reliability, maintenance windows can be a gray area. …" />
+<meta name="description" content="When it comes to service reliability, maintenance windows are a frequent source of ambiguity. Whether you’re defining uptime, setting SLOs, or communicating …" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@vechiato">
-<meta name="twitter:title" content="Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?" />
+<meta name="twitter:title" content="SLA, Error Budget, Uptime: Where Do Maintenance Windows Fit?" />
 <meta name="twitter:image" content="https://blog.vechiato.cc/obsidian/effective-sre-scope.png"/>
 <meta property="og:url" content="https://blog.vechiato.cc/post/maintenance-windows/" />
-<meta property="og:title" content="Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?" />
-<meta property="og:description" content="🔧 Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?
-When it comes to service reliability, maintenance windows can be a gray area. …" />
+<meta property="og:title" content="SLA, Error Budget, Uptime: Where Do Maintenance Windows Fit?" />
+<meta property="og:description" content="When it comes to service reliability, maintenance windows are a frequent source of ambiguity. Whether you’re defining uptime, setting SLOs, or communicating …" />
 <meta property="og:image" content="https://blog.vechiato.cc/obsidian/effective-sre-scope.png" />
   <meta name="keywords" content="blog,technology,sla,sre,slo,error budget" />
   <script type="application/ld+json">
@@ -45,8 +43,8 @@ When it comes to service reliability, maintenance windows can be a gray area. �
       "@type": "BlogPosting",
       "mainEntityOfPage":"https:\/\/blog.vechiato.cc\/post\/maintenance-windows\/",
       "name": "Marcus Vechiato",
-      "headline": "Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?",
-      "description": "\u003ch1 id=\"-do-slas-error-budgets-and-availability-metrics-include-maintenance-windows\"\u003e🔧 Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?\u003c/h1\u003e\n\u003cp\u003eWhen it comes to service reliability, maintenance windows can be a gray area. …\u003c/p\u003e",
+      "headline": "SLA, Error Budget, Uptime: Where Do Maintenance Windows Fit?",
+      "description": "\u003cp\u003eWhen it comes to service reliability, maintenance windows are a frequent source of ambiguity. Whether you’re defining uptime, setting SLOs, or communicating …\u003c/p\u003e",
       "url": "https:\/\/blog.vechiato.cc\/post\/maintenance-windows\/",
       "datePublished": "2025-04-14T00:00:00Z",
       "dateModified": "2025-04-14T00:00:00Z",
@@ -179,7 +177,7 @@ When it comes to service reliability, maintenance windows can be a gray area. �
   
 <div class="grid-inverse wrap content">
   <article class="post_content">
-    <h1 class="post_title">Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?</h1>
+    <h1 class="post_title">SLA, Error Budget, Uptime: Where Do Maintenance Windows Fit?</h1>
   <div class="post_meta">
     <span><svg class="icon">
   <title>calendar</title>
@@ -197,14 +195,14 @@ When it comes to service reliability, maintenance windows can be a gray area. �
     <span class="page_only">&nbsp;·
   <div class="post_share">
     Share on:
-    <a href="https://twitter.com/intent/tweet?text=Do%20SLAs%2c%20Error%20Budgets%2c%20and%20Availability%20Metrics%20Include%20Maintenance%20Windows%3f&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fmaintenance-windows%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
+    <a href="https://twitter.com/intent/tweet?text=SLA%2c%20Error%20Budget%2c%20Uptime%3a%20Where%20Do%20Maintenance%20Windows%20Fit%3f&url=https%3a%2f%2fblog.vechiato.cc%2fpost%2fmaintenance-windows%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>twitter</title>
   <use xlink:href="#twitter"></use>
 </svg>
 
     </a>
-    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fmaintenance-windows%2f&t=Do%20SLAs%2c%20Error%20Budgets%2c%20and%20Availability%20Metrics%20Include%20Maintenance%20Windows%3f" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
+    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.vechiato.cc%2fpost%2fmaintenance-windows%2f&t=SLA%2c%20Error%20Budget%2c%20Uptime%3a%20Where%20Do%20Maintenance%20Windows%20Fit%3f" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
       <svg class="icon">
   <title>facebook</title>
   <use xlink:href="#facebook"></use>
@@ -229,11 +227,7 @@ When it comes to service reliability, maintenance windows can be a gray area. �
   </span>
   </div>
 
-    <div class="post_body"><h1 id="-do-slas-error-budgets-and-availability-metrics-include-maintenance-windows">🔧 Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?</h1>
-<p>When it comes to service reliability, maintenance windows can be a gray area. Whether you're tracking uptime, setting SLOs, or managing customer expectations through SLAs, the question often comes up:</p>
-<blockquote>
-<p><em>“Should scheduled maintenance count against our SLA? What about our error budget or availability metrics?”</em></p></blockquote>
-<p>Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations   and what best practices look like.</p>
+    <div class="post_body"><p>When it comes to service reliability, maintenance windows are a frequent source of ambiguity. Whether you’re defining uptime, setting SLOs, or communicating with customers, it’s essential to be explicit about how scheduled (and unscheduled) maintenance is handled. Here’s a deeper dive with actionable recommendations for SREs, engineering managers, and anyone responsible for reliability targets.</p>
 <p><figure>
   <picture>
 
@@ -260,23 +254,16 @@ When it comes to service reliability, maintenance windows can be a gray area. �
 </figure>
 </p>
 <hr>
-<h3 id="-sla-do-maintenance-windows-count">📜 SLA: Do Maintenance Windows Count?</h3>
+<h3 id="sla-do-maintenance-windows-count"><strong>SLA: Do Maintenance Windows Count?</strong></h3>
 <p><strong>Service Level Agreements (SLAs)</strong> are typically <strong>contractual commitments</strong> made to customers, promising a certain level of service availability (e.g., 99.9% uptime).</p>
-<h4 id="planned-maintenance-is-usually-excluded">✅ <strong>Planned Maintenance Is Usually Excluded</strong></h4>
-<p>Most SLAs <strong>exclude scheduled and communicated maintenance windows</strong> from downtime calculations. That means if:</p>
+<h4 id="planned-maintenance-is-usually-excluded"><strong>Planned Maintenance Is Usually Excluded</strong></h4>
+<p>Most SLAs <strong>exclude scheduled and properly communicated maintenance windows</strong> from downtime calculations, provided:</p>
 <ul>
-<li>
-<p>Maintenance was planned,</p>
-</li>
-<li>
-<p>Properly communicated in advance (often 24–72 hours), and</p>
-</li>
-<li>
-<p>Done within agreed-upon time windows (e.g., off-peak hours),</p>
-</li>
+<li>Maintenance is planned and communicated well in advance (typically 24–72 hours)</li>
+<li>It occurs within agreed windows (often off-peak)</li>
+<li>The duration and impact are within expectations</li>
 </ul>
-<p>…it usually does <strong>not count against the SLA</strong>.</p>
-<h4 id="-unscheduled-or-overrun-maintenance-may-count">❌ Unscheduled or Overrun Maintenance May Count</h4>
+<h4 id="unscheduled-or-overrun-maintenance-may-count"><strong>Unscheduled or Overrun Maintenance May Count</strong></h4>
 <p>However, if:</p>
 <ul>
 <li>
@@ -291,71 +278,96 @@ When it comes to service reliability, maintenance windows can be a gray area. �
 </ul>
 <p>…it <strong>can count as downtime</strong> and lead to SLA violations or service credits.</p>
 <hr>
-<h3 id="-error-budgets-are-they-affected-by-maintenance">🎯 Error Budgets: Are They Affected by Maintenance?</h3>
+<h3 id="error-budgets-are-they-affected-by-maintenance"><strong>Error Budgets: Are They Affected by Maintenance?</strong></h3>
 <p><strong>Error budgets</strong> represent the amount of failure or unreliability tolerated over a period, based on an <strong>SLO</strong> (Service Level Objective). If your SLO is 99.9% uptime per month, your error budget is about <strong>43.2 minutes</strong> of allowed downtime.</p>
-<h4 id="planned-maintenance-usually-doesnt-burn-budget">🚫 <strong>Planned Maintenance Usually Doesn’t Burn Budget</strong></h4>
-<p>If maintenance is pre-approved and doesn't disrupt users, it’s typically excluded from the error budget   especially in SRE frameworks that prioritize <strong>user-perceived reliability</strong>.</p>
-<h4 id="user-impacting-events-do-burn-budget">✅ <strong>User-Impacting Events Do Burn Budget</strong></h4>
-<p>If users are affected   even during scheduled maintenance   some orgs choose to count it against the error budget. The key question is:</p>
+<h4 id="planned-non-disruptive-maintenance-usually-doesnt-burn-budget"><strong>Planned, Non-Disruptive Maintenance Usually Doesn’t Burn Budget</strong></h4>
+<p>If maintenance is pre-approved and has minimal user impact, many SRE frameworks <strong>exclude it from error budgets</strong>, especially when focusing on user-perceived reliability.</p>
+<h4 id="user-impacting-events-do-burn-budget"><strong>User-Impacting Events Do Burn Budget</strong></h4>
+<p>If users are affected, even during scheduled maintenance some orgs choose to count it against the error budget. The key question is:</p>
 <blockquote>
 <p><em>“Would a user notice or be blocked?”</em></p></blockquote>
-<p>If yes, it probably burns error budget. If no, it likely doesn't.</p>
+<p>If yes, its likely burns error budget.</p>
 <hr>
-<h3 id="-availability-does-maintenance-affect-it">📈 Availability: Does Maintenance Affect It?</h3>
-<p><strong>Availability</strong> is the actual <strong>measured uptime</strong> of your service over a specific period   typically expressed as a percentage like 99.95%.</p>
-<p>Whether maintenance counts against it depends on <strong>how you define availability</strong> in your metrics.</p>
+<h3 id="multi-region--modern-deployments"><strong>Multi-Region &amp; Modern Deployments</strong></h3>
+<p>For rolling upgrades or blue/green deployments, consider whether each region’s window is counted separately and how partial availability is measured. Explicitly document these scenarios in your SLO/SLA definitions.</p>
+<h3 id="availability-metrics-does-maintenance-affect-them"><strong>Availability Metrics: Does Maintenance Affect them?</strong></h3>
+<p><strong>Availability</strong> is typically measured as the percentage of time a service is operational.
+Whether maintenance counts against it depends on <strong>how you define availability</strong> in your metrics.</p>
 <h4 id="user-facing-availability">🔸 <strong>User-Facing Availability</strong></h4>
-<p>If your availability metric reflects <strong>user impact</strong>, planned maintenance that’s properly communicated is <strong>often excluded</strong>.</p>
+<p>If your metric reflects <strong>user impact</strong>, planned and well-communicated maintenance is <strong>often excluded</strong>.</p>
 <h4 id="system-level-strict-availability">🔹 <strong>System-Level (Strict) Availability</strong></h4>
-<p>If you're measuring raw service uptime (e.g., pings, monitoring checks), all downtime   including planned maintenance   <strong>might be included</strong>.</p>
+<p>If you're measuring raw service uptime (e.g., via monitoring checks), all downtime, including planned maintenance, <strong>may be included</strong>.</p>
+<h4 id="example">Example</h4>
+<p>If you perform a rolling restart across three regions, document whether each region’s window is counted separately or if global user impact is the metric.</p>
+<h3 id="best-practices"><strong>Best Practices</strong></h3>
+<ul>
+<li><strong>Define Everything Explicitly:</strong> Document how maintenance is handled in SLAs, SLOs, error budgets, and availability metrics. Include examples and edge cases.</li>
+<li><strong>Reference Industry Standards:</strong> Align with frameworks like Google SRE, ITIL, or major cloud provider SLAs for benchmarks.</li>
+<li><strong>Communicate Proactively:</strong> Notify all stakeholders (internal and external) well in advance. For regulated industries, follow compliance requirements.</li>
+<li><strong>Focus on User Impact:</strong> Base decisions on real user experience, not just system status.</li>
+<li><strong>Align Across Teams:</strong> Ensure engineering, product, and legal are on the same page.</li>
+<li><strong>Review Regularly:</strong> Revisit definitions and practices as your architecture or business needs evolve.</li>
+</ul>
 <hr>
-<h3 id="-summary-table">📌 Summary Table</h3>
+<h3 id="summary-table"><strong>Summary Table</strong></h3>
 <table>
   <thead>
       <tr>
-          <th>Maintenance Type</th>
-          <th>Counts Toward SLA?</th>
-          <th>Burns Error Budget?</th>
-          <th>Affects Availability?</th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td><strong>Planned &amp; Communicated</strong></td>
+          <td>Maintenance Type</td>
+          <td>Counts Toward SLA?</td>
+          <td>Burns Error Budget?</td>
+          <td>Affects Availability?</td>
+          <td>Notes/Examples</td>
+      </tr>
+      <tr>
+          <td>Planned &amp; Communicated</td>
           <td>❌ Usually Not</td>
           <td>❌ Usually Not</td>
           <td>❌* If defined that way</td>
+          <td>Exclude if no user impact, per contract</td>
       </tr>
       <tr>
-          <td><strong>Unplanned or Overrun</strong></td>
+          <td>Unplanned/Overrun</td>
           <td>✅ Yes</td>
           <td>✅ Yes</td>
           <td>✅ Yes</td>
+          <td>Count as downtime, triggers credits/penalties</td>
       </tr>
       <tr>
-          <td><strong>Poorly Communicated</strong></td>
+          <td>Poorly Communicated</td>
           <td>✅ Yes</td>
           <td>✅ Yes</td>
           <td>✅ Yes</td>
+          <td>Treat as unplanned</td>
+      </tr>
+      <tr>
+          <td>Rolling Upgrades</td>
+          <td>❓ Varies</td>
+          <td>❓ Varies</td>
+          <td>❓ Varies</td>
+          <td>Define per region/global, document explicitly</td>
+      </tr>
+      <tr>
+          <td>Regulatory Maintenance</td>
+          <td>❓ Check contract</td>
+          <td>❓ Check contract</td>
+          <td>❓ Check contract</td>
+          <td>May require notification, reporting, approvals</td>
       </tr>
   </tbody>
 </table>
 <hr>
-<h3 id="-best-practices">🧠 Best Practices</h3>
-<ul>
-<li>
-<p>📑 <strong>Define everything explicitly</strong>: Make sure SLAs, SLOs, and availability metrics clearly state how maintenance is handled.</p>
-</li>
-<li>
-<p>📣 <strong>Communicate proactively</strong>: Proper notification is key to excluding maintenance from SLAs and error budgets.</p>
-</li>
-<li>
-<p>🎯 <strong>Focus on user impact</strong>: Base decisions on whether users are affected, not just whether systems are up or down.</p>
-</li>
-<li>
-<p>🤝 <strong>Align across teams</strong>: Ensure engineering, product, and legal are aligned on how you track and report service health.</p>
-</li>
-</ul>
+<h3 id="final-thoughts"><strong>Final Thoughts</strong></h3>
+<p>Explicit documentation and proactive communication are your best tools for avoiding disputes and ensuring everyone, from engineers to customers, has the same expectations. As systems and contracts grow more complex, revisit these definitions regularly and benchmark against industry standards.</p>
 
     </div>
 <div class="post_comments">
@@ -412,10 +424,10 @@ When it comes to service reliability, maintenance windows can be a gray area. �
         <a href="https://blog.vechiato.cc/post/book-an-elegant-puzzle/" class="nav-link" title="Insights from An Elegant Puzzle: Systems of Engineering Management">Insights from An Elegant Puzzle: Systems of Engineering Management</a>
       </li>
       <li>
-        <a href="https://blog.vechiato.cc/post/mobile-plan-challenge/" class="nav-link" title="Code Club Mobile Plan Challenge">Code Club Mobile Plan Challenge</a>
+        <a href="https://blog.vechiato.cc/post/mobile-plan-challenge/" class="nav-link" title="Code Club Mobile Plan Challenge: Can You Beat your Family&#39;s Phone Bill?">Code Club Mobile Plan Challenge: Can You Beat your Family's Phone Bill?</a>
       </li>
       <li>
-        <a href="https://blog.vechiato.cc/post/maintenance-windows/" class="nav-link" title="Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?">Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?</a>
+        <a href="https://blog.vechiato.cc/post/maintenance-windows/" class="nav-link" title="SLA, Error Budget, Uptime: Where Do Maintenance Windows Fit?">SLA, Error Budget, Uptime: Where Do Maintenance Windows Fit?</a>
       </li>
       <li>
         <a href="https://blog.vechiato.cc/post/book-developer-relations-playbook/" class="nav-link" title="Insights from The Developer Relations Playbook">Insights from The Developer Relations Playbook</a>
@@ -435,7 +447,7 @@ When it comes to service reliability, maintenance windows can be a gray area. �
       <nav class="tags_nav">
         <a href='https://blog.vechiato.cc/tags/book/' class="post_tag button button_translucent" title="book">
           BOOK
-          <span class="button_tally">60</span>
+          <span class="button_tally">59</span>
         </a>
         
         <a href='https://blog.vechiato.cc/tags/devops/' class="post_tag button button_translucent" title="devops">
@@ -453,19 +465,19 @@ When it comes to service reliability, maintenance windows can be a gray area. �
           <span class="button_tally">11</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/code-club/' class="post_tag button button_translucent" title="code club">
-          CODE CLUB
-          <span class="button_tally">8</span>
+        <a href='https://blog.vechiato.cc/tags/k8s/' class="post_tag button button_translucent" title="k8s">
+          K8S
+          <span class="button_tally">6</span>
         </a>
         
         <a href='https://blog.vechiato.cc/tags/python/' class="post_tag button button_translucent" title="python">
           PYTHON
-          <span class="button_tally">7</span>
+          <span class="button_tally">6</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/k8s/' class="post_tag button button_translucent" title="k8s">
-          K8S
-          <span class="button_tally">6</span>
+        <a href='https://blog.vechiato.cc/tags/code-club/' class="post_tag button button_translucent" title="code club">
+          CODE CLUB
+          <span class="button_tally">5</span>
         </a>
         
         <a href='https://blog.vechiato.cc/tags/observability/' class="post_tag button button_translucent" title="observability">
@@ -498,8 +510,8 @@ When it comes to service reliability, maintenance windows can be a gray area. �
           <span class="button_tally">3</span>
         </a>
         
-        <a href='https://blog.vechiato.cc/tags/ebpf/' class="post_tag button button_translucent" title="ebpf">
-          EBPF
+        <a href='https://blog.vechiato.cc/tags/club/' class="post_tag button button_translucent" title="club">
+          CLUB
           <span class="button_tally">2</span>
         </a>
         
@@ -525,7 +537,7 @@ When it comes to service reliability, maintenance windows can be a gray area. �
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/book/' class=" post_tag button button_translucent" data-position=60 title="book">BOOK<span class="button_tally">60</span>
+            <a href='https://blog.vechiato.cc/tags/book/' class=" post_tag button button_translucent" data-position=59 title="book">BOOK<span class="button_tally">59</span>
             </a>
             
             
@@ -545,7 +557,15 @@ When it comes to service reliability, maintenance windows can be a gray area. �
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/code-club/' class=" post_tag button button_translucent" data-position=8 title="code club">CODE CLUB<span class="button_tally">8</span>
+            <a href='https://blog.vechiato.cc/tags/club/' class=" post_tag button button_translucent" data-position=2 title="club">CLUB<span class="button_tally">2</span>
+            </a>
+            
+            
+            <a href='https://blog.vechiato.cc/tags/code/' class=" post_tag button button_translucent" data-position=2 title="code">CODE<span class="button_tally">2</span>
+            </a>
+            
+            
+            <a href='https://blog.vechiato.cc/tags/code-club/' class=" post_tag button button_translucent" data-position=5 title="code club">CODE CLUB<span class="button_tally">5</span>
             </a>
             
             
@@ -685,7 +705,7 @@ When it comes to service reliability, maintenance windows can be a gray area. �
             </a>
             
             
-            <a href='https://blog.vechiato.cc/tags/python/' class=" post_tag button button_translucent" data-position=7 title="python">PYTHON<span class="button_tally">7</span>
+            <a href='https://blog.vechiato.cc/tags/python/' class=" post_tag button button_translucent" data-position=6 title="python">PYTHON<span class="button_tally">6</span>
             </a>
             
             

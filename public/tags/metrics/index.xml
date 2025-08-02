@@ -9,7 +9,7 @@
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/metrics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Watermelon Effect</title>
+      <title>The Watermelon Effect: Are Your Metrics Hiding the Truth?</title>
       <link>https://blog.vechiato.cc/post/the-watermelon-effect/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       
@@ -17,8 +17,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;are-your-metrics-hiding-the-truth&#34;&gt;&lt;strong&gt;Are Your Metrics Hiding the Truth?&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;The watermelon effect in IT refers to situations where metrics appear green (positive) on the outside but are red (negative) on the inside. This can lead to a false sense of security and overlook underlying issues. Addressing this requires a combination of transparent metrics, honest culture, and actionable insights.&lt;/p&gt;
+            &lt;p&gt;The watermelon effect in IT refers to situations where metrics appear green (positive) on the outside but are red (negative) on the inside. This can lead to a false sense of security and overlook underlying issues. Addressing this requires a combination of transparent metrics, honest culture, and actionable insights.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 

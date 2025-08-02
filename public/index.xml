@@ -43,7 +43,7 @@
     </item>
     
     <item>
-      <title>Code Club Mobile Plan Challenge</title>
+      <title>Code Club Mobile Plan Challenge: Can You Beat your Family&#39;s Phone Bill?</title>
       <link>https://blog.vechiato.cc/post/mobile-plan-challenge/</link>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
       
@@ -51,8 +51,7 @@
       <description>
         
           
-            &lt;h1 id=&#34;-code-club-mobile-plan-challenge-can-you-beat-our-familys-phone-bill&#34;&gt;💸 Code Club Mobile Plan Challenge: Can You Beat our Family&#39;s Phone Bill?&lt;/h1&gt;
-&lt;p&gt;Hey Code Club! Want to use your coding and research skills to help your family &lt;strong&gt;save real money&lt;/strong&gt;? Here’s a fun challenge for you (and yes, you can earn a reward too)!&lt;/p&gt;
+            &lt;p&gt;Hey Code Club! Want to use your coding and research skills to help your family &lt;strong&gt;save real money&lt;/strong&gt;? Here’s a fun challenge for you (and yes, you can earn a reward too)!&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-the-problem&#34;&gt;🧩 The Problem&lt;/h2&gt;
 &lt;p&gt;Our family pays &lt;strong&gt;way too much&lt;/strong&gt; for our phone plans! Here’s what we have right now:&lt;/p&gt;
@@ -69,7 +68,7 @@
     </item>
     
     <item>
-      <title>Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?</title>
+      <title>SLA, Error Budget, Uptime: Where Do Maintenance Windows Fit?</title>
       <link>https://blog.vechiato.cc/post/maintenance-windows/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       
@@ -77,11 +76,35 @@
       <description>
         
           
-            &lt;h1 id=&#34;-do-slas-error-budgets-and-availability-metrics-include-maintenance-windows&#34;&gt;🔧 Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?&lt;/h1&gt;
-&lt;p&gt;When it comes to service reliability, maintenance windows can be a gray area. Whether you&#39;re tracking uptime, setting SLOs, or managing customer expectations through SLAs, the question often comes up:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;“Should scheduled maintenance count against our SLA? What about our error budget or availability metrics?”&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations   and what best practices look like.&lt;/p&gt;
+            &lt;p&gt;When it comes to service reliability, maintenance windows are a frequent source of ambiguity. Whether you’re defining uptime, setting SLOs, or communicating with customers, it’s essential to be explicit about how scheduled (and unscheduled) maintenance is handled. Here’s a deeper dive with actionable recommendations for SREs, engineering managers, and anyone responsible for reliability targets.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/effective-sre-scope.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;sla-do-maintenance-windows-count&#34;&gt;&lt;strong&gt;SLA: Do Maintenance Windows Count?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Service Level Agreements (SLAs)&lt;/strong&gt; are typically &lt;strong&gt;contractual commitments&lt;/strong&gt; made to customers, promising a certain level of service availability (e.g., 99.9% uptime).&lt;/p&gt;
           
           
         
@@ -206,7 +229,7 @@ In this blog post, I&#39;ll walk you through the motivation behind the project, 
     </item>
     
     <item>
-      <title>Mastering Google Search</title>
+      <title>Mastering Google Search: A Guide for Kids (and Adults!)</title>
       <link>https://blog.vechiato.cc/post/mastering-google-search/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
@@ -214,13 +237,18 @@ In this blog post, I&#39;ll walk you through the motivation behind the project, 
       <description>
         
           
-            &lt;h1 id=&#34;mastering-google-search-a-guide-for-kids-and-adults&#34;&gt;Mastering Google Search: A Guide for Kids (and Adults!)&lt;/h1&gt;
-&lt;p&gt;The internet is like a giant library, and Google Search is the tool that helps you find the books you need. Whether you&#39;re coding, solving homework, or just curious about the world, knowing how to use Google effectively is a superpower. Let&#39;s dive into some essential tips and advanced tricks to make your searches smart, precise, and powerful.&lt;/p&gt;
+            &lt;p&gt;The internet is like a giant library, and Google Search is the tool that helps you find the books you need. Whether you&#39;re coding, solving homework, or just curious about the world, knowing how to use Google effectively is a superpower. Let&#39;s dive into some essential tips and advanced tricks to make your searches smart, precise, and powerful.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;the-basics&#34;&gt;&lt;strong&gt;The Basics&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Choose Your Keywords Wisely&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use words that are most relevant to your topic. For example, instead of searching for &amp;quot;Why doesn&#39;t my Python program work?&amp;quot;, try &amp;quot;Python syntax error fix&amp;quot; or &amp;quot;debug Python code.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use Quotation Marks&lt;/strong&gt;:&lt;/p&gt;
           
           
         
@@ -261,7 +289,7 @@ In this blog post, I&#39;ll walk you through the motivation behind the project, 
     </item>
     
     <item>
-      <title>Code Club - Quiz Controlled LEDs</title>
+      <title>Code Club - Quiz Controlled LEDs with Raspberry Pi</title>
       <link>https://blog.vechiato.cc/post/code-club---quiz-controlled-leds-with-raspberry-pi/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
@@ -269,8 +297,7 @@ In this blog post, I&#39;ll walk you through the motivation behind the project, 
       <description>
         
           
-            &lt;h1 id=&#34;quiz-controlled-leds-with-raspberry-pi&#34;&gt;&lt;strong&gt;Quiz Controlled LEDs with Raspberry Pi&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Here&#39;s a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.&lt;/p&gt;
+            &lt;p&gt;Here&#39;s a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.&lt;/p&gt;
 &lt;h2 id=&#34;objective&#34;&gt;&lt;strong&gt;Objective:&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Create a Python-based LED game where players answer questions. Correct answers turn on a green LED, while wrong answers flash a red LED multiple times.&lt;/p&gt;
 &lt;h2 id=&#34;image&#34;&gt;&lt;figure&gt;
@@ -401,23 +428,6 @@ The game ends with a score summary.&lt;/li&gt;
     </item>
     
     <item>
-      <title>Insights from Python Basics</title>
-      <link>https://blog.vechiato.cc/post/book-python-basics/</link>
-      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.vechiato.cc/post/book-python-basics/</guid>
-      <description>
-        
-          
-            &lt;p&gt;When my son expressed interest in coding, it reignited my passion for introducing Python to others. This book, &lt;em&gt;Python Basics: A Practical Introduction to Python 3&lt;/em&gt;, is now part of the &amp;quot;Code Club&amp;quot; learning list a collection of resources aimed at helping children at the club (and my son) discover the joy of Python.&lt;/p&gt;
-&lt;p&gt;Written by the Real Python team, this book serves as an excellent entry point for anyone new to programming. It breaks down Python’s fundamentals into digestible lessons, providing real-world examples and coding exercises. Whether you&#39;re a complete beginner or brushing up on basics, this book offers the tools to transform curiosity into skill. Readers can expect to learn the essentials of Python programming and gain confidence in solving practical problems.&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
       <title>Insights from Implementing Service Level Objectives: A Practical Guide to SLIs, SLOs &amp; Error Budgets</title>
       <link>https://blog.vechiato.cc/post/book-implementing-service-level-objectives/</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
@@ -443,8 +453,7 @@ The game ends with a score summary.&lt;/li&gt;
       <description>
         
           
-            &lt;h1 id=&#34;how-to-host-your-website-for-free-no-git-required&#34;&gt;&lt;strong&gt;How to Host Your Website for Free No Git required!&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;if you’ve just learned HTML and CSS and are eager to put your website online, Cloudflare Pages is an excellent, beginner-friendly way to host your site for free. This post was inspired by my own son, who recently asked me for a way to publish his site that looked a bit more professional than the usual coding platform links. Like him, you might be looking for something simple yet polished to showcase your work. This guide will walk you through the process without needing to know Git or any advanced setups.&lt;/p&gt;
+            &lt;p&gt;if you’ve just learned HTML and CSS and are eager to put your website online, Cloudflare Pages is an excellent, beginner-friendly way to host your site for free. This post was inspired by my own son, who recently asked me for a way to publish his site that looked a bit more professional than the usual coding platform links. Like him, you might be looking for something simple yet polished to showcase your work. This guide will walk you through the process without needing to know Git or any advanced setups.&lt;/p&gt;
           
           
         
@@ -516,7 +525,7 @@ The game ends with a score summary.&lt;/li&gt;
     </item>
     
     <item>
-      <title>The Watermelon Effect</title>
+      <title>The Watermelon Effect: Are Your Metrics Hiding the Truth?</title>
       <link>https://blog.vechiato.cc/post/the-watermelon-effect/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       
@@ -524,8 +533,7 @@ The game ends with a score summary.&lt;/li&gt;
       <description>
         
           
-            &lt;h1 id=&#34;are-your-metrics-hiding-the-truth&#34;&gt;&lt;strong&gt;Are Your Metrics Hiding the Truth?&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;The watermelon effect in IT refers to situations where metrics appear green (positive) on the outside but are red (negative) on the inside. This can lead to a false sense of security and overlook underlying issues. Addressing this requires a combination of transparent metrics, honest culture, and actionable insights.&lt;/p&gt;
+            &lt;p&gt;The watermelon effect in IT refers to situations where metrics appear green (positive) on the outside but are red (negative) on the inside. This can lead to a false sense of security and overlook underlying issues. Addressing this requires a combination of transparent metrics, honest culture, and actionable insights.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
   &lt;picture&gt;
 
@@ -792,8 +800,7 @@ The watermelon effect occurs when surface-level indicators show success while de
       <description>
         
           
-            &lt;h1 id=&#34;falco-enhances-container-security-with-real-time-threat-detection&#34;&gt;Falco Enhances Container Security with Real-time Threat Detection&lt;/h1&gt;
-&lt;p&gt;In today&#39;s digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.&lt;/p&gt;
+            &lt;p&gt;In today&#39;s digital landscape, containerised applications have become the cornerstone of modern software development, offering scalability, portability, and efficiency. However, with the proliferation of containers, security concerns have also escalated. Ensuring the security of containerized environments is paramount to safeguarding sensitive data and maintaining the integrity of applications. To address these challenges, the Cloud Native Computing Foundation (CNCF) has introduced Falco, an open-source runtime security project designed to provide real-time threat detection for containers and Kubernetes environments.&lt;/p&gt;
           
           
         
@@ -1970,6 +1977,22 @@ The watermelon effect occurs when surface-level indicators show success while de
     </item>
     
     <item>
+      <title>Insights from Tiny Habits: The Small Changes That Change Everything</title>
+      <link>https://blog.vechiato.cc/post/book-tiny-habits/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.vechiato.cc/post/book-tiny-habits/</guid>
+      <description>
+        
+          
+            &lt;p&gt;I remember trying for years to build a consistent workout routine and always feeling like I was failing at it. Then I stumbled on a method that didn’t shame me or demand more motivation than I could muster it just asked for something &lt;em&gt;tiny&lt;/em&gt;. That’s what drew me to &lt;em&gt;Tiny Habits: The Small Changes That Change Everything&lt;/em&gt; by BJ Fogg. It’s not a motivational manifesto or a productivity hack bible. It’s a practical, research-based guide that teaches you how to form habits by starting ridiculously small. I picked up this book looking for smarter ways to build consistency and walked away with a fresh understanding of human behavior. Expect to learn how habits actually work and how they can stack up to transform your life with very little effort.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
       <title>Insights from Team Topologies: Organizing Business and Technology Teams for Fast Flow</title>
       <link>https://blog.vechiato.cc/post/book-team-topologies/</link>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
@@ -2136,22 +2159,6 @@ The watermelon effect occurs when surface-level indicators show success while de
 &lt;/figure&gt;
 
 2020 by Reed Hastings and Erin Meyer&lt;/p&gt;
-          
-          
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Insights from Tiny Habits: The Small Changes That Change Everything</title>
-      <link>https://blog.vechiato.cc/post/book-tiny-habits/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.vechiato.cc/post/book-tiny-habits/</guid>
-      <description>
-        
-          
-            &lt;p&gt;I remember trying for years to build a consistent workout routine and always feeling like I was failing at it. Then I stumbled on a method that didn’t shame me or demand more motivation than I could muster it just asked for something &lt;em&gt;tiny&lt;/em&gt;. That’s what drew me to &lt;em&gt;Tiny Habits: The Small Changes That Change Everything&lt;/em&gt; by BJ Fogg. It’s not a motivational manifesto or a productivity hack bible. It’s a practical, research-based guide that teaches you how to form habits by starting ridiculously small. I picked up this book looking for smarter ways to build consistency and walked away with a fresh understanding of human behavior. Expect to learn how habits actually work and how they can stack up to transform your life with very little effort.&lt;/p&gt;
           
           
         

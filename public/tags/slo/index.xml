@@ -9,7 +9,7 @@
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/slo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?</title>
+      <title>SLA, Error Budget, Uptime: Where Do Maintenance Windows Fit?</title>
       <link>https://blog.vechiato.cc/post/maintenance-windows/</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
       
@@ -17,11 +17,35 @@
       <description>
         
           
-            &lt;h1 id=&#34;-do-slas-error-budgets-and-availability-metrics-include-maintenance-windows&#34;&gt;🔧 Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?&lt;/h1&gt;
-&lt;p&gt;When it comes to service reliability, maintenance windows can be a gray area. Whether you&#39;re tracking uptime, setting SLOs, or managing customer expectations through SLAs, the question often comes up:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;“Should scheduled maintenance count against our SLA? What about our error budget or availability metrics?”&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations   and what best practices look like.&lt;/p&gt;
+            &lt;p&gt;When it comes to service reliability, maintenance windows are a frequent source of ambiguity. Whether you’re defining uptime, setting SLOs, or communicating with customers, it’s essential to be explicit about how scheduled (and unscheduled) maintenance is handled. Here’s a deeper dive with actionable recommendations for SREs, engineering managers, and anyone responsible for reliability targets.&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;image&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://blog.vechiato.cc/obsidian/effective-sre-scope.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;sla-do-maintenance-windows-count&#34;&gt;&lt;strong&gt;SLA: Do Maintenance Windows Count?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Service Level Agreements (SLAs)&lt;/strong&gt; are typically &lt;strong&gt;contractual commitments&lt;/strong&gt; made to customers, promising a certain level of service availability (e.g., 99.9% uptime).&lt;/p&gt;
           
           
         
