@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "The Watermelon Effect"
+title: "The Watermelon Effect: Are Your Metrics Hiding the Truth?"
 date: "2024-07-08"
 aliases: 
   - /blog/article-unveiling-the-watermelon-effect/
@@ -9,7 +9,7 @@ publish: true
 tags: 
   - metrics
 --- 
-# **Are Your Metrics Hiding the Truth?**
+
 
 The watermelon effect in IT refers to situations where metrics appear green (positive) on the outside but are red (negative) on the inside. This can lead to a false sense of security and overlook underlying issues. Addressing this requires a combination of transparent metrics, honest culture, and actionable insights.
 

@@ -4,25 +4,17 @@
     <title>Chaos Engineering on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/chaos-engineering/</link>
     <description>Recent content in Chaos Engineering on Marcus Vechiato</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/chaos-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.vechiato.cc/tags/chaos-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Insights from Chaos Engineering: System Resiliency in Practice</title>
       <link>https://blog.vechiato.cc/post/book-chaos-engineering/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-chaos-engineering/</guid>
-      <description>
-        
-          
-            &lt;p&gt;I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency. This book delves into the principles and practices of Chaos Engineering, a methodology designed to improve system reliability by intentionally introducing failures. I chose this book to understand how we can better prepare for the unexpected and ensure our systems can withstand and recover from disruptions.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;p&gt;I remember multiple occasions when systems were not down but badly impacted during major events. The scramble to restore service and the subsequent post-mortem meeting highlighted our lack of preparedness for unexpected system failures. The book begins with the history of Chaos Engineering, originating from Netflix. Rosenthal and Jones describe the transition from datacenter architecture to cloud infrastructure, highlighting challenges and the necessity of Chaos Engineering for improving system resiliency. This book delves into the principles and practices of Chaos Engineering, a methodology designed to improve system reliability by intentionally introducing failures. I chose this book to understand how we can better prepare for the unexpected and ensure our systems can withstand and recover from disruptions.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

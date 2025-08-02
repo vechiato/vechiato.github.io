@@ -12,7 +12,7 @@ tags:
 --- 
 
 
-# 🔧 Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?
+
 
 When it comes to service reliability, maintenance windows can be a gray area. Whether you're tracking uptime, setting SLOs, or managing customer expectations through SLAs, the question often comes up:
 

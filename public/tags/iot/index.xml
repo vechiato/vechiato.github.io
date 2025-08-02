@@ -4,132 +4,24 @@
     <title>Iot on Marcus Vechiato</title>
     <link>https://blog.vechiato.cc/tags/iot/</link>
     <description>Recent content in Iot on Marcus Vechiato</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.vechiato.cc/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.vechiato.cc/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Code Club - Quiz Controlled LEDs</title>
+      <title>Code Club - Quiz Controlled LEDs with Raspberry Pi</title>
       <link>https://blog.vechiato.cc/post/code-club---quiz-controlled-leds-with-raspberry-pi/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/code-club---quiz-controlled-leds-with-raspberry-pi/</guid>
-      <description>
-        
-          
-            &lt;h1 id=&#34;quiz-controlled-leds-with-raspberry-pi&#34;&gt;&lt;strong&gt;Quiz Controlled LEDs with Raspberry Pi&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Here&#39;s a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.&lt;/p&gt;
-&lt;h2 id=&#34;objective&#34;&gt;&lt;strong&gt;Objective:&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Create a Python-based LED game where players answer questions. Correct answers turn on a green LED, while wrong answers flash a red LED multiple times.&lt;/p&gt;
-&lt;h2 id=&#34;image&#34;&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/code_club_thumb.jpeg&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/h2&gt;
-&lt;h2 id=&#34;requirements&#34;&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;hardware&#34;&gt;&lt;strong&gt;Hardware:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Raspberry Pi (with GPIO capabilities)&lt;/li&gt;
-&lt;li&gt;1 green LED for correct answers&lt;/li&gt;
-&lt;li&gt;1 red LED for incorrect answers&lt;/li&gt;
-&lt;li&gt;2 330Ω resistors&lt;/li&gt;
-&lt;li&gt;Breadboard and jumper wires&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;python-concepts&#34;&gt;&lt;strong&gt;Python Concepts:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;if&lt;/code&gt;/&lt;code&gt;else&lt;/code&gt; statements&lt;/li&gt;
-&lt;li&gt;Loops&lt;/li&gt;
-&lt;li&gt;Functions&lt;/li&gt;
-&lt;li&gt;Basic GPIO control&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;challenge-overview&#34;&gt;&lt;strong&gt;Challenge Overview:&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;game-rules&#34;&gt;Game Rules:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;The game asks 5 multiple-choice questions.&lt;/li&gt;
-&lt;li&gt;Players respond by entering the correct letter (e.g., A, B, C).
-If the answer is correct:
-The green LED lights up for 1 second.
-The player gets a congratulatory message.
-If the answer is incorrect:
-The red LED flashes 3 times.
-A message tells the player the correct answer.
-The game ends with a score summary.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;steps&#34;&gt;&lt;strong&gt;Steps:&lt;/strong&gt;&lt;/h3&gt;
-&lt;h4 id=&#34;1-setup-the-leds&#34;&gt;1. &lt;strong&gt;Setup the LEDs&lt;/strong&gt;:&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Connect the LEDs to two GPIO pins (e.g., GPIO17 and GPIO18).&lt;/li&gt;
-&lt;li&gt;Use resistors to protect the LEDs.&lt;/li&gt;
-&lt;li&gt;Connect the cathode (short leg) of each LED to the ground (negative -).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;figure&gt;
-  &lt;picture&gt;
-
-    
-      
-        
-        
-        
-        
-        
-        
-    &lt;img
-      loading=&#34;lazy&#34;
-      decoding=&#34;async&#34;
-      alt=&#34;image&#34;
-      
-        class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://blog.vechiato.cc/obsidian/ledquiz_boardbred.png&#34;
-      
-      
-    /&gt;
-
-    &lt;/picture&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;p&gt;Here&#39;s a challenge design for someone learning Python with a Raspberry Pi that incorporates asking questions and controlling LEDs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;objective&#34;&gt;&lt;strong&gt;Objective:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Create a Python-based LED game where players answer questions. Correct answers turn on a green LED, while wrong answers flash a red LED multiple times.&lt;/p&gt;&#xA;&lt;h2 id=&#34;image&#34;&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/code_club_thumb.jpeg&#34; alt=&#34;image&#34;&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;requirements&#34;&gt;&lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;hardware&#34;&gt;&lt;strong&gt;Hardware:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Raspberry Pi (with GPIO capabilities)&lt;/li&gt;&#xA;&lt;li&gt;1 green LED for correct answers&lt;/li&gt;&#xA;&lt;li&gt;1 red LED for incorrect answers&lt;/li&gt;&#xA;&lt;li&gt;2 330Ω resistors&lt;/li&gt;&#xA;&lt;li&gt;Breadboard and jumper wires&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;python-concepts&#34;&gt;&lt;strong&gt;Python Concepts:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;if&lt;/code&gt;/&lt;code&gt;else&lt;/code&gt; statements&lt;/li&gt;&#xA;&lt;li&gt;Loops&lt;/li&gt;&#xA;&lt;li&gt;Functions&lt;/li&gt;&#xA;&lt;li&gt;Basic GPIO control&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;challenge-overview&#34;&gt;&lt;strong&gt;Challenge Overview:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;game-rules&#34;&gt;Game Rules:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The game asks 5 multiple-choice questions.&lt;/li&gt;&#xA;&lt;li&gt;Players respond by entering the correct letter (e.g., A, B, C).&#xA;If the answer is correct:&#xA;The green LED lights up for 1 second.&#xA;The player gets a congratulatory message.&#xA;If the answer is incorrect:&#xA;The red LED flashes 3 times.&#xA;A message tells the player the correct answer.&#xA;The game ends with a score summary.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;steps&#34;&gt;&lt;strong&gt;Steps:&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;1-setup-the-leds&#34;&gt;1. &lt;strong&gt;Setup the LEDs&lt;/strong&gt;:&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Connect the LEDs to two GPIO pins (e.g., GPIO17 and GPIO18).&lt;/li&gt;&#xA;&lt;li&gt;Use resistors to protect the LEDs.&lt;/li&gt;&#xA;&lt;li&gt;Connect the cathode (short leg) of each LED to the ground (negative -).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://blog.vechiato.cc/obsidian/ledquiz_boardbred.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Insights from 20 Easy Raspberry Pi Projects</title>
       <link>https://blog.vechiato.cc/post/book-20-easy-raspberry-pi-projects/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://blog.vechiato.cc/post/book-20-easy-raspberry-pi-projects/</guid>
-      <description>
-        
-          
-            &lt;p&gt;When I first discovered the Raspberry Pi, its versatility felt like a door to endless possibilities. &lt;em&gt;20 Easy Raspberry Pi Projects&lt;/em&gt; by Rui and Sara Santos exemplifies this sentiment by transforming this tiny computer into a toolkit for creativity. The book is packed with practical and entertaining projects, each designed to enhance your programming and electronics skills.&lt;/p&gt;
-&lt;p&gt;I chose this book to explore ways to improve IoT experiments and to inspire ideas for the code club and my son. Whether you’re new to electronics or an experienced maker, the projects in this book will leave you brimming with ideas. Here&#39;s an in-depth look at each project.&lt;/p&gt;
-          
-          
-        
-      </description>
+      <description>&lt;p&gt;When I first discovered the Raspberry Pi, its versatility felt like a door to endless possibilities. &lt;em&gt;20 Easy Raspberry Pi Projects&lt;/em&gt; by Rui and Sara Santos exemplifies this sentiment by transforming this tiny computer into a toolkit for creativity. The book is packed with practical and entertaining projects, each designed to enhance your programming and electronics skills.&lt;/p&gt;&#xA;&lt;p&gt;I chose this book to explore ways to improve IoT experiments and to inspire ideas for the code club and my son. Whether you’re new to electronics or an experienced maker, the projects in this book will leave you brimming with ideas. Here&#39;s an in-depth look at each project.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

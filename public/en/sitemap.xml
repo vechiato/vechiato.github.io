@@ -57,7 +57,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://blog.vechiato.cc/tags/code-club/</loc>
+    <loc>https://blog.vechiato.cc/tags/club/</loc>
+    <lastmod>2025-05-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/code/</loc>
     <lastmod>2025-05-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -189,6 +194,11 @@
   </url><url>
     <loc>https://blog.vechiato.cc/post/mastering-google-search/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://blog.vechiato.cc/tags/code-club/</loc>
+    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
