@@ -11,37 +11,26 @@ tags:
   - error budget
 --- 
 
+When it comes to service reliability, maintenance windows are a frequent source of ambiguity. Whether you’re defining uptime, setting SLOs, or communicating with customers, it’s essential to be explicit about how scheduled (and unscheduled) maintenance is handled. Here’s a deeper dive with actionable recommendations for SREs, engineering managers, and anyone responsible for reliability targets.
 
-
-
-When it comes to service reliability, maintenance windows can be a gray area. Whether you're tracking uptime, setting SLOs, or managing customer expectations through SLAs, the question often comes up:
-
-> _“Should scheduled maintenance count against our SLA? What about our error budget or availability metrics?”_
-
-Let’s unpack how scheduled (and unscheduled) maintenance affects your SLAs, error budgets, and availability calculations   and what best practices look like.
 
 ![image](/obsidian/effective-sre-scope.png)
 
 ---
 
-### 📜 SLA: Do Maintenance Windows Count?
+### **SLA: Do Maintenance Windows Count?**
 
 **Service Level Agreements (SLAs)** are typically **contractual commitments** made to customers, promising a certain level of service availability (e.g., 99.9% uptime).
 
-#### ✅ **Planned Maintenance Is Usually Excluded**
+#### **Planned Maintenance Is Usually Excluded**
 
-Most SLAs **exclude scheduled and communicated maintenance windows** from downtime calculations. That means if:
+Most SLAs **exclude scheduled and properly communicated maintenance windows** from downtime calculations, provided:
 
-- Maintenance was planned,
-    
-- Properly communicated in advance (often 24–72 hours), and
-    
-- Done within agreed-upon time windows (e.g., off-peak hours),
-    
+- Maintenance is planned and communicated well in advance (typically 24–72 hours)
+- It occurs within agreed windows (often off-peak)
+- The duration and impact are within expectations
 
-…it usually does **not count against the SLA**.
-
-#### ❌ Unscheduled or Overrun Maintenance May Count
+#### **Unscheduled or Overrun Maintenance May Count**
 
 However, if:
 
@@ -56,59 +45,69 @@ However, if:
 
 ---
 
-### 🎯 Error Budgets: Are They Affected by Maintenance?
+### **Error Budgets: Are They Affected by Maintenance?**
 
 **Error budgets** represent the amount of failure or unreliability tolerated over a period, based on an **SLO** (Service Level Objective). If your SLO is 99.9% uptime per month, your error budget is about **43.2 minutes** of allowed downtime.
 
-#### 🚫 **Planned Maintenance Usually Doesn’t Burn Budget**
+#### **Planned, Non-Disruptive Maintenance Usually Doesn’t Burn Budget**
 
-If maintenance is pre-approved and doesn't disrupt users, it’s typically excluded from the error budget  especially in SRE frameworks that prioritize **user-perceived reliability**.
+If maintenance is pre-approved and has minimal user impact, many SRE frameworks **exclude it from error budgets**, especially when focusing on user-perceived reliability.
 
-#### ✅ **User-Impacting Events Do Burn Budget**
+#### **User-Impacting Events Do Burn Budget**
 
-If users are affected   even during scheduled maintenance   some orgs choose to count it against the error budget. The key question is:
+If users are affected, even during scheduled maintenance some orgs choose to count it against the error budget. The key question is:
 
 > _“Would a user notice or be blocked?”_
 
-If yes, it probably burns error budget. If no, it likely doesn't.
+If yes, its likely burns error budget. 
 
 ---
+### **Multi-Region & Modern Deployments**
 
-### 📈 Availability: Does Maintenance Affect It?
+For rolling upgrades or blue/green deployments, consider whether each region’s window is counted separately and how partial availability is measured. Explicitly document these scenarios in your SLO/SLA definitions.
+### **Availability Metrics: Does Maintenance Affect them?**
 
-**Availability** is the actual **measured uptime** of your service over a specific period   typically expressed as a percentage like 99.95%.
-
+**Availability** is typically measured as the percentage of time a service is operational.
 Whether maintenance counts against it depends on **how you define availability** in your metrics.
 
 #### 🔸 **User-Facing Availability**
 
-If your availability metric reflects **user impact**, planned maintenance that’s properly communicated is **often excluded**.
+If your metric reflects **user impact**, planned and well-communicated maintenance is **often excluded**.
 
 #### 🔹 **System-Level (Strict) Availability**
 
-If you're measuring raw service uptime (e.g., pings, monitoring checks), all downtime   including planned maintenance   **might be included**.
+If you're measuring raw service uptime (e.g., via monitoring checks), all downtime, including planned maintenance, **may be included**.
+
+#### Example
+
+If you perform a rolling restart across three regions, document whether each region’s window is counted separately or if global user impact is the metric.
+
+### **Best Practices**
+
+- **Define Everything Explicitly:** Document how maintenance is handled in SLAs, SLOs, error budgets, and availability metrics. Include examples and edge cases.
+- **Reference Industry Standards:** Align with frameworks like Google SRE, ITIL, or major cloud provider SLAs for benchmarks.
+- **Communicate Proactively:** Notify all stakeholders (internal and external) well in advance. For regulated industries, follow compliance requirements.
+- **Focus on User Impact:** Base decisions on real user experience, not just system status.
+- **Align Across Teams:** Ensure engineering, product, and legal are on the same page.
+- **Review Regularly:** Revisit definitions and practices as your architecture or business needs evolve.
 
 ---
 
-### 📌 Summary Table
+### **Summary Table**
 
-| Maintenance Type           | Counts Toward SLA? | Burns Error Budget? | Affects Availability? |
-| -------------------------- | ------------------ | ------------------- | --------------------- |
-| **Planned & Communicated** | ❌ Usually Not      | ❌ Usually Not       | ❌ If defined that way |
-| **Unplanned or Overrun**   | ✅ Yes              | ✅ Yes               | ✅ Yes                 |
-| **Poorly Communicated**    | ✅ Yes              | ✅ Yes               | ✅ Yes                 |
+|   |   |   |   |   |
+|---|---|---|---|---|
+|Maintenance Type|Counts Toward SLA?|Burns Error Budget?|Affects Availability?|Notes/Examples|
+|Planned & Communicated|❌ Usually Not|❌ Usually Not|❌* If defined that way|Exclude if no user impact, per contract|
+|Unplanned/Overrun|✅ Yes|✅ Yes|✅ Yes|Count as downtime, triggers credits/penalties|
+|Poorly Communicated|✅ Yes|✅ Yes|✅ Yes|Treat as unplanned|
+|Rolling Upgrades|❓ Varies|❓ Varies|❓ Varies|Define per region/global, document explicitly|
+|Regulatory Maintenance|❓ Check contract|❓ Check contract|❓ Check contract|May require notification, reporting, approvals|
 
 ---
 
-### 🧠 Best Practices
+### **Final Thoughts**
 
-- 📑 **Define everything explicitly**: Make sure SLAs, SLOs, and availability metrics clearly state how maintenance is handled.
-    
-- 📣 **Communicate proactively**: Proper notification is key to excluding maintenance from SLAs and error budgets.
-    
-- 🎯 **Focus on user impact**: Base decisions on whether users are affected, not just whether systems are up or down.
-    
-- 🤝 **Align across teams**: Ensure engineering, product, and legal are aligned on how you track and report service health.
-    
+Explicit documentation and proactive communication are your best tools for avoiding disputes and ensuring everyone, from engineers to customers, has the same expectations. As systems and contracts grow more complex, revisit these definitions regularly and benchmark against industry standards.
 
 
