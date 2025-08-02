@@ -1,6 +1,6 @@
 ---
 author: "Marcus Vechiato"
-title: "Do SLAs, Error Budgets, and Availability Metrics Include Maintenance Windows?"
+title: "SLA, Error Budget, Uptime: Where Do Maintenance Windows Fit?"
 date: "2025-04-14"
 thumbnail: "/obsidian/effective-sre-scope.png"
 publish: true
@@ -62,7 +62,7 @@ However, if:
 
 #### 🚫 **Planned Maintenance Usually Doesn’t Burn Budget**
 
-If maintenance is pre-approved and doesn't disrupt users, it’s typically excluded from the error budget   especially in SRE frameworks that prioritize **user-perceived reliability**.
+If maintenance is pre-approved and doesn't disrupt users, it’s typically excluded from the error budget  especially in SRE frameworks that prioritize **user-perceived reliability**.
 
 #### ✅ **User-Impacting Events Do Burn Budget**
 
@@ -92,11 +92,11 @@ If you're measuring raw service uptime (e.g., pings, monitoring checks), all dow
 
 ### 📌 Summary Table
 
-|Maintenance Type|Counts Toward SLA?|Burns Error Budget?|Affects Availability?|
-|---|---|---|---|
-|**Planned & Communicated**|❌ Usually Not|❌ Usually Not|❌* If defined that way|
-|**Unplanned or Overrun**|✅ Yes|✅ Yes|✅ Yes|
-|**Poorly Communicated**|✅ Yes|✅ Yes|✅ Yes|
+| Maintenance Type           | Counts Toward SLA? | Burns Error Budget? | Affects Availability? |
+| -------------------------- | ------------------ | ------------------- | --------------------- |
+| **Planned & Communicated** | ❌ Usually Not      | ❌ Usually Not       | ❌ If defined that way |
+| **Unplanned or Overrun**   | ✅ Yes              | ✅ Yes               | ✅ Yes                 |
+| **Poorly Communicated**    | ✅ Yes              | ✅ Yes               | ✅ Yes                 |
 
 ---
 
